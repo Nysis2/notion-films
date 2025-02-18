@@ -21,7 +21,14 @@ jobs:
       - name: Installer les dépendances
         run: pip install requests python-dotenv
 
-      - name: Exécuter le script
+      - name: Exécuter le script fetch_movies.py (récupération des films)
+        env:
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python fetch_movies.py
+
+      - name: Exécuter le script notion_movies.py (mise à jour de la DB Notion)
         env:
           NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
           NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
