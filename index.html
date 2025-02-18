@@ -62,11 +62,11 @@
             card.classList.add("card");
 
             card.innerHTML = `
-                        <img src="url(${movie.poster})" alt="${movie.title}">
-                        <h3>${movie.title}</h3>
-                        <p>⭐ ${movie.rating} | 🎭 ${movie.genre}</p>
-                        <a href="${movie.trailer}" target="_blank">Voir la bande-annonce</a>
-                    `;
+                  <img src="${movie.poster}" alt="${movie.title}">
+                  <h3>${movie.title}</h3>
+                  <p>⭐ ${movie.rating} | 🎭 ${movie.genre}</p>
+                  <a href="${movie.trailer}" target="_blank">Voir la bande-annonce</a>
+              `;
             container.appendChild(card);
           });
         });
