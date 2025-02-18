@@ -56,17 +56,23 @@
       fetch("movies.json")
         .then((response) => response.json())
         .then((movies) => {
+          console.log("Films chargés :", movies); // 🔍 Vérification des données
           const container = document.getElementById("movies");
           movies.forEach((movie) => {
             const card = document.createElement("div");
             card.classList.add("card");
 
+            // Arrondir le rating à un chiffre après la virgule
+            const roundedRating = movie.rating
+              ? movie.rating.toFixed(1)
+              : "N/A";
+
             card.innerHTML = `
-                  <img src="${movie.poster}" alt="${movie.title}">
-                  <h3>${movie.title}</h3>
-                  <p>⭐ ${movie.rating} | 🎭 ${movie.genre}</p>
-                  <a href="${movie.trailer}" target="_blank">Voir la bande-annonce</a>
-              `;
+                <img src="${movie.poster}" alt="${movie.title}" onerror="this.src='https://via.placeholder.com/250x350?text=Image+non+disponible';">
+                <h3>${movie.title}</h3>
+                <p>⭐ ${roundedRating} | 🎭 ${movie.genre}</p>
+                <a href="${movie.trailer}" target="_blank">Voir la bande-annonce</a>
+            `;
             container.appendChild(card);
           });
         });
