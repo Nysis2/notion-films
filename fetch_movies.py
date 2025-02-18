@@ -30,15 +30,17 @@ def get_movies_from_notion():
             genre = entry["properties"]["Genre"]["rich_text"][0]["text"]["content"]
 
             # 🖼 Vérifier le type du champ Poster
-            if "url" in entry["properties"]["Poster"]:  
-                poster = entry["properties"]["Poster"]["url"]  # Format URL direct
-            elif "files" in entry["properties"]["Poster"] and entry["properties"]["Poster"]["files"]:
-                poster = entry["properties"]["Poster"]["files"][0]["file"]["url"]  # Format fichier Notion
+            if "Poster" in entry["properties"] and "rich_text" in entry["properties"]["Poster"]:
+                poster_text = entry["properties"]["Poster"]["rich_text"]
+                if poster_text:
+                    poster = poster_text[0]["text"]["content"]  # ✅ Récupérer l'URL
+                else:
+                    poster = "https://via.placeholder.com/250x350?text=No+Image"
             else:
-                poster = "https://via.placeholder.com/250x350?text=No+Image"  # Image par défaut
+                poster = "https://via.placeholder.com/250x350?text=No+Image"
 
             # 🔗 Vérifier le champ Trailer
-            if "url" in entry["properties"]["Trailer"]:
+            if "Trailer" in entry["properties"] and "url" in entry["properties"]["Trailer"]:
                 trailer = entry["properties"]["Trailer"]["url"]
             else:
                 trailer = None
@@ -55,7 +57,6 @@ def get_movies_from_notion():
     else:
         print("Erreur API Notion :", response.json())
         return []
-
 
 # 🔹 Sauvegarde des données en JSON
 movies = get_movies_from_notion()
