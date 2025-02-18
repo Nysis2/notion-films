@@ -21,16 +21,34 @@ jobs:
       - name: Installer les dépendances
         run: pip install requests python-dotenv
 
-      - name: Exécuter le script fetch_movies.py (récupération des films)
-        env:
-          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
-          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
-          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-        run: python fetch_movies.py
-
       - name: Exécuter le script notion_movies.py (mise à jour de la DB Notion)
         env:
           NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
           NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: python notion_movies.py
+
+      - name: Exécuter le script fetch_movies.py (récupération des films depuis la DB Notion)
+        env:
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python fetch_movies.py
+
+      - name: Vérifier si des modifications ont été faites
+        run: |
+          git status
+          if [[ -n $(git status --porcelain movies.json) ]]; then
+            echo "CHANGES_DETECTED=true" >> $GITHUB_ENV
+          else
+            echo "CHANGES_DETECTED=false" >> $GITHUB_ENV
+          fi
+
+      - name: Commit et push si movies.json a changé
+        if: env.CHANGES_DETECTED == 'true'
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add movies.json
+          git commit -m "Mise à jour automatique de movies.json"
+          git push origin main
