@@ -1,0 +1,142 @@
+[
+    {
+        "title": "Detective Chinatown 1900",
+        "rating": 5.8,
+        "genre": "Comédie / Mystère / Action",
+        "poster": "https://via.placeholder.com/250x350?text=No+Image",
+        "trailer": "https://www.youtube.com/watch?v=7M9uRxxBkU8"
+    },
+    {
+        "title": "Sing Sing",
+        "rating": 7.5,
+        "genre": "Drame",
+        "poster": "https://via.placeholder.com/250x350?text=No+Image",
+        "trailer": "https://www.youtube.com/watch?v=j3dXc6P3zH8"
+    },
+    {
+        "title": "Maria",
+        "rating": 6.6,
+        "genre": "Drame / Musique",
+        "poster": "https://via.placeholder.com/250x350?text=No+Image",
+        "trailer": "https://www.youtube.com/watch?v=5x8DpKkkUno"
+    },
+    {
+        "title": "Un Parfait Inconnu",
+        "rating": 7.3,
+        "genre": "Drame / Musique",
+        "poster": "https://via.placeholder.com/250x350?text=No+Image",
+        "trailer": "https://www.youtube.com/watch?v=ob4SHtT6cC0"
+    },
+    {
+        "title": "5 Septembre",
+        "rating": 6.9,
+        "genre": "Thriller / Drame / Histoire",
+        "poster": "https://via.placeholder.com/250x350?text=No+Image",
+        "trailer": "https://www.youtube.com/watch?v=Azud40CQ3IE"
+    },
+    {
+        "title": "Je suis toujours là",
+        "rating": 7.848,
+        "genre": "Drame / Histoire",
+        "poster": "https://via.placeholder.com/250x350?text=No+Image",
+        "trailer": "https://www.youtube.com/watch?v=gDunV808Yf4"
+    },
+    {
+        "title": "La Chambre d’à côté",
+        "rating": 6.81,
+        "genre": "Drame",
+        "poster": "https://via.placeholder.com/250x350?text=No+Image",
+        "trailer": "https://www.youtube.com/watch?v=lcp__Vek4gQ"
+    },
+    {
+        "title": "Young Hearts",
+        "rating": 8.411,
+        "genre": "Drame / Romance",
+        "poster": "https://via.placeholder.com/250x350?text=No+Image",
+        "trailer": "https://www.youtube.com/watch?v=--4NOr0NFh4"
+    },
+    {
+        "title": "The Monkey",
+        "rating": 7.25,
+        "genre": "Horreur / Comédie",
+        "poster": "https://via.placeholder.com/250x350?text=No+Image",
+        "trailer": "https://www.youtube.com/watch?v=husMGbXEIho"
+    },
+    {
+        "title": "Companion",
+        "rating": 7.1,
+        "genre": "Horreur / Science-fiction / Thriller",
+        "poster": "https://via.placeholder.com/250x350?text=No+Image",
+        "trailer": "https://www.youtube.com/watch?v=Qr_kX0D3DNA"
+    },
+    {
+        "title": "Criminal Squad : Pantera",
+        "rating": 6.6,
+        "genre": "Action / Crime / Thriller",
+        "poster": "https://via.placeholder.com/250x350?text=No+Image",
+        "trailer": "https://www.youtube.com/watch?v=rzCNYieVIQU"
+    },
+    {
+        "title": "The Brutalist",
+        "rating": 7.025,
+        "genre": "Drame",
+        "poster": "https://via.placeholder.com/250x350?text=No+Image",
+        "trailer": "https://www.youtube.com/watch?v=GdRXPAHIEW4"
+    },
+    {
+        "title": "Paddington au Pérou",
+        "rating": 7,
+        "genre": "Famille / Aventure / Comédie",
+        "poster": "https://via.placeholder.com/250x350?text=No+Image",
+        "trailer": "https://www.youtube.com/watch?v=xAVaoYfOCrU"
+    },
+    {
+        "title": "Babygirl",
+        "rating": 5.7,
+        "genre": "Drame",
+        "poster": "https://via.placeholder.com/250x350?text=No+Image",
+        "trailer": "https://www.youtube.com/watch?v=9XXoNB0lVGo"
+    },
+    {
+        "title": "Vol à haut risque",
+        "rating": 5.8,
+        "genre": "Action / Thriller / Crime",
+        "poster": "https://via.placeholder.com/250x350?text=No+Image",
+        "trailer": "https://www.youtube.com/watch?v=Cml3CFDBj2s"
+    },
+    {
+        "title": "Better Man",
+        "rating": 7.5,
+        "genre": "Musique / Drame",
+        "poster": "https://via.placeholder.com/250x350?text=No+Image",
+        "trailer": "https://www.youtube.com/watch?v=KVeH5T4wxkE"
+    },
+    {
+        "title": "Mémoires d’un escargot",
+        "rating": 7.7,
+        "genre": "Animation / Drame / Comédie",
+        "poster": "https://via.placeholder.com/250x350?text=No+Image",
+        "trailer": "https://www.youtube.com/watch?v=q47QUYb0hjc"
+    },
+    {
+        "title": "Bridget Jones : Folle de lui",
+        "rating": 6.8,
+        "genre": "Comédie / Drame / Romance",
+        "poster": "https://via.placeholder.com/250x350?text=No+Image",
+        "trailer": "https://www.youtube.com/watch?v=7sSNobjiep4"
+    },
+    {
+        "title": "Wolf Man",
+        "rating": 6.5,
+        "genre": "Horreur / Thriller",
+        "poster": "https://via.placeholder.com/250x350?text=No+Image",
+        "trailer": "https://www.youtube.com/watch?v=kAw4PH2IQgo"
+    },
+    {
+        "title": "Captain America : Brave New World",
+        "rating": 6.223,
+        "genre": "Action / Thriller / Science-fiction",
+        "poster": "https://via.placeholder.com/250x350?text=No+Image",
+        "trailer": "https://www.youtube.com/watch?v=5PSzFLV-EyQ"
+    }
+]
