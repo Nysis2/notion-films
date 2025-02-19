@@ -22,21 +22,21 @@
     },
     {
         "title": "Un Parfait Inconnu",
-        "rating": 7.3,
+        "rating": 7.255,
         "genre": "Drame / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/zN0SOrHKLWDOg2UuGmVA7ZKtLne.jpg",
         "trailer": "https://www.youtube.com/watch?v=ob4SHtT6cC0"
     },
     {
         "title": "5 Septembre",
-        "rating": 6.9,
+        "rating": 7,
         "genre": "Thriller / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/j2lft7UvyA0FYnbf9v07dtm0CrE.jpg",
         "trailer": "https://www.youtube.com/watch?v=Azud40CQ3IE"
     },
     {
         "title": "Je suis toujours là",
-        "rating": 7.848,
+        "rating": 7.8,
         "genre": "Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/ufDNtvHWIEFazzXGXL0YSNsmjRw.jpg",
         "trailer": "https://www.youtube.com/watch?v=gDunV808Yf4"
@@ -50,14 +50,14 @@
     },
     {
         "title": "Young Hearts",
-        "rating": 8.411,
+        "rating": 8.4,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/xsApLXxqTG5uorAZRF0kJi0oXfR.jpg",
         "trailer": "https://www.youtube.com/watch?v=--4NOr0NFh4"
     },
     {
         "title": "The Monkey",
-        "rating": 7.25,
+        "rating": 7.2,
         "genre": "Horreur / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/3Ps2oG3dGtQxtn3Q6bCktex1jSf.jpg",
         "trailer": "https://www.youtube.com/watch?v=husMGbXEIho"
@@ -78,7 +78,7 @@
     },
     {
         "title": "The Brutalist",
-        "rating": 7.025,
+        "rating": 7.04,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/gBZpseuIAVsntmteWEnJjdtI9Yx.jpg",
         "trailer": "https://www.youtube.com/watch?v=GdRXPAHIEW4"
@@ -92,14 +92,14 @@
     },
     {
         "title": "Babygirl",
-        "rating": 5.7,
+        "rating": 5.748,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/65IRJGQCxDby51Je1mChGBjgKfK.jpg",
         "trailer": "https://www.youtube.com/watch?v=9XXoNB0lVGo"
     },
     {
         "title": "Vol à haut risque",
-        "rating": 5.8,
+        "rating": 5.765,
         "genre": "Action / Thriller / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/za4fENHuX9SDv0qpFjP6EquJeHS.jpg",
         "trailer": "https://www.youtube.com/watch?v=Cml3CFDBj2s"
@@ -113,7 +113,7 @@
     },
     {
         "title": "Mémoires d’un escargot",
-        "rating": 7.7,
+        "rating": 7.6,
         "genre": "Animation / Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/h7yY9BmOWKnZW45Fg125K4W403R.jpg",
         "trailer": "https://www.youtube.com/watch?v=q47QUYb0hjc"
@@ -134,7 +134,7 @@
     },
     {
         "title": "Captain America : Brave New World",
-        "rating": 6.223,
+        "rating": 6.2,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/wDRXmiAEJdhNIcuetM4016fOCx8.jpg",
         "trailer": "https://www.youtube.com/watch?v=5PSzFLV-EyQ"
