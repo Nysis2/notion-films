@@ -15,14 +15,14 @@
     },
     {
         "title": "Maria",
-        "rating": 6.5,
+        "rating": 6.533,
         "genre": "Drame / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/nbWDRfRbPC5SY3BOiw1HsEf08LR.jpg",
         "trailer": "https://www.youtube.com/watch?v=5x8DpKkkUno"
     },
     {
         "title": "Un Parfait Inconnu",
-        "rating": 7.3,
+        "rating": 7.252,
         "genre": "Drame / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/zN0SOrHKLWDOg2UuGmVA7ZKtLne.jpg",
         "trailer": "https://www.youtube.com/watch?v=ob4SHtT6cC0"
@@ -64,7 +64,7 @@
     },
     {
         "title": "Companion",
-        "rating": 7.015,
+        "rating": 7,
         "genre": "Horreur / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/8thQOOO6fMSajTwbD4lba6gusXY.jpg",
         "trailer": "https://www.youtube.com/watch?v=Qr_kX0D3DNA"
@@ -78,63 +78,63 @@
     },
     {
         "title": "The Brutalist",
-        "rating": 7.014,
+        "rating": 7,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/gBZpseuIAVsntmteWEnJjdtI9Yx.jpg",
         "trailer": "https://www.youtube.com/watch?v=GdRXPAHIEW4"
     },
     {
         "title": "Paddington au Pérou",
-        "rating": 6.852,
+        "rating": 6.8,
         "genre": "Famille / Aventure / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/Q2e1sXd3M7F3nfrpZIXy9zQ2vL.jpg",
         "trailer": "https://www.youtube.com/watch?v=xAVaoYfOCrU"
     },
     {
         "title": "Babygirl",
-        "rating": 5.7,
+        "rating": 5.766,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/65IRJGQCxDby51Je1mChGBjgKfK.jpg",
         "trailer": "https://www.youtube.com/watch?v=9XXoNB0lVGo"
     },
     {
         "title": "Vol à haut risque",
-        "rating": 5.808,
+        "rating": 5.8,
         "genre": "Action / Thriller / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/za4fENHuX9SDv0qpFjP6EquJeHS.jpg",
         "trailer": "https://www.youtube.com/watch?v=Cml3CFDBj2s"
     },
     {
         "title": "Better Man",
-        "rating": 7.552,
+        "rating": 7.577,
         "genre": "Musique / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/slEGDV2thDJwAYOGrfTEhy1AWl6.jpg",
         "trailer": "https://www.youtube.com/watch?v=KVeH5T4wxkE"
     },
     {
         "title": "Mémoires d’un escargot",
-        "rating": 7.6,
+        "rating": 7.658,
         "genre": "Animation / Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/h7yY9BmOWKnZW45Fg125K4W403R.jpg",
         "trailer": "https://www.youtube.com/watch?v=q47QUYb0hjc"
     },
     {
         "title": "Bridget Jones : Folle de lui",
-        "rating": 6.765,
+        "rating": 6.699,
         "genre": "Comédie / Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/17skglkX7rRDayZyFW1YotbUk5H.jpg",
         "trailer": "https://www.youtube.com/watch?v=7sSNobjiep4"
     },
     {
         "title": "Wolf Man",
-        "rating": 6.54,
+        "rating": 6.6,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/gtbPZdsBFG5N8EoobxhDDwzV2Qi.jpg",
         "trailer": "https://www.youtube.com/watch?v=kAw4PH2IQgo"
     },
     {
         "title": "Captain America : Brave New World",
-        "rating": 6.168,
+        "rating": 6.172,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/wDRXmiAEJdhNIcuetM4016fOCx8.jpg",
         "trailer": "https://www.youtube.com/watch?v=5PSzFLV-EyQ"
