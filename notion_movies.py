@@ -107,10 +107,10 @@ def add_movie_to_notion(movie):
         "parent": {"database_id": NOTION_DATABASE_ID},
         "properties": {
             "Title": {"title": [{"text": {"content": movie["title"]}}]},
-            "Release Date": {"date": {"start": movie["release_date"]}},
+            "Release Date": {"rich_text": [{"text": {"content": movie["release_date"]}}]},
             "Rating": {"number": movie["vote_average"]},
             "Genre": {"rich_text": [{"text": {"content": " / ".join(get_genres(movie["genre_ids"]))}}]},
-            "Poster": {"url": f"https://image.tmdb.org/t/p/w500{movie['poster_path']}"},
+            "Poster": {"rich_text": [{"text": {"content": f'https://image.tmdb.org/t/p/w500{movie["poster_path"]}'}}]},
             "Trailer": {"url": trailer_url} if trailer_url else {"rich_text": [{"text": {"content": "Aucune bande-annonce disponible"}}]}
         }
     }
