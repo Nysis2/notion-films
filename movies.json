@@ -1,21 +1,21 @@
 [
     {
         "title": "Daffy et Porky sauvent le monde",
-        "rating": 7.7,
+        "rating": 7.8,
         "genre": "Animation / Comédie / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/7l2gWBdUvzAAipZ7UgaHKRKXAQm.jpg",
         "trailer": "https://www.youtube.com/watch?v=BtHUWHXfDyU"
     },
     {
         "title": "Creation Of The Gods II: Demon Force",
-        "rating": 5.9,
+        "rating": 5.986,
         "genre": "Action / Fantastique / Guerre",
         "poster": "https://image.tmdb.org/t/p/w500/5bBgvH3hTxlANUsLP1ov0lEKmJp.jpg",
         "trailer": "https://www.youtube.com/watch?v=GR1LszelGoU"
     },
     {
         "title": "A Real Pain",
-        "rating": 6.8,
+        "rating": 6.842,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kVk92AZm4gJXi5aucIGikDwSRjn.jpg",
         "trailer": "https://www.youtube.com/watch?v=E_sjoa8aHpc"
@@ -29,7 +29,7 @@
     },
     {
         "title": "5 septembre",
-        "rating": 6.9,
+        "rating": 6.909,
         "genre": "Thriller / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/j2lft7UvyA0FYnbf9v07dtm0CrE.jpg",
         "trailer": "https://www.youtube.com/watch?v=Azud40CQ3IE"
@@ -71,7 +71,7 @@
     },
     {
         "title": "Je suis toujours là",
-        "rating": 7.9,
+        "rating": 7.905,
         "genre": "Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/ufDNtvHWIEFazzXGXL0YSNsmjRw.jpg",
         "trailer": "https://www.youtube.com/watch?v=gDunV808Yf4"
@@ -92,14 +92,14 @@
     },
     {
         "title": "The Monkey",
-        "rating": 6.3,
+        "rating": 6.346,
         "genre": "Horreur / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/3Ps2oG3dGtQxtn3Q6bCktex1jSf.jpg",
         "trailer": "https://www.youtube.com/watch?v=husMGbXEIho"
     },
     {
         "title": "Companion",
-        "rating": 7.045,
+        "rating": 7.051,
         "genre": "Horreur / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/8thQOOO6fMSajTwbD4lba6gusXY.jpg",
         "trailer": "https://www.youtube.com/watch?v=Qr_kX0D3DNA"
@@ -113,35 +113,35 @@
     },
     {
         "title": "The Brutalist",
-        "rating": 7,
+        "rating": 7.066,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/gBZpseuIAVsntmteWEnJjdtI9Yx.jpg",
         "trailer": "https://www.youtube.com/watch?v=GdRXPAHIEW4"
     },
     {
         "title": "Paddington au Pérou",
-        "rating": 6.9,
+        "rating": 6.848,
         "genre": "Famille / Aventure / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/Q2e1sXd3M7F3nfrpZIXy9zQ2vL.jpg",
         "trailer": "https://www.youtube.com/watch?v=xAVaoYfOCrU"
     },
     {
         "title": "Babygirl",
-        "rating": 5.8,
+        "rating": 5.769,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/65IRJGQCxDby51Je1mChGBjgKfK.jpg",
         "trailer": "https://www.youtube.com/watch?v=9XXoNB0lVGo"
     },
     {
         "title": "Vol à haut risque",
-        "rating": 5.848,
+        "rating": 5.9,
         "genre": "Action / Thriller / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/za4fENHuX9SDv0qpFjP6EquJeHS.jpg",
         "trailer": "https://www.youtube.com/watch?v=Cml3CFDBj2s"
     },
     {
         "title": "Better Man",
-        "rating": 7.589,
+        "rating": 7.578,
         "genre": "Musique / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/slEGDV2thDJwAYOGrfTEhy1AWl6.jpg",
         "trailer": "https://www.youtube.com/watch?v=KVeH5T4wxkE"
@@ -162,7 +162,7 @@
     },
     {
         "title": "Wolf Man",
-        "rating": 6.6,
+        "rating": 6.5,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/gtbPZdsBFG5N8EoobxhDDwzV2Qi.jpg",
         "trailer": "https://www.youtube.com/watch?v=kAw4PH2IQgo"
