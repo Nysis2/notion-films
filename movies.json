@@ -1,21 +1,28 @@
 [
     {
+        "title": "Compagnon",
+        "rating": 7,
+        "genre": "Science-fiction / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/3oPNS4Rgu7c2uFX3Pv89cqh5oy5.jpg",
+        "trailer": "https://www.youtube.com/watch?v=Qr_kX0D3DNA"
+    },
+    {
         "title": "Mickey 17",
-        "rating": 6,
+        "rating": 6.5,
         "genre": "Science-fiction / Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/pEUdoUwezH3TheOC86bVKq241S0.jpg",
         "trailer": "https://www.youtube.com/watch?v=IN9q_UavsHM"
     },
     {
         "title": "Le singe",
-        "rating": 6.25,
+        "rating": 6.174,
         "genre": "Horreur / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/3Ps2oG3dGtQxtn3Q6bCktex1jSf.jpg",
         "trailer": "https://www.youtube.com/watch?v=husMGbXEIho"
     },
     {
         "title": "Nickel Boys",
-        "rating": 6.431,
+        "rating": 6.4,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg",
         "trailer": "https://www.youtube.com/watch?v=8HZKgYknVN0"
@@ -43,14 +50,14 @@
     },
     {
         "title": "Queer",
-        "rating": 6.9,
+        "rating": 7,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/xe4b2TMciLKA1C0JlhWxb4ENLln.jpg",
         "trailer": "https://www.youtube.com/watch?v=3ZtwsbxryMk"
     },
     {
         "title": "5 septembre",
-        "rating": 6.933,
+        "rating": 7,
         "genre": "Thriller / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/j2lft7UvyA0FYnbf9v07dtm0CrE.jpg",
         "trailer": "https://www.youtube.com/watch?v=Azud40CQ3IE"
@@ -71,7 +78,7 @@
     },
     {
         "title": "Maria",
-        "rating": 6.543,
+        "rating": 6.547,
         "genre": "Drame / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/nbWDRfRbPC5SY3BOiw1HsEf08LR.jpg",
         "trailer": "https://www.youtube.com/watch?v=5x8DpKkkUno"
@@ -141,7 +148,7 @@
     },
     {
         "title": "Paddington au Pérou",
-        "rating": 6.9,
+        "rating": 6.832,
         "genre": "Famille / Aventure / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/Q2e1sXd3M7F3nfrpZIXy9zQ2vL.jpg",
         "trailer": "https://www.youtube.com/watch?v=xAVaoYfOCrU"
@@ -155,7 +162,7 @@
     },
     {
         "title": "Vol à haut risque",
-        "rating": 5.8,
+        "rating": 5.826,
         "genre": "Action / Thriller / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/za4fENHuX9SDv0qpFjP6EquJeHS.jpg",
         "trailer": "https://www.youtube.com/watch?v=Cml3CFDBj2s"
@@ -176,7 +183,7 @@
     },
     {
         "title": "Bridget Jones : Folle de lui",
-        "rating": 6.676,
+        "rating": 6.716,
         "genre": "Comédie / Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/17skglkX7rRDayZyFW1YotbUk5H.jpg",
         "trailer": "https://www.youtube.com/watch?v=7sSNobjiep4"
@@ -190,7 +197,7 @@
     },
     {
         "title": "Captain America : Brave New World",
-        "rating": 6.2,
+        "rating": 6.188,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/wDRXmiAEJdhNIcuetM4016fOCx8.jpg",
         "trailer": "https://www.youtube.com/watch?v=5PSzFLV-EyQ"
