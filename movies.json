@@ -1,21 +1,21 @@
 [
     {
         "title": "Presence",
-        "rating": 6.047,
+        "rating": 6.1,
         "genre": "Horreur / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/hZ8dTeBzigV5SVgwG1ikSROAFiS.jpg",
         "trailer": "https://www.youtube.com/watch?v=Ay4MJZH6_K8"
     },
     {
         "title": "In the Lost Lands",
-        "rating": 6,
+        "rating": 8,
         "genre": "Fantastique / Aventure / Action",
         "poster": "https://image.tmdb.org/t/p/w500/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
         "trailer": "https://www.youtube.com/watch?v=CMyrp5Vk3mU"
     },
     {
         "title": "L’Attaque des titans : La dernière attaque",
-        "rating": 8.4,
+        "rating": 8.375,
         "genre": "Animation / Action / Aventure / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/3oL5SWl7tPqaretovPKw9x04CXh.jpg",
         "trailer": "https://www.youtube.com/watch?v=3xNH23QkNpk"
@@ -29,7 +29,7 @@
     },
     {
         "title": "Mickey 17",
-        "rating": 7.7,
+        "rating": 7.2,
         "genre": "Science-fiction / Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/pEUdoUwezH3TheOC86bVKq241S0.jpg",
         "trailer": "https://www.youtube.com/watch?v=IN9q_UavsHM"
@@ -64,7 +64,7 @@
     },
     {
         "title": "A Real Pain",
-        "rating": 6.8,
+        "rating": 6.807,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kVk92AZm4gJXi5aucIGikDwSRjn.jpg",
         "trailer": "https://www.youtube.com/watch?v=E_sjoa8aHpc"
@@ -92,7 +92,7 @@
     },
     {
         "title": "Sing Sing",
-        "rating": 7.5,
+        "rating": 7.6,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zDnYHZDoqd3pSWbsAkxwQKB0jcj.jpg",
         "trailer": "https://www.youtube.com/watch?v=j3dXc6P3zH8"
@@ -141,14 +141,14 @@
     },
     {
         "title": "The Monkey",
-        "rating": 6.2,
+        "rating": 6.1,
         "genre": "Horreur / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/3Ps2oG3dGtQxtn3Q6bCktex1jSf.jpg",
         "trailer": "https://www.youtube.com/watch?v=husMGbXEIho"
     },
     {
         "title": "Companion",
-        "rating": 7.031,
+        "rating": 7.1,
         "genre": "Horreur / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/8thQOOO6fMSajTwbD4lba6gusXY.jpg",
         "trailer": "https://www.youtube.com/watch?v=Qr_kX0D3DNA"
@@ -162,7 +162,7 @@
     },
     {
         "title": "The Brutalist",
-        "rating": 7.07,
+        "rating": 7.1,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/gBZpseuIAVsntmteWEnJjdtI9Yx.jpg",
         "trailer": "https://www.youtube.com/watch?v=GdRXPAHIEW4"
@@ -190,7 +190,7 @@
     },
     {
         "title": "Better Man",
-        "rating": 7.6,
+        "rating": 7.7,
         "genre": "Musique / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/slEGDV2thDJwAYOGrfTEhy1AWl6.jpg",
         "trailer": "https://www.youtube.com/watch?v=KVeH5T4wxkE"
@@ -204,7 +204,7 @@
     },
     {
         "title": "Bridget Jones : Folle de lui",
-        "rating": 6.76,
+        "rating": 6.8,
         "genre": "Comédie / Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/17skglkX7rRDayZyFW1YotbUk5H.jpg",
         "trailer": "https://www.youtube.com/watch?v=7sSNobjiep4"
