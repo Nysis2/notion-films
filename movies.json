@@ -15,7 +15,7 @@
     },
     {
         "title": "L’Attaque des titans : La dernière attaque",
-        "rating": 8.375,
+        "rating": 8.3,
         "genre": "Animation / Action / Aventure / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/3oL5SWl7tPqaretovPKw9x04CXh.jpg",
         "trailer": "https://www.youtube.com/watch?v=3xNH23QkNpk"
@@ -29,7 +29,7 @@
     },
     {
         "title": "Mickey 17",
-        "rating": 7.2,
+        "rating": 7.5,
         "genre": "Science-fiction / Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/pEUdoUwezH3TheOC86bVKq241S0.jpg",
         "trailer": "https://www.youtube.com/watch?v=IN9q_UavsHM"
@@ -57,14 +57,14 @@
     },
     {
         "title": "Creation Of The Gods II: Demon Force",
-        "rating": 6.053,
+        "rating": 6.1,
         "genre": "Action / Fantastique / Guerre",
         "poster": "https://image.tmdb.org/t/p/w500/5bBgvH3hTxlANUsLP1ov0lEKmJp.jpg",
         "trailer": "https://www.youtube.com/watch?v=GR1LszelGoU"
     },
     {
         "title": "A Real Pain",
-        "rating": 6.807,
+        "rating": 6.8,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kVk92AZm4gJXi5aucIGikDwSRjn.jpg",
         "trailer": "https://www.youtube.com/watch?v=E_sjoa8aHpc"
@@ -78,7 +78,7 @@
     },
     {
         "title": "5 septembre",
-        "rating": 7,
+        "rating": 6.974,
         "genre": "Thriller / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/j2lft7UvyA0FYnbf9v07dtm0CrE.jpg",
         "trailer": "https://www.youtube.com/watch?v=Azud40CQ3IE"
@@ -148,7 +148,7 @@
     },
     {
         "title": "Companion",
-        "rating": 7.1,
+        "rating": 7,
         "genre": "Horreur / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/8thQOOO6fMSajTwbD4lba6gusXY.jpg",
         "trailer": "https://www.youtube.com/watch?v=Qr_kX0D3DNA"
@@ -169,7 +169,7 @@
     },
     {
         "title": "Paddington au Pérou",
-        "rating": 6.8,
+        "rating": 6.807,
         "genre": "Famille / Aventure / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/Q2e1sXd3M7F3nfrpZIXy9zQ2vL.jpg",
         "trailer": "https://www.youtube.com/watch?v=xAVaoYfOCrU"
@@ -183,7 +183,7 @@
     },
     {
         "title": "Vol à haut risque",
-        "rating": 6,
+        "rating": 6.03,
         "genre": "Action / Thriller / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/za4fENHuX9SDv0qpFjP6EquJeHS.jpg",
         "trailer": "https://www.youtube.com/watch?v=Cml3CFDBj2s"
@@ -218,7 +218,7 @@
     },
     {
         "title": "Captain America : Brave New World",
-        "rating": 6.2,
+        "rating": 6.193,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/wDRXmiAEJdhNIcuetM4016fOCx8.jpg",
         "trailer": "https://www.youtube.com/watch?v=5PSzFLV-EyQ"
