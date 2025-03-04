@@ -29,7 +29,7 @@
     },
     {
         "title": "Mickey 17",
-        "rating": 7.5,
+        "rating": 7.633,
         "genre": "Science-fiction / Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/pEUdoUwezH3TheOC86bVKq241S0.jpg",
         "trailer": "https://www.youtube.com/watch?v=IN9q_UavsHM"
@@ -64,21 +64,21 @@
     },
     {
         "title": "A Real Pain",
-        "rating": 6.8,
+        "rating": 6.785,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kVk92AZm4gJXi5aucIGikDwSRjn.jpg",
         "trailer": "https://www.youtube.com/watch?v=E_sjoa8aHpc"
     },
     {
         "title": "Queer",
-        "rating": 6.9,
+        "rating": 6.915,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/xe4b2TMciLKA1C0JlhWxb4ENLln.jpg",
         "trailer": "https://www.youtube.com/watch?v=3ZtwsbxryMk"
     },
     {
         "title": "5 septembre",
-        "rating": 6.974,
+        "rating": 6.996,
         "genre": "Thriller / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/j2lft7UvyA0FYnbf9v07dtm0CrE.jpg",
         "trailer": "https://www.youtube.com/watch?v=Azud40CQ3IE"
@@ -92,7 +92,7 @@
     },
     {
         "title": "Sing Sing",
-        "rating": 7.6,
+        "rating": 7.593,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zDnYHZDoqd3pSWbsAkxwQKB0jcj.jpg",
         "trailer": "https://www.youtube.com/watch?v=j3dXc6P3zH8"
@@ -106,7 +106,7 @@
     },
     {
         "title": "Un Parfait Inconnu",
-        "rating": 7.2,
+        "rating": 7.195,
         "genre": "Drame / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/zN0SOrHKLWDOg2UuGmVA7ZKtLne.jpg",
         "trailer": "https://www.youtube.com/watch?v=ob4SHtT6cC0"
@@ -141,14 +141,14 @@
     },
     {
         "title": "The Monkey",
-        "rating": 6.1,
+        "rating": 6,
         "genre": "Horreur / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/3Ps2oG3dGtQxtn3Q6bCktex1jSf.jpg",
         "trailer": "https://www.youtube.com/watch?v=husMGbXEIho"
     },
     {
         "title": "Companion",
-        "rating": 7,
+        "rating": 7.055,
         "genre": "Horreur / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/8thQOOO6fMSajTwbD4lba6gusXY.jpg",
         "trailer": "https://www.youtube.com/watch?v=Qr_kX0D3DNA"
@@ -162,14 +162,14 @@
     },
     {
         "title": "The Brutalist",
-        "rating": 7.1,
+        "rating": 7.071,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/gBZpseuIAVsntmteWEnJjdtI9Yx.jpg",
         "trailer": "https://www.youtube.com/watch?v=GdRXPAHIEW4"
     },
     {
         "title": "Paddington au Pérou",
-        "rating": 6.807,
+        "rating": 6.8,
         "genre": "Famille / Aventure / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/Q2e1sXd3M7F3nfrpZIXy9zQ2vL.jpg",
         "trailer": "https://www.youtube.com/watch?v=xAVaoYfOCrU"
@@ -183,7 +183,7 @@
     },
     {
         "title": "Vol à haut risque",
-        "rating": 6.03,
+        "rating": 6,
         "genre": "Action / Thriller / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/za4fENHuX9SDv0qpFjP6EquJeHS.jpg",
         "trailer": "https://www.youtube.com/watch?v=Cml3CFDBj2s"
@@ -204,7 +204,7 @@
     },
     {
         "title": "Bridget Jones : Folle de lui",
-        "rating": 6.8,
+        "rating": 6.771,
         "genre": "Comédie / Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/17skglkX7rRDayZyFW1YotbUk5H.jpg",
         "trailer": "https://www.youtube.com/watch?v=7sSNobjiep4"
@@ -218,7 +218,7 @@
     },
     {
         "title": "Captain America : Brave New World",
-        "rating": 6.193,
+        "rating": 6.179,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/wDRXmiAEJdhNIcuetM4016fOCx8.jpg",
         "trailer": "https://www.youtube.com/watch?v=5PSzFLV-EyQ"
