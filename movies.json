@@ -1,7 +1,21 @@
 [
     {
+        "title": "The Insider",
+        "rating": 0,
+        "genre": "Thriller / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/1vjZLEMCCf5rxD24RvdDQjpM3hT.jpg",
+        "trailer": "https://www.youtube.com/watch?v=n_56L6WzLT8"
+    },
+    {
+        "title": "Parthenope",
+        "rating": 6.891,
+        "genre": "Romance / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/3O1a37EV0teLlVIQg4Wrodp090n.jpg",
+        "trailer": "https://www.youtube.com/watch?v=uT5PGHBugic"
+    },
+    {
         "title": "Presence",
-        "rating": 6.1,
+        "rating": 6.066,
         "genre": "Horreur / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/hZ8dTeBzigV5SVgwG1ikSROAFiS.jpg",
         "trailer": "https://www.youtube.com/watch?v=Ay4MJZH6_K8"
@@ -15,7 +29,7 @@
     },
     {
         "title": "L’Attaque des titans : La dernière attaque",
-        "rating": 8.3,
+        "rating": 8.5,
         "genre": "Animation / Action / Aventure / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/3oL5SWl7tPqaretovPKw9x04CXh.jpg",
         "trailer": "https://www.youtube.com/watch?v=3xNH23QkNpk"
@@ -29,7 +43,7 @@
     },
     {
         "title": "Mickey 17",
-        "rating": 7.633,
+        "rating": 7.6,
         "genre": "Science-fiction / Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/pEUdoUwezH3TheOC86bVKq241S0.jpg",
         "trailer": "https://www.youtube.com/watch?v=IN9q_UavsHM"
@@ -64,21 +78,21 @@
     },
     {
         "title": "A Real Pain",
-        "rating": 6.785,
+        "rating": 6.8,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kVk92AZm4gJXi5aucIGikDwSRjn.jpg",
         "trailer": "https://www.youtube.com/watch?v=E_sjoa8aHpc"
     },
     {
         "title": "Queer",
-        "rating": 6.915,
+        "rating": 6.9,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/xe4b2TMciLKA1C0JlhWxb4ENLln.jpg",
         "trailer": "https://www.youtube.com/watch?v=3ZtwsbxryMk"
     },
     {
         "title": "5 septembre",
-        "rating": 6.996,
+        "rating": 7,
         "genre": "Thriller / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/j2lft7UvyA0FYnbf9v07dtm0CrE.jpg",
         "trailer": "https://www.youtube.com/watch?v=Azud40CQ3IE"
@@ -106,7 +120,7 @@
     },
     {
         "title": "Un Parfait Inconnu",
-        "rating": 7.195,
+        "rating": 7.2,
         "genre": "Drame / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/zN0SOrHKLWDOg2UuGmVA7ZKtLne.jpg",
         "trailer": "https://www.youtube.com/watch?v=ob4SHtT6cC0"
@@ -148,7 +162,7 @@
     },
     {
         "title": "Companion",
-        "rating": 7.055,
+        "rating": 7.073,
         "genre": "Horreur / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/8thQOOO6fMSajTwbD4lba6gusXY.jpg",
         "trailer": "https://www.youtube.com/watch?v=Qr_kX0D3DNA"
@@ -162,14 +176,14 @@
     },
     {
         "title": "The Brutalist",
-        "rating": 7.071,
+        "rating": 7.1,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/gBZpseuIAVsntmteWEnJjdtI9Yx.jpg",
         "trailer": "https://www.youtube.com/watch?v=GdRXPAHIEW4"
     },
     {
         "title": "Paddington au Pérou",
-        "rating": 6.8,
+        "rating": 6.811,
         "genre": "Famille / Aventure / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/Q2e1sXd3M7F3nfrpZIXy9zQ2vL.jpg",
         "trailer": "https://www.youtube.com/watch?v=xAVaoYfOCrU"
@@ -204,7 +218,7 @@
     },
     {
         "title": "Bridget Jones : Folle de lui",
-        "rating": 6.771,
+        "rating": 6.8,
         "genre": "Comédie / Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/17skglkX7rRDayZyFW1YotbUk5H.jpg",
         "trailer": "https://www.youtube.com/watch?v=7sSNobjiep4"
@@ -218,7 +232,7 @@
     },
     {
         "title": "Captain America : Brave New World",
-        "rating": 6.179,
+        "rating": 6.174,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/wDRXmiAEJdhNIcuetM4016fOCx8.jpg",
         "trailer": "https://www.youtube.com/watch?v=5PSzFLV-EyQ"
