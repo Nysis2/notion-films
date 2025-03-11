@@ -15,7 +15,7 @@
     },
     {
         "title": "Presence",
-        "rating": 6,
+        "rating": 6.067,
         "genre": "Horreur / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/hZ8dTeBzigV5SVgwG1ikSROAFiS.jpg",
         "trailer": "https://www.youtube.com/watch?v=Ay4MJZH6_K8"
@@ -43,7 +43,7 @@
     },
     {
         "title": "Mickey 17",
-        "rating": 7.1,
+        "rating": 7,
         "genre": "Science-fiction / Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/pEUdoUwezH3TheOC86bVKq241S0.jpg",
         "trailer": "https://www.youtube.com/watch?v=tA1s65o_kYM"
@@ -78,7 +78,7 @@
     },
     {
         "title": "A Real Pain",
-        "rating": 6.8,
+        "rating": 6.774,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kVk92AZm4gJXi5aucIGikDwSRjn.jpg",
         "trailer": "https://www.youtube.com/watch?v=E_sjoa8aHpc"
@@ -92,7 +92,7 @@
     },
     {
         "title": "5 septembre",
-        "rating": 7,
+        "rating": 6.98,
         "genre": "Thriller / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/j2lft7UvyA0FYnbf9v07dtm0CrE.jpg",
         "trailer": "https://www.youtube.com/watch?v=Azud40CQ3IE"
@@ -120,7 +120,7 @@
     },
     {
         "title": "Un Parfait Inconnu",
-        "rating": 7.2,
+        "rating": 7.171,
         "genre": "Drame / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/zN0SOrHKLWDOg2UuGmVA7ZKtLne.jpg",
         "trailer": "https://www.youtube.com/watch?v=ob4SHtT6cC0"
@@ -155,14 +155,14 @@
     },
     {
         "title": "The Monkey",
-        "rating": 5.991,
+        "rating": 6,
         "genre": "Horreur / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/3Ps2oG3dGtQxtn3Q6bCktex1jSf.jpg",
         "trailer": "https://www.youtube.com/watch?v=husMGbXEIho"
     },
     {
         "title": "Companion",
-        "rating": 7.033,
+        "rating": 7.036,
         "genre": "Horreur / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/8thQOOO6fMSajTwbD4lba6gusXY.jpg",
         "trailer": "https://www.youtube.com/watch?v=Qr_kX0D3DNA"
@@ -183,7 +183,7 @@
     },
     {
         "title": "Paddington au Pérou",
-        "rating": 6.786,
+        "rating": 6.8,
         "genre": "Famille / Aventure / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/Q2e1sXd3M7F3nfrpZIXy9zQ2vL.jpg",
         "trailer": "https://www.youtube.com/watch?v=xAVaoYfOCrU"
@@ -218,7 +218,7 @@
     },
     {
         "title": "Bridget Jones : Folle de lui",
-        "rating": 6.72,
+        "rating": 6.7,
         "genre": "Comédie / Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/17skglkX7rRDayZyFW1YotbUk5H.jpg",
         "trailer": "https://www.youtube.com/watch?v=7sSNobjiep4"
