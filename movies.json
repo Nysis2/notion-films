@@ -1,5 +1,33 @@
 [
     {
+        "title": "Covas do Barroso, chronique d'une lutte collective",
+        "rating": 0,
+        "genre": "Drame / Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/7clAV6R1jJurHRhiJKnwF3TH6nw.jpg",
+        "trailer": "https://www.youtube.com/watch?v=u9x0abA8eYg"
+    },
+    {
+        "title": "Le soleil se lèvera",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/3vFhT8aPPRDVBQDnZlkFkpSZm6Z.jpg",
+        "trailer": "https://www.youtube.com/watch?v=zo7E3snr9_k"
+    },
+    {
+        "title": "Blue Sun Palace",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/t2i0Cux0G6QjFCq3XyK87xx01mA.jpg",
+        "trailer": "https://www.youtube.com/watch?v=8x92_rWlkvU"
+    },
+    {
+        "title": "Blanche Neige",
+        "rating": 0,
+        "genre": "Famille / Fantastique",
+        "poster": "https://image.tmdb.org/t/p/w500/3ovGhmdDJgSxwN41mFYR7jwxWOV.jpg",
+        "trailer": "https://www.youtube.com/watch?v=KsSoo5K8CpA"
+    },
+    {
         "title": "The Insider",
         "rating": 7,
         "genre": "Thriller / Drame",
@@ -15,7 +43,7 @@
     },
     {
         "title": "Presence",
-        "rating": 6.067,
+        "rating": 6.1,
         "genre": "Horreur / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/hZ8dTeBzigV5SVgwG1ikSROAFiS.jpg",
         "trailer": "https://www.youtube.com/watch?v=Ay4MJZH6_K8"
@@ -78,7 +106,7 @@
     },
     {
         "title": "A Real Pain",
-        "rating": 6.774,
+        "rating": 6.8,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kVk92AZm4gJXi5aucIGikDwSRjn.jpg",
         "trailer": "https://www.youtube.com/watch?v=E_sjoa8aHpc"
@@ -155,7 +183,7 @@
     },
     {
         "title": "The Monkey",
-        "rating": 6,
+        "rating": 5.96,
         "genre": "Horreur / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/3Ps2oG3dGtQxtn3Q6bCktex1jSf.jpg",
         "trailer": "https://www.youtube.com/watch?v=husMGbXEIho"
@@ -176,7 +204,7 @@
     },
     {
         "title": "The Brutalist",
-        "rating": 7.1,
+        "rating": 7.087,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/gBZpseuIAVsntmteWEnJjdtI9Yx.jpg",
         "trailer": "https://www.youtube.com/watch?v=GdRXPAHIEW4"
@@ -232,7 +260,7 @@
     },
     {
         "title": "Captain America : Brave New World",
-        "rating": 6.2,
+        "rating": 6.156,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/wDRXmiAEJdhNIcuetM4016fOCx8.jpg",
         "trailer": "https://www.youtube.com/watch?v=5PSzFLV-EyQ"
