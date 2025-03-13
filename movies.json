@@ -1,5 +1,19 @@
 [
     {
+        "title": "Stalker",
+        "rating": 0,
+        "genre": "Horreur",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": "https://www.youtube.com/watch?v=7EeXBt0ngpQ"
+    },
+    {
+        "title": "The Alto Knights",
+        "rating": 0,
+        "genre": "Drame / Crime",
+        "poster": "https://image.tmdb.org/t/p/w500/95KmR0xNuZZ6DNESDwLKWGIBvMg.jpg",
+        "trailer": "https://www.youtube.com/watch?v=1aayuOp0AnE"
+    },
+    {
         "title": "Covas do Barroso, chronique d'une lutte collective",
         "rating": 0,
         "genre": "Drame / Documentaire",
@@ -29,7 +43,7 @@
     },
     {
         "title": "The Insider",
-        "rating": 7,
+        "rating": 7.2,
         "genre": "Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/1vjZLEMCCf5rxD24RvdDQjpM3hT.jpg",
         "trailer": "https://www.youtube.com/watch?v=n_56L6WzLT8"
@@ -43,7 +57,7 @@
     },
     {
         "title": "Presence",
-        "rating": 6.1,
+        "rating": 6,
         "genre": "Horreur / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/hZ8dTeBzigV5SVgwG1ikSROAFiS.jpg",
         "trailer": "https://www.youtube.com/watch?v=Ay4MJZH6_K8"
@@ -71,7 +85,7 @@
     },
     {
         "title": "Mickey 17",
-        "rating": 7,
+        "rating": 7.1,
         "genre": "Science-fiction / Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/pEUdoUwezH3TheOC86bVKq241S0.jpg",
         "trailer": "https://www.youtube.com/watch?v=tA1s65o_kYM"
@@ -183,7 +197,7 @@
     },
     {
         "title": "The Monkey",
-        "rating": 5.96,
+        "rating": 6,
         "genre": "Horreur / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/3Ps2oG3dGtQxtn3Q6bCktex1jSf.jpg",
         "trailer": "https://www.youtube.com/watch?v=husMGbXEIho"
@@ -211,7 +225,7 @@
     },
     {
         "title": "Paddington au Pérou",
-        "rating": 6.8,
+        "rating": 6.765,
         "genre": "Famille / Aventure / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/Q2e1sXd3M7F3nfrpZIXy9zQ2vL.jpg",
         "trailer": "https://www.youtube.com/watch?v=xAVaoYfOCrU"
@@ -260,7 +274,7 @@
     },
     {
         "title": "Captain America : Brave New World",
-        "rating": 6.156,
+        "rating": 6.2,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/wDRXmiAEJdhNIcuetM4016fOCx8.jpg",
         "trailer": "https://www.youtube.com/watch?v=5PSzFLV-EyQ"
