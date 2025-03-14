@@ -1,5 +1,12 @@
 [
     {
+        "title": "Vodu Entre deux mondes",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/pgFFAiInWaxkK3DDceITw3wUPKM.jpg",
+        "trailer": "https://www.youtube.com/watch?v=UHFm-t-6lBM"
+    },
+    {
         "title": "Stalker",
         "rating": 0,
         "genre": "Horreur",
@@ -43,7 +50,7 @@
     },
     {
         "title": "The Insider",
-        "rating": 7.2,
+        "rating": 7,
         "genre": "Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/1vjZLEMCCf5rxD24RvdDQjpM3hT.jpg",
         "trailer": "https://www.youtube.com/watch?v=n_56L6WzLT8"
@@ -57,7 +64,7 @@
     },
     {
         "title": "Presence",
-        "rating": 6,
+        "rating": 6.051,
         "genre": "Horreur / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/hZ8dTeBzigV5SVgwG1ikSROAFiS.jpg",
         "trailer": "https://www.youtube.com/watch?v=Ay4MJZH6_K8"
@@ -85,7 +92,7 @@
     },
     {
         "title": "Mickey 17",
-        "rating": 7.1,
+        "rating": 7,
         "genre": "Science-fiction / Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/pEUdoUwezH3TheOC86bVKq241S0.jpg",
         "trailer": "https://www.youtube.com/watch?v=tA1s65o_kYM"
@@ -218,14 +225,14 @@
     },
     {
         "title": "The Brutalist",
-        "rating": 7.087,
+        "rating": 7.1,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/gBZpseuIAVsntmteWEnJjdtI9Yx.jpg",
         "trailer": "https://www.youtube.com/watch?v=GdRXPAHIEW4"
     },
     {
         "title": "Paddington au Pérou",
-        "rating": 6.765,
+        "rating": 6.8,
         "genre": "Famille / Aventure / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/Q2e1sXd3M7F3nfrpZIXy9zQ2vL.jpg",
         "trailer": "https://www.youtube.com/watch?v=xAVaoYfOCrU"
@@ -274,7 +281,7 @@
     },
     {
         "title": "Captain America : Brave New World",
-        "rating": 6.2,
+        "rating": 6.167,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/wDRXmiAEJdhNIcuetM4016fOCx8.jpg",
         "trailer": "https://www.youtube.com/watch?v=5PSzFLV-EyQ"
