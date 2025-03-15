@@ -28,6 +28,13 @@ jobs:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
         run: python notion_movies.py
 
+      - name: Exécuter le script notion_clean_duplicates.py (Nettoyage de la DB Notion)
+        env:
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python notion_clean_movies.py
+
       - name: Exécuter le script fetch_movies.py (récupération des films depuis la DB Notion)
         env:
           NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
