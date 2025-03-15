@@ -29,7 +29,7 @@
     },
     {
         "title": "Le soleil se lèvera",
-        "rating": 0,
+        "rating": 7.5,
         "genre": "Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/3vFhT8aPPRDVBQDnZlkFkpSZm6Z.jpg",
         "trailer": "https://www.youtube.com/watch?v=zo7E3snr9_k"
@@ -50,7 +50,7 @@
     },
     {
         "title": "The Insider",
-        "rating": 7,
+        "rating": 6.9,
         "genre": "Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/1vjZLEMCCf5rxD24RvdDQjpM3hT.jpg",
         "trailer": "https://www.youtube.com/watch?v=n_56L6WzLT8"
@@ -64,7 +64,7 @@
     },
     {
         "title": "Presence",
-        "rating": 6.051,
+        "rating": 6.055,
         "genre": "Horreur / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/hZ8dTeBzigV5SVgwG1ikSROAFiS.jpg",
         "trailer": "https://www.youtube.com/watch?v=Ay4MJZH6_K8"
@@ -92,7 +92,7 @@
     },
     {
         "title": "Mickey 17",
-        "rating": 7,
+        "rating": 7.026,
         "genre": "Science-fiction / Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/pEUdoUwezH3TheOC86bVKq241S0.jpg",
         "trailer": "https://www.youtube.com/watch?v=tA1s65o_kYM"
@@ -127,7 +127,7 @@
     },
     {
         "title": "A Real Pain",
-        "rating": 6.8,
+        "rating": 6.768,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kVk92AZm4gJXi5aucIGikDwSRjn.jpg",
         "trailer": "https://www.youtube.com/watch?v=E_sjoa8aHpc"
@@ -225,7 +225,7 @@
     },
     {
         "title": "The Brutalist",
-        "rating": 7.1,
+        "rating": 7.088,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/gBZpseuIAVsntmteWEnJjdtI9Yx.jpg",
         "trailer": "https://www.youtube.com/watch?v=GdRXPAHIEW4"
@@ -281,7 +281,7 @@
     },
     {
         "title": "Captain America : Brave New World",
-        "rating": 6.167,
+        "rating": 6.2,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/wDRXmiAEJdhNIcuetM4016fOCx8.jpg",
         "trailer": "https://www.youtube.com/watch?v=5PSzFLV-EyQ"
