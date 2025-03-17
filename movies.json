@@ -1,5 +1,12 @@
 [
     {
+        "title": "J’ai vu trois lumières noires",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/ac3YnzuCZeJA3b31AW5HvWwc0cR.jpg",
+        "trailer": "https://www.youtube.com/watch?v=VKNhf807zSE"
+    },
+    {
         "title": "Vodu Entre deux mondes",
         "rating": 0,
         "genre": "Documentaire",
@@ -43,14 +50,14 @@
     },
     {
         "title": "Blanche Neige",
-        "rating": 2.3,
+        "rating": 2,
         "genre": "Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/3ovGhmdDJgSxwN41mFYR7jwxWOV.jpg",
         "trailer": "https://www.youtube.com/watch?v=KsSoo5K8CpA"
     },
     {
         "title": "The Insider",
-        "rating": 6.7,
+        "rating": 6.6,
         "genre": "Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/1vjZLEMCCf5rxD24RvdDQjpM3hT.jpg",
         "trailer": "https://www.youtube.com/watch?v=n_56L6WzLT8"
@@ -92,7 +99,7 @@
     },
     {
         "title": "Mickey 17",
-        "rating": 6.994,
+        "rating": 7,
         "genre": "Science-fiction / Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/pEUdoUwezH3TheOC86bVKq241S0.jpg",
         "trailer": "https://www.youtube.com/watch?v=tA1s65o_kYM"
@@ -281,7 +288,7 @@
     },
     {
         "title": "Captain America : Brave New World",
-        "rating": 6.163,
+        "rating": 6.2,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/wDRXmiAEJdhNIcuetM4016fOCx8.jpg",
         "trailer": "https://www.youtube.com/watch?v=5PSzFLV-EyQ"
