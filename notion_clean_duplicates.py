@@ -1,6 +1,7 @@
 import requests
 import os
 from dotenv import load_dotenv
+from difflib import SequenceMatcher
 
 # Charger les clés API depuis un fichier .env
 load_dotenv()
@@ -52,23 +53,27 @@ def delete_movie(movie_id):
     else:
         print("❌ Erreur suppression :", response.json())
 
+def are_titles_similar(title1, title2):
+    return SequenceMatcher(None, title1.lower(), title2.lower()).ratio() > 0.8
+
 # 🏷 Supprimer les doublons en gardant une seule occurrence
-def remove_duplicates():
+def remove_duplicates():    
     movies = get_movies_from_notion()
     
-    seen_titles = set()
+    seen_titles = []
     duplicates = []
 
     for title, movie_id in movies:
-        if title in seen_titles:
+        normalized_title = title.lower()
+        
+        if any(are_titles_similar(normalized_title, seen) for seen in seen_titles):
             duplicates.append(movie_id)
         else:
-            seen_titles.add(title)
-
-    # Supprimer les doublons
+            seen_titles.append(normalized_title)
+    
     for movie_id in duplicates:
         delete_movie(movie_id)
-
+    
     print(f"✅ {len(duplicates)} doublon(s) supprimé(s).")
 
 # 🚀 Exécuter le script
