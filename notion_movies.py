@@ -1,6 +1,7 @@
 import requests
 import os
 from dotenv import load_dotenv
+import datetime
 
 # Charger les clés API depuis un fichier .env
 load_dotenv()
@@ -103,6 +104,9 @@ def update_movie_in_notion(movie_id, new_rating, new_trailer):
 def add_movie_to_notion(movie):
     trailer_url = get_trailer(movie["id"])
 
+    # Obtenir la date et l'heure actuelles
+    updated_date = datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%S.%fZ')
+
     data = {
         "parent": {"database_id": NOTION_DATABASE_ID},
         "properties": {
@@ -111,7 +115,8 @@ def add_movie_to_notion(movie):
             "Rating": {"number": movie["vote_average"]},
             "Genre": {"rich_text": [{"text": {"content": " / ".join(get_genres(movie["genre_ids"]))}}]},
             "Poster": {"rich_text": [{"text": {"content": f'https://image.tmdb.org/t/p/w500{movie["poster_path"]}'}}]},
-            "Trailer": {"url": trailer_url} if trailer_url else {"rich_text": [{"text": {"content": "Aucune bande-annonce disponible"}}]}
+            "Trailer": {"url": trailer_url} if trailer_url else {"rich_text": [{"text": {"content": "Aucune bande-annonce disponible"}}]},
+            "Updated Date": {"date": updated_date}
         }
     }
 
