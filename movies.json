@@ -1,7 +1,7 @@
 [
     {
         "title": "J’ai vu trois lumières noires",
-        "rating": 0,
+        "rating": 5.7,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/ac3YnzuCZeJA3b31AW5HvWwc0cR.jpg",
         "trailer": "https://www.youtube.com/watch?v=VKNhf807zSE"
@@ -50,7 +50,7 @@
     },
     {
         "title": "Blanche Neige",
-        "rating": 4.192,
+        "rating": 4.5,
         "genre": "Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/3ovGhmdDJgSxwN41mFYR7jwxWOV.jpg",
         "trailer": "https://www.youtube.com/watch?v=KsSoo5K8CpA"
@@ -134,7 +134,7 @@
     },
     {
         "title": "A Real Pain",
-        "rating": 6.788,
+        "rating": 6.791,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kVk92AZm4gJXi5aucIGikDwSRjn.jpg",
         "trailer": "https://www.youtube.com/watch?v=E_sjoa8aHpc"
@@ -218,7 +218,7 @@
     },
     {
         "title": "The Brutalist",
-        "rating": 7.063,
+        "rating": 7.1,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/gBZpseuIAVsntmteWEnJjdtI9Yx.jpg",
         "trailer": "https://www.youtube.com/watch?v=GdRXPAHIEW4"
@@ -274,7 +274,7 @@
     },
     {
         "title": "Captain America : Brave New World",
-        "rating": 6.142,
+        "rating": 6.1,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/wDRXmiAEJdhNIcuetM4016fOCx8.jpg",
         "trailer": "https://www.youtube.com/watch?v=5PSzFLV-EyQ"
