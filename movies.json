@@ -22,7 +22,7 @@
     },
     {
         "title": "The Alto Knights",
-        "rating": 6.206,
+        "rating": 6.4,
         "genre": "Drame / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/95KmR0xNuZZ6DNESDwLKWGIBvMg.jpg",
         "trailer": "https://www.youtube.com/watch?v=1aayuOp0AnE"
@@ -50,14 +50,14 @@
     },
     {
         "title": "Blanche Neige",
-        "rating": 4.613,
+        "rating": 4.7,
         "genre": "Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/3ovGhmdDJgSxwN41mFYR7jwxWOV.jpg",
         "trailer": "https://www.youtube.com/watch?v=KsSoo5K8CpA"
     },
     {
         "title": "The Insider",
-        "rating": 6.687,
+        "rating": 6.7,
         "genre": "Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/1vjZLEMCCf5rxD24RvdDQjpM3hT.jpg",
         "trailer": "https://www.youtube.com/watch?v=n_56L6WzLT8"
@@ -78,7 +78,7 @@
     },
     {
         "title": "In the Lost Lands",
-        "rating": 5.5,
+        "rating": 5.7,
         "genre": "Fantastique / Aventure / Action",
         "poster": "https://image.tmdb.org/t/p/w500/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
         "trailer": "https://www.youtube.com/watch?v=CMyrp5Vk3mU"
@@ -99,7 +99,7 @@
     },
     {
         "title": "Mickey 17",
-        "rating": 6.985,
+        "rating": 6.983,
         "genre": "Science-fiction / Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/pEUdoUwezH3TheOC86bVKq241S0.jpg",
         "trailer": "https://www.youtube.com/watch?v=tA1s65o_kYM"
@@ -127,7 +127,7 @@
     },
     {
         "title": "Creation Of The Gods II: Demon Force",
-        "rating": 6.1,
+        "rating": 6.3,
         "genre": "Action / Fantastique / Guerre",
         "poster": "https://image.tmdb.org/t/p/w500/5bBgvH3hTxlANUsLP1ov0lEKmJp.jpg",
         "trailer": "https://www.youtube.com/watch?v=GR1LszelGoU"
@@ -141,7 +141,7 @@
     },
     {
         "title": "Queer",
-        "rating": 6.763,
+        "rating": 6.8,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/xe4b2TMciLKA1C0JlhWxb4ENLln.jpg",
         "trailer": "https://www.youtube.com/watch?v=3ZtwsbxryMk"
@@ -204,7 +204,7 @@
     },
     {
         "title": "The Monkey",
-        "rating": 5.874,
+        "rating": 5.828,
         "genre": "Horreur / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/3Ps2oG3dGtQxtn3Q6bCktex1jSf.jpg",
         "trailer": "https://www.youtube.com/watch?v=husMGbXEIho"
@@ -260,7 +260,7 @@
     },
     {
         "title": "Bridget Jones : Folle de lui",
-        "rating": 6.7,
+        "rating": 6.703,
         "genre": "Comédie / Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/17skglkX7rRDayZyFW1YotbUk5H.jpg",
         "trailer": "https://www.youtube.com/watch?v=7sSNobjiep4"
@@ -274,7 +274,7 @@
     },
     {
         "title": "Captain America : Brave New World",
-        "rating": 6.129,
+        "rating": 6.1,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/wDRXmiAEJdhNIcuetM4016fOCx8.jpg",
         "trailer": "https://www.youtube.com/watch?v=5PSzFLV-EyQ"
