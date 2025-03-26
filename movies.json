@@ -50,14 +50,14 @@
     },
     {
         "title": "Blanche Neige",
-        "rating": 4.7,
+        "rating": 4.595,
         "genre": "Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/3ovGhmdDJgSxwN41mFYR7jwxWOV.jpg",
         "trailer": "https://www.youtube.com/watch?v=KsSoo5K8CpA"
     },
     {
         "title": "The Insider",
-        "rating": 6.7,
+        "rating": 6.704,
         "genre": "Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/1vjZLEMCCf5rxD24RvdDQjpM3hT.jpg",
         "trailer": "https://www.youtube.com/watch?v=n_56L6WzLT8"
@@ -99,7 +99,7 @@
     },
     {
         "title": "Mickey 17",
-        "rating": 6.983,
+        "rating": 7,
         "genre": "Science-fiction / Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/pEUdoUwezH3TheOC86bVKq241S0.jpg",
         "trailer": "https://www.youtube.com/watch?v=tA1s65o_kYM"
@@ -134,7 +134,7 @@
     },
     {
         "title": "A Real Pain",
-        "rating": 6.8,
+        "rating": 6.784,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kVk92AZm4gJXi5aucIGikDwSRjn.jpg",
         "trailer": "https://www.youtube.com/watch?v=E_sjoa8aHpc"
@@ -204,7 +204,7 @@
     },
     {
         "title": "The Monkey",
-        "rating": 5.828,
+        "rating": 5.854,
         "genre": "Horreur / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/3Ps2oG3dGtQxtn3Q6bCktex1jSf.jpg",
         "trailer": "https://www.youtube.com/watch?v=husMGbXEIho"
@@ -260,7 +260,7 @@
     },
     {
         "title": "Bridget Jones : Folle de lui",
-        "rating": 6.703,
+        "rating": 6.701,
         "genre": "Comédie / Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/17skglkX7rRDayZyFW1YotbUk5H.jpg",
         "trailer": "https://www.youtube.com/watch?v=7sSNobjiep4"
@@ -274,7 +274,7 @@
     },
     {
         "title": "Captain America : Brave New World",
-        "rating": 6.1,
+        "rating": 6.129,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/wDRXmiAEJdhNIcuetM4016fOCx8.jpg",
         "trailer": "https://www.youtube.com/watch?v=5PSzFLV-EyQ"
