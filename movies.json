@@ -22,7 +22,7 @@
     },
     {
         "title": "The Alto Knights",
-        "rating": 6.305,
+        "rating": 6.3,
         "genre": "Drame / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/95KmR0xNuZZ6DNESDwLKWGIBvMg.jpg",
         "trailer": "https://www.youtube.com/watch?v=1aayuOp0AnE"
@@ -50,7 +50,7 @@
     },
     {
         "title": "Blanche Neige",
-        "rating": 4.401,
+        "rating": 4.4,
         "genre": "Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/3ovGhmdDJgSxwN41mFYR7jwxWOV.jpg",
         "trailer": "https://www.youtube.com/watch?v=KsSoo5K8CpA"
@@ -64,7 +64,7 @@
     },
     {
         "title": "Parthenope",
-        "rating": 6.873,
+        "rating": 6.872,
         "genre": "Romance / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/3O1a37EV0teLlVIQg4Wrodp090n.jpg",
         "trailer": "https://www.youtube.com/watch?v=AQBB13EI7vU"
@@ -134,14 +134,14 @@
     },
     {
         "title": "A Real Pain",
-        "rating": 6.775,
+        "rating": 6.774,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kVk92AZm4gJXi5aucIGikDwSRjn.jpg",
         "trailer": "https://www.youtube.com/watch?v=E_sjoa8aHpc"
     },
     {
         "title": "Queer",
-        "rating": 6.748,
+        "rating": 6.761,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/xe4b2TMciLKA1C0JlhWxb4ENLln.jpg",
         "trailer": "https://www.youtube.com/watch?v=3ZtwsbxryMk"
@@ -204,7 +204,7 @@
     },
     {
         "title": "The Monkey",
-        "rating": 5.935,
+        "rating": 5.958,
         "genre": "Horreur / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/3Ps2oG3dGtQxtn3Q6bCktex1jSf.jpg",
         "trailer": "https://www.youtube.com/watch?v=husMGbXEIho"
