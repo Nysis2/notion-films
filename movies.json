@@ -50,21 +50,21 @@
     },
     {
         "title": "Blanche Neige",
-        "rating": 4.6,
+        "rating": 4.509,
         "genre": "Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/3ovGhmdDJgSxwN41mFYR7jwxWOV.jpg",
         "trailer": "https://www.youtube.com/watch?v=KsSoo5K8CpA"
     },
     {
         "title": "The Insider",
-        "rating": 6.534,
+        "rating": 6.359,
         "genre": "Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/1vjZLEMCCf5rxD24RvdDQjpM3hT.jpg",
         "trailer": "https://www.youtube.com/watch?v=n_56L6WzLT8"
     },
     {
         "title": "Parthenope",
-        "rating": 6.873,
+        "rating": 6.9,
         "genre": "Romance / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/3O1a37EV0teLlVIQg4Wrodp090n.jpg",
         "trailer": "https://www.youtube.com/watch?v=AQBB13EI7vU"
@@ -78,7 +78,7 @@
     },
     {
         "title": "In the Lost Lands",
-        "rating": 5.9,
+        "rating": 5.7,
         "genre": "Fantastique / Aventure / Action",
         "poster": "https://image.tmdb.org/t/p/w500/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
         "trailer": "https://www.youtube.com/watch?v=CMyrp5Vk3mU"
@@ -99,7 +99,7 @@
     },
     {
         "title": "Mickey 17",
-        "rating": 6.978,
+        "rating": 6.95,
         "genre": "Science-fiction / Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/pEUdoUwezH3TheOC86bVKq241S0.jpg",
         "trailer": "https://www.youtube.com/watch?v=tA1s65o_kYM"
@@ -134,14 +134,14 @@
     },
     {
         "title": "A Real Pain",
-        "rating": 6.779,
+        "rating": 6.776,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kVk92AZm4gJXi5aucIGikDwSRjn.jpg",
         "trailer": "https://www.youtube.com/watch?v=E_sjoa8aHpc"
     },
     {
         "title": "Queer",
-        "rating": 6.737,
+        "rating": 6.7,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/xe4b2TMciLKA1C0JlhWxb4ENLln.jpg",
         "trailer": "https://www.youtube.com/watch?v=3ZtwsbxryMk"
