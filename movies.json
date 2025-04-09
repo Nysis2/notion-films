@@ -50,14 +50,14 @@
     },
     {
         "title": "Blanche Neige",
-        "rating": 4.509,
+        "rating": 4.529,
         "genre": "Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/3ovGhmdDJgSxwN41mFYR7jwxWOV.jpg",
         "trailer": "https://www.youtube.com/watch?v=KsSoo5K8CpA"
     },
     {
         "title": "The Insider",
-        "rating": 6.359,
+        "rating": 6.362,
         "genre": "Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/1vjZLEMCCf5rxD24RvdDQjpM3hT.jpg",
         "trailer": "https://www.youtube.com/watch?v=n_56L6WzLT8"
@@ -78,7 +78,7 @@
     },
     {
         "title": "In the Lost Lands",
-        "rating": 5.7,
+        "rating": 5.8,
         "genre": "Fantastique / Aventure / Action",
         "poster": "https://image.tmdb.org/t/p/w500/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",
         "trailer": "https://www.youtube.com/watch?v=CMyrp5Vk3mU"
@@ -99,7 +99,7 @@
     },
     {
         "title": "Mickey 17",
-        "rating": 6.95,
+        "rating": 6.953,
         "genre": "Science-fiction / Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/pEUdoUwezH3TheOC86bVKq241S0.jpg",
         "trailer": "https://www.youtube.com/watch?v=tA1s65o_kYM"
