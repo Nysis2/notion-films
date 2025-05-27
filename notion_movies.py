@@ -116,7 +116,7 @@ def add_movie_to_notion(movie):
             "Genre": {"rich_text": [{"text": {"content": " / ".join(get_genres(movie["genre_ids"]))}}]},
             "Poster": {"rich_text": [{"text": {"content": f'https://image.tmdb.org/t/p/w500{movie["poster_path"]}'}}]},
             "Trailer": {"url": trailer_url} if trailer_url else {"rich_text": [{"text": {"content": "Aucune bande-annonce disponible"}}]},
-            "Updated Date": {"date": {"start": updated_date}}
+            "Updated Date": {"rich_text": [{"text": {"content": updated_date}}]}
         }
     }
 
