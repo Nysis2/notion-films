@@ -1,7 +1,35 @@
 [
     {
+        "title": "Thudarum",
+        "rating": 7.8,
+        "genre": "Drame / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/uOTDBabtxHA6szYKQNQe9Y7rFlv.jpg",
+        "trailer": null
+    },
+    {
+        "title": "Le Clan des bêtes",
+        "rating": 6.5,
+        "genre": "Drame / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/rVPDAAkwz3ROxiFHXnZhnPDH4jf.jpg",
+        "trailer": "https://www.youtube.com/watch?v=7pIKR6UBogs"
+    },
+    {
+        "title": "ரெட்ரோ",
+        "rating": 6.6,
+        "genre": "Romance / Action / Drame / Crime",
+        "poster": "https://image.tmdb.org/t/p/w500/SvO2H2bZd2duFm9MiueNHIm1zk.jpg",
+        "trailer": null
+    },
+    {
+        "title": "Ballerina",
+        "rating": 0,
+        "genre": "Action / Thriller / Crime",
+        "poster": "https://image.tmdb.org/t/p/w500/aPm7ZMDk3YGC8f4PM3WGfi8yusK.jpg",
+        "trailer": "https://www.youtube.com/watch?v=b9Rr9ygb-ac"
+    },
+    {
         "title": "Tu ne mentiras point",
-        "rating": 6.8,
+        "rating": 6.76,
         "genre": "Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/7seB6FGL9qM05ww4WNSMUrifUpZ.jpg",
         "trailer": "https://www.youtube.com/watch?v=PBJ3zgH4pGM"
@@ -43,7 +71,7 @@
     },
     {
         "title": "The Phoenician Scheme",
-        "rating": 6.9,
+        "rating": 7,
         "genre": "Drame / Comédie / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/AayVkyoyDRQHpK5d6rAiWzIi4eC.jpg",
         "trailer": "https://www.youtube.com/watch?v=GEuMnPl2WI4"
@@ -64,7 +92,7 @@
     },
     {
         "title": "Drop Game",
-        "rating": 6.517,
+        "rating": 6.514,
         "genre": "Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/frsYDd9alTNvX5vzyGjDgCQh80Y.jpg",
         "trailer": "https://www.youtube.com/watch?v=tZoNPCc-2Vw"
@@ -78,7 +106,7 @@
     },
     {
         "title": "Mr. Wolff 2",
-        "rating": 7.1,
+        "rating": 7.127,
         "genre": "Crime / Thriller / Action",
         "poster": "https://image.tmdb.org/t/p/w500/jUCjuO3BpOBv84nRmTJJaA1pUld.jpg",
         "trailer": "https://www.youtube.com/watch?v=RwXDphhQ9Tg"
@@ -99,35 +127,35 @@
     },
     {
         "title": "La Légende d'Ochi",
-        "rating": 6.2,
+        "rating": 6.3,
         "genre": "Fantastique / Aventure / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/5VwCkyA5Q0JSSHLOoG4c0bw5Bim.jpg",
         "trailer": "https://www.youtube.com/watch?v=_jTFLg3arYU"
     },
     {
         "title": "Mission: Impossible - The Final Reckoning",
-        "rating": 7.063,
+        "rating": 7.055,
         "genre": "Action / Aventure / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/AozMgdALZuR1hDPZt2a1aXiWmL4.jpg",
         "trailer": "https://www.youtube.com/watch?v=G1VBfMCZVkw"
     },
     {
         "title": "Until Dawn : La Mort sans fin",
-        "rating": 6.441,
+        "rating": 6.437,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/lCdHBrSdJG7G7Anx2wcfaMER8Pd.jpg",
         "trailer": "https://www.youtube.com/watch?v=xR3lVHnh0Gg"
     },
     {
         "title": "Destination finale : Bloodlines",
-        "rating": 7.031,
+        "rating": 7.003,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/4uI8C2zcfLWRhZDBgd0oTlZjV9j.jpg",
         "trailer": "https://www.youtube.com/watch?v=xitSoRbHJ50"
     },
     {
         "title": "Lilo & Stitch",
-        "rating": 7.033,
+        "rating": 7.021,
         "genre": "Famille / Comédie / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/71IjwRa88OJMYJBntId7nn0eFHy.jpg",
         "trailer": "https://www.youtube.com/watch?v=VWqJifMMgZE"
