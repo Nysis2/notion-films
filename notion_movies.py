@@ -140,11 +140,15 @@ def get_genres(genre_ids):
 
 # 🚀 Exécuter le script
 if __name__ == "__main__":
-    existing_movies = get_existing_movies()  # Films déjà enregistrés
-    movies = get_movies()  # Films en salle
+    existing_movies = get_existing_movies()  # Films déjà enregistrés dans Notion
+    movies = get_movies()  # Films actuellement en salle depuis TMDb
 
+    tmdb_titles = set()
+    
     for movie in movies:
+        tmdb_titles.add(movie["title"])
         trailer_url = get_trailer(movie["id"])
+
         if movie["title"] in existing_movies:
             movie_id = existing_movies[movie["title"]]["id"]
             old_rating = existing_movies[movie["title"]]["rating"]
@@ -158,3 +162,20 @@ if __name__ == "__main__":
                 print(f"✅ Pas de changement pour {movie['title']}")
         else:
             add_movie_to_notion(movie)
+
+    # 🧹 Archivage des films absents de TMDb
+    notion_titles = set(existing_movies.keys())
+    to_archive = notion_titles - tmdb_titles
+
+    for title in to_archive:
+        movie_id = existing_movies[title]["id"]
+        response = requests.patch(
+            f"https://api.notion.com/v1/pages/{movie_id}",
+            headers=HEADERS_NOTION,
+            json={"archived": True}
+        )
+        if response.status_code == 200:
+            print(f"🗑️ Archivé dans Notion : {title}")
+        else:
+            print(f"❌ Erreur archivage {title} :", response.json())
+
