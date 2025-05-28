@@ -115,7 +115,7 @@ def add_movie_to_notion(movie):
             "Rating": {"number": movie["vote_average"]},
             "Genre": {"rich_text": [{"text": {"content": " / ".join(get_genres(movie["genre_ids"]))}}]},
             "Poster": {"rich_text": [{"text": {"content": f'https://image.tmdb.org/t/p/w500{movie["poster_path"]}'}}]},
-            "Trailer": {"url": trailer_url if trailer_url else None}
+            "Trailer": {"url": trailer_url if trailer_url else None},
             "Updated Date": {"rich_text": [{"text": {"content": updated_date}}]}
         }
     }
