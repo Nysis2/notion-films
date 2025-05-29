@@ -22,7 +22,7 @@
     },
     {
         "title": "Ballerina",
-        "rating": 0,
+        "rating": 5.5,
         "genre": "Action / Thriller / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/aPm7ZMDk3YGC8f4PM3WGfi8yusK.jpg",
         "trailer": "https://www.youtube.com/watch?v=b9Rr9ygb-ac"
@@ -36,7 +36,7 @@
     },
     {
         "title": "Les Indomptés",
-        "rating": 6.2,
+        "rating": 6.237,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/v6MxZ4Q03A7CViZPKCGqSHKZO6r.jpg",
         "trailer": "https://www.youtube.com/watch?v=2MW146Iezoo"
@@ -50,14 +50,14 @@
     },
     {
         "title": "L'Ultime braquage",
-        "rating": 5.8,
+        "rating": 5.833,
         "genre": "Action / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/yL6TqK2sLv76vfmUJmwoWWyPwIU.jpg",
         "trailer": "https://www.youtube.com/watch?v=_LYIHKNLJTU"
     },
     {
         "title": "The Phoenician Scheme",
-        "rating": 7,
+        "rating": 7.207,
         "genre": "Drame / Comédie / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/AayVkyoyDRQHpK5d6rAiWzIi4eC.jpg",
         "trailer": "https://www.youtube.com/watch?v=GEuMnPl2WI4"
@@ -71,70 +71,70 @@
     },
     {
         "title": "Back to Business",
-        "rating": 5.948,
+        "rating": 5.9,
         "genre": "Action / Comédie / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/HXusmT7kyEsBJtofDlRSLrNDEN.jpg",
         "trailer": "https://www.youtube.com/watch?v=y7_gi1-bIJs"
     },
     {
         "title": "Drop Game",
-        "rating": 6.514,
+        "rating": 6.5,
         "genre": "Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/frsYDd9alTNvX5vzyGjDgCQh80Y.jpg",
         "trailer": "https://www.youtube.com/watch?v=tZoNPCc-2Vw"
     },
     {
         "title": "The Woman in the Yard",
-        "rating": 6.241,
+        "rating": 6.2,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/s5CWC4eqXRFReLU2ybBv516O7H.jpg",
         "trailer": "https://www.youtube.com/watch?v=27aEM6q1Wqs"
     },
     {
         "title": "Mr. Wolff 2",
-        "rating": 7.127,
+        "rating": 7.126,
         "genre": "Crime / Thriller / Action",
         "poster": "https://image.tmdb.org/t/p/w500/jUCjuO3BpOBv84nRmTJJaA1pUld.jpg",
         "trailer": "https://www.youtube.com/watch?v=RwXDphhQ9Tg"
     },
     {
         "title": "Thunderbolts*",
-        "rating": 7.446,
+        "rating": 7.447,
         "genre": "Action / Science-fiction / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/zctISSBEZRgVQPG178HqRJMnc4x.jpg",
         "trailer": "https://www.youtube.com/watch?v=-sAOWhvheK8"
     },
     {
         "title": "La Légende d'Ochi",
-        "rating": 6.3,
+        "rating": 6.331,
         "genre": "Fantastique / Aventure / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/5VwCkyA5Q0JSSHLOoG4c0bw5Bim.jpg",
         "trailer": "https://www.youtube.com/watch?v=_jTFLg3arYU"
     },
     {
         "title": "Mission: Impossible - The Final Reckoning",
-        "rating": 7.055,
+        "rating": 7.1,
         "genre": "Action / Aventure / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/AozMgdALZuR1hDPZt2a1aXiWmL4.jpg",
         "trailer": "https://www.youtube.com/watch?v=G1VBfMCZVkw"
     },
     {
         "title": "Until Dawn : La Mort sans fin",
-        "rating": 6.437,
+        "rating": 6.501,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/lCdHBrSdJG7G7Anx2wcfaMER8Pd.jpg",
         "trailer": "https://www.youtube.com/watch?v=xR3lVHnh0Gg"
     },
     {
         "title": "Destination finale : Bloodlines",
-        "rating": 7.003,
+        "rating": 7.014,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/4uI8C2zcfLWRhZDBgd0oTlZjV9j.jpg",
         "trailer": "https://www.youtube.com/watch?v=xitSoRbHJ50"
     },
     {
         "title": "Lilo & Stitch",
-        "rating": 7.021,
+        "rating": 7.106,
         "genre": "Famille / Comédie / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/71IjwRa88OJMYJBntId7nn0eFHy.jpg",
         "trailer": "https://www.youtube.com/watch?v=VWqJifMMgZE"
