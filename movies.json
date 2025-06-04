@@ -1,5 +1,12 @@
 [
     {
+        "title": "Les Linceuls",
+        "rating": 5.9,
+        "genre": "Drame / Science-fiction",
+        "poster": "https://image.tmdb.org/t/p/w500/86DyRjhdpODldmGNTw8W9S8YOJc.jpg",
+        "trailer": "https://www.youtube.com/watch?v=YgwJMxh-trw"
+    },
+    {
         "title": "Le Clan des bêtes",
         "rating": 6.62,
         "genre": "Drame / Thriller",
@@ -29,14 +36,14 @@
     },
     {
         "title": "Tu ne mentiras point",
-        "rating": 6.726,
+        "rating": 6.717,
         "genre": "Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/7seB6FGL9qM05ww4WNSMUrifUpZ.jpg",
         "trailer": "https://www.youtube.com/watch?v=PBJ3zgH4pGM"
     },
     {
         "title": "Les Indomptés",
-        "rating": 6.385,
+        "rating": 6.4,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/v6MxZ4Q03A7CViZPKCGqSHKZO6r.jpg",
         "trailer": "https://www.youtube.com/watch?v=2MW146Iezoo"
@@ -50,91 +57,84 @@
     },
     {
         "title": "L'Ultime braquage",
-        "rating": 5.837,
+        "rating": 5.84,
         "genre": "Action / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/yL6TqK2sLv76vfmUJmwoWWyPwIU.jpg",
         "trailer": "https://www.youtube.com/watch?v=_LYIHKNLJTU"
     },
     {
         "title": "The Phoenician Scheme",
-        "rating": 6.8,
+        "rating": 6.801,
         "genre": "Drame / Comédie / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/AayVkyoyDRQHpK5d6rAiWzIi4eC.jpg",
         "trailer": "https://www.youtube.com/watch?v=GEuMnPl2WI4"
     },
     {
         "title": "Ne Zha 2",
-        "rating": 7.932,
+        "rating": 7.944,
         "genre": "Animation / Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/bBd30jSkoMRBoBnJGdgIXif5Aay.jpg",
         "trailer": "https://www.youtube.com/watch?v=nsXQijb0F4I"
     },
     {
         "title": "Back to Business",
-        "rating": 5.923,
+        "rating": 5.9,
         "genre": "Action / Comédie / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/HXusmT7kyEsBJtofDlRSLrNDEN.jpg",
         "trailer": "https://www.youtube.com/watch?v=y7_gi1-bIJs"
     },
     {
         "title": "Drop Game",
-        "rating": 6.48,
+        "rating": 6.5,
         "genre": "Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/frsYDd9alTNvX5vzyGjDgCQh80Y.jpg",
         "trailer": "https://www.youtube.com/watch?v=tZoNPCc-2Vw"
     },
     {
         "title": "The Woman in the Yard",
-        "rating": 6.222,
+        "rating": 6.221,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/s5CWC4eqXRFReLU2ybBv516O7H.jpg",
         "trailer": "https://www.youtube.com/watch?v=27aEM6q1Wqs"
     },
     {
-        "title": "Mr. Wolff 2",
-        "rating": 7.061,
-        "genre": "Crime / Thriller / Action",
-        "poster": "https://image.tmdb.org/t/p/w500/jUCjuO3BpOBv84nRmTJJaA1pUld.jpg",
-        "trailer": "https://www.youtube.com/watch?v=RwXDphhQ9Tg"
-    },
-    {
         "title": "Thunderbolts*",
-        "rating": 7.414,
+        "rating": 7.4,
         "genre": "Action / Science-fiction / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/zctISSBEZRgVQPG178HqRJMnc4x.jpg",
         "trailer": "https://www.youtube.com/watch?v=-sAOWhvheK8"
     },
     {
         "title": "La Légende d'Ochi",
-        "rating": 6.284,
+        "rating": 6.255,
         "genre": "Fantastique / Aventure / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/5VwCkyA5Q0JSSHLOoG4c0bw5Bim.jpg",
         "trailer": "https://www.youtube.com/watch?v=_jTFLg3arYU"
     },
     {
         "title": "Mission: Impossible - The Final Reckoning",
-        "rating": 7.141,
+        "rating": 7.133,
         "genre": "Action / Aventure / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/AozMgdALZuR1hDPZt2a1aXiWmL4.jpg",
         "trailer": "https://www.youtube.com/watch?v=G1VBfMCZVkw"
     },
     {
         "title": "Until Dawn : La Mort sans fin",
-        "rating": 6.5,
+        "rating": 6.463,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/lCdHBrSdJG7G7Anx2wcfaMER8Pd.jpg",
         "trailer": "https://www.youtube.com/watch?v=xR3lVHnh0Gg"
     },
     {
         "title": "Destination finale : Bloodlines",
-        "rating": 6.976,
+        "rating": 6.978,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/4uI8C2zcfLWRhZDBgd0oTlZjV9j.jpg",
         "trailer": "https://www.youtube.com/watch?v=xitSoRbHJ50"
     },
     {
         "title": "Lilo & Stitch",
-        "rating": 7.082,
+        "rating": 7.1,
         "genre": "Famille / Comédie / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/71IjwRa88OJMYJBntId7nn0eFHy.jpg",
         "trailer": "https://www.youtube.com/watch?v=VWqJifMMgZE"
