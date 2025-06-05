@@ -1,5 +1,47 @@
 [
     {
+        "title": "Rumours, nuit blanche au sommet",
+        "rating": 4.9,
+        "genre": "Comédie / Horreur",
+        "poster": "https://image.tmdb.org/t/p/w500/9OtdU9luLnFceGMtNUD7MuoDEr.jpg",
+        "trailer": "https://www.youtube.com/watch?v=xH8OqKozm5o"
+    },
+    {
+        "title": "Sister Midnight",
+        "rating": 7.4,
+        "genre": "Comédie / Drame / Horreur",
+        "poster": "https://image.tmdb.org/t/p/w500/6W5TJyZqNtAWiHDqDIP7lhA0Glf.jpg",
+        "trailer": "https://www.youtube.com/watch?v=g2hiY3SNplw"
+    },
+    {
+        "title": "The Ritual – L’Exorcisme d’Emma Schmidt",
+        "rating": 6,
+        "genre": "Horreur",
+        "poster": "https://image.tmdb.org/t/p/w500/uubL8yvtEBjz3V7DFQHjCuSQO8w.jpg",
+        "trailer": "https://www.youtube.com/watch?v=Y8zUTpO3JAo"
+    },
+    {
+        "title": "Life Of Chuck",
+        "rating": 7,
+        "genre": "Drame / Science-fiction / Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/g996bmEpFQPBDQf5UnDECfi9BfK.jpg",
+        "trailer": "https://www.youtube.com/watch?v=jlN1Mmj6YNo"
+    },
+    {
+        "title": "Thug Life",
+        "rating": 0,
+        "genre": "Action / Crime / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/DmBbUtbA3T9sdVXDgIJ8bsIDw0.jpg",
+        "trailer": null
+    },
+    {
+        "title": "Dragons",
+        "rating": 7.3,
+        "genre": "Action / Famille / Fantastique",
+        "poster": "https://image.tmdb.org/t/p/w500/fIIlud9ehpxhemVygioyJrJkRTL.jpg",
+        "trailer": "https://www.youtube.com/watch?v=OWEq2Pf8qpk"
+    },
+    {
         "title": "Les Linceuls",
         "rating": 5.9,
         "genre": "Drame / Science-fiction",
@@ -7,24 +49,10 @@
         "trailer": "https://www.youtube.com/watch?v=YgwJMxh-trw"
     },
     {
-        "title": "Le Clan des bêtes",
-        "rating": 6.62,
-        "genre": "Drame / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/rVPDAAkwz3ROxiFHXnZhnPDH4jf.jpg",
-        "trailer": "https://www.youtube.com/watch?v=7pIKR6UBogs"
-    },
-    {
         "title": "La mitad de Ana",
-        "rating": 6.778,
+        "rating": 6.7,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/c24RWnJzwAtWZ039o9u6K7c8jyw.jpg",
-        "trailer": null
-    },
-    {
-        "title": "Thudarum",
-        "rating": 7.4,
-        "genre": "Drame / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/uOTDBabtxHA6szYKQNQe9Y7rFlv.jpg",
         "trailer": null
     },
     {
@@ -36,14 +64,14 @@
     },
     {
         "title": "Tu ne mentiras point",
-        "rating": 6.717,
+        "rating": 6.718,
         "genre": "Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/7seB6FGL9qM05ww4WNSMUrifUpZ.jpg",
         "trailer": "https://www.youtube.com/watch?v=PBJ3zgH4pGM"
     },
     {
         "title": "Les Indomptés",
-        "rating": 6.4,
+        "rating": 6.37,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/v6MxZ4Q03A7CViZPKCGqSHKZO6r.jpg",
         "trailer": "https://www.youtube.com/watch?v=2MW146Iezoo"
@@ -64,17 +92,10 @@
     },
     {
         "title": "The Phoenician Scheme",
-        "rating": 6.801,
+        "rating": 6.907,
         "genre": "Drame / Comédie / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/AayVkyoyDRQHpK5d6rAiWzIi4eC.jpg",
         "trailer": "https://www.youtube.com/watch?v=GEuMnPl2WI4"
-    },
-    {
-        "title": "Ne Zha 2",
-        "rating": 7.944,
-        "genre": "Animation / Fantastique / Aventure",
-        "poster": "https://image.tmdb.org/t/p/w500/bBd30jSkoMRBoBnJGdgIXif5Aay.jpg",
-        "trailer": "https://www.youtube.com/watch?v=nsXQijb0F4I"
     },
     {
         "title": "Back to Business",
@@ -84,57 +105,36 @@
         "trailer": "https://www.youtube.com/watch?v=y7_gi1-bIJs"
     },
     {
-        "title": "Drop Game",
-        "rating": 6.5,
-        "genre": "Mystère / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/frsYDd9alTNvX5vzyGjDgCQh80Y.jpg",
-        "trailer": "https://www.youtube.com/watch?v=tZoNPCc-2Vw"
-    },
-    {
         "title": "The Woman in the Yard",
-        "rating": 6.221,
+        "rating": 6.229,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/s5CWC4eqXRFReLU2ybBv516O7H.jpg",
         "trailer": "https://www.youtube.com/watch?v=27aEM6q1Wqs"
     },
     {
         "title": "Thunderbolts*",
-        "rating": 7.4,
+        "rating": 7.412,
         "genre": "Action / Science-fiction / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/zctISSBEZRgVQPG178HqRJMnc4x.jpg",
         "trailer": "https://www.youtube.com/watch?v=-sAOWhvheK8"
     },
     {
-        "title": "La Légende d'Ochi",
-        "rating": 6.255,
-        "genre": "Fantastique / Aventure / Famille",
-        "poster": "https://image.tmdb.org/t/p/w500/5VwCkyA5Q0JSSHLOoG4c0bw5Bim.jpg",
-        "trailer": "https://www.youtube.com/watch?v=_jTFLg3arYU"
-    },
-    {
         "title": "Mission: Impossible - The Final Reckoning",
-        "rating": 7.133,
+        "rating": 7.1,
         "genre": "Action / Aventure / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/AozMgdALZuR1hDPZt2a1aXiWmL4.jpg",
         "trailer": "https://www.youtube.com/watch?v=G1VBfMCZVkw"
     },
     {
-        "title": "Until Dawn : La Mort sans fin",
-        "rating": 6.463,
-        "genre": "Horreur / Mystère",
-        "poster": "https://image.tmdb.org/t/p/w500/lCdHBrSdJG7G7Anx2wcfaMER8Pd.jpg",
-        "trailer": "https://www.youtube.com/watch?v=xR3lVHnh0Gg"
-    },
-    {
         "title": "Destination finale : Bloodlines",
-        "rating": 6.978,
+        "rating": 6.96,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/4uI8C2zcfLWRhZDBgd0oTlZjV9j.jpg",
         "trailer": "https://www.youtube.com/watch?v=xitSoRbHJ50"
     },
     {
         "title": "Lilo & Stitch",
-        "rating": 7.1,
+        "rating": 7.073,
         "genre": "Famille / Comédie / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/71IjwRa88OJMYJBntId7nn0eFHy.jpg",
         "trailer": "https://www.youtube.com/watch?v=VWqJifMMgZE"
