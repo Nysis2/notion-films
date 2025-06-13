@@ -8,7 +8,7 @@
     },
     {
         "title": "Elio",
-        "rating": 0,
+        "rating": 10,
         "genre": "Famille / Comédie / Aventure / Animation / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/jaKbruwD7KLlnprsse1zuOm4o2a.jpg",
         "trailer": "https://www.youtube.com/watch?v=yH5zbV7eweM"
@@ -22,7 +22,7 @@
     },
     {
         "title": "Shadow Force",
-        "rating": 6.3,
+        "rating": 6.341,
         "genre": "Action / Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/uvamlgCZdrIgLlVULp44EYX4xdl.jpg",
         "trailer": "https://www.youtube.com/watch?v=M7LhGytiHFM"
@@ -50,14 +50,14 @@
     },
     {
         "title": "The Ritual – L’Exorcisme d’Emma Schmidt",
-        "rating": 5.861,
+        "rating": 5.921,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/uubL8yvtEBjz3V7DFQHjCuSQO8w.jpg",
         "trailer": "https://www.youtube.com/watch?v=Y8zUTpO3JAo"
     },
     {
         "title": "Life Of Chuck",
-        "rating": 7.7,
+        "rating": 7.471,
         "genre": "Drame / Science-fiction / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/g996bmEpFQPBDQf5UnDECfi9BfK.jpg",
         "trailer": "https://www.youtube.com/watch?v=jlN1Mmj6YNo"
@@ -71,7 +71,7 @@
     },
     {
         "title": "Dragons",
-        "rating": 7.614,
+        "rating": 7.723,
         "genre": "Action / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/fIIlud9ehpxhemVygioyJrJkRTL.jpg",
         "trailer": "https://www.youtube.com/watch?v=OWEq2Pf8qpk"
@@ -85,7 +85,7 @@
     },
     {
         "title": "Hurry Up Tomorrow",
-        "rating": 5.4,
+        "rating": 5.403,
         "genre": "Thriller / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/vGE8xUqiCQnihllRMl5tqYlKz6B.jpg",
         "trailer": "https://www.youtube.com/watch?v=NsIOX5dQrbY"
@@ -99,7 +99,7 @@
     },
     {
         "title": "The Phoenician Scheme",
-        "rating": 6.938,
+        "rating": 6.948,
         "genre": "Drame / Comédie / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/AayVkyoyDRQHpK5d6rAiWzIi4eC.jpg",
         "trailer": "https://www.youtube.com/watch?v=GEuMnPl2WI4"
@@ -113,28 +113,28 @@
     },
     {
         "title": "The Woman in the Yard",
-        "rating": 6.194,
+        "rating": 6.176,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/s5CWC4eqXRFReLU2ybBv516O7H.jpg",
         "trailer": "https://www.youtube.com/watch?v=27aEM6q1Wqs"
     },
     {
         "title": "Mission: Impossible - The Final Reckoning",
-        "rating": 7.152,
+        "rating": 7.1,
         "genre": "Action / Aventure / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/AozMgdALZuR1hDPZt2a1aXiWmL4.jpg",
         "trailer": "https://www.youtube.com/watch?v=G1VBfMCZVkw"
     },
     {
         "title": "Destination finale : Bloodlines",
-        "rating": 6.987,
+        "rating": 6.978,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/4uI8C2zcfLWRhZDBgd0oTlZjV9j.jpg",
         "trailer": "https://www.youtube.com/watch?v=xitSoRbHJ50"
     },
     {
         "title": "Lilo & Stitch",
-        "rating": 7.098,
+        "rating": 7.103,
         "genre": "Famille / Comédie / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/71IjwRa88OJMYJBntId7nn0eFHy.jpg",
         "trailer": "https://www.youtube.com/watch?v=VWqJifMMgZE"
