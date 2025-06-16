@@ -1,14 +1,21 @@
 [
     {
-        "title": "The Return, le retour d'Ulysse",
-        "rating": 6.52,
-        "genre": "Histoire / Drame / Aventure",
-        "poster": "https://image.tmdb.org/t/p/w500/5DsrpyV5tT75CJqrj3ZsWjlVXOA.jpg",
-        "trailer": "https://www.youtube.com/watch?v=aOQQ45ddYdk"
+        "title": "Les maudites",
+        "rating": 6.14,
+        "genre": "Horreur",
+        "poster": "https://image.tmdb.org/t/p/w500/zWKg8YbZpw0ZLCOvlr5wmLd6uB3.jpg",
+        "trailer": "https://www.youtube.com/watch?v=QAVhQtHvCX8"
+    },
+    {
+        "title": "Accident domestique",
+        "rating": 6.978,
+        "genre": "Horreur / Thriller / Drame / Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/gif8yelXkC5Qvvbt6XQGOFRDK08.jpg",
+        "trailer": "https://www.youtube.com/watch?v=v4jE5k5Wmzc"
     },
     {
         "title": "Ballerina",
-        "rating": 7.115,
+        "rating": 7.12,
         "genre": "Action / Thriller / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/e7zUVzux574daVsOlbcvmqEieyn.jpg",
         "trailer": "https://www.youtube.com/watch?v=b9Rr9ygb-ac"
@@ -29,7 +36,7 @@
     },
     {
         "title": "Shadow Force",
-        "rating": 6.3,
+        "rating": 6.313,
         "genre": "Action / Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/uvamlgCZdrIgLlVULp44EYX4xdl.jpg",
         "trailer": "https://www.youtube.com/watch?v=M7LhGytiHFM"
@@ -42,13 +49,6 @@
         "trailer": "https://www.youtube.com/watch?v=1I15ttCedfY"
     },
     {
-        "title": "Sister Midnight",
-        "rating": 7.4,
-        "genre": "Comédie / Drame / Horreur",
-        "poster": "https://image.tmdb.org/t/p/w500/6W5TJyZqNtAWiHDqDIP7lhA0Glf.jpg",
-        "trailer": "https://www.youtube.com/watch?v=g2hiY3SNplw"
-    },
-    {
         "title": "The Ritual – L’Exorcisme d’Emma Schmidt",
         "rating": 5.8,
         "genre": "Horreur",
@@ -57,7 +57,7 @@
     },
     {
         "title": "Life Of Chuck",
-        "rating": 7.5,
+        "rating": 7.543,
         "genre": "Drame / Science-fiction / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/g996bmEpFQPBDQf5UnDECfi9BfK.jpg",
         "trailer": "https://www.youtube.com/watch?v=jlN1Mmj6YNo"
@@ -71,7 +71,7 @@
     },
     {
         "title": "Dragons",
-        "rating": 7.887,
+        "rating": 7.971,
         "genre": "Action / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/fIIlud9ehpxhemVygioyJrJkRTL.jpg",
         "trailer": "https://www.youtube.com/watch?v=OWEq2Pf8qpk"
@@ -99,7 +99,7 @@
     },
     {
         "title": "The Phoenician Scheme",
-        "rating": 6.954,
+        "rating": 6.979,
         "genre": "Drame / Comédie / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/AayVkyoyDRQHpK5d6rAiWzIi4eC.jpg",
         "trailer": "https://www.youtube.com/watch?v=GEuMnPl2WI4"
@@ -113,28 +113,28 @@
     },
     {
         "title": "The Woman in the Yard",
-        "rating": 6.163,
+        "rating": 6.133,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/s5CWC4eqXRFReLU2ybBv516O7H.jpg",
         "trailer": "https://www.youtube.com/watch?v=27aEM6q1Wqs"
     },
     {
         "title": "Mission: Impossible - The Final Reckoning",
-        "rating": 7.1,
+        "rating": 7.147,
         "genre": "Action / Aventure / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/AozMgdALZuR1hDPZt2a1aXiWmL4.jpg",
         "trailer": "https://www.youtube.com/watch?v=G1VBfMCZVkw"
     },
     {
         "title": "Destination finale : Bloodlines",
-        "rating": 6.979,
+        "rating": 7,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/4uI8C2zcfLWRhZDBgd0oTlZjV9j.jpg",
         "trailer": "https://www.youtube.com/watch?v=xitSoRbHJ50"
     },
     {
         "title": "Lilo & Stitch",
-        "rating": 7.1,
+        "rating": 7.104,
         "genre": "Famille / Comédie / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/71IjwRa88OJMYJBntId7nn0eFHy.jpg",
         "trailer": "https://www.youtube.com/watch?v=VWqJifMMgZE"
