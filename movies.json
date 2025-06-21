@@ -1,7 +1,7 @@
 [
     {
         "title": "Sister Midnight",
-        "rating": 6.591,
+        "rating": 6.542,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/78zyteidOTylo9kzkFQ6EqVNCYw.jpg",
         "trailer": "https://www.youtube.com/watch?v=g2hiY3SNplw"
@@ -15,35 +15,35 @@
     },
     {
         "title": "F1® Le Film",
-        "rating": 8,
+        "rating": 9,
         "genre": "Action / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/lWCPcMevGaTWR9MawrPkMpJGTsz.jpg",
         "trailer": "https://www.youtube.com/watch?v=ge_ABjtYx88"
     },
     {
         "title": "Ballerina",
-        "rating": 7.1,
+        "rating": 7.086,
         "genre": "Action / Thriller / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/e7zUVzux574daVsOlbcvmqEieyn.jpg",
         "trailer": "https://www.youtube.com/watch?v=b9Rr9ygb-ac"
     },
     {
         "title": "Elio",
-        "rating": 6.66,
+        "rating": 6.955,
         "genre": "Famille / Comédie / Aventure / Animation / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/jaKbruwD7KLlnprsse1zuOm4o2a.jpg",
         "trailer": "https://www.youtube.com/watch?v=yH5zbV7eweM"
     },
     {
         "title": "28 Ans plus tard",
-        "rating": 7.579,
+        "rating": 7.403,
         "genre": "Horreur / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/qDMPLkbb7DyixwTAyZJqDUnJ9dR.jpg",
         "trailer": "https://www.youtube.com/watch?v=IYGG55qwQZQ"
     },
     {
         "title": "Shadow Force",
-        "rating": 6.372,
+        "rating": 6.418,
         "genre": "Action / Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/uvamlgCZdrIgLlVULp44EYX4xdl.jpg",
         "trailer": "https://www.youtube.com/watch?v=M7LhGytiHFM"
@@ -57,7 +57,7 @@
     },
     {
         "title": "Life Of Chuck",
-        "rating": 7.698,
+        "rating": 7.737,
         "genre": "Drame / Science-fiction / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/g996bmEpFQPBDQf5UnDECfi9BfK.jpg",
         "trailer": "https://www.youtube.com/watch?v=jlN1Mmj6YNo"
@@ -71,7 +71,7 @@
     },
     {
         "title": "Dragons",
-        "rating": 7.9,
+        "rating": 7.997,
         "genre": "Action / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/fIIlud9ehpxhemVygioyJrJkRTL.jpg",
         "trailer": "https://www.youtube.com/watch?v=OWEq2Pf8qpk"
@@ -85,7 +85,7 @@
     },
     {
         "title": "Hurry Up Tomorrow",
-        "rating": 5.5,
+        "rating": 5.467,
         "genre": "Thriller / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/vGE8xUqiCQnihllRMl5tqYlKz6B.jpg",
         "trailer": "https://www.youtube.com/watch?v=NsIOX5dQrbY"
@@ -99,42 +99,42 @@
     },
     {
         "title": "The Phoenician Scheme",
-        "rating": 6.949,
+        "rating": 7,
         "genre": "Drame / Comédie / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/AayVkyoyDRQHpK5d6rAiWzIi4eC.jpg",
         "trailer": "https://www.youtube.com/watch?v=GEuMnPl2WI4"
     },
     {
         "title": "Back to Business",
-        "rating": 5.925,
+        "rating": 5.933,
         "genre": "Action / Comédie / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/HXusmT7kyEsBJtofDlRSLrNDEN.jpg",
         "trailer": "https://www.youtube.com/watch?v=y7_gi1-bIJs"
     },
     {
         "title": "The Woman in the Yard",
-        "rating": 6.154,
+        "rating": 6.1,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/s5CWC4eqXRFReLU2ybBv516O7H.jpg",
         "trailer": "https://www.youtube.com/watch?v=27aEM6q1Wqs"
     },
     {
         "title": "Mission: Impossible - The Final Reckoning",
-        "rating": 7.162,
+        "rating": 7.154,
         "genre": "Action / Aventure / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/AozMgdALZuR1hDPZt2a1aXiWmL4.jpg",
         "trailer": "https://www.youtube.com/watch?v=G1VBfMCZVkw"
     },
     {
         "title": "Destination finale : Bloodlines",
-        "rating": 7.209,
+        "rating": 7.213,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/4uI8C2zcfLWRhZDBgd0oTlZjV9j.jpg",
         "trailer": "https://www.youtube.com/watch?v=xitSoRbHJ50"
     },
     {
         "title": "Lilo & Stitch",
-        "rating": 7.099,
+        "rating": 7.11,
         "genre": "Famille / Comédie / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/71IjwRa88OJMYJBntId7nn0eFHy.jpg",
         "trailer": "https://www.youtube.com/watch?v=VWqJifMMgZE"
