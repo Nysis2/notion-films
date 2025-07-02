@@ -1,5 +1,33 @@
 [
     {
+        "title": "Hot Milk",
+        "rating": 5.111,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/fwmzpOcrBlL84euYMq2fjLoI8JU.jpg",
+        "trailer": "https://www.youtube.com/watch?v=4w-fBOq9wzo"
+    },
+    {
+        "title": "Terrifier",
+        "rating": 6.345,
+        "genre": "Horreur / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/deOSc1shhi8NhBUeSa6NkXQ2ivL.jpg",
+        "trailer": "https://www.youtube.com/watch?v=fN5j1MtGO2Q"
+    },
+    {
+        "title": "Superman",
+        "rating": 0,
+        "genre": "Action / Aventure / Science-fiction",
+        "poster": "https://image.tmdb.org/t/p/w500/bL1U8TDb2ZiThIBFAdKHOfpv8lk.jpg",
+        "trailer": "https://www.youtube.com/watch?v=zSwQyH95Cyo"
+    },
+    {
+        "title": "Jurassic World : Renaissance",
+        "rating": 7.4,
+        "genre": "Science-fiction / Aventure / Action",
+        "poster": "https://image.tmdb.org/t/p/w500/yq9PfUpsBEUZXPvRiubiBiWkOYn.jpg",
+        "trailer": "https://www.youtube.com/watch?v=2ZhB-YO5Tnk"
+    },
+    {
         "title": "Désir",
         "rating": 6.6,
         "genre": "Drame",
@@ -7,22 +35,15 @@
         "trailer": "https://www.youtube.com/watch?v=8pA-dnr8jUE"
     },
     {
-        "title": "La mitad de Ana",
-        "rating": 7,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/c24RWnJzwAtWZ039o9u6K7c8jyw.jpg",
-        "trailer": null
-    },
-    {
         "title": "Materialists",
-        "rating": 7.2,
+        "rating": 7.3,
         "genre": "Romance / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/ycS4AydmXRWL4uj2vCwJOdfrcVt.jpg",
         "trailer": "https://www.youtube.com/watch?v=9gjeXsTsxqY"
     },
     {
         "title": "The Ugly Stepsister",
-        "rating": 7.188,
+        "rating": 7.199,
         "genre": "Horreur / Comédie / Fantastique / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/hRbaOImESNEJWC2SZ8qHXiRFm4i.jpg",
         "trailer": "https://www.youtube.com/watch?v=5vZ1_Yxjwzs"
@@ -50,63 +71,56 @@
     },
     {
         "title": "F1® Le Film",
-        "rating": 7.638,
+        "rating": 7.7,
         "genre": "Action / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/lWCPcMevGaTWR9MawrPkMpJGTsz.jpg",
         "trailer": "https://www.youtube.com/watch?v=ge_ABjtYx88"
     },
     {
         "title": "Ballerina",
-        "rating": 7.052,
+        "rating": 7.055,
         "genre": "Action / Thriller / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/e7zUVzux574daVsOlbcvmqEieyn.jpg",
         "trailer": "https://www.youtube.com/watch?v=b9Rr9ygb-ac"
     },
     {
         "title": "Elio",
-        "rating": 6.915,
+        "rating": 6.825,
         "genre": "Famille / Comédie / Aventure / Animation / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/jaKbruwD7KLlnprsse1zuOm4o2a.jpg",
         "trailer": "https://www.youtube.com/watch?v=yH5zbV7eweM"
     },
     {
         "title": "28 Ans plus tard",
-        "rating": 7.165,
+        "rating": 7.177,
         "genre": "Horreur / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/qDMPLkbb7DyixwTAyZJqDUnJ9dR.jpg",
         "trailer": "https://www.youtube.com/watch?v=IYGG55qwQZQ"
     },
     {
         "title": "Shadow Force",
-        "rating": 6.214,
+        "rating": 6.2,
         "genre": "Action / Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/uvamlgCZdrIgLlVULp44EYX4xdl.jpg",
         "trailer": "https://www.youtube.com/watch?v=M7LhGytiHFM"
     },
     {
         "title": "Substitution - Bring Her Back",
-        "rating": 7.073,
+        "rating": 6.9,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/lNwjWspvbwd9wQYpVKXaZm9LfK9.jpg",
         "trailer": "https://www.youtube.com/watch?v=1I15ttCedfY"
     },
     {
         "title": "Life Of Chuck",
-        "rating": 7.56,
+        "rating": 7.483,
         "genre": "Drame / Science-fiction / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/g996bmEpFQPBDQf5UnDECfi9BfK.jpg",
         "trailer": "https://www.youtube.com/watch?v=jlN1Mmj6YNo"
     },
     {
-        "title": "Thug Life",
-        "rating": 5.273,
-        "genre": "Action / Crime / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/DmBbUtbA3T9sdVXDgIJ8bsIDw0.jpg",
-        "trailer": null
-    },
-    {
         "title": "Dragons",
-        "rating": 7.943,
+        "rating": 7.926,
         "genre": "Action / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/fIIlud9ehpxhemVygioyJrJkRTL.jpg",
         "trailer": "https://www.youtube.com/watch?v=OWEq2Pf8qpk"
@@ -120,23 +134,9 @@
     },
     {
         "title": "The Phoenician Scheme",
-        "rating": 6.91,
+        "rating": 6.906,
         "genre": "Drame / Comédie / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/AayVkyoyDRQHpK5d6rAiWzIi4eC.jpg",
         "trailer": "https://www.youtube.com/watch?v=GEuMnPl2WI4"
-    },
-    {
-        "title": "Mission: Impossible - The Final Reckoning",
-        "rating": 7.2,
-        "genre": "Action / Aventure / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/AozMgdALZuR1hDPZt2a1aXiWmL4.jpg",
-        "trailer": "https://www.youtube.com/watch?v=G1VBfMCZVkw"
-    },
-    {
-        "title": "Lilo & Stitch",
-        "rating": 7.1,
-        "genre": "Famille / Comédie / Science-fiction",
-        "poster": "https://image.tmdb.org/t/p/w500/71IjwRa88OJMYJBntId7nn0eFHy.jpg",
-        "trailer": "https://www.youtube.com/watch?v=VWqJifMMgZE"
     }
 ]
