@@ -1,14 +1,35 @@
 [
     {
-        "title": "The Return, le retour d'Ulysse",
-        "rating": 6.5,
-        "genre": "Histoire / Drame / Aventure",
-        "poster": "https://image.tmdb.org/t/p/w500/5DsrpyV5tT75CJqrj3ZsWjlVXOA.jpg",
-        "trailer": "https://www.youtube.com/watch?v=aOQQ45ddYdk"
+        "title": "La Trilogie d'Oslo / Désir",
+        "rating": 6.6,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/mjxTLdCfyr6GAyW5l5A839W1fKI.jpg",
+        "trailer": "https://www.youtube.com/watch?v=8pA-dnr8jUE"
+    },
+    {
+        "title": "Eddington",
+        "rating": 0,
+        "genre": "Western / Drame / Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/jouqIYKad0NGVqLcoS5jVu2tKml.jpg",
+        "trailer": "https://www.youtube.com/watch?v=ytyBfsqN3eI"
+    },
+    {
+        "title": "Souviens-toi… l'été dernier",
+        "rating": 0,
+        "genre": "Horreur / Mystère / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/mLKQtg75oAx3L5prBuzfr7zWQBw.jpg",
+        "trailer": "https://www.youtube.com/watch?v=IceTkSOSNJI"
+    },
+    {
+        "title": "Les Schtroumpfs",
+        "rating": 8.5,
+        "genre": "Animation / Famille / Fantastique",
+        "poster": "https://image.tmdb.org/t/p/w500/1Ee26rIanprYQAwnQEDw1331cp4.jpg",
+        "trailer": "https://www.youtube.com/watch?v=_N7kNc4-ZUg"
     },
     {
         "title": "Thug Life",
-        "rating": 5.4,
+        "rating": 5.231,
         "genre": "Action / Crime / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/DmBbUtbA3T9sdVXDgIJ8bsIDw0.jpg",
         "trailer": null
@@ -21,15 +42,8 @@
         "trailer": "https://www.youtube.com/watch?v=K-8nIAQit3o"
     },
     {
-        "title": "Hot Milk",
-        "rating": 5.591,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/fwmzpOcrBlL84euYMq2fjLoI8JU.jpg",
-        "trailer": "https://www.youtube.com/watch?v=4w-fBOq9wzo"
-    },
-    {
         "title": "Superman",
-        "rating": 5.2,
+        "rating": 6.543,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/bL1U8TDb2ZiThIBFAdKHOfpv8lk.jpg",
         "trailer": "https://www.youtube.com/watch?v=zSwQyH95Cyo"
@@ -43,14 +57,14 @@
     },
     {
         "title": "Materialists",
-        "rating": 6.955,
+        "rating": 7,
         "genre": "Romance / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/ycS4AydmXRWL4uj2vCwJOdfrcVt.jpg",
         "trailer": "https://www.youtube.com/watch?v=9gjeXsTsxqY"
     },
     {
         "title": "The Ugly Stepsister",
-        "rating": 7.224,
+        "rating": 7.265,
         "genre": "Horreur / Comédie / Fantastique / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/hRbaOImESNEJWC2SZ8qHXiRFm4i.jpg",
         "trailer": "https://www.youtube.com/watch?v=5vZ1_Yxjwzs"
@@ -71,42 +85,42 @@
     },
     {
         "title": "F1® Le Film",
-        "rating": 7.667,
+        "rating": 7.68,
         "genre": "Action / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/lWCPcMevGaTWR9MawrPkMpJGTsz.jpg",
         "trailer": "https://www.youtube.com/watch?v=ge_ABjtYx88"
     },
     {
         "title": "Ballerina",
-        "rating": 7.332,
+        "rating": 7.4,
         "genre": "Action / Thriller / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/e7zUVzux574daVsOlbcvmqEieyn.jpg",
         "trailer": "https://www.youtube.com/watch?v=b9Rr9ygb-ac"
     },
     {
         "title": "Elio",
-        "rating": 6.8,
+        "rating": 6.783,
         "genre": "Famille / Comédie / Aventure / Animation / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/jaKbruwD7KLlnprsse1zuOm4o2a.jpg",
         "trailer": "https://www.youtube.com/watch?v=yH5zbV7eweM"
     },
     {
         "title": "28 Ans plus tard",
-        "rating": 7.218,
+        "rating": 7.193,
         "genre": "Horreur / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/qDMPLkbb7DyixwTAyZJqDUnJ9dR.jpg",
         "trailer": "https://www.youtube.com/watch?v=IYGG55qwQZQ"
     },
     {
         "title": "Shadow Force",
-        "rating": 6.2,
+        "rating": 6.179,
         "genre": "Action / Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/uvamlgCZdrIgLlVULp44EYX4xdl.jpg",
         "trailer": "https://www.youtube.com/watch?v=M7LhGytiHFM"
     },
     {
         "title": "Substitution - Bring Her Back",
-        "rating": 7.293,
+        "rating": 7.3,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/lNwjWspvbwd9wQYpVKXaZm9LfK9.jpg",
         "trailer": "https://www.youtube.com/watch?v=1I15ttCedfY"
@@ -120,23 +134,9 @@
     },
     {
         "title": "Dragons",
-        "rating": 7.897,
+        "rating": 7.896,
         "genre": "Action / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/fIIlud9ehpxhemVygioyJrJkRTL.jpg",
         "trailer": "https://www.youtube.com/watch?v=OWEq2Pf8qpk"
-    },
-    {
-        "title": "L'Ultime braquage",
-        "rating": 6,
-        "genre": "Action / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/yL6TqK2sLv76vfmUJmwoWWyPwIU.jpg",
-        "trailer": "https://www.youtube.com/watch?v=_LYIHKNLJTU"
-    },
-    {
-        "title": "The Phoenician Scheme",
-        "rating": 6.892,
-        "genre": "Drame / Comédie / Crime",
-        "poster": "https://image.tmdb.org/t/p/w500/AayVkyoyDRQHpK5d6rAiWzIi4eC.jpg",
-        "trailer": "https://www.youtube.com/watch?v=GEuMnPl2WI4"
     }
 ]
