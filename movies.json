@@ -1,14 +1,21 @@
 [
     {
-        "title": "The Return, le retour d'Ulysse",
-        "rating": 6.5,
-        "genre": "Histoire / Drame / Aventure",
-        "poster": "https://image.tmdb.org/t/p/w500/5DsrpyV5tT75CJqrj3ZsWjlVXOA.jpg",
-        "trailer": "https://www.youtube.com/watch?v=aOQQ45ddYdk"
+        "title": "La Trilogie d'Oslo / Désir",
+        "rating": 6.621,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/mjxTLdCfyr6GAyW5l5A839W1fKI.jpg",
+        "trailer": "https://www.youtube.com/watch?v=8pA-dnr8jUE"
+    },
+    {
+        "title": "Dìdi",
+        "rating": 7.171,
+        "genre": "Comédie / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/dg151xqjJdecw7biwl9UtG1RMui.jpg",
+        "trailer": "https://www.youtube.com/watch?v=e6gve8GtSuU"
     },
     {
         "title": "Jurassic World: Renaissance",
-        "rating": 6.434,
+        "rating": 6.442,
         "genre": "Science-fiction / Aventure / Action",
         "poster": "https://image.tmdb.org/t/p/w500/yq9PfUpsBEUZXPvRiubiBiWkOYn.jpg",
         "trailer": "https://www.youtube.com/watch?v=2ZhB-YO5Tnk"
@@ -29,7 +36,7 @@
     },
     {
         "title": "Les Schtroumpfs",
-        "rating": 8.5,
+        "rating": 7,
         "genre": "Animation / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/1Ee26rIanprYQAwnQEDw1331cp4.jpg",
         "trailer": "https://www.youtube.com/watch?v=_N7kNc4-ZUg"
@@ -42,29 +49,22 @@
         "trailer": null
     },
     {
-        "title": "13 jours, 13 nuits",
-        "rating": 6.436,
-        "genre": "Action / Thriller / Guerre",
-        "poster": "https://image.tmdb.org/t/p/w500/j3FN1msfXUOFGhy9viu4NNL6btF.jpg",
-        "trailer": "https://www.youtube.com/watch?v=K-8nIAQit3o"
-    },
-    {
         "title": "Superman",
-        "rating": 7.3,
+        "rating": 7.4,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/bL1U8TDb2ZiThIBFAdKHOfpv8lk.jpg",
         "trailer": "https://www.youtube.com/watch?v=nZTgJy8ym34"
     },
     {
         "title": "Materialists",
-        "rating": 7.021,
+        "rating": 7,
         "genre": "Romance / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/ycS4AydmXRWL4uj2vCwJOdfrcVt.jpg",
         "trailer": "https://www.youtube.com/watch?v=9gjeXsTsxqY"
     },
     {
         "title": "The Ugly Stepsister",
-        "rating": 7.234,
+        "rating": 7.2,
         "genre": "Horreur / Comédie / Fantastique / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/hRbaOImESNEJWC2SZ8qHXiRFm4i.jpg",
         "trailer": "https://www.youtube.com/watch?v=5vZ1_Yxjwzs"
@@ -78,7 +78,7 @@
     },
     {
         "title": "M3GAN 2.0",
-        "rating": 7.206,
+        "rating": 7.227,
         "genre": "Action / Horreur / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/jZPxSifab5N6PgEgwBxCr6jxacp.jpg",
         "trailer": "https://www.youtube.com/watch?v=1FeiTZMtwLA"
@@ -92,7 +92,7 @@
     },
     {
         "title": "Ballerina",
-        "rating": 7.432,
+        "rating": 7.419,
         "genre": "Action / Thriller / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/e7zUVzux574daVsOlbcvmqEieyn.jpg",
         "trailer": "https://www.youtube.com/watch?v=b9Rr9ygb-ac"
@@ -106,7 +106,7 @@
     },
     {
         "title": "28 Ans plus tard",
-        "rating": 7.196,
+        "rating": 7.186,
         "genre": "Horreur / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/qDMPLkbb7DyixwTAyZJqDUnJ9dR.jpg",
         "trailer": "https://www.youtube.com/watch?v=IYGG55qwQZQ"
@@ -120,21 +120,21 @@
     },
     {
         "title": "Substitution - Bring Her Back",
-        "rating": 7.367,
+        "rating": 7.4,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/lNwjWspvbwd9wQYpVKXaZm9LfK9.jpg",
         "trailer": "https://www.youtube.com/watch?v=1I15ttCedfY"
     },
     {
         "title": "Life Of Chuck",
-        "rating": 7.314,
+        "rating": 7.3,
         "genre": "Drame / Science-fiction / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/g996bmEpFQPBDQf5UnDECfi9BfK.jpg",
         "trailer": "https://www.youtube.com/watch?v=jlN1Mmj6YNo"
     },
     {
         "title": "Dragons",
-        "rating": 7.895,
+        "rating": 7.9,
         "genre": "Action / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/fIIlud9ehpxhemVygioyJrJkRTL.jpg",
         "trailer": "https://www.youtube.com/watch?v=OWEq2Pf8qpk"
