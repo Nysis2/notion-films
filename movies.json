@@ -1,7 +1,14 @@
 [
     {
+        "title": "Sorry, Baby",
+        "rating": 6.583,
+        "genre": "Drame / Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/iq1QtN1H8AVEBfl1SgNAqhMgTbQ.jpg",
+        "trailer": "https://www.youtube.com/watch?v=ju8sMjH_hfo"
+    },
+    {
         "title": "Mond",
-        "rating": 6.875,
+        "rating": 6.923,
         "genre": "Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/s1NmH3zf8dyBssxHOLsWQes8Nim.jpg",
         "trailer": "https://www.youtube.com/watch?v=w8lH85vp_t8"
@@ -15,7 +22,7 @@
     },
     {
         "title": "Substitution - Bring Her Back",
-        "rating": 7.4,
+        "rating": 7.432,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/lNwjWspvbwd9wQYpVKXaZm9LfK9.jpg",
         "trailer": "https://www.youtube.com/watch?v=1I15ttCedfY"
@@ -29,42 +36,35 @@
     },
     {
         "title": "Jurassic World : Renaissance",
-        "rating": 6.4,
+        "rating": 6.362,
         "genre": "Science-fiction / Aventure / Action",
         "poster": "https://image.tmdb.org/t/p/w500/yq9PfUpsBEUZXPvRiubiBiWkOYn.jpg",
         "trailer": "https://www.youtube.com/watch?v=2ZhB-YO5Tnk"
     },
     {
-        "title": "The Friend",
-        "rating": 6.612,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/cCS4jWQBxZdIMw5TnTr5jo5jpnx.jpg",
-        "trailer": "https://www.youtube.com/watch?v=K2Df2g0Gl6o"
-    },
-    {
         "title": "Dangerous Animals",
-        "rating": 6.745,
+        "rating": 6.644,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/fVZxvR7Vth5UOIXSlrbcJKF9O4g.jpg",
         "trailer": "https://www.youtube.com/watch?v=WR2btzjmmuc"
     },
     {
         "title": "Les 4 Fantastiques : Premiers pas",
-        "rating": 7.311,
+        "rating": 7.306,
         "genre": "Science-fiction / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/2REHnvEBsPA121X4Fi8dvGaYJ4o.jpg",
         "trailer": "https://www.youtube.com/watch?v=b-WdRqzSJ9w"
     },
     {
         "title": "La Trilogie d'Oslo / Désir",
-        "rating": 6.6,
+        "rating": 6.667,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/mjxTLdCfyr6GAyW5l5A839W1fKI.jpg",
         "trailer": "https://www.youtube.com/watch?v=8pA-dnr8jUE"
     },
     {
         "title": "Eddington",
-        "rating": 6.9,
+        "rating": 6.8,
         "genre": "Western / Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/jouqIYKad0NGVqLcoS5jVu2tKml.jpg",
         "trailer": "https://www.youtube.com/watch?v=ytyBfsqN3eI"
@@ -85,14 +85,14 @@
     },
     {
         "title": "Superman",
-        "rating": 7.448,
+        "rating": 7.428,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/bL1U8TDb2ZiThIBFAdKHOfpv8lk.jpg",
         "trailer": "https://www.youtube.com/watch?v=nZTgJy8ym34"
     },
     {
         "title": "Materialists",
-        "rating": 6.868,
+        "rating": 6.804,
         "genre": "Romance / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/ycS4AydmXRWL4uj2vCwJOdfrcVt.jpg",
         "trailer": "https://www.youtube.com/watch?v=9gjeXsTsxqY"
@@ -113,28 +113,28 @@
     },
     {
         "title": "M3GAN 2.0",
-        "rating": 7.681,
+        "rating": 7.6,
         "genre": "Action / Horreur / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/jZPxSifab5N6PgEgwBxCr6jxacp.jpg",
         "trailer": "https://www.youtube.com/watch?v=1FeiTZMtwLA"
     },
     {
         "title": "F1® Le Film",
-        "rating": 7.6,
+        "rating": 7.615,
         "genre": "Action / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/lWCPcMevGaTWR9MawrPkMpJGTsz.jpg",
         "trailer": "https://www.youtube.com/watch?v=ge_ABjtYx88"
     },
     {
         "title": "Elio",
-        "rating": 6.823,
+        "rating": 6.829,
         "genre": "Famille / Comédie / Aventure / Animation / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/jaKbruwD7KLlnprsse1zuOm4o2a.jpg",
         "trailer": "https://www.youtube.com/watch?v=yH5zbV7eweM"
     },
     {
         "title": "28 Ans plus tard",
-        "rating": 7.1,
+        "rating": 7.138,
         "genre": "Horreur / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/qDMPLkbb7DyixwTAyZJqDUnJ9dR.jpg",
         "trailer": "https://www.youtube.com/watch?v=IYGG55qwQZQ"
