@@ -1,7 +1,7 @@
 [
     {
         "title": "Dracula",
-        "rating": 7.4,
+        "rating": 7.143,
         "genre": "Horreur / Fantastique / Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/juUIOcOQ0ip9qw3ecH9IBEQklEp.jpg",
         "trailer": "https://www.youtube.com/watch?v=sO0-l6INusw"
@@ -22,14 +22,14 @@
     },
     {
         "title": "La Trilogie d'Oslo / Désir",
-        "rating": 6.75,
+        "rating": 6.7,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/mjxTLdCfyr6GAyW5l5A839W1fKI.jpg",
         "trailer": "https://www.youtube.com/watch?v=8pA-dnr8jUE"
     },
     {
         "title": "Saiyaara",
-        "rating": 6.2,
+        "rating": 6.274,
         "genre": "Romance / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/jymezcmEcFvlb037V4SSx8a4SMq.jpg",
         "trailer": null
@@ -57,28 +57,28 @@
     },
     {
         "title": "Substitution - Bring Her Back",
-        "rating": 7.428,
+        "rating": 7.43,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/lNwjWspvbwd9wQYpVKXaZm9LfK9.jpg",
         "trailer": "https://www.youtube.com/watch?v=1I15ttCedfY"
     },
     {
         "title": "Jurassic World : Renaissance",
-        "rating": 6.3,
+        "rating": 6.33,
         "genre": "Science-fiction / Aventure / Action",
         "poster": "https://image.tmdb.org/t/p/w500/yq9PfUpsBEUZXPvRiubiBiWkOYn.jpg",
         "trailer": "https://www.youtube.com/watch?v=2ZhB-YO5Tnk"
     },
     {
         "title": "Dangerous Animals",
-        "rating": 6.5,
+        "rating": 6.483,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/fVZxvR7Vth5UOIXSlrbcJKF9O4g.jpg",
         "trailer": "https://www.youtube.com/watch?v=WR2btzjmmuc"
     },
     {
         "title": "Les 4 Fantastiques : Premiers pas",
-        "rating": 7.355,
+        "rating": 7.4,
         "genre": "Science-fiction / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/2REHnvEBsPA121X4Fi8dvGaYJ4o.jpg",
         "trailer": "https://www.youtube.com/watch?v=b-WdRqzSJ9w"
@@ -99,7 +99,7 @@
     },
     {
         "title": "Les Schtroumpfs",
-        "rating": 5.99,
+        "rating": 6.14,
         "genre": "Animation / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/1Ee26rIanprYQAwnQEDw1331cp4.jpg",
         "trailer": "https://www.youtube.com/watch?v=_N7kNc4-ZUg"
@@ -113,7 +113,7 @@
     },
     {
         "title": "Materialists",
-        "rating": 6.762,
+        "rating": 6.8,
         "genre": "Romance / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/ycS4AydmXRWL4uj2vCwJOdfrcVt.jpg",
         "trailer": "https://www.youtube.com/watch?v=9gjeXsTsxqY"
@@ -127,7 +127,7 @@
     },
     {
         "title": "M3GAN 2.0",
-        "rating": 7.67,
+        "rating": 7.7,
         "genre": "Action / Horreur / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/jZPxSifab5N6PgEgwBxCr6jxacp.jpg",
         "trailer": "https://www.youtube.com/watch?v=1FeiTZMtwLA"
