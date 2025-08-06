@@ -1,31 +1,52 @@
 [
     {
+        "title": "Nobody 2",
+        "rating": 0,
+        "genre": "Action / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/lLBP1r4eCK28DgXfL0adjkG3XBT.jpg",
+        "trailer": "https://www.youtube.com/watch?v=UGOvEad8qd4"
+    },
+    {
+        "title": "Together",
+        "rating": 7.754,
+        "genre": "Horreur",
+        "poster": "https://image.tmdb.org/t/p/w500/ijTTISrLopthgligJOPOx4jEyoH.jpg",
+        "trailer": "https://www.youtube.com/watch?v=9bqIwMH3En8"
+    },
+    {
+        "title": "Y a-t-il un flic pour sauver le monde ?",
+        "rating": 7.2,
+        "genre": "Comédie / Crime",
+        "poster": "https://image.tmdb.org/t/p/w500/v9maMvSxrDb9BKmV1XtWO0Lpmsa.jpg",
+        "trailer": "https://www.youtube.com/watch?v=uLguU7WLreA"
+    },
+    {
+        "title": "Karate Kid : Legends",
+        "rating": 7.1,
+        "genre": "Action / Aventure / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/n4ZPnouW3jpUnkSEpU3sFG9SCEs.jpg",
+        "trailer": "https://www.youtube.com/watch?v=LhRXf-yEQqA"
+    },
+    {
         "title": "Dracula",
-        "rating": 7,
+        "rating": 6.727,
         "genre": "Horreur / Fantastique / Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/juUIOcOQ0ip9qw3ecH9IBEQklEp.jpg",
         "trailer": "https://www.youtube.com/watch?v=sO0-l6INusw"
     },
     {
         "title": "Freaky Friday 2 : Encore dans la peau de ma mère",
-        "rating": 8.9,
+        "rating": 8.1,
         "genre": "Fantastique / Comédie / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/4cd7H9r59pWS6jXkiCHcuShzbeS.jpg",
         "trailer": "https://www.youtube.com/watch?v=IyJzhtJEtoU"
     },
     {
         "title": "Évanouis",
-        "rating": 8.5,
+        "rating": 8.2,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/krIs8BtrdS8Sf6B8Z70eEdbDbkx.jpg",
         "trailer": "https://www.youtube.com/watch?v=QKHySfXqN0I"
-    },
-    {
-        "title": "La Trilogie d'Oslo / Désir",
-        "rating": 6.7,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/mjxTLdCfyr6GAyW5l5A839W1fKI.jpg",
-        "trailer": "https://www.youtube.com/watch?v=8pA-dnr8jUE"
     },
     {
         "title": "Saiyaara",
@@ -42,71 +63,64 @@
         "trailer": "https://www.youtube.com/watch?v=9Y_pZ3uXreM"
     },
     {
-        "title": "Mond",
-        "rating": 6.9,
-        "genre": "Drame / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/s1NmH3zf8dyBssxHOLsWQes8Nim.jpg",
-        "trailer": "https://www.youtube.com/watch?v=w8lH85vp_t8"
-    },
-    {
         "title": "Les Bad Guys 2",
-        "rating": 7.5,
+        "rating": 7.6,
         "genre": "Famille / Comédie / Crime / Aventure / Animation",
         "poster": "https://image.tmdb.org/t/p/w500/opKf1uITVUkm8nteNM54uIgJZKQ.jpg",
         "trailer": "https://www.youtube.com/watch?v=HvLHYox_Vq8"
     },
     {
         "title": "Substitution - Bring Her Back",
-        "rating": 7.414,
+        "rating": 7.4,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/lNwjWspvbwd9wQYpVKXaZm9LfK9.jpg",
         "trailer": "https://www.youtube.com/watch?v=1I15ttCedfY"
     },
     {
         "title": "Jurassic World : Renaissance",
-        "rating": 6.333,
+        "rating": 6.3,
         "genre": "Science-fiction / Aventure / Action",
         "poster": "https://image.tmdb.org/t/p/w500/yq9PfUpsBEUZXPvRiubiBiWkOYn.jpg",
         "trailer": "https://www.youtube.com/watch?v=2ZhB-YO5Tnk"
     },
     {
         "title": "Dangerous Animals",
-        "rating": 6.5,
+        "rating": 6.472,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/fVZxvR7Vth5UOIXSlrbcJKF9O4g.jpg",
         "trailer": "https://www.youtube.com/watch?v=WR2btzjmmuc"
     },
     {
         "title": "Les 4 Fantastiques : Premiers pas",
-        "rating": 7.3,
+        "rating": 7.298,
         "genre": "Science-fiction / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/2REHnvEBsPA121X4Fi8dvGaYJ4o.jpg",
         "trailer": "https://www.youtube.com/watch?v=b-WdRqzSJ9w"
     },
     {
         "title": "Eddington",
-        "rating": 6.7,
+        "rating": 6.725,
         "genre": "Western / Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/jouqIYKad0NGVqLcoS5jVu2tKml.jpg",
         "trailer": "https://www.youtube.com/watch?v=ytyBfsqN3eI"
     },
     {
         "title": "Souviens-toi… l'été dernier",
-        "rating": 5.746,
+        "rating": 5.758,
         "genre": "Horreur / Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/mLKQtg75oAx3L5prBuzfr7zWQBw.jpg",
         "trailer": "https://www.youtube.com/watch?v=IceTkSOSNJI"
     },
     {
         "title": "Les Schtroumpfs",
-        "rating": 6.135,
+        "rating": 6.1,
         "genre": "Animation / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/1Ee26rIanprYQAwnQEDw1331cp4.jpg",
         "trailer": "https://www.youtube.com/watch?v=_N7kNc4-ZUg"
     },
     {
         "title": "Superman",
-        "rating": 7.5,
+        "rating": 7.6,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/bL1U8TDb2ZiThIBFAdKHOfpv8lk.jpg",
         "trailer": "https://www.youtube.com/watch?v=nZTgJy8ym34"
@@ -124,19 +138,5 @@
         "genre": "Horreur / Comédie / Fantastique / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/hRbaOImESNEJWC2SZ8qHXiRFm4i.jpg",
         "trailer": "https://www.youtube.com/watch?v=5vZ1_Yxjwzs"
-    },
-    {
-        "title": "M3GAN 2.0",
-        "rating": 7.651,
-        "genre": "Action / Horreur / Science-fiction",
-        "poster": "https://image.tmdb.org/t/p/w500/jZPxSifab5N6PgEgwBxCr6jxacp.jpg",
-        "trailer": "https://www.youtube.com/watch?v=1FeiTZMtwLA"
-    },
-    {
-        "title": "F1® Le Film",
-        "rating": 7.603,
-        "genre": "Action / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/lWCPcMevGaTWR9MawrPkMpJGTsz.jpg",
-        "trailer": "https://www.youtube.com/watch?v=ge_ABjtYx88"
     }
 ]
