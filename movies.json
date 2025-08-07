@@ -1,5 +1,12 @@
 [
     {
+        "title": "Sorry, Baby",
+        "rating": 6.487,
+        "genre": "Drame / Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/1nfq1MxtHZjmtOXBh1JFb0Xx0d1.jpg",
+        "trailer": "https://www.youtube.com/watch?v=ju8sMjH_hfo"
+    },
+    {
         "title": "Nobody 2",
         "rating": 0,
         "genre": "Action / Thriller",
@@ -8,42 +15,42 @@
     },
     {
         "title": "Together",
-        "rating": 7.754,
+        "rating": 7.599,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/ijTTISrLopthgligJOPOx4jEyoH.jpg",
         "trailer": "https://www.youtube.com/watch?v=9bqIwMH3En8"
     },
     {
         "title": "Y a-t-il un flic pour sauver le monde ?",
-        "rating": 7.2,
+        "rating": 7.184,
         "genre": "Comédie / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/v9maMvSxrDb9BKmV1XtWO0Lpmsa.jpg",
         "trailer": "https://www.youtube.com/watch?v=uLguU7WLreA"
     },
     {
         "title": "Karate Kid : Legends",
-        "rating": 7.1,
+        "rating": 7.135,
         "genre": "Action / Aventure / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/n4ZPnouW3jpUnkSEpU3sFG9SCEs.jpg",
         "trailer": "https://www.youtube.com/watch?v=LhRXf-yEQqA"
     },
     {
         "title": "Dracula",
-        "rating": 6.727,
+        "rating": 6.538,
         "genre": "Horreur / Fantastique / Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/juUIOcOQ0ip9qw3ecH9IBEQklEp.jpg",
         "trailer": "https://www.youtube.com/watch?v=sO0-l6INusw"
     },
     {
         "title": "Freaky Friday 2 : Encore dans la peau de ma mère",
-        "rating": 8.1,
+        "rating": 8.143,
         "genre": "Fantastique / Comédie / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/4cd7H9r59pWS6jXkiCHcuShzbeS.jpg",
         "trailer": "https://www.youtube.com/watch?v=IyJzhtJEtoU"
     },
     {
         "title": "Évanouis",
-        "rating": 8.2,
+        "rating": 7.8,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/krIs8BtrdS8Sf6B8Z70eEdbDbkx.jpg",
         "trailer": "https://www.youtube.com/watch?v=QKHySfXqN0I"
@@ -56,71 +63,64 @@
         "trailer": null
     },
     {
-        "title": "Bambi: The Reckoning",
-        "rating": 6,
-        "genre": "Horreur / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/cy76B7VCiIvqUibGLTgdYlK8kx8.jpg",
-        "trailer": "https://www.youtube.com/watch?v=9Y_pZ3uXreM"
-    },
-    {
         "title": "Les Bad Guys 2",
-        "rating": 7.6,
+        "rating": 7.5,
         "genre": "Famille / Comédie / Crime / Aventure / Animation",
         "poster": "https://image.tmdb.org/t/p/w500/opKf1uITVUkm8nteNM54uIgJZKQ.jpg",
         "trailer": "https://www.youtube.com/watch?v=HvLHYox_Vq8"
     },
     {
         "title": "Substitution - Bring Her Back",
-        "rating": 7.4,
+        "rating": 7.418,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/lNwjWspvbwd9wQYpVKXaZm9LfK9.jpg",
         "trailer": "https://www.youtube.com/watch?v=1I15ttCedfY"
     },
     {
         "title": "Jurassic World : Renaissance",
-        "rating": 6.3,
+        "rating": 6.4,
         "genre": "Science-fiction / Aventure / Action",
         "poster": "https://image.tmdb.org/t/p/w500/yq9PfUpsBEUZXPvRiubiBiWkOYn.jpg",
         "trailer": "https://www.youtube.com/watch?v=2ZhB-YO5Tnk"
     },
     {
         "title": "Dangerous Animals",
-        "rating": 6.472,
+        "rating": 6.448,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/fVZxvR7Vth5UOIXSlrbcJKF9O4g.jpg",
         "trailer": "https://www.youtube.com/watch?v=WR2btzjmmuc"
     },
     {
         "title": "Les 4 Fantastiques : Premiers pas",
-        "rating": 7.298,
+        "rating": 7.286,
         "genre": "Science-fiction / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/2REHnvEBsPA121X4Fi8dvGaYJ4o.jpg",
         "trailer": "https://www.youtube.com/watch?v=b-WdRqzSJ9w"
     },
     {
         "title": "Eddington",
-        "rating": 6.725,
+        "rating": 6.757,
         "genre": "Western / Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/jouqIYKad0NGVqLcoS5jVu2tKml.jpg",
         "trailer": "https://www.youtube.com/watch?v=ytyBfsqN3eI"
     },
     {
         "title": "Souviens-toi… l'été dernier",
-        "rating": 5.758,
+        "rating": 5.8,
         "genre": "Horreur / Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/mLKQtg75oAx3L5prBuzfr7zWQBw.jpg",
         "trailer": "https://www.youtube.com/watch?v=IceTkSOSNJI"
     },
     {
         "title": "Les Schtroumpfs",
-        "rating": 6.1,
+        "rating": 6.009,
         "genre": "Animation / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/1Ee26rIanprYQAwnQEDw1331cp4.jpg",
         "trailer": "https://www.youtube.com/watch?v=_N7kNc4-ZUg"
     },
     {
         "title": "Superman",
-        "rating": 7.6,
+        "rating": 7.631,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/bL1U8TDb2ZiThIBFAdKHOfpv8lk.jpg",
         "trailer": "https://www.youtube.com/watch?v=nZTgJy8ym34"
@@ -134,7 +134,7 @@
     },
     {
         "title": "The Ugly Stepsister",
-        "rating": 7.3,
+        "rating": 7.253,
         "genre": "Horreur / Comédie / Fantastique / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/hRbaOImESNEJWC2SZ8qHXiRFm4i.jpg",
         "trailer": "https://www.youtube.com/watch?v=5vZ1_Yxjwzs"
