@@ -1,10 +1,10 @@
 [
     {
-        "title": "La Guerre des Rose",
-        "rating": 0,
-        "genre": "Comédie / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/98n5HnCJ5LnXKIMNP9SBfVNyxCE.jpg",
-        "trailer": "https://www.youtube.com/watch?v=XkgMaS5gbaA"
+        "title": "Red Sonja",
+        "rating": 5.9,
+        "genre": "Aventure / Action / Fantastique",
+        "poster": "https://image.tmdb.org/t/p/w500/oGLuKTXHiH5LuO9lhxI9sJbwDL0.jpg",
+        "trailer": "https://www.youtube.com/watch?v=A1EHM1_NG-8"
     },
     {
         "title": "Les Schtroumpfs, le film",
@@ -22,7 +22,7 @@
     },
     {
         "title": "La Nuit des Clowns",
-        "rating": 6.232,
+        "rating": 6.237,
         "genre": "Horreur / Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/c54MjZXxOLV7M8GNk8iV22J1235.jpg",
         "trailer": "https://www.youtube.com/watch?v=e69AWLED77w"
@@ -36,35 +36,35 @@
     },
     {
         "title": "Sorry, Baby",
-        "rating": 6.667,
+        "rating": 6.7,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/1nfq1MxtHZjmtOXBh1JFb0Xx0d1.jpg",
         "trailer": "https://www.youtube.com/watch?v=ju8sMjH_hfo"
     },
     {
         "title": "Nobody 2",
-        "rating": 7.348,
+        "rating": 7.309,
         "genre": "Action / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/lLBP1r4eCK28DgXfL0adjkG3XBT.jpg",
         "trailer": "https://www.youtube.com/watch?v=UGOvEad8qd4"
     },
     {
         "title": "Together",
-        "rating": 7.292,
+        "rating": 7.286,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/ijTTISrLopthgligJOPOx4jEyoH.jpg",
         "trailer": "https://www.youtube.com/watch?v=9bqIwMH3En8"
     },
     {
         "title": "Y a-t-il un flic pour sauver le monde ?",
-        "rating": 6.897,
+        "rating": 6.9,
         "genre": "Comédie / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/v9maMvSxrDb9BKmV1XtWO0Lpmsa.jpg",
         "trailer": "https://www.youtube.com/watch?v=uLguU7WLreA"
     },
     {
         "title": "Karate Kid : Legends",
-        "rating": 7.131,
+        "rating": 7.137,
         "genre": "Action / Aventure / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/n4ZPnouW3jpUnkSEpU3sFG9SCEs.jpg",
         "trailer": "https://www.youtube.com/watch?v=LhRXf-yEQqA"
@@ -85,49 +85,49 @@
     },
     {
         "title": "Évanouis",
-        "rating": 7.497,
+        "rating": 7.51,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/krIs8BtrdS8Sf6B8Z70eEdbDbkx.jpg",
         "trailer": "https://www.youtube.com/watch?v=QKHySfXqN0I"
     },
     {
         "title": "Saiyaara",
-        "rating": 6.4,
+        "rating": 6.418,
         "genre": "Romance / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/jymezcmEcFvlb037V4SSx8a4SMq.jpg",
         "trailer": null
     },
     {
         "title": "Les Bad Guys 2",
-        "rating": 7.8,
+        "rating": 7.876,
         "genre": "Famille / Comédie / Crime / Aventure / Animation",
         "poster": "https://image.tmdb.org/t/p/w500/opKf1uITVUkm8nteNM54uIgJZKQ.jpg",
         "trailer": "https://www.youtube.com/watch?v=HvLHYox_Vq8"
     },
     {
         "title": "Substitution - Bring Her Back",
-        "rating": 7.392,
+        "rating": 7.4,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/lNwjWspvbwd9wQYpVKXaZm9LfK9.jpg",
         "trailer": "https://www.youtube.com/watch?v=1I15ttCedfY"
     },
     {
         "title": "Dangerous Animals",
-        "rating": 6.551,
+        "rating": 6.543,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/fVZxvR7Vth5UOIXSlrbcJKF9O4g.jpg",
         "trailer": "https://www.youtube.com/watch?v=WR2btzjmmuc"
     },
     {
         "title": "Les 4 Fantastiques : Premiers pas",
-        "rating": 7.212,
+        "rating": 7.217,
         "genre": "Science-fiction / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/2REHnvEBsPA121X4Fi8dvGaYJ4o.jpg",
         "trailer": "https://www.youtube.com/watch?v=b-WdRqzSJ9w"
     },
     {
         "title": "Eddington",
-        "rating": 6.487,
+        "rating": 6.489,
         "genre": "Western / Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/jouqIYKad0NGVqLcoS5jVu2tKml.jpg",
         "trailer": "https://www.youtube.com/watch?v=ytyBfsqN3eI"
