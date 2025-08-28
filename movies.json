@@ -1,35 +1,56 @@
 [
     {
+        "title": "STANS (Eminem et ses plus grands fans)",
+        "rating": 7.222,
+        "genre": "Documentaire / Musique",
+        "poster": "https://image.tmdb.org/t/p/w500/8gCyR7kRI09W7nXOFMpQHvTSQW.jpg",
+        "trailer": "https://www.youtube.com/watch?v=78XgzEytwSg"
+    },
+    {
+        "title": "Sorry, Baby",
+        "rating": 6.716,
+        "genre": "Drame / Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/1nfq1MxtHZjmtOXBh1JFb0Xx0d1.jpg",
+        "trailer": "https://www.youtube.com/watch?v=ju8sMjH_hfo"
+    },
+    {
+        "title": "Exit 8",
+        "rating": 6.2,
+        "genre": "Horreur / Mystère",
+        "poster": "https://image.tmdb.org/t/p/w500/4moIv5Zewxg0gFuNC7m75x3JbDx.jpg",
+        "trailer": "https://www.youtube.com/watch?v=emZZexEJO8c"
+    },
+    {
+        "title": "Pris au piège",
+        "rating": 7.722,
+        "genre": "Crime / Thriller / Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/3Ba53oZxqM7qOj7ZCGGxkY9GDE4.jpg",
+        "trailer": "https://www.youtube.com/watch?v=iW5Xgk-mStc"
+    },
+    {
         "title": "La Guerre des Rose",
-        "rating": 8,
+        "rating": 7.563,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/eb5IcEIr9YWu22BxLlELfabVqLA.jpg",
         "trailer": "https://www.youtube.com/watch?v=XkgMaS5gbaA"
     },
     {
         "title": "Red Sonja",
-        "rating": 5.7,
+        "rating": 6,
         "genre": "Aventure / Action / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/oGLuKTXHiH5LuO9lhxI9sJbwDL0.jpg",
         "trailer": "https://www.youtube.com/watch?v=A1EHM1_NG-8"
     },
     {
-        "title": "Les Schtroumpfs, le film",
-        "rating": 6.1,
-        "genre": "Animation / Famille / Fantastique",
-        "poster": "https://image.tmdb.org/t/p/w500/9QeAS5XW6kBHwLcMNiBWYE1uS34.jpg",
-        "trailer": "https://www.youtube.com/watch?v=_N7kNc4-ZUg"
-    },
-    {
         "title": "Coolie",
-        "rating": 6.281,
+        "rating": 6.3,
         "genre": "Action / Thriller / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/kr36awqmziEI5mfUElsHB0pj9zP.jpg",
         "trailer": null
     },
     {
         "title": "La Nuit des Clowns",
-        "rating": 6.21,
+        "rating": 6.217,
         "genre": "Horreur / Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/c54MjZXxOLV7M8GNk8iV22J1235.jpg",
         "trailer": "https://www.youtube.com/watch?v=e69AWLED77w"
@@ -43,21 +64,21 @@
     },
     {
         "title": "Nobody 2",
-        "rating": 7.25,
+        "rating": 7.3,
         "genre": "Action / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/lLBP1r4eCK28DgXfL0adjkG3XBT.jpg",
         "trailer": "https://www.youtube.com/watch?v=UGOvEad8qd4"
     },
     {
         "title": "Together",
-        "rating": 7.3,
+        "rating": 7.177,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/ijTTISrLopthgligJOPOx4jEyoH.jpg",
         "trailer": "https://www.youtube.com/watch?v=9bqIwMH3En8"
     },
     {
         "title": "Y a-t-il un flic pour sauver le monde ?",
-        "rating": 6.911,
+        "rating": 6.933,
         "genre": "Comédie / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/v9maMvSxrDb9BKmV1XtWO0Lpmsa.jpg",
         "trailer": "https://www.youtube.com/watch?v=uLguU7WLreA"
@@ -71,72 +92,51 @@
     },
     {
         "title": "Dracula",
-        "rating": 6.372,
+        "rating": 6.4,
         "genre": "Horreur / Fantastique / Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/juUIOcOQ0ip9qw3ecH9IBEQklEp.jpg",
         "trailer": "https://www.youtube.com/watch?v=sO0-l6INusw"
     },
     {
         "title": "Freaky Friday 2 : Encore dans la peau de ma mère",
-        "rating": 6.933,
+        "rating": 6.902,
         "genre": "Fantastique / Comédie / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/4cd7H9r59pWS6jXkiCHcuShzbeS.jpg",
         "trailer": "https://www.youtube.com/watch?v=IyJzhtJEtoU"
     },
     {
         "title": "Évanouis",
-        "rating": 7.503,
+        "rating": 7.484,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/krIs8BtrdS8Sf6B8Z70eEdbDbkx.jpg",
         "trailer": "https://www.youtube.com/watch?v=QKHySfXqN0I"
     },
     {
-        "title": "Saiyaara",
-        "rating": 6.418,
-        "genre": "Romance / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/jymezcmEcFvlb037V4SSx8a4SMq.jpg",
-        "trailer": null
-    },
-    {
         "title": "Les Bad Guys 2",
-        "rating": 7.819,
+        "rating": 7.8,
         "genre": "Famille / Comédie / Crime / Aventure / Animation",
         "poster": "https://image.tmdb.org/t/p/w500/opKf1uITVUkm8nteNM54uIgJZKQ.jpg",
         "trailer": "https://www.youtube.com/watch?v=HvLHYox_Vq8"
     },
     {
         "title": "Substitution - Bring Her Back",
-        "rating": 7.389,
+        "rating": 7.362,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/lNwjWspvbwd9wQYpVKXaZm9LfK9.jpg",
         "trailer": "https://www.youtube.com/watch?v=1I15ttCedfY"
     },
     {
         "title": "Dangerous Animals",
-        "rating": 6.513,
+        "rating": 6.53,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/fVZxvR7Vth5UOIXSlrbcJKF9O4g.jpg",
         "trailer": "https://www.youtube.com/watch?v=WR2btzjmmuc"
     },
     {
         "title": "Les 4 Fantastiques : Premiers pas",
-        "rating": 7.216,
+        "rating": 7.218,
         "genre": "Science-fiction / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/2REHnvEBsPA121X4Fi8dvGaYJ4o.jpg",
         "trailer": "https://www.youtube.com/watch?v=b-WdRqzSJ9w"
-    },
-    {
-        "title": "Eddington",
-        "rating": 6.475,
-        "genre": "Western / Drame / Comédie",
-        "poster": "https://image.tmdb.org/t/p/w500/jouqIYKad0NGVqLcoS5jVu2tKml.jpg",
-        "trailer": "https://www.youtube.com/watch?v=ytyBfsqN3eI"
-    },
-    {
-        "title": "Souviens-toi… l'été dernier",
-        "rating": 5.91,
-        "genre": "Horreur / Mystère / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/mLKQtg75oAx3L5prBuzfr7zWQBw.jpg",
-        "trailer": "https://www.youtube.com/watch?v=IceTkSOSNJI"
     }
 ]
