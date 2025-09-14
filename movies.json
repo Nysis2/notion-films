@@ -1,17 +1,17 @@
 [
     {
+        "title": "Sirāt",
+        "rating": 6.884,
+        "genre": "Drame / Musique / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/7NRma1cgsfL6U0gTCQS3ikV74tT.jpg",
+        "trailer": "https://www.youtube.com/watch?v=_HvwhOY63Ig"
+    },
+    {
         "title": "La Nuit des clowns",
-        "rating": 6.197,
+        "rating": 6.2,
         "genre": "Horreur / Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/c54MjZXxOLV7M8GNk8iV22J1235.jpg",
         "trailer": "https://www.youtube.com/watch?v=e69AWLED77w"
-    },
-    {
-        "title": "Libre échange",
-        "rating": 6.8,
-        "genre": "Comédie / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/nTICKbMean6yLBebzxX6enmSmm5.jpg",
-        "trailer": "https://www.youtube.com/watch?v=VrdSQSLD63Q"
     },
     {
         "title": "Left-Handed Girl",
@@ -22,10 +22,10 @@
     },
     {
         "title": "Demon Slayer: Kimetsu no Yaiba - La Forteresse infinie",
-        "rating": 7.4,
+        "rating": 7.581,
         "genre": "Animation / Action / Fantastique / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/lQOLDiImSw68qGiB7hwwAIrJjhz.jpg",
-        "trailer": "https://www.youtube.com/watch?v=pD4ysb6BTqE"
+        "trailer": "https://www.youtube.com/watch?v=juD6zgap4-I"
     },
     {
         "title": "MADHARASI",
@@ -36,21 +36,21 @@
     },
     {
         "title": "Lokah: Chapter One: Chandra",
-        "rating": 7.6,
+        "rating": 7.7,
         "genre": "Action / Aventure / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/erEVbUNiNwbH8Pns2texFV1u5Xi.jpg",
         "trailer": null
     },
     {
         "title": "Downton Abbey III : Le Grand Final",
-        "rating": 7.885,
+        "rating": 8,
         "genre": "Drame / Romance / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/jscBtL4ST97B0ZTNyKHHTjQZc9F.jpg",
         "trailer": "https://www.youtube.com/watch?v=P_30wFRxlnA"
     },
     {
         "title": "Conjuring : L'Heure du jugement",
-        "rating": 6.9,
+        "rating": 6.76,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/mlkMH0Em29I0QBc7YeRc9yGFRKw.jpg",
         "trailer": "https://www.youtube.com/watch?v=p4aWdkM5xF8"
@@ -64,7 +64,7 @@
     },
     {
         "title": "Exit 8",
-        "rating": 5.926,
+        "rating": 5.824,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/4moIv5Zewxg0gFuNC7m75x3JbDx.jpg",
         "trailer": "https://www.youtube.com/watch?v=emZZexEJO8c"
@@ -78,14 +78,14 @@
     },
     {
         "title": "Red Sonja",
-        "rating": 5.7,
+        "rating": 5.627,
         "genre": "Aventure / Action / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/oGLuKTXHiH5LuO9lhxI9sJbwDL0.jpg",
         "trailer": "https://www.youtube.com/watch?v=A1EHM1_NG-8"
     },
     {
         "title": "Coolie",
-        "rating": 6.3,
+        "rating": 6.302,
         "genre": "Action / Thriller / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/kr36awqmziEI5mfUElsHB0pj9zP.jpg",
         "trailer": null
@@ -106,14 +106,14 @@
     },
     {
         "title": "Together",
-        "rating": 7.143,
+        "rating": 7.2,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/ijTTISrLopthgligJOPOx4jEyoH.jpg",
         "trailer": "https://www.youtube.com/watch?v=9bqIwMH3En8"
     },
     {
         "title": "Y a-t-il un flic pour sauver le monde ?",
-        "rating": 6.8,
+        "rating": 6.758,
         "genre": "Comédie / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/v9maMvSxrDb9BKmV1XtWO0Lpmsa.jpg",
         "trailer": "https://www.youtube.com/watch?v=uLguU7WLreA"
@@ -134,7 +134,7 @@
     },
     {
         "title": "Évanouis",
-        "rating": 7.457,
+        "rating": 7.439,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/krIs8BtrdS8Sf6B8Z70eEdbDbkx.jpg",
         "trailer": "https://www.youtube.com/watch?v=QKHySfXqN0I"
