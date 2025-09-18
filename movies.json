@@ -1,10 +1,10 @@
 [
     {
-        "title": "Left-Handed Girl",
-        "rating": 10,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/9RwFA1tHOpblukY0sBsW1AuNDnE.jpg",
-        "trailer": "https://www.youtube.com/watch?v=0rXnpfzpk8s"
+        "title": "Americana",
+        "rating": 6.865,
+        "genre": "Crime / Thriller / Western / Action",
+        "poster": "https://image.tmdb.org/t/p/w500/83Gis9pOKCvAdaKXCNChey4IZyL.jpg",
+        "trailer": "https://www.youtube.com/watch?v=ulZoLec80fs"
     },
     {
         "title": "Une bataille après l'autre",
@@ -22,21 +22,21 @@
     },
     {
         "title": "Sirāt",
-        "rating": 7.171,
+        "rating": 7.208,
         "genre": "Drame / Musique / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/7NRma1cgsfL6U0gTCQS3ikV74tT.jpg",
         "trailer": "https://www.youtube.com/watch?v=_HvwhOY63Ig"
     },
     {
         "title": "La Nuit des clowns",
-        "rating": 6.183,
+        "rating": 6.176,
         "genre": "Horreur / Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/c54MjZXxOLV7M8GNk8iV22J1235.jpg",
         "trailer": "https://www.youtube.com/watch?v=e69AWLED77w"
     },
     {
         "title": "Demon Slayer: Kimetsu no Yaiba - La Forteresse infinie",
-        "rating": 7.667,
+        "rating": 7.621,
         "genre": "Animation / Action / Fantastique / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/lQOLDiImSw68qGiB7hwwAIrJjhz.jpg",
         "trailer": "https://www.youtube.com/watch?v=juD6zgap4-I"
@@ -50,7 +50,7 @@
     },
     {
         "title": "Lokah: Chapter One: Chandra",
-        "rating": 7.722,
+        "rating": 7.7,
         "genre": "Action / Aventure / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/erEVbUNiNwbH8Pns2texFV1u5Xi.jpg",
         "trailer": null
@@ -64,7 +64,7 @@
     },
     {
         "title": "Conjuring : L'Heure du jugement",
-        "rating": 6.627,
+        "rating": 6.62,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/mlkMH0Em29I0QBc7YeRc9yGFRKw.jpg",
         "trailer": "https://www.youtube.com/watch?v=p4aWdkM5xF8"
@@ -78,14 +78,14 @@
     },
     {
         "title": "Exit 8",
-        "rating": 6.06,
+        "rating": 6.1,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/4moIv5Zewxg0gFuNC7m75x3JbDx.jpg",
         "trailer": "https://www.youtube.com/watch?v=emZZexEJO8c"
     },
     {
         "title": "La Guerre des Rose",
-        "rating": 7.136,
+        "rating": 7.121,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/eb5IcEIr9YWu22BxLlELfabVqLA.jpg",
         "trailer": "https://www.youtube.com/watch?v=XkgMaS5gbaA"
@@ -106,35 +106,35 @@
     },
     {
         "title": "The Ritual – L’Exorcisme d’Emma Schmidt",
-        "rating": 5.863,
+        "rating": 5.876,
         "genre": "Horreur / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/neEmMy5Y5Uysp9t4r0zN8KXHfgF.jpg",
         "trailer": "https://www.youtube.com/watch?v=Y8zUTpO3JAo"
     },
     {
         "title": "Nobody 2",
-        "rating": 7.293,
+        "rating": 7.282,
         "genre": "Action / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/lLBP1r4eCK28DgXfL0adjkG3XBT.jpg",
         "trailer": "https://www.youtube.com/watch?v=UGOvEad8qd4"
     },
     {
         "title": "Together",
-        "rating": 7.132,
+        "rating": 7.1,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/ijTTISrLopthgligJOPOx4jEyoH.jpg",
         "trailer": "https://www.youtube.com/watch?v=9bqIwMH3En8"
     },
     {
         "title": "Y a-t-il un flic pour sauver le monde ?",
-        "rating": 6.728,
+        "rating": 6.71,
         "genre": "Comédie / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/v9maMvSxrDb9BKmV1XtWO0Lpmsa.jpg",
         "trailer": "https://www.youtube.com/watch?v=uLguU7WLreA"
     },
     {
         "title": "Karate Kid : Legends",
-        "rating": 7.119,
+        "rating": 7.118,
         "genre": "Action / Aventure / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/n4ZPnouW3jpUnkSEpU3sFG9SCEs.jpg",
         "trailer": "https://www.youtube.com/watch?v=LhRXf-yEQqA"
