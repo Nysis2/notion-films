@@ -1,21 +1,21 @@
 [
     {
         "title": "Karate Kid: Legends",
-        "rating": 7.114,
+        "rating": 7.1,
         "genre": "Action / Aventure / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/sdl2dt1rZaTXMaYzIAaajOI0VPB.jpg",
         "trailer": "https://www.youtube.com/watch?v=LhRXf-yEQqA"
     },
     {
         "title": "Dalloway",
-        "rating": 7.25,
+        "rating": 6.818,
         "genre": "Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/bRx0YRptSuv7O9LiOP59cvA4rqB.jpg",
         "trailer": null
     },
     {
         "title": "Americana",
-        "rating": 6.65,
+        "rating": 6.523,
         "genre": "Crime / Thriller / Western / Action",
         "poster": "https://image.tmdb.org/t/p/w500/83Gis9pOKCvAdaKXCNChey4IZyL.jpg",
         "trailer": "https://www.youtube.com/watch?v=ulZoLec80fs"
@@ -29,77 +29,77 @@
     },
     {
         "title": "Libre échange",
-        "rating": 6.63,
+        "rating": 6.6,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/nTICKbMean6yLBebzxX6enmSmm5.jpg",
         "trailer": "https://www.youtube.com/watch?v=VrdSQSLD63Q"
     },
     {
         "title": "Sirāt",
-        "rating": 7.196,
+        "rating": 7.157,
         "genre": "Drame / Musique / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/7NRma1cgsfL6U0gTCQS3ikV74tT.jpg",
         "trailer": "https://www.youtube.com/watch?v=_HvwhOY63Ig"
     },
     {
         "title": "La Nuit des clowns",
-        "rating": 6.18,
+        "rating": 6.186,
         "genre": "Horreur / Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/c54MjZXxOLV7M8GNk8iV22J1235.jpg",
         "trailer": "https://www.youtube.com/watch?v=e69AWLED77w"
     },
     {
         "title": "Demon Slayer: Kimetsu no Yaiba - La Forteresse infinie",
-        "rating": 7.684,
+        "rating": 7.757,
         "genre": "Animation / Action / Fantastique / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/lQOLDiImSw68qGiB7hwwAIrJjhz.jpg",
         "trailer": "https://www.youtube.com/watch?v=juD6zgap4-I"
     },
     {
         "title": "MADHARASI",
-        "rating": 7.667,
+        "rating": 7.7,
         "genre": "Action / Romance / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/dw3Dllz1gV7186m7clqNDnI9R28.jpg",
         "trailer": null
     },
     {
         "title": "Downton Abbey III : Le Grand Final",
-        "rating": 7.933,
+        "rating": 8,
         "genre": "Drame / Romance / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/jscBtL4ST97B0ZTNyKHHTjQZc9F.jpg",
         "trailer": "https://www.youtube.com/watch?v=P_30wFRxlnA"
     },
     {
         "title": "Conjuring : L'Heure du jugement",
-        "rating": 6.546,
+        "rating": 6.582,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/mlkMH0Em29I0QBc7YeRc9yGFRKw.jpg",
         "trailer": "https://www.youtube.com/watch?v=p4aWdkM5xF8"
     },
     {
         "title": "Pris au piège - Caught Stealing",
-        "rating": 6.943,
+        "rating": 6.938,
         "genre": "Crime / Thriller / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/3Ba53oZxqM7qOj7ZCGGxkY9GDE4.jpg",
         "trailer": "https://www.youtube.com/watch?v=iW5Xgk-mStc"
     },
     {
         "title": "Exit 8",
-        "rating": 6.1,
+        "rating": 6.185,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/4moIv5Zewxg0gFuNC7m75x3JbDx.jpg",
         "trailer": "https://www.youtube.com/watch?v=emZZexEJO8c"
     },
     {
         "title": "La Guerre des Rose",
-        "rating": 7.09,
+        "rating": 7.089,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/eb5IcEIr9YWu22BxLlELfabVqLA.jpg",
         "trailer": "https://www.youtube.com/watch?v=XkgMaS5gbaA"
     },
     {
         "title": "Red Sonja",
-        "rating": 5.72,
+        "rating": 5.7,
         "genre": "Aventure / Action / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/oGLuKTXHiH5LuO9lhxI9sJbwDL0.jpg",
         "trailer": "https://www.youtube.com/watch?v=A1EHM1_NG-8"
@@ -120,7 +120,7 @@
     },
     {
         "title": "Nobody 2",
-        "rating": 7.245,
+        "rating": 7.238,
         "genre": "Action / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/lLBP1r4eCK28DgXfL0adjkG3XBT.jpg",
         "trailer": "https://www.youtube.com/watch?v=UGOvEad8qd4"
@@ -134,7 +134,7 @@
     },
     {
         "title": "Y a-t-il un flic pour sauver le monde ?",
-        "rating": 6.69,
+        "rating": 6.7,
         "genre": "Comédie / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/v9maMvSxrDb9BKmV1XtWO0Lpmsa.jpg",
         "trailer": "https://www.youtube.com/watch?v=uLguU7WLreA"
