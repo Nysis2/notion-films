@@ -1,24 +1,52 @@
 [
     {
+        "title": "Kontinental '25",
+        "rating": 6,
+        "genre": "Comédie / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/9NMekIITIoYAHmyYA0iPEQYNZ7e.jpg",
+        "trailer": "https://www.youtube.com/watch?v=b8-j8_kCg1A"
+    },
+    {
+        "title": "L'Intérêt d'Adam",
+        "rating": 7.05,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/3hcK2phIRQW5UeeyVr2YLMOEN8U.jpg",
+        "trailer": "https://www.youtube.com/watch?v=E7P1tVrg3ok"
+    },
+    {
+        "title": "They Call Him OG",
+        "rating": 7.2,
+        "genre": "Action / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/jCjXP26jkeV0TCMqkSvJTDKCDNk.jpg",
+        "trailer": null
+    },
+    {
+        "title": "Gabby et la maison magique - Le film",
+        "rating": 6.5,
+        "genre": "Famille / Comédie / Aventure",
+        "poster": "https://image.tmdb.org/t/p/w500/AsHpAbkusQPgVwKG3Sm8p2A1rCV.jpg",
+        "trailer": "https://www.youtube.com/watch?v=S-GFCPEWqe4"
+    },
+    {
+        "title": "Tron: Ares",
+        "rating": 0,
+        "genre": "Science-fiction / Aventure / Action",
+        "poster": "https://image.tmdb.org/t/p/w500/58utDFHgnTJlOLXem5GupFGhp5p.jpg",
+        "trailer": "https://www.youtube.com/watch?v=YCSdZBvtPek"
+    },
+    {
+        "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
+        "rating": 7.819,
+        "genre": "Animation / Action / Fantastique / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
+        "trailer": "https://www.youtube.com/watch?v=juD6zgap4-I"
+    },
+    {
         "title": "Lokah: Chapter One: Chandra",
         "rating": 7.5,
         "genre": "Action / Aventure / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/erEVbUNiNwbH8Pns2texFV1u5Xi.jpg",
         "trailer": "https://www.youtube.com/watch?v=64XHtNWTB5o"
-    },
-    {
-        "title": "The Ritual – L'Exorcisme d'Emma Schmidt",
-        "rating": 5.8,
-        "genre": "Horreur / Drame / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/neEmMy5Y5Uysp9t4r0zN8KXHfgF.jpg",
-        "trailer": "https://www.youtube.com/watch?v=Y8zUTpO3JAo"
-    },
-    {
-        "title": "దె కాల్ హిమ్ ఓజి",
-        "rating": 7.2,
-        "genre": "Action / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/jCjXP26jkeV0TCMqkSvJTDKCDNk.jpg",
-        "trailer": null
     },
     {
         "title": "Cervantes avant Don Quichotte",
@@ -35,78 +63,50 @@
         "trailer": "https://www.youtube.com/watch?v=aYwruGQIo34"
     },
     {
-        "title": "Valeur sentimentale",
-        "rating": 7.4,
-        "genre": "Drame / Comédie",
-        "poster": "https://image.tmdb.org/t/p/w500/t2n3BUZgflmSCyivnSatqP21kaV.jpg",
-        "trailer": "https://www.youtube.com/watch?v=CbHbW7De3W4"
-    },
-    {
         "title": "The Cut",
-        "rating": 6.194,
+        "rating": 6.2,
         "genre": "Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/aC6lOgbpt4on9Dkv1A5oGcI5sRk.jpg",
         "trailer": "https://www.youtube.com/watch?v=pJjPBTC0ypU"
     },
     {
         "title": "A Big Bold Beautiful Journey",
-        "rating": 6.059,
+        "rating": 6.095,
         "genre": "Romance / Fantastique / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/72KlepxAnI8DWMcUbwJ6OdXwe5l.jpg",
         "trailer": "https://www.youtube.com/watch?v=xdKP22EaAuU"
     },
     {
         "title": "Marche ou crève",
-        "rating": 7.152,
+        "rating": 7.169,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/41wPG2nflDPez7wph5SKJhhBLzV.jpg",
         "trailer": "https://www.youtube.com/watch?v=Toj3Zxun7aQ"
     },
     {
-        "title": "Americana",
-        "rating": 6.39,
-        "genre": "Crime / Thriller / Western / Action",
-        "poster": "https://image.tmdb.org/t/p/w500/83Gis9pOKCvAdaKXCNChey4IZyL.jpg",
-        "trailer": "https://www.youtube.com/watch?v=ulZoLec80fs"
-    },
-    {
         "title": "Une bataille après l'autre",
-        "rating": 7.6,
+        "rating": 7.7,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/oklJLdtqpUOEfdxBMfCgqFNw744.jpg",
         "trailer": "https://www.youtube.com/watch?v=kQUPdVxZNPk"
     },
     {
         "title": "Libre échange",
-        "rating": 6.58,
+        "rating": 6.62,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/nTICKbMean6yLBebzxX6enmSmm5.jpg",
         "trailer": "https://www.youtube.com/watch?v=VrdSQSLD63Q"
     },
     {
         "title": "Sirāt",
-        "rating": 7,
+        "rating": 6.993,
         "genre": "Drame / Musique / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/7NRma1cgsfL6U0gTCQS3ikV74tT.jpg",
         "trailer": "https://www.youtube.com/watch?v=_HvwhOY63Ig"
     },
     {
-        "title": "La Nuit des clowns",
-        "rating": 6.1,
-        "genre": "Horreur / Mystère / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/c54MjZXxOLV7M8GNk8iV22J1235.jpg",
-        "trailer": "https://www.youtube.com/watch?v=e69AWLED77w"
-    },
-    {
-        "title": "Demon Slayer: Kimetsu no Yaiba - La Forteresse infinie",
-        "rating": 7.82,
-        "genre": "Animation / Action / Fantastique / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/lQOLDiImSw68qGiB7hwwAIrJjhz.jpg",
-        "trailer": "https://www.youtube.com/watch?v=juD6zgap4-I"
-    },
-    {
         "title": "Downton Abbey III : Le Grand Final",
-        "rating": 7.84,
+        "rating": 7.8,
         "genre": "Drame / Romance / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/jscBtL4ST97B0ZTNyKHHTjQZc9F.jpg",
         "trailer": "https://www.youtube.com/watch?v=P_30wFRxlnA"
@@ -120,10 +120,10 @@
     },
     {
         "title": "Pris au piège - Caught Stealing",
-        "rating": 7,
+        "rating": 7.007,
         "genre": "Crime / Thriller / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/3Ba53oZxqM7qOj7ZCGGxkY9GDE4.jpg",
-        "trailer": "https://www.youtube.com/watch?v=iW5Xgk-mStc"
+        "trailer": "https://www.youtube.com/watch?v=6mIvD-GN-p4"
     },
     {
         "title": "Exit 8",
