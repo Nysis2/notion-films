@@ -1,5 +1,12 @@
 [
     {
+        "title": "Un simple accident",
+        "rating": 6,
+        "genre": "Drame / Thriller / Horreur",
+        "poster": "https://image.tmdb.org/t/p/w500/fS0XSf0RHG3WvBndDLsrjcwq9rZ.jpg",
+        "trailer": "https://www.youtube.com/watch?v=nF04v-ze2Yc"
+    },
+    {
         "title": "MADHARASI",
         "rating": 7.417,
         "genre": "Action / Romance / Thriller",
@@ -36,7 +43,7 @@
     },
     {
         "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
-        "rating": 7.808,
+        "rating": 7.803,
         "genre": "Animation / Action / Fantastique / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
         "trailer": "https://www.youtube.com/watch?v=juD6zgap4-I"
@@ -47,13 +54,6 @@
         "genre": "Action / Aventure / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/erEVbUNiNwbH8Pns2texFV1u5Xi.jpg",
         "trailer": "https://www.youtube.com/watch?v=64XHtNWTB5o"
-    },
-    {
-        "title": "Cervantes avant Don Quichotte",
-        "rating": 7.786,
-        "genre": "Drame / Histoire",
-        "poster": "https://image.tmdb.org/t/p/w500/wsOz31DqCAmhdBLSRPhCbECwgvw.jpg",
-        "trailer": null
     },
     {
         "title": "Crocodile Fury",
@@ -71,49 +71,49 @@
     },
     {
         "title": "A Big Bold Beautiful Journey",
-        "rating": 6.1,
+        "rating": 6.238,
         "genre": "Romance / Fantastique / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/72KlepxAnI8DWMcUbwJ6OdXwe5l.jpg",
         "trailer": "https://www.youtube.com/watch?v=xdKP22EaAuU"
     },
     {
         "title": "Marche ou crève",
-        "rating": 7.2,
+        "rating": 7.191,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/41wPG2nflDPez7wph5SKJhhBLzV.jpg",
-        "trailer": "https://www.youtube.com/watch?v=Toj3Zxun7aQ"
+        "trailer": "https://www.youtube.com/watch?v=1zggP9Yr8yk"
     },
     {
         "title": "Une bataille après l'autre",
-        "rating": 7.72,
+        "rating": 7.787,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/oklJLdtqpUOEfdxBMfCgqFNw744.jpg",
         "trailer": "https://www.youtube.com/watch?v=kQUPdVxZNPk"
     },
     {
         "title": "Libre échange",
-        "rating": 6.563,
+        "rating": 6.5,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/nTICKbMean6yLBebzxX6enmSmm5.jpg",
         "trailer": "https://www.youtube.com/watch?v=VrdSQSLD63Q"
     },
     {
         "title": "Sirāt",
-        "rating": 7.028,
+        "rating": 7.014,
         "genre": "Drame / Musique / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/7NRma1cgsfL6U0gTCQS3ikV74tT.jpg",
         "trailer": "https://www.youtube.com/watch?v=_HvwhOY63Ig"
     },
     {
         "title": "Downton Abbey III : Le Grand Final",
-        "rating": 7.7,
+        "rating": 7.5,
         "genre": "Drame / Romance / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/jscBtL4ST97B0ZTNyKHHTjQZc9F.jpg",
         "trailer": "https://www.youtube.com/watch?v=P_30wFRxlnA"
     },
     {
         "title": "Conjuring : L'Heure du jugement",
-        "rating": 6.6,
+        "rating": 6.563,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/mlkMH0Em29I0QBc7YeRc9yGFRKw.jpg",
         "trailer": "https://www.youtube.com/watch?v=p4aWdkM5xF8"
