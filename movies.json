@@ -1,24 +1,24 @@
 [
     {
+        "title": "இட்லி கடை",
+        "rating": 0,
+        "genre": "Action / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/9ViF6UTWMh14gx77RvFALe5R6AL.jpg",
+        "trailer": null
+    },
+    {
         "title": "Un simple accident",
-        "rating": 6,
+        "rating": 6.3,
         "genre": "Drame / Thriller / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/fS0XSf0RHG3WvBndDLsrjcwq9rZ.jpg",
         "trailer": "https://www.youtube.com/watch?v=nF04v-ze2Yc"
     },
     {
         "title": "MADHARASI",
-        "rating": 7.4,
+        "rating": 7.308,
         "genre": "Action / Romance / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/dw3Dllz1gV7186m7clqNDnI9R28.jpg",
         "trailer": null
-    },
-    {
-        "title": "L'Intérêt d'Adam",
-        "rating": 7.05,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/3hcK2phIRQW5UeeyVr2YLMOEN8U.jpg",
-        "trailer": "https://www.youtube.com/watch?v=E7P1tVrg3ok"
     },
     {
         "title": "They Call Him OG",
@@ -29,7 +29,7 @@
     },
     {
         "title": "Gabby et la maison magique - Le film",
-        "rating": 6.583,
+        "rating": 6.6,
         "genre": "Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/AsHpAbkusQPgVwKG3Sm8p2A1rCV.jpg",
         "trailer": "https://www.youtube.com/watch?v=S-GFCPEWqe4"
@@ -43,14 +43,14 @@
     },
     {
         "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
-        "rating": 7.809,
+        "rating": 7.8,
         "genre": "Animation / Action / Fantastique / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
         "trailer": "https://www.youtube.com/watch?v=juD6zgap4-I"
     },
     {
         "title": "Lokah: Chapter One: Chandra",
-        "rating": 7.654,
+        "rating": 7.7,
         "genre": "Action / Aventure / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/erEVbUNiNwbH8Pns2texFV1u5Xi.jpg",
         "trailer": "https://www.youtube.com/watch?v=64XHtNWTB5o"
@@ -78,49 +78,49 @@
     },
     {
         "title": "Marche ou crève",
-        "rating": 7.151,
+        "rating": 7.063,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/41wPG2nflDPez7wph5SKJhhBLzV.jpg",
         "trailer": "https://www.youtube.com/watch?v=1zggP9Yr8yk"
     },
     {
         "title": "Une bataille après l'autre",
-        "rating": 7.8,
+        "rating": 7.77,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/oklJLdtqpUOEfdxBMfCgqFNw744.jpg",
         "trailer": "https://www.youtube.com/watch?v=kQUPdVxZNPk"
     },
     {
         "title": "Libre échange",
-        "rating": 6.467,
+        "rating": 6.5,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/nTICKbMean6yLBebzxX6enmSmm5.jpg",
         "trailer": "https://www.youtube.com/watch?v=VrdSQSLD63Q"
     },
     {
         "title": "Sirāt",
-        "rating": 7.003,
+        "rating": 6.987,
         "genre": "Drame / Musique / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/7NRma1cgsfL6U0gTCQS3ikV74tT.jpg",
         "trailer": "https://www.youtube.com/watch?v=_HvwhOY63Ig"
     },
     {
         "title": "Downton Abbey III : Le Grand Final",
-        "rating": 7.5,
+        "rating": 7.4,
         "genre": "Drame / Romance / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/jscBtL4ST97B0ZTNyKHHTjQZc9F.jpg",
         "trailer": "https://www.youtube.com/watch?v=P_30wFRxlnA"
     },
     {
         "title": "Conjuring : L'Heure du jugement",
-        "rating": 6.564,
+        "rating": 6.6,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/mlkMH0Em29I0QBc7YeRc9yGFRKw.jpg",
         "trailer": "https://www.youtube.com/watch?v=p4aWdkM5xF8"
     },
     {
         "title": "Pris au piège - Caught Stealing",
-        "rating": 7,
+        "rating": 7.018,
         "genre": "Crime / Thriller / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/3Ba53oZxqM7qOj7ZCGGxkY9GDE4.jpg",
         "trailer": "https://www.youtube.com/watch?v=6mIvD-GN-p4"
@@ -134,7 +134,7 @@
     },
     {
         "title": "La Guerre des Rose",
-        "rating": 7.1,
+        "rating": 7.065,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/eb5IcEIr9YWu22BxLlELfabVqLA.jpg",
         "trailer": "https://www.youtube.com/watch?v=XkgMaS5gbaA"
