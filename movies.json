@@ -1,5 +1,26 @@
 [
     {
+        "title": "Chien 51",
+        "rating": 0,
+        "genre": "Thriller / Science-fiction / Crime / Action",
+        "poster": "https://image.tmdb.org/t/p/w500/6bDBDdccpppErPv72A1a53ClB7F.jpg",
+        "trailer": "https://www.youtube.com/watch?v=nBizRrKtVc0"
+    },
+    {
+        "title": "Good Boy",
+        "rating": 7.294,
+        "genre": "Horreur / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg",
+        "trailer": "https://www.youtube.com/watch?v=q4-CRkd_74g"
+    },
+    {
+        "title": "Black Phone 2",
+        "rating": 0,
+        "genre": "Horreur / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/yea26ufsklHJafnnUM3kO6vCPc4.jpg",
+        "trailer": "https://www.youtube.com/watch?v=pWNucAcRoBY"
+    },
+    {
         "title": "L'Intérêt d'Adam",
         "rating": 7,
         "genre": "Drame",
@@ -8,14 +29,14 @@
     },
     {
         "title": "இட்லி கடை",
-        "rating": 0,
+        "rating": 6,
         "genre": "Action / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/9ViF6UTWMh14gx77RvFALe5R6AL.jpg",
         "trailer": null
     },
     {
         "title": "Un simple accident",
-        "rating": 6.6,
+        "rating": 6.619,
         "genre": "Drame / Thriller / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/fS0XSf0RHG3WvBndDLsrjcwq9rZ.jpg",
         "trailer": "https://www.youtube.com/watch?v=nF04v-ze2Yc"
@@ -29,7 +50,7 @@
     },
     {
         "title": "They Call Him OG",
-        "rating": 5.2,
+        "rating": 5.308,
         "genre": "Action / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/jCjXP26jkeV0TCMqkSvJTDKCDNk.jpg",
         "trailer": null
@@ -43,24 +64,17 @@
     },
     {
         "title": "Tron: Ares",
-        "rating": 10,
+        "rating": 7.2,
         "genre": "Science-fiction / Aventure / Action",
         "poster": "https://image.tmdb.org/t/p/w500/58utDFHgnTJlOLXem5GupFGhp5p.jpg",
-        "trailer": "https://www.youtube.com/watch?v=YCSdZBvtPek"
+        "trailer": "https://www.youtube.com/watch?v=gNa0j4mQo1k"
     },
     {
         "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
         "rating": 7.8,
         "genre": "Animation / Action / Fantastique / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
-        "trailer": "https://www.youtube.com/watch?v=juD6zgap4-I"
-    },
-    {
-        "title": "Lokah: Chapter One: Chandra",
-        "rating": 7.7,
-        "genre": "Action / Aventure / Fantastique",
-        "poster": "https://image.tmdb.org/t/p/w500/erEVbUNiNwbH8Pns2texFV1u5Xi.jpg",
-        "trailer": "https://www.youtube.com/watch?v=64XHtNWTB5o"
+        "trailer": "https://www.youtube.com/watch?v=kRabta5DfTY"
     },
     {
         "title": "Crocodile Fury",
@@ -71,28 +85,28 @@
     },
     {
         "title": "A Big Bold Beautiful Journey",
-        "rating": 6.427,
+        "rating": 6.46,
         "genre": "Romance / Fantastique / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/72KlepxAnI8DWMcUbwJ6OdXwe5l.jpg",
         "trailer": "https://www.youtube.com/watch?v=xdKP22EaAuU"
     },
     {
         "title": "Marche ou crève",
-        "rating": 7.085,
+        "rating": 7.104,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/41wPG2nflDPez7wph5SKJhhBLzV.jpg",
         "trailer": "https://www.youtube.com/watch?v=1zggP9Yr8yk"
     },
     {
         "title": "Une bataille après l'autre",
-        "rating": 7.774,
+        "rating": 7.8,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/oklJLdtqpUOEfdxBMfCgqFNw744.jpg",
         "trailer": "https://www.youtube.com/watch?v=kQUPdVxZNPk"
     },
     {
         "title": "Libre échange",
-        "rating": 6.468,
+        "rating": 6.5,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/nTICKbMean6yLBebzxX6enmSmm5.jpg",
         "trailer": "https://www.youtube.com/watch?v=VrdSQSLD63Q"
@@ -106,24 +120,17 @@
     },
     {
         "title": "Downton Abbey III : Le Grand Final",
-        "rating": 7.427,
+        "rating": 7.385,
         "genre": "Drame / Romance / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/jscBtL4ST97B0ZTNyKHHTjQZc9F.jpg",
         "trailer": "https://www.youtube.com/watch?v=P_30wFRxlnA"
     },
     {
         "title": "Conjuring : L'Heure du jugement",
-        "rating": 6.6,
+        "rating": 6.821,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/mlkMH0Em29I0QBc7YeRc9yGFRKw.jpg",
         "trailer": "https://www.youtube.com/watch?v=p4aWdkM5xF8"
-    },
-    {
-        "title": "Pris au piège - Caught Stealing",
-        "rating": 7,
-        "genre": "Crime / Thriller / Comédie",
-        "poster": "https://image.tmdb.org/t/p/w500/3Ba53oZxqM7qOj7ZCGGxkY9GDE4.jpg",
-        "trailer": "https://www.youtube.com/watch?v=6mIvD-GN-p4"
     },
     {
         "title": "Exit 8",
@@ -131,12 +138,5 @@
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/4moIv5Zewxg0gFuNC7m75x3JbDx.jpg",
         "trailer": "https://www.youtube.com/watch?v=emZZexEJO8c"
-    },
-    {
-        "title": "La Guerre des Rose",
-        "rating": 7.065,
-        "genre": "Comédie / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/eb5IcEIr9YWu22BxLlELfabVqLA.jpg",
-        "trailer": "https://www.youtube.com/watch?v=XkgMaS5gbaA"
     }
 ]
