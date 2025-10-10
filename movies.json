@@ -1,80 +1,45 @@
 [
     {
-        "title": "The Cut",
-        "rating": 6.3,
-        "genre": "Thriller / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/aC6lOgbpt4on9Dkv1A5oGcI5sRk.jpg",
-        "trailer": "https://www.youtube.com/watch?v=pJjPBTC0ypU"
+        "title": "Exit 8",
+        "rating": 6.172,
+        "genre": "Horreur / Mystère",
+        "poster": "https://image.tmdb.org/t/p/w500/4moIv5Zewxg0gFuNC7m75x3JbDx.jpg",
+        "trailer": "https://www.youtube.com/watch?v=emZZexEJO8c"
     },
     {
-        "title": "Good Boy",
-        "rating": 7.2,
-        "genre": "Horreur / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg",
-        "trailer": "https://www.youtube.com/watch?v=q4-CRkd_74g"
-    },
-    {
-        "title": "Black Phone 2",
-        "rating": 0,
-        "genre": "Horreur / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/yea26ufsklHJafnnUM3kO6vCPc4.jpg",
-        "trailer": "https://www.youtube.com/watch?v=pWNucAcRoBY"
-    },
-    {
-        "title": "L'Intérêt d'Adam",
-        "rating": 7,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/r2JKzR504xxki3mVDh5b04bgmFT.jpg",
-        "trailer": "https://www.youtube.com/watch?v=E7P1tVrg3ok"
-    },
-    {
-        "title": "இட்லி கடை",
-        "rating": 6,
-        "genre": "Action / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/9ViF6UTWMh14gx77RvFALe5R6AL.jpg",
-        "trailer": null
-    },
-    {
-        "title": "Un simple accident",
-        "rating": 6.6,
-        "genre": "Drame / Thriller / Horreur",
-        "poster": "https://image.tmdb.org/t/p/w500/fS0XSf0RHG3WvBndDLsrjcwq9rZ.jpg",
-        "trailer": "https://www.youtube.com/watch?v=nF04v-ze2Yc"
-    },
-    {
-        "title": "MADHARASI",
-        "rating": 7.3,
-        "genre": "Action / Romance / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/dw3Dllz1gV7186m7clqNDnI9R28.jpg",
-        "trailer": null
-    },
-    {
-        "title": "They Call Him OG",
-        "rating": 5.308,
-        "genre": "Action / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/jCjXP26jkeV0TCMqkSvJTDKCDNk.jpg",
-        "trailer": null
-    },
-    {
-        "title": "Gabby et la maison magique - Le film",
-        "rating": 6.4,
-        "genre": "Famille / Comédie / Aventure",
-        "poster": "https://image.tmdb.org/t/p/w500/AsHpAbkusQPgVwKG3Sm8p2A1rCV.jpg",
-        "trailer": "https://www.youtube.com/watch?v=S-GFCPEWqe4"
-    },
-    {
-        "title": "Tron: Ares",
+        "title": "Downton Abbey III : Le Grand Final",
         "rating": 7.5,
-        "genre": "Science-fiction / Aventure / Action",
-        "poster": "https://image.tmdb.org/t/p/w500/58utDFHgnTJlOLXem5GupFGhp5p.jpg",
-        "trailer": "https://www.youtube.com/watch?v=gNa0j4mQo1k"
+        "genre": "Drame / Romance / Histoire",
+        "poster": "https://image.tmdb.org/t/p/w500/jscBtL4ST97B0ZTNyKHHTjQZc9F.jpg",
+        "trailer": "https://www.youtube.com/watch?v=P_30wFRxlnA"
     },
     {
-        "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
-        "rating": 7.805,
-        "genre": "Animation / Action / Fantastique / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
-        "trailer": "https://www.youtube.com/watch?v=kRabta5DfTY"
+        "title": "Conjuring : L'Heure du jugement",
+        "rating": 6.937,
+        "genre": "Horreur",
+        "poster": "https://image.tmdb.org/t/p/w500/mlkMH0Em29I0QBc7YeRc9yGFRKw.jpg",
+        "trailer": "https://www.youtube.com/watch?v=p4aWdkM5xF8"
+    },
+    {
+        "title": "Sirāt",
+        "rating": 6.893,
+        "genre": "Drame / Musique / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/7NRma1cgsfL6U0gTCQS3ikV74tT.jpg",
+        "trailer": "https://www.youtube.com/watch?v=_HvwhOY63Ig"
+    },
+    {
+        "title": "Libre échange",
+        "rating": 6.5,
+        "genre": "Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/nTICKbMean6yLBebzxX6enmSmm5.jpg",
+        "trailer": "https://www.youtube.com/watch?v=VrdSQSLD63Q"
+    },
+    {
+        "title": "Une bataille après l'autre",
+        "rating": 7.798,
+        "genre": "Action / Crime / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/oklJLdtqpUOEfdxBMfCgqFNw744.jpg",
+        "trailer": "https://www.youtube.com/watch?v=kQUPdVxZNPk"
     },
     {
         "title": "Crocodile Fury",
@@ -85,58 +50,93 @@
     },
     {
         "title": "A Big Bold Beautiful Journey",
-        "rating": 6.41,
+        "rating": 6.4,
         "genre": "Romance / Fantastique / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/72KlepxAnI8DWMcUbwJ6OdXwe5l.jpg",
         "trailer": "https://www.youtube.com/watch?v=xdKP22EaAuU"
     },
     {
         "title": "Marche ou crève",
-        "rating": 7.075,
+        "rating": 7.1,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/41wPG2nflDPez7wph5SKJhhBLzV.jpg",
         "trailer": "https://www.youtube.com/watch?v=1zggP9Yr8yk"
     },
     {
-        "title": "Une bataille après l'autre",
-        "rating": 7.783,
-        "genre": "Action / Crime / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/oklJLdtqpUOEfdxBMfCgqFNw744.jpg",
-        "trailer": "https://www.youtube.com/watch?v=kQUPdVxZNPk"
+        "title": "Gabby et la maison magique - Le film",
+        "rating": 5.8,
+        "genre": "Famille / Comédie / Aventure",
+        "poster": "https://image.tmdb.org/t/p/w500/AsHpAbkusQPgVwKG3Sm8p2A1rCV.jpg",
+        "trailer": "https://www.youtube.com/watch?v=S-GFCPEWqe4"
     },
     {
-        "title": "Libre échange",
-        "rating": 6.462,
-        "genre": "Comédie",
-        "poster": "https://image.tmdb.org/t/p/w500/nTICKbMean6yLBebzxX6enmSmm5.jpg",
-        "trailer": "https://www.youtube.com/watch?v=VrdSQSLD63Q"
+        "title": "They Call Him OG",
+        "rating": 5.308,
+        "genre": "Action / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/jCjXP26jkeV0TCMqkSvJTDKCDNk.jpg",
+        "trailer": null
     },
     {
-        "title": "Sirāt",
-        "rating": 6.9,
-        "genre": "Drame / Musique / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/7NRma1cgsfL6U0gTCQS3ikV74tT.jpg",
-        "trailer": "https://www.youtube.com/watch?v=_HvwhOY63Ig"
+        "title": "Tron: Ares",
+        "rating": 6.529,
+        "genre": "Science-fiction / Aventure / Action",
+        "poster": "https://image.tmdb.org/t/p/w500/58utDFHgnTJlOLXem5GupFGhp5p.jpg",
+        "trailer": "https://www.youtube.com/watch?v=gNa0j4mQo1k"
     },
     {
-        "title": "Downton Abbey III : Le Grand Final",
-        "rating": 7.45,
-        "genre": "Drame / Romance / Histoire",
-        "poster": "https://image.tmdb.org/t/p/w500/jscBtL4ST97B0ZTNyKHHTjQZc9F.jpg",
-        "trailer": "https://www.youtube.com/watch?v=P_30wFRxlnA"
+        "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
+        "rating": 7.8,
+        "genre": "Animation / Action / Fantastique / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
+        "trailer": "https://www.youtube.com/watch?v=kRabta5DfTY"
     },
     {
-        "title": "Conjuring : L'Heure du jugement",
-        "rating": 6.939,
-        "genre": "Horreur",
-        "poster": "https://image.tmdb.org/t/p/w500/mlkMH0Em29I0QBc7YeRc9yGFRKw.jpg",
-        "trailer": "https://www.youtube.com/watch?v=p4aWdkM5xF8"
+        "title": "MADHARASI",
+        "rating": 7.3,
+        "genre": "Action / Romance / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/dw3Dllz1gV7186m7clqNDnI9R28.jpg",
+        "trailer": null
     },
     {
-        "title": "Exit 8",
-        "rating": 6.245,
-        "genre": "Horreur / Mystère",
-        "poster": "https://image.tmdb.org/t/p/w500/4moIv5Zewxg0gFuNC7m75x3JbDx.jpg",
-        "trailer": "https://www.youtube.com/watch?v=emZZexEJO8c"
+        "title": "Un simple accident",
+        "rating": 6.6,
+        "genre": "Drame / Thriller / Horreur",
+        "poster": "https://image.tmdb.org/t/p/w500/fS0XSf0RHG3WvBndDLsrjcwq9rZ.jpg",
+        "trailer": "https://www.youtube.com/watch?v=nF04v-ze2Yc"
+    },
+    {
+        "title": "L'Intérêt d'Adam",
+        "rating": 6.955,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/r2JKzR504xxki3mVDh5b04bgmFT.jpg",
+        "trailer": "https://www.youtube.com/watch?v=E7P1tVrg3ok"
+    },
+    {
+        "title": "Black Phone 2",
+        "rating": 7.25,
+        "genre": "Horreur / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/yea26ufsklHJafnnUM3kO6vCPc4.jpg",
+        "trailer": "https://www.youtube.com/watch?v=pWNucAcRoBY"
+    },
+    {
+        "title": "Good Boy",
+        "rating": 7.367,
+        "genre": "Horreur / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg",
+        "trailer": "https://www.youtube.com/watch?v=q4-CRkd_74g"
+    },
+    {
+        "title": "Kontinental '25",
+        "rating": 7,
+        "genre": "Comédie / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/gG46ThB36UApO3rLVqRp5wCG8YV.jpg",
+        "trailer": "https://www.youtube.com/watch?v=b8-j8_kCg1A"
+    },
+    {
+        "title": "Chien 51",
+        "rating": 0,
+        "genre": "Thriller / Science-fiction / Crime / Action",
+        "poster": "https://image.tmdb.org/t/p/w500/6bDBDdccpppErPv72A1a53ClB7F.jpg",
+        "trailer": "https://www.youtube.com/watch?v=nBizRrKtVc0"
     }
 ]
