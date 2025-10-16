@@ -8,21 +8,21 @@
     },
     {
         "title": "Conjuring : L'Heure du jugement",
-        "rating": 6.945,
+        "rating": 7,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/mlkMH0Em29I0QBc7YeRc9yGFRKw.jpg",
         "trailer": "https://www.youtube.com/watch?v=p4aWdkM5xF8"
     },
     {
         "title": "Sirāt",
-        "rating": 6.916,
+        "rating": 6.9,
         "genre": "Drame / Musique / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/7NRma1cgsfL6U0gTCQS3ikV74tT.jpg",
         "trailer": "https://www.youtube.com/watch?v=_HvwhOY63Ig"
     },
     {
         "title": "Libre échange",
-        "rating": 6.459,
+        "rating": 6.5,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/nTICKbMean6yLBebzxX6enmSmm5.jpg",
         "trailer": "https://www.youtube.com/watch?v=VrdSQSLD63Q"
@@ -35,13 +35,6 @@
         "trailer": "https://www.youtube.com/watch?v=kQUPdVxZNPk"
     },
     {
-        "title": "Crocodile Fury",
-        "rating": 5.4,
-        "genre": "Horreur / Action",
-        "poster": "https://image.tmdb.org/t/p/w500/pN2AhOTXwfyKvl9funuWby1lr8O.jpg",
-        "trailer": "https://www.youtube.com/watch?v=aYwruGQIo34"
-    },
-    {
         "title": "A Big Bold Beautiful Journey",
         "rating": 6.4,
         "genre": "Romance / Fantastique / Drame",
@@ -50,7 +43,7 @@
     },
     {
         "title": "Marche ou crève",
-        "rating": 7,
+        "rating": 6.992,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/41wPG2nflDPez7wph5SKJhhBLzV.jpg",
         "trailer": "https://www.youtube.com/watch?v=1zggP9Yr8yk"
@@ -64,45 +57,38 @@
     },
     {
         "title": "Tron: Ares",
-        "rating": 6.477,
+        "rating": 6.474,
         "genre": "Science-fiction / Aventure / Action",
         "poster": "https://image.tmdb.org/t/p/w500/58utDFHgnTJlOLXem5GupFGhp5p.jpg",
         "trailer": "https://www.youtube.com/watch?v=gNa0j4mQo1k"
     },
     {
         "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
-        "rating": 7.807,
+        "rating": 7.808,
         "genre": "Animation / Action / Fantastique / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
         "trailer": "https://www.youtube.com/watch?v=kRabta5DfTY"
     },
     {
         "title": "Un simple accident",
-        "rating": 6.6,
+        "rating": 6.622,
         "genre": "Drame / Thriller / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/fS0XSf0RHG3WvBndDLsrjcwq9rZ.jpg",
         "trailer": "https://www.youtube.com/watch?v=JsBlg_8L0OM"
     },
     {
         "title": "Black Phone 2",
-        "rating": 6.125,
+        "rating": 6.4,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/yea26ufsklHJafnnUM3kO6vCPc4.jpg",
         "trailer": "https://www.youtube.com/watch?v=pWNucAcRoBY"
     },
     {
         "title": "Good Boy",
-        "rating": 7.257,
+        "rating": 7.154,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg",
         "trailer": "https://www.youtube.com/watch?v=q4-CRkd_74g"
-    },
-    {
-        "title": "Cervantes avant Don Quichotte",
-        "rating": 7.5,
-        "genre": "Drame / Histoire",
-        "poster": "https://image.tmdb.org/t/p/w500/wsOz31DqCAmhdBLSRPhCbECwgvw.jpg",
-        "trailer": null
     },
     {
         "title": "Stolen Girl",
@@ -138,5 +124,19 @@
         "genre": "Famille / Comédie / Aventure / Animation",
         "poster": "https://image.tmdb.org/t/p/w500/AsHpAbkusQPgVwKG3Sm8p2A1rCV.jpg",
         "trailer": "https://www.youtube.com/watch?v=S-GFCPEWqe4"
+    },
+    {
+        "title": "Chien 51",
+        "rating": 6.5,
+        "genre": "Thriller / Science-fiction / Crime / Action",
+        "poster": "https://image.tmdb.org/t/p/w500/6bDBDdccpppErPv72A1a53ClB7F.jpg",
+        "trailer": "https://www.youtube.com/watch?v=nBizRrKtVc0"
+    },
+    {
+        "title": "Dongji Rescue",
+        "rating": 7.2,
+        "genre": "Drame / Histoire / Guerre",
+        "poster": "https://image.tmdb.org/t/p/w500/srqflGIWm1qRHsBQSjdIHWF4E4N.jpg",
+        "trailer": "https://www.youtube.com/watch?v=GeZ01JLg2F0"
     }
 ]
