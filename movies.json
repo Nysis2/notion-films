@@ -1,14 +1,14 @@
 [
     {
         "title": "A Big Bold Beautiful Journey",
-        "rating": 6.298,
+        "rating": 6.3,
         "genre": "Romance / Fantastique / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/72KlepxAnI8DWMcUbwJ6OdXwe5l.jpg",
         "trailer": "https://www.youtube.com/watch?v=xdKP22EaAuU"
     },
     {
         "title": "Marche ou crève",
-        "rating": 7,
+        "rating": 6.949,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/41wPG2nflDPez7wph5SKJhhBLzV.jpg",
         "trailer": "https://www.youtube.com/watch?v=1zggP9Yr8yk"
@@ -29,7 +29,7 @@
     },
     {
         "title": "Black Phone 2",
-        "rating": 7,
+        "rating": 7.117,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/yea26ufsklHJafnnUM3kO6vCPc4.jpg",
         "trailer": "https://www.youtube.com/watch?v=pWNucAcRoBY"
@@ -43,14 +43,14 @@
     },
     {
         "title": "Springsteen: Deliver Me from Nowhere",
-        "rating": 7.063,
+        "rating": 7.021,
         "genre": "Drame / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
         "trailer": "https://www.youtube.com/watch?v=dH9NgXGVgK4"
     },
     {
         "title": "Gabby et la Maison Magique - Le Film",
-        "rating": 6.6,
+        "rating": 6.614,
         "genre": "Famille / Comédie / Aventure / Animation",
         "poster": "https://image.tmdb.org/t/p/w500/AsHpAbkusQPgVwKG3Sm8p2A1rCV.jpg",
         "trailer": "https://www.youtube.com/watch?v=S-GFCPEWqe4"
@@ -64,28 +64,28 @@
     },
     {
         "title": "Les Intrus : Chapitre 2",
-        "rating": 5.635,
+        "rating": 5.704,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zxtIhguQPqCBJVVXburIEUaUyYP.jpg",
         "trailer": "https://www.youtube.com/watch?v=_d55K72DoKg"
     },
     {
         "title": "Smashing Machine",
-        "rating": 6.598,
+        "rating": 6.3,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/nDLjwQHKbtJTNYbTdhjIbTuBfgG.jpg",
         "trailer": "https://www.youtube.com/watch?v=u4A8zfMClCM"
     },
     {
         "title": "Regretting You",
-        "rating": 7.044,
+        "rating": 7,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/tulNImprvr3I3vUSrvSExbdaXgN.jpg",
         "trailer": "https://www.youtube.com/watch?v=qub8lZlVlho"
     },
     {
         "title": "Chainsaw Man – Le Film : L'arc de Reze",
-        "rating": 8.277,
+        "rating": 8.248,
         "genre": "Animation / Action / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/e6TnXsxaL4ys7Ldx2kf3RGRn5Uz.jpg",
         "trailer": "https://www.youtube.com/watch?v=GJ1jrCnm-t8"
@@ -99,7 +99,7 @@
     },
     {
         "title": "Predator: Badlands",
-        "rating": 7.3,
+        "rating": 6.2,
         "genre": "Action / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/empQGO0pCVTndCpihyVpNfaLebl.jpg",
         "trailer": "https://www.youtube.com/watch?v=9PgcAIgpwPA"
@@ -119,15 +119,8 @@
         "trailer": null
     },
     {
-        "title": "Détective Conan : La Mémoire retrouvée",
-        "rating": 7.7,
-        "genre": "Animation / Action / Mystère / Crime",
-        "poster": "https://image.tmdb.org/t/p/w500/cShSrMVsjv5Y81JBUghyhz8AnqA.jpg",
-        "trailer": "https://www.youtube.com/watch?v=0XIxTr6Zl18"
-    },
-    {
         "title": "G.O.A.T.",
-        "rating": 5.848,
+        "rating": 5.839,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/nTFrCDCc1pMJAwmUhPjtTHMnF6w.jpg",
         "trailer": "https://www.youtube.com/watch?v=hpEy0iOixb4"
@@ -138,5 +131,12 @@
         "genre": "Thriller / Crime / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/bkLaI0JqXb1lRqGti0zGgUMb1Uk.jpg",
         "trailer": "https://www.youtube.com/watch?v=lLWESUfW-0A"
+    },
+    {
+        "title": "Chien 51",
+        "rating": 6.519,
+        "genre": "Thriller / Science-fiction / Crime / Action",
+        "poster": "https://image.tmdb.org/t/p/w500/6bDBDdccpppErPv72A1a53ClB7F.jpg",
+        "trailer": "https://www.youtube.com/watch?v=nBizRrKtVc0"
     }
 ]
