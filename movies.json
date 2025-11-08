@@ -1,77 +1,77 @@
 [
     {
         "title": "A Big Bold Beautiful Journey",
-        "rating": 6.3,
+        "rating": 6.27,
         "genre": "Romance / Fantastique / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/72KlepxAnI8DWMcUbwJ6OdXwe5l.jpg",
         "trailer": "https://www.youtube.com/watch?v=xdKP22EaAuU"
     },
     {
         "title": "Marche ou crève",
-        "rating": 6.9,
+        "rating": 6.944,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/41wPG2nflDPez7wph5SKJhhBLzV.jpg",
         "trailer": "https://www.youtube.com/watch?v=1zggP9Yr8yk"
     },
     {
         "title": "Tron: Ares",
-        "rating": 6.3,
+        "rating": 6.354,
         "genre": "Science-fiction / Aventure / Action",
         "poster": "https://image.tmdb.org/t/p/w500/58utDFHgnTJlOLXem5GupFGhp5p.jpg",
         "trailer": "https://www.youtube.com/watch?v=gNa0j4mQo1k"
     },
     {
         "title": "Un simple accident",
-        "rating": 6.8,
+        "rating": 6.868,
         "genre": "Drame / Thriller / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/fS0XSf0RHG3WvBndDLsrjcwq9rZ.jpg",
         "trailer": "https://www.youtube.com/watch?v=9oHw2ubyWE4"
     },
     {
         "title": "Black Phone 2",
-        "rating": 7.1,
+        "rating": 7.243,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/yea26ufsklHJafnnUM3kO6vCPc4.jpg",
         "trailer": "https://www.youtube.com/watch?v=pWNucAcRoBY"
     },
     {
         "title": "Good Boy",
-        "rating": 6.846,
+        "rating": 6.85,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg",
         "trailer": "https://www.youtube.com/watch?v=q4-CRkd_74g"
     },
     {
         "title": "Springsteen: Deliver Me from Nowhere",
-        "rating": 7,
+        "rating": 7.031,
         "genre": "Drame / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
         "trailer": "https://www.youtube.com/watch?v=dH9NgXGVgK4"
     },
     {
         "title": "Gabby et la Maison Magique - Le Film",
-        "rating": 6.614,
+        "rating": 6.6,
         "genre": "Famille / Comédie / Aventure / Animation",
         "poster": "https://image.tmdb.org/t/p/w500/AsHpAbkusQPgVwKG3Sm8p2A1rCV.jpg",
         "trailer": "https://www.youtube.com/watch?v=S-GFCPEWqe4"
     },
     {
         "title": "Kantara A Legend: Chapter 1",
-        "rating": 7.783,
+        "rating": 7.8,
         "genre": "Action / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/ehQPboTPaIMkMUOoNOh8e7pZ5Rp.jpg",
         "trailer": "https://www.youtube.com/watch?v=TMQUFhWm8C0"
     },
     {
         "title": "Les Intrus : Chapitre 2",
-        "rating": 5.793,
+        "rating": 5.809,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zxtIhguQPqCBJVVXburIEUaUyYP.jpg",
         "trailer": "https://www.youtube.com/watch?v=_d55K72DoKg"
     },
     {
         "title": "Smashing Machine",
-        "rating": 6.4,
+        "rating": 6.365,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/nDLjwQHKbtJTNYbTdhjIbTuBfgG.jpg",
         "trailer": "https://www.youtube.com/watch?v=u4A8zfMClCM"
@@ -85,49 +85,42 @@
     },
     {
         "title": "Chainsaw Man – Le Film : L'arc de Reze",
-        "rating": 8.261,
+        "rating": 8.255,
         "genre": "Animation / Action / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/e6TnXsxaL4ys7Ldx2kf3RGRn5Uz.jpg",
         "trailer": "https://www.youtube.com/watch?v=GJ1jrCnm-t8"
     },
     {
         "title": "Kaamelott - Deuxième volet, partie 1",
-        "rating": 6.4,
+        "rating": 6.42,
         "genre": "Aventure / Fantastique / Comédie / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/qozUrQZwmsTEFfLziB6r6Swxdb0.jpg",
         "trailer": "https://www.youtube.com/watch?v=sScdCtaDyzg"
     },
     {
         "title": "Predator: Badlands",
-        "rating": 6.453,
+        "rating": 6.614,
         "genre": "Action / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/empQGO0pCVTndCpihyVpNfaLebl.jpg",
         "trailer": "https://www.youtube.com/watch?v=9PgcAIgpwPA"
     },
     {
-        "title": "இட்லி கடை",
-        "rating": 6.7,
-        "genre": "Action / Drame / Comédie",
-        "poster": "https://image.tmdb.org/t/p/w500/9ViF6UTWMh14gx77RvFALe5R6AL.jpg",
-        "trailer": null
-    },
-    {
         "title": "La Légende de Baahubali, l’épopée – Version Director’s Cut",
-        "rating": 9,
+        "rating": 8.2,
         "genre": "Action / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/g0AcjxmDlzFiETFSDXPfAhhT85m.jpg",
         "trailer": null
     },
     {
         "title": "G.O.A.T.",
-        "rating": 5.839,
+        "rating": 5.857,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/nTFrCDCc1pMJAwmUhPjtTHMnF6w.jpg",
         "trailer": "https://www.youtube.com/watch?v=hpEy0iOixb4"
     },
     {
         "title": "Insaisissables 3",
-        "rating": 7,
+        "rating": 6.2,
         "genre": "Thriller / Crime / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/bkLaI0JqXb1lRqGti0zGgUMb1Uk.jpg",
         "trailer": "https://www.youtube.com/watch?v=lLWESUfW-0A"
@@ -138,5 +131,12 @@
         "genre": "Thriller / Science-fiction / Crime / Action",
         "poster": "https://image.tmdb.org/t/p/w500/6bDBDdccpppErPv72A1a53ClB7F.jpg",
         "trailer": "https://www.youtube.com/watch?v=nBizRrKtVc0"
+    },
+    {
+        "title": "Détective Conan : La Mémoire retrouvée",
+        "rating": 7.7,
+        "genre": "Animation / Action / Mystère / Crime",
+        "poster": "https://image.tmdb.org/t/p/w500/cShSrMVsjv5Y81JBUghyhz8AnqA.jpg",
+        "trailer": "https://www.youtube.com/watch?v=0XIxTr6Zl18"
     }
 ]
