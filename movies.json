@@ -8,49 +8,49 @@
     },
     {
         "title": "Black Phone 2",
-        "rating": 7.164,
+        "rating": 7.147,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/yea26ufsklHJafnnUM3kO6vCPc4.jpg",
         "trailer": "https://www.youtube.com/watch?v=pWNucAcRoBY"
     },
     {
         "title": "Good Boy",
-        "rating": 6.844,
+        "rating": 6.836,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg",
         "trailer": "https://www.youtube.com/watch?v=q4-CRkd_74g"
     },
     {
         "title": "Springsteen: Deliver Me from Nowhere",
-        "rating": 7.005,
+        "rating": 6.976,
         "genre": "Drame / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
         "trailer": "https://www.youtube.com/watch?v=dH9NgXGVgK4"
     },
     {
         "title": "Gabby et la Maison Magique - Le Film",
-        "rating": 6.645,
+        "rating": 6.6,
         "genre": "Famille / Comédie / Aventure / Animation",
         "poster": "https://image.tmdb.org/t/p/w500/AsHpAbkusQPgVwKG3Sm8p2A1rCV.jpg",
         "trailer": "https://www.youtube.com/watch?v=S-GFCPEWqe4"
     },
     {
         "title": "Les Intrus : Chapitre 2",
-        "rating": 6.004,
+        "rating": 6.02,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zxtIhguQPqCBJVVXburIEUaUyYP.jpg",
         "trailer": "https://www.youtube.com/watch?v=_d55K72DoKg"
     },
     {
         "title": "Smashing Machine",
-        "rating": 6.5,
+        "rating": 6.511,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/nDLjwQHKbtJTNYbTdhjIbTuBfgG.jpg",
         "trailer": "https://www.youtube.com/watch?v=u4A8zfMClCM"
     },
     {
         "title": "Regretting You",
-        "rating": 7.2,
+        "rating": 7.234,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/tulNImprvr3I3vUSrvSExbdaXgN.jpg",
         "trailer": "https://www.youtube.com/watch?v=qub8lZlVlho"
@@ -64,35 +64,28 @@
     },
     {
         "title": "Predator: Badlands",
-        "rating": 7.294,
+        "rating": 7.28,
         "genre": "Action / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/empQGO0pCVTndCpihyVpNfaLebl.jpg",
         "trailer": "https://www.youtube.com/watch?v=9PgcAIgpwPA"
     },
     {
-        "title": "G.O.A.T.",
-        "rating": 5.8,
-        "genre": "Horreur / Mystère",
-        "poster": "https://image.tmdb.org/t/p/w500/nTFrCDCc1pMJAwmUhPjtTHMnF6w.jpg",
-        "trailer": "https://www.youtube.com/watch?v=hpEy0iOixb4"
-    },
-    {
         "title": "Insaisissables 3",
-        "rating": 7.261,
+        "rating": 6.908,
         "genre": "Thriller / Crime / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/bkLaI0JqXb1lRqGti0zGgUMb1Uk.jpg",
         "trailer": "https://www.youtube.com/watch?v=lLWESUfW-0A"
     },
     {
         "title": "Super Grand Prix",
-        "rating": 7.583,
+        "rating": 7.289,
         "genre": "Animation / Aventure / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/f6EOvzq5amMoUN5beFfKwVoUaUR.jpg",
         "trailer": "https://www.youtube.com/watch?v=NdMun0n3z9w"
     },
     {
         "title": "Nouvelle Vague",
-        "rating": 7.667,
+        "rating": 7.661,
         "genre": "Comédie / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/61K6trpEo502AngE4dT9WVo17nk.jpg",
         "trailer": "https://www.youtube.com/watch?v=UufRzKVFseg"
@@ -106,14 +99,14 @@
     },
     {
         "title": "Wicked : Partie II",
-        "rating": 5,
+        "rating": 4.9,
         "genre": "Romance / Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yirK6p8rQsV6wwsefBIZTf4ifGL.jpg",
         "trailer": "https://www.youtube.com/watch?v=R2Xubj7lazE"
     },
     {
         "title": "Running Man",
-        "rating": 7.236,
+        "rating": 7.17,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
         "trailer": "https://www.youtube.com/watch?v=_iHJHYjq7XI"
@@ -138,5 +131,12 @@
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/8C8en0UnZHiCIUikQ49OcDhKzoa.jpg",
         "trailer": "https://www.youtube.com/watch?v=pNMhYjISQz8"
+    },
+    {
+        "title": "Dossier 137",
+        "rating": 8,
+        "genre": "Crime / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/frEovFFQ6CcGnAPmtLRAKRLoPa1.jpg",
+        "trailer": null
     }
 ]
