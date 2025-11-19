@@ -1,21 +1,21 @@
 [
     {
         "title": "Tron: Ares",
-        "rating": 6.344,
+        "rating": 6.3,
         "genre": "Science-fiction / Aventure / Action",
         "poster": "https://image.tmdb.org/t/p/w500/58utDFHgnTJlOLXem5GupFGhp5p.jpg",
         "trailer": "https://www.youtube.com/watch?v=gNa0j4mQo1k"
     },
     {
         "title": "Black Phone 2",
-        "rating": 7.073,
+        "rating": 7.021,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/yea26ufsklHJafnnUM3kO6vCPc4.jpg",
         "trailer": "https://www.youtube.com/watch?v=pWNucAcRoBY"
     },
     {
         "title": "Good Boy",
-        "rating": 6.824,
+        "rating": 6.8,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg",
         "trailer": "https://www.youtube.com/watch?v=q4-CRkd_74g"
@@ -36,35 +36,35 @@
     },
     {
         "title": "Smashing Machine",
-        "rating": 6.411,
+        "rating": 6.392,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/nDLjwQHKbtJTNYbTdhjIbTuBfgG.jpg",
         "trailer": "https://www.youtube.com/watch?v=u4A8zfMClCM"
     },
     {
         "title": "Regretting You",
-        "rating": 7.221,
+        "rating": 7.2,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/tulNImprvr3I3vUSrvSExbdaXgN.jpg",
         "trailer": "https://www.youtube.com/watch?v=qub8lZlVlho"
     },
     {
         "title": "Chainsaw Man – Le Film : L'arc de Reze",
-        "rating": 8.206,
+        "rating": 8.003,
         "genre": "Animation / Action / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/e6TnXsxaL4ys7Ldx2kf3RGRn5Uz.jpg",
         "trailer": "https://www.youtube.com/watch?v=GJ1jrCnm-t8"
     },
     {
         "title": "Predator: Badlands",
-        "rating": 7.356,
+        "rating": 7.395,
         "genre": "Action / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/empQGO0pCVTndCpihyVpNfaLebl.jpg",
         "trailer": "https://www.youtube.com/watch?v=9PgcAIgpwPA"
     },
     {
         "title": "Insaisissables 3",
-        "rating": 6.781,
+        "rating": 6.504,
         "genre": "Thriller / Crime / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/bkLaI0JqXb1lRqGti0zGgUMb1Uk.jpg",
         "trailer": "https://www.youtube.com/watch?v=lLWESUfW-0A"
@@ -78,28 +78,28 @@
     },
     {
         "title": "Nouvelle Vague",
-        "rating": 7.539,
+        "rating": 7.5,
         "genre": "Comédie / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/61K6trpEo502AngE4dT9WVo17nk.jpg",
         "trailer": "https://www.youtube.com/watch?v=UufRzKVFseg"
     },
     {
         "title": "Wicked : Partie II",
-        "rating": 4.839,
+        "rating": 5.1,
         "genre": "Romance / Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yirK6p8rQsV6wwsefBIZTf4ifGL.jpg",
         "trailer": "https://www.youtube.com/watch?v=R2Xubj7lazE"
     },
     {
         "title": "Running Man",
-        "rating": 7.2,
+        "rating": 7.145,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
         "trailer": "https://www.youtube.com/watch?v=_iHJHYjq7XI"
     },
     {
         "title": "Le Studio photo de Nankin",
-        "rating": 8.422,
+        "rating": 8.413,
         "genre": "Drame / Guerre / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/rdm3hPCnAWgHmGws9QG8L1AsXL1.jpg",
         "trailer": "https://www.youtube.com/watch?v=_PX1WNbKdAE"
@@ -126,17 +126,17 @@
         "trailer": null
     },
     {
-        "title": "காந்தா",
-        "rating": 8,
-        "genre": "Histoire / Crime / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/a6A0CvOMUUbQNfgkRSPqf5JMpsU.jpg",
-        "trailer": null
-    },
-    {
         "title": "டியூட்",
         "rating": 6,
         "genre": "Action / Comédie / Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/oLUbL4RtynlTtKd1byseeOCkIZO.jpg",
+        "trailer": null
+    },
+    {
+        "title": "Karmele",
+        "rating": 0,
+        "genre": "Drame / Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/kLEyA5z6agJ2uQkfahtRg2tVkf4.jpg",
         "trailer": null
     }
 ]
