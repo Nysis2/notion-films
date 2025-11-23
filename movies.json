@@ -1,7 +1,7 @@
 [
     {
         "title": "Black Phone 2",
-        "rating": 6.926,
+        "rating": 6.9,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/yea26ufsklHJafnnUM3kO6vCPc4.jpg",
         "trailer": "https://www.youtube.com/watch?v=pWNucAcRoBY"
@@ -15,14 +15,14 @@
     },
     {
         "title": "Smashing Machine",
-        "rating": 6.4,
+        "rating": 6.431,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/nDLjwQHKbtJTNYbTdhjIbTuBfgG.jpg",
         "trailer": "https://www.youtube.com/watch?v=u4A8zfMClCM"
     },
     {
         "title": "Regretting You",
-        "rating": 7.137,
+        "rating": 7.1,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/tulNImprvr3I3vUSrvSExbdaXgN.jpg",
         "trailer": "https://www.youtube.com/watch?v=qub8lZlVlho"
@@ -36,28 +36,28 @@
     },
     {
         "title": "Predator: Badlands",
-        "rating": 7.406,
+        "rating": 7.4,
         "genre": "Action / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/empQGO0pCVTndCpihyVpNfaLebl.jpg",
         "trailer": "https://www.youtube.com/watch?v=9PgcAIgpwPA"
     },
     {
         "title": "Insaisissables 3",
-        "rating": 6.296,
+        "rating": 6.201,
         "genre": "Thriller / Crime / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/bkLaI0JqXb1lRqGti0zGgUMb1Uk.jpg",
         "trailer": "https://www.youtube.com/watch?v=lLWESUfW-0A"
     },
     {
         "title": "Wicked : Partie II",
-        "rating": 6.524,
+        "rating": 6.6,
         "genre": "Romance / Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yirK6p8rQsV6wwsefBIZTf4ifGL.jpg",
         "trailer": "https://www.youtube.com/watch?v=R2Xubj7lazE"
     },
     {
         "title": "Running Man",
-        "rating": 6.8,
+        "rating": 6.834,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
         "trailer": "https://www.youtube.com/watch?v=_iHJHYjq7XI"
@@ -78,7 +78,7 @@
     },
     {
         "title": "Dossier 137",
-        "rating": 7.353,
+        "rating": 6.81,
         "genre": "Crime / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/frEovFFQ6CcGnAPmtLRAKRLoPa1.jpg",
         "trailer": null
@@ -106,24 +106,17 @@
     },
     {
         "title": "Shelby Oaks",
-        "rating": 5.817,
+        "rating": 5.8,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/xzPcDQRWqwa5HT636De4qOrpQGc.jpg",
         "trailer": "https://www.youtube.com/watch?v=B-m1TGIY6Zo"
     },
     {
         "title": "L'Intermédiaire",
-        "rating": 7.115,
+        "rating": 7.126,
         "genre": "Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/rKCZTC8PBjOHyNGHc9cLGVGZdOI.jpg",
         "trailer": "https://www.youtube.com/watch?v=Hhkoa2LWImA"
-    },
-    {
-        "title": "Eleanor the Great",
-        "rating": 7.114,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/w4Ozc5uNnapQUJ3LPNVKaalxjLQ.jpg",
-        "trailer": "https://www.youtube.com/watch?v=wZ6l2ue--KA"
     },
     {
         "title": "Zootopie 2",
@@ -134,9 +127,16 @@
     },
     {
         "title": "பைசன் காளமாடன்",
-        "rating": 8.3,
+        "rating": 8.286,
         "genre": "Action / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/5IPFJ2XFbYjdIw4912ZufCMolX.jpg",
+        "trailer": null
+    },
+    {
+        "title": "Les aigles de la république",
+        "rating": 7.308,
+        "genre": "Drame / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/aohnANrzvGo2WkZsuHqinQhKkwU.jpg",
         "trailer": null
     }
 ]
