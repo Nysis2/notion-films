@@ -1,7 +1,7 @@
 [
     {
         "title": "Black Phone 2",
-        "rating": 6.9,
+        "rating": 6.857,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/yea26ufsklHJafnnUM3kO6vCPc4.jpg",
         "trailer": "https://www.youtube.com/watch?v=pWNucAcRoBY"
@@ -15,21 +15,21 @@
     },
     {
         "title": "Smashing Machine",
-        "rating": 6.431,
+        "rating": 6.475,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/nDLjwQHKbtJTNYbTdhjIbTuBfgG.jpg",
         "trailer": "https://www.youtube.com/watch?v=u4A8zfMClCM"
     },
     {
         "title": "Regretting You",
-        "rating": 7.1,
+        "rating": 7.138,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/tulNImprvr3I3vUSrvSExbdaXgN.jpg",
         "trailer": "https://www.youtube.com/watch?v=qub8lZlVlho"
     },
     {
         "title": "Chainsaw Man – Le Film : L'arc de Reze",
-        "rating": 7.795,
+        "rating": 7.8,
         "genre": "Animation / Action / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/e6TnXsxaL4ys7Ldx2kf3RGRn5Uz.jpg",
         "trailer": "https://www.youtube.com/watch?v=GJ1jrCnm-t8"
@@ -43,21 +43,21 @@
     },
     {
         "title": "Insaisissables 3",
-        "rating": 6.201,
+        "rating": 6.188,
         "genre": "Thriller / Crime / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/bkLaI0JqXb1lRqGti0zGgUMb1Uk.jpg",
         "trailer": "https://www.youtube.com/watch?v=lLWESUfW-0A"
     },
     {
         "title": "Wicked : Partie II",
-        "rating": 6.6,
+        "rating": 6.689,
         "genre": "Romance / Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yirK6p8rQsV6wwsefBIZTf4ifGL.jpg",
         "trailer": "https://www.youtube.com/watch?v=R2Xubj7lazE"
     },
     {
         "title": "Running Man",
-        "rating": 6.834,
+        "rating": 6.84,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
         "trailer": "https://www.youtube.com/watch?v=_iHJHYjq7XI"
@@ -71,30 +71,16 @@
     },
     {
         "title": "Grafted",
-        "rating": 5.54,
+        "rating": 5.529,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/8C8en0UnZHiCIUikQ49OcDhKzoa.jpg",
         "trailer": "https://www.youtube.com/watch?v=pNMhYjISQz8"
     },
     {
         "title": "Dossier 137",
-        "rating": 6.81,
+        "rating": 6.654,
         "genre": "Crime / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/frEovFFQ6CcGnAPmtLRAKRLoPa1.jpg",
-        "trailer": null
-    },
-    {
-        "title": "டியூட்",
-        "rating": 6,
-        "genre": "Action / Comédie / Drame / Romance",
-        "poster": "https://image.tmdb.org/t/p/w500/oLUbL4RtynlTtKd1byseeOCkIZO.jpg",
-        "trailer": null
-    },
-    {
-        "title": "Karmele",
-        "rating": 0,
-        "genre": "Drame / Romance",
-        "poster": "https://image.tmdb.org/t/p/w500/kLEyA5z6agJ2uQkfahtRg2tVkf4.jpg",
         "trailer": null
     },
     {
@@ -106,21 +92,21 @@
     },
     {
         "title": "Shelby Oaks",
-        "rating": 5.8,
+        "rating": 5.701,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/xzPcDQRWqwa5HT636De4qOrpQGc.jpg",
         "trailer": "https://www.youtube.com/watch?v=B-m1TGIY6Zo"
     },
     {
         "title": "L'Intermédiaire",
-        "rating": 7.126,
+        "rating": 7.119,
         "genre": "Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/rKCZTC8PBjOHyNGHc9cLGVGZdOI.jpg",
         "trailer": "https://www.youtube.com/watch?v=Hhkoa2LWImA"
     },
     {
         "title": "Zootopie 2",
-        "rating": 7,
+        "rating": 7.2,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/qq6MfHFDvBEzHhkE0Q5ozbkbde4.jpg",
         "trailer": "https://www.youtube.com/watch?v=sEgPQ7HKoBA"
@@ -134,9 +120,23 @@
     },
     {
         "title": "Les aigles de la république",
-        "rating": 7.308,
+        "rating": 7.3,
         "genre": "Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/aohnANrzvGo2WkZsuHqinQhKkwU.jpg",
         "trailer": null
+    },
+    {
+        "title": "Les Rêveurs",
+        "rating": 7.056,
+        "genre": "Drame / Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/v9xNYxNxh3Dj3nWLTp40sUz6vKQ.jpg",
+        "trailer": null
+    },
+    {
+        "title": "Eleanor the Great",
+        "rating": 6.949,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/w4Ozc5uNnapQUJ3LPNVKaalxjLQ.jpg",
+        "trailer": "https://www.youtube.com/watch?v=wZ6l2ue--KA"
     }
 ]
