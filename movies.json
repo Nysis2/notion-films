@@ -1,7 +1,7 @@
 [
     {
         "title": "Black Phone 2",
-        "rating": 6.857,
+        "rating": 6.856,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/yea26ufsklHJafnnUM3kO6vCPc4.jpg",
         "trailer": "https://www.youtube.com/watch?v=pWNucAcRoBY"
@@ -15,49 +15,49 @@
     },
     {
         "title": "Smashing Machine",
-        "rating": 6.475,
+        "rating": 6.489,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/nDLjwQHKbtJTNYbTdhjIbTuBfgG.jpg",
         "trailer": "https://www.youtube.com/watch?v=u4A8zfMClCM"
     },
     {
         "title": "Regretting You",
-        "rating": 7.138,
+        "rating": 7.1,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/tulNImprvr3I3vUSrvSExbdaXgN.jpg",
         "trailer": "https://www.youtube.com/watch?v=qub8lZlVlho"
     },
     {
         "title": "Chainsaw Man – Le Film : L'arc de Reze",
-        "rating": 7.8,
+        "rating": 7.815,
         "genre": "Animation / Action / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/e6TnXsxaL4ys7Ldx2kf3RGRn5Uz.jpg",
         "trailer": "https://www.youtube.com/watch?v=GJ1jrCnm-t8"
     },
     {
         "title": "Predator: Badlands",
-        "rating": 7.4,
+        "rating": 7.426,
         "genre": "Action / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/empQGO0pCVTndCpihyVpNfaLebl.jpg",
         "trailer": "https://www.youtube.com/watch?v=9PgcAIgpwPA"
     },
     {
         "title": "Insaisissables 3",
-        "rating": 6.188,
+        "rating": 6.215,
         "genre": "Thriller / Crime / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/bkLaI0JqXb1lRqGti0zGgUMb1Uk.jpg",
         "trailer": "https://www.youtube.com/watch?v=lLWESUfW-0A"
     },
     {
         "title": "Wicked : Partie II",
-        "rating": 6.689,
+        "rating": 6.715,
         "genre": "Romance / Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yirK6p8rQsV6wwsefBIZTf4ifGL.jpg",
         "trailer": "https://www.youtube.com/watch?v=R2Xubj7lazE"
     },
     {
         "title": "Running Man",
-        "rating": 6.84,
+        "rating": 6.804,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
         "trailer": "https://www.youtube.com/watch?v=_iHJHYjq7XI"
@@ -78,21 +78,21 @@
     },
     {
         "title": "Dossier 137",
-        "rating": 6.654,
+        "rating": 6.75,
         "genre": "Crime / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/frEovFFQ6CcGnAPmtLRAKRLoPa1.jpg",
         "trailer": null
     },
     {
         "title": "Bugonia",
-        "rating": 7.7,
+        "rating": 7.685,
         "genre": "Science-fiction / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/btKcDyCzPZO06OpySaAOcMFQKyA.jpg",
         "trailer": "https://www.youtube.com/watch?v=7VBigr-JHB0"
     },
     {
         "title": "Shelby Oaks",
-        "rating": 5.701,
+        "rating": 5.705,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/xzPcDQRWqwa5HT636De4qOrpQGc.jpg",
         "trailer": "https://www.youtube.com/watch?v=B-m1TGIY6Zo"
@@ -106,7 +106,7 @@
     },
     {
         "title": "Zootopie 2",
-        "rating": 7.2,
+        "rating": 7.3,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/qq6MfHFDvBEzHhkE0Q5ozbkbde4.jpg",
         "trailer": "https://www.youtube.com/watch?v=sEgPQ7HKoBA"
@@ -120,7 +120,7 @@
     },
     {
         "title": "Les aigles de la république",
-        "rating": 7.3,
+        "rating": 7.235,
         "genre": "Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/aohnANrzvGo2WkZsuHqinQhKkwU.jpg",
         "trailer": null
@@ -133,10 +133,10 @@
         "trailer": null
     },
     {
-        "title": "Eleanor the Great",
-        "rating": 6.949,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/w4Ozc5uNnapQUJ3LPNVKaalxjLQ.jpg",
-        "trailer": "https://www.youtube.com/watch?v=wZ6l2ue--KA"
+        "title": "Le Roi des rois",
+        "rating": 8.5,
+        "genre": "Animation / Famille / Fantastique / Drame / Aventure",
+        "poster": "https://image.tmdb.org/t/p/w500/nR8tt8jxIZTyH6sm6mcJKx8wwMy.jpg",
+        "trailer": "https://www.youtube.com/watch?v=HkGZ4ykhYPg"
     }
 ]
