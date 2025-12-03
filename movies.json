@@ -8,91 +8,84 @@
     },
     {
         "title": "Smashing Machine",
-        "rating": 6.6,
+        "rating": 6.574,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/nDLjwQHKbtJTNYbTdhjIbTuBfgG.jpg",
         "trailer": "https://www.youtube.com/watch?v=u4A8zfMClCM"
     },
     {
         "title": "Regretting You",
-        "rating": 7.047,
+        "rating": 7.079,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/tulNImprvr3I3vUSrvSExbdaXgN.jpg",
         "trailer": "https://www.youtube.com/watch?v=qub8lZlVlho"
     },
     {
-        "title": "Chainsaw Man – Le Film : L'arc de Reze",
-        "rating": 7.856,
-        "genre": "Animation / Action / Fantastique",
-        "poster": "https://image.tmdb.org/t/p/w500/e6TnXsxaL4ys7Ldx2kf3RGRn5Uz.jpg",
-        "trailer": "https://www.youtube.com/watch?v=GJ1jrCnm-t8"
-    },
-    {
         "title": "Predator: Badlands",
-        "rating": 7.373,
+        "rating": 7.389,
         "genre": "Action / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/empQGO0pCVTndCpihyVpNfaLebl.jpg",
         "trailer": "https://www.youtube.com/watch?v=9PgcAIgpwPA"
     },
     {
         "title": "Insaisissables 3",
-        "rating": 6.338,
+        "rating": 6.35,
         "genre": "Thriller / Crime / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/bkLaI0JqXb1lRqGti0zGgUMb1Uk.jpg",
         "trailer": "https://www.youtube.com/watch?v=lLWESUfW-0A"
     },
     {
         "title": "Wicked : Partie II",
-        "rating": 6.771,
+        "rating": 6.777,
         "genre": "Romance / Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yirK6p8rQsV6wwsefBIZTf4ifGL.jpg",
         "trailer": "https://www.youtube.com/watch?v=R2Xubj7lazE"
     },
     {
         "title": "Running Man",
-        "rating": 6.8,
+        "rating": 6.767,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
         "trailer": "https://www.youtube.com/watch?v=_iHJHYjq7XI"
     },
     {
         "title": "Dossier 137",
-        "rating": 6.792,
+        "rating": 6.8,
         "genre": "Crime / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/frEovFFQ6CcGnAPmtLRAKRLoPa1.jpg",
         "trailer": null
     },
     {
         "title": "Bugonia",
-        "rating": 7.539,
+        "rating": 7.51,
         "genre": "Science-fiction / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/btKcDyCzPZO06OpySaAOcMFQKyA.jpg",
         "trailer": "https://www.youtube.com/watch?v=7VBigr-JHB0"
     },
     {
         "title": "Shelby Oaks",
-        "rating": 5.725,
+        "rating": 5.736,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/xzPcDQRWqwa5HT636De4qOrpQGc.jpg",
         "trailer": "https://www.youtube.com/watch?v=B-m1TGIY6Zo"
     },
     {
         "title": "Zootopie 2",
-        "rating": 7.6,
+        "rating": 7.729,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/qq6MfHFDvBEzHhkE0Q5ozbkbde4.jpg",
         "trailer": "https://www.youtube.com/watch?v=sEgPQ7HKoBA"
     },
     {
         "title": "The Shadow's Edge",
-        "rating": 6.332,
+        "rating": 6.345,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg",
         "trailer": "https://www.youtube.com/watch?v=xvmADAJOoCg"
     },
     {
         "title": "Five Nights at Freddy's 2",
-        "rating": 8.75,
+        "rating": 8,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/enRyaRthhsuAqBwzYKqb7VfCJg.jpg",
         "trailer": "https://www.youtube.com/watch?v=NQypHE9_Fm4"
@@ -106,14 +99,14 @@
     },
     {
         "title": "Détective Conan : La Mémoire retrouvée",
-        "rating": 7.614,
+        "rating": 7.458,
         "genre": "Animation / Action / Mystère / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/cShSrMVsjv5Y81JBUghyhz8AnqA.jpg",
         "trailer": "https://www.youtube.com/watch?v=0XIxTr6Zl18"
     },
     {
         "title": "L'Étranger",
-        "rating": 7.015,
+        "rating": 7,
         "genre": "Drame / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/1O6jXFzPO3LBThgmrJDqoUZ61Ik.jpg",
         "trailer": "https://www.youtube.com/watch?v=gR912kHSOlA"
@@ -133,10 +126,17 @@
         "trailer": null
     },
     {
-        "title": "L'Intermédiaire",
-        "rating": 7.108,
-        "genre": "Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/rKCZTC8PBjOHyNGHc9cLGVGZdOI.jpg",
-        "trailer": "https://www.youtube.com/watch?v=Hhkoa2LWImA"
+        "title": "Honey Don't!",
+        "rating": 5.664,
+        "genre": "Comédie / Crime",
+        "poster": "https://image.tmdb.org/t/p/w500/gk4boaamflMqJyzQ5hGdxupQ3Qp.jpg",
+        "trailer": "https://www.youtube.com/watch?v=Jzr6pHIZAI0"
+    },
+    {
+        "title": "L'Élue",
+        "rating": 4.7,
+        "genre": "Horreur / Mystère",
+        "poster": "https://image.tmdb.org/t/p/w500/7LEKkQYZH7UpQpuf5B6hj6VPBaF.jpg",
+        "trailer": "https://www.youtube.com/watch?v=i4gV0d5PvKs"
     }
 ]
