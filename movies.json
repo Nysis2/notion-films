@@ -1,21 +1,21 @@
 [
     {
         "title": "Les Intrus : Chapitre 2",
-        "rating": 6.08,
+        "rating": 6.073,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zxtIhguQPqCBJVVXburIEUaUyYP.jpg",
         "trailer": "https://www.youtube.com/watch?v=_d55K72DoKg"
     },
     {
         "title": "Smashing Machine",
-        "rating": 6.57,
+        "rating": 6.553,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/nDLjwQHKbtJTNYbTdhjIbTuBfgG.jpg",
         "trailer": "https://www.youtube.com/watch?v=u4A8zfMClCM"
     },
     {
         "title": "Regretting You",
-        "rating": 7.093,
+        "rating": 7.106,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/tulNImprvr3I3vUSrvSExbdaXgN.jpg",
         "trailer": "https://www.youtube.com/watch?v=qub8lZlVlho"
@@ -29,63 +29,56 @@
     },
     {
         "title": "Insaisissables 3",
-        "rating": 6.4,
+        "rating": 6.342,
         "genre": "Thriller / Crime / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/bkLaI0JqXb1lRqGti0zGgUMb1Uk.jpg",
         "trailer": "https://www.youtube.com/watch?v=lLWESUfW-0A"
     },
     {
         "title": "Wicked : Partie II",
-        "rating": 6.767,
+        "rating": 6.7,
         "genre": "Romance / Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yirK6p8rQsV6wwsefBIZTf4ifGL.jpg",
         "trailer": "https://www.youtube.com/watch?v=R2Xubj7lazE"
     },
     {
         "title": "Running Man",
-        "rating": 6.766,
+        "rating": 6.8,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
         "trailer": "https://www.youtube.com/watch?v=_iHJHYjq7XI"
     },
     {
-        "title": "Dossier 137",
-        "rating": 6.8,
-        "genre": "Crime / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/frEovFFQ6CcGnAPmtLRAKRLoPa1.jpg",
-        "trailer": null
-    },
-    {
         "title": "Bugonia",
-        "rating": 7.528,
+        "rating": 7.515,
         "genre": "Science-fiction / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/btKcDyCzPZO06OpySaAOcMFQKyA.jpg",
         "trailer": "https://www.youtube.com/watch?v=7VBigr-JHB0"
     },
     {
         "title": "Shelby Oaks",
-        "rating": 5.7,
+        "rating": 5.75,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/xzPcDQRWqwa5HT636De4qOrpQGc.jpg",
         "trailer": "https://www.youtube.com/watch?v=B-m1TGIY6Zo"
     },
     {
         "title": "Zootopie 2",
-        "rating": 7.737,
+        "rating": 7.7,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/qq6MfHFDvBEzHhkE0Q5ozbkbde4.jpg",
         "trailer": "https://www.youtube.com/watch?v=sEgPQ7HKoBA"
     },
     {
         "title": "The Shadow's Edge",
-        "rating": 6.385,
+        "rating": 6.419,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg",
         "trailer": "https://www.youtube.com/watch?v=xvmADAJOoCg"
     },
     {
         "title": "Five Nights at Freddy's 2",
-        "rating": 5.8,
+        "rating": 6.5,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/enRyaRthhsuAqBwzYKqb7VfCJg.jpg",
         "trailer": "https://www.youtube.com/watch?v=NQypHE9_Fm4"
@@ -120,7 +113,7 @@
     },
     {
         "title": "Honey Don't!",
-        "rating": 5.661,
+        "rating": 5.656,
         "genre": "Comédie / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/gk4boaamflMqJyzQ5hGdxupQ3Qp.jpg",
         "trailer": "https://www.youtube.com/watch?v=Jzr6pHIZAI0"
@@ -138,5 +131,12 @@
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/cNGEWPfE3vUGPz6yzFHeI2loVm3.jpg",
         "trailer": "https://www.youtube.com/watch?v=JkeKrG0YONQ"
+    },
+    {
+        "title": "Résurrection",
+        "rating": 7.6,
+        "genre": "Drame / Science-fiction",
+        "poster": "https://image.tmdb.org/t/p/w500/8mOJCEONLTnvTRytBgKt5psrUoC.jpg",
+        "trailer": "https://www.youtube.com/watch?v=ZIJezWgFUEY"
     }
 ]
