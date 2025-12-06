@@ -8,35 +8,35 @@
     },
     {
         "title": "Smashing Machine",
-        "rating": 6.553,
+        "rating": 6.536,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/nDLjwQHKbtJTNYbTdhjIbTuBfgG.jpg",
         "trailer": "https://www.youtube.com/watch?v=u4A8zfMClCM"
     },
     {
         "title": "Regretting You",
-        "rating": 7.106,
+        "rating": 7.109,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/tulNImprvr3I3vUSrvSExbdaXgN.jpg",
         "trailer": "https://www.youtube.com/watch?v=qub8lZlVlho"
     },
     {
         "title": "Predator: Badlands",
-        "rating": 7.4,
+        "rating": 7.376,
         "genre": "Action / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/empQGO0pCVTndCpihyVpNfaLebl.jpg",
         "trailer": "https://www.youtube.com/watch?v=9PgcAIgpwPA"
     },
     {
         "title": "Insaisissables 3",
-        "rating": 6.342,
+        "rating": 6.332,
         "genre": "Thriller / Crime / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/bkLaI0JqXb1lRqGti0zGgUMb1Uk.jpg",
         "trailer": "https://www.youtube.com/watch?v=lLWESUfW-0A"
     },
     {
         "title": "Wicked : Partie II",
-        "rating": 6.7,
+        "rating": 6.753,
         "genre": "Romance / Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yirK6p8rQsV6wwsefBIZTf4ifGL.jpg",
         "trailer": "https://www.youtube.com/watch?v=R2Xubj7lazE"
@@ -50,42 +50,42 @@
     },
     {
         "title": "Bugonia",
-        "rating": 7.515,
+        "rating": 7.51,
         "genre": "Science-fiction / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/btKcDyCzPZO06OpySaAOcMFQKyA.jpg",
         "trailer": "https://www.youtube.com/watch?v=7VBigr-JHB0"
     },
     {
         "title": "Shelby Oaks",
-        "rating": 5.75,
+        "rating": 5.734,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/xzPcDQRWqwa5HT636De4qOrpQGc.jpg",
         "trailer": "https://www.youtube.com/watch?v=B-m1TGIY6Zo"
     },
     {
         "title": "Zootopie 2",
-        "rating": 7.7,
+        "rating": 7.706,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/qq6MfHFDvBEzHhkE0Q5ozbkbde4.jpg",
         "trailer": "https://www.youtube.com/watch?v=sEgPQ7HKoBA"
     },
     {
         "title": "The Shadow's Edge",
-        "rating": 6.419,
+        "rating": 6.432,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg",
         "trailer": "https://www.youtube.com/watch?v=xvmADAJOoCg"
     },
     {
         "title": "Five Nights at Freddy's 2",
-        "rating": 6.5,
+        "rating": 6.153,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/enRyaRthhsuAqBwzYKqb7VfCJg.jpg",
         "trailer": "https://www.youtube.com/watch?v=NQypHE9_Fm4"
     },
     {
         "title": "Pour l'éternité",
-        "rating": 6.8,
+        "rating": 7.2,
         "genre": "Romance / Comédie / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/q61mJNREpmAKQ9cnU03mbk1ldwg.jpg",
         "trailer": "https://www.youtube.com/watch?v=GzkoY6hUvQQ"
@@ -126,17 +126,17 @@
         "trailer": "https://www.youtube.com/watch?v=i4gV0d5PvKs"
     },
     {
-        "title": "La voix de Hind Rajab",
-        "rating": 8.2,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/cNGEWPfE3vUGPz6yzFHeI2loVm3.jpg",
-        "trailer": "https://www.youtube.com/watch?v=JkeKrG0YONQ"
+        "title": "Vie privée",
+        "rating": 6.4,
+        "genre": "Drame / Crime / Mystère",
+        "poster": "https://image.tmdb.org/t/p/w500/t8NilPWsiv3qc5FUWX1QnUj6fUG.jpg",
+        "trailer": "https://www.youtube.com/watch?v=HbIEbJbEpF4"
     },
     {
-        "title": "Résurrection",
-        "rating": 7.6,
-        "genre": "Drame / Science-fiction",
-        "poster": "https://image.tmdb.org/t/p/w500/8mOJCEONLTnvTRytBgKt5psrUoC.jpg",
-        "trailer": "https://www.youtube.com/watch?v=ZIJezWgFUEY"
+        "title": "Follement(e)",
+        "rating": 7.2,
+        "genre": "Comédie / Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/vdQUJm5MPrxWgCUMnzrzE4BhKL7.jpg",
+        "trailer": "https://www.youtube.com/watch?v=Tv6NzJZeKsg"
     }
 ]
