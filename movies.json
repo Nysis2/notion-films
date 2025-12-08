@@ -1,21 +1,21 @@
 [
     {
         "title": "Les Intrus : Chapitre 2",
-        "rating": 6.086,
+        "rating": 6.11,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zxtIhguQPqCBJVVXburIEUaUyYP.jpg",
         "trailer": "https://www.youtube.com/watch?v=_d55K72DoKg"
     },
     {
         "title": "Smashing Machine",
-        "rating": 6.6,
+        "rating": 6.552,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/nDLjwQHKbtJTNYbTdhjIbTuBfgG.jpg",
         "trailer": "https://www.youtube.com/watch?v=u4A8zfMClCM"
     },
     {
         "title": "Regretting You",
-        "rating": 7.11,
+        "rating": 7.029,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/tulNImprvr3I3vUSrvSExbdaXgN.jpg",
         "trailer": "https://www.youtube.com/watch?v=qub8lZlVlho"
@@ -29,28 +29,28 @@
     },
     {
         "title": "Insaisissables 3",
-        "rating": 6.323,
+        "rating": 6.32,
         "genre": "Thriller / Crime / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/bkLaI0JqXb1lRqGti0zGgUMb1Uk.jpg",
         "trailer": "https://www.youtube.com/watch?v=lLWESUfW-0A"
     },
     {
         "title": "Wicked : Partie II",
-        "rating": 6.8,
+        "rating": 6.786,
         "genre": "Romance / Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yirK6p8rQsV6wwsefBIZTf4ifGL.jpg",
         "trailer": "https://www.youtube.com/watch?v=R2Xubj7lazE"
     },
     {
         "title": "Running Man",
-        "rating": 6.771,
+        "rating": 6.8,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
         "trailer": "https://www.youtube.com/watch?v=_iHJHYjq7XI"
     },
     {
         "title": "Bugonia",
-        "rating": 7.502,
+        "rating": 7.503,
         "genre": "Science-fiction / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/btKcDyCzPZO06OpySaAOcMFQKyA.jpg",
         "trailer": "https://www.youtube.com/watch?v=7VBigr-JHB0"
@@ -64,45 +64,38 @@
     },
     {
         "title": "Zootopie 2",
-        "rating": 7.731,
+        "rating": 7.722,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/qq6MfHFDvBEzHhkE0Q5ozbkbde4.jpg",
         "trailer": "https://www.youtube.com/watch?v=sEgPQ7HKoBA"
     },
     {
         "title": "The Shadow's Edge",
-        "rating": 6.483,
+        "rating": 6.493,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg",
         "trailer": "https://www.youtube.com/watch?v=xvmADAJOoCg"
     },
     {
         "title": "Five Nights at Freddy's 2",
-        "rating": 6.29,
+        "rating": 6.326,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/enRyaRthhsuAqBwzYKqb7VfCJg.jpg",
         "trailer": "https://www.youtube.com/watch?v=NQypHE9_Fm4"
     },
     {
         "title": "Pour l'éternité",
-        "rating": 7.295,
+        "rating": 7.271,
         "genre": "Romance / Comédie / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/q61mJNREpmAKQ9cnU03mbk1ldwg.jpg",
         "trailer": "https://www.youtube.com/watch?v=GzkoY6hUvQQ"
     },
     {
         "title": "Détective Conan : La Mémoire retrouvée",
-        "rating": 7.5,
+        "rating": 7.513,
         "genre": "Animation / Action / Mystère / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/cShSrMVsjv5Y81JBUghyhz8AnqA.jpg",
         "trailer": "https://www.youtube.com/watch?v=0XIxTr6Zl18"
-    },
-    {
-        "title": "L'Étranger",
-        "rating": 7.074,
-        "genre": "Drame / Crime",
-        "poster": "https://image.tmdb.org/t/p/w500/1O6jXFzPO3LBThgmrJDqoUZ61Ik.jpg",
-        "trailer": "https://www.youtube.com/watch?v=gR912kHSOlA"
     },
     {
         "title": "Silver Star",
@@ -126,17 +119,24 @@
         "trailer": "https://www.youtube.com/watch?v=HbIEbJbEpF4"
     },
     {
-        "title": "La voix de Hind Rajab",
-        "rating": 8.2,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/cNGEWPfE3vUGPz6yzFHeI2loVm3.jpg",
-        "trailer": "https://www.youtube.com/watch?v=JkeKrG0YONQ"
-    },
-    {
         "title": "Résurrection",
         "rating": 7.6,
         "genre": "Drame / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/8mOJCEONLTnvTRytBgKt5psrUoC.jpg",
         "trailer": "https://www.youtube.com/watch?v=ZIJezWgFUEY"
+    },
+    {
+        "title": "L'Œuf de l'ange",
+        "rating": 7.753,
+        "genre": "Animation / Fantastique / Mystère",
+        "poster": "https://image.tmdb.org/t/p/w500/2TCyaF5ilnyqUqgAmlOKpNOeMM.jpg",
+        "trailer": "https://www.youtube.com/watch?v=SqyVGzaQFpQ"
+    },
+    {
+        "title": "Honey Don't!",
+        "rating": 5.673,
+        "genre": "Comédie / Crime",
+        "poster": "https://image.tmdb.org/t/p/w500/gk4boaamflMqJyzQ5hGdxupQ3Qp.jpg",
+        "trailer": "https://www.youtube.com/watch?v=Jzr6pHIZAI0"
     }
 ]
