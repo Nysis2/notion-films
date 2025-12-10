@@ -1,63 +1,42 @@
 [
     {
-        "title": "Les Intrus : Chapitre 2",
-        "rating": 6.11,
-        "genre": "Horreur / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/zxtIhguQPqCBJVVXburIEUaUyYP.jpg",
-        "trailer": "https://www.youtube.com/watch?v=_d55K72DoKg"
-    },
-    {
-        "title": "Smashing Machine",
-        "rating": 6.559,
-        "genre": "Histoire / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/nDLjwQHKbtJTNYbTdhjIbTuBfgG.jpg",
-        "trailer": "https://www.youtube.com/watch?v=u4A8zfMClCM"
-    },
-    {
-        "title": "Regretting You",
-        "rating": 7.042,
-        "genre": "Drame / Romance",
-        "poster": "https://image.tmdb.org/t/p/w500/tulNImprvr3I3vUSrvSExbdaXgN.jpg",
-        "trailer": "https://www.youtube.com/watch?v=qub8lZlVlho"
-    },
-    {
         "title": "Predator: Badlands",
-        "rating": 7.37,
+        "rating": 7.4,
         "genre": "Action / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/empQGO0pCVTndCpihyVpNfaLebl.jpg",
         "trailer": "https://www.youtube.com/watch?v=9PgcAIgpwPA"
     },
     {
         "title": "Insaisissables 3",
-        "rating": 6.3,
+        "rating": 6.311,
         "genre": "Thriller / Crime / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/bkLaI0JqXb1lRqGti0zGgUMb1Uk.jpg",
         "trailer": "https://www.youtube.com/watch?v=lLWESUfW-0A"
     },
     {
         "title": "Wicked : Partie II",
-        "rating": 6.8,
+        "rating": 6.775,
         "genre": "Romance / Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yirK6p8rQsV6wwsefBIZTf4ifGL.jpg",
         "trailer": "https://www.youtube.com/watch?v=R2Xubj7lazE"
     },
     {
         "title": "Running Man",
-        "rating": 6.758,
+        "rating": 6.763,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
         "trailer": "https://www.youtube.com/watch?v=_iHJHYjq7XI"
     },
     {
         "title": "Bugonia",
-        "rating": 7.483,
+        "rating": 7.473,
         "genre": "Science-fiction / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/btKcDyCzPZO06OpySaAOcMFQKyA.jpg",
         "trailer": "https://www.youtube.com/watch?v=7VBigr-JHB0"
     },
     {
         "title": "Shelby Oaks",
-        "rating": 5.77,
+        "rating": 5.8,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/xzPcDQRWqwa5HT636De4qOrpQGc.jpg",
         "trailer": "https://www.youtube.com/watch?v=B-m1TGIY6Zo"
@@ -71,7 +50,7 @@
     },
     {
         "title": "The Shadow's Edge",
-        "rating": 6.493,
+        "rating": 6.503,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg",
         "trailer": "https://www.youtube.com/watch?v=xvmADAJOoCg"
@@ -85,28 +64,28 @@
     },
     {
         "title": "Pour l'éternité",
-        "rating": 7.241,
+        "rating": 7.31,
         "genre": "Romance / Comédie / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/q61mJNREpmAKQ9cnU03mbk1ldwg.jpg",
         "trailer": "https://www.youtube.com/watch?v=GzkoY6hUvQQ"
     },
     {
         "title": "Détective Conan : La Mémoire retrouvée",
-        "rating": 7.513,
+        "rating": 7.5,
         "genre": "Animation / Action / Mystère / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/cShSrMVsjv5Y81JBUghyhz8AnqA.jpg",
         "trailer": "https://www.youtube.com/watch?v=0XIxTr6Zl18"
     },
     {
         "title": "Silver Star",
-        "rating": 0,
+        "rating": 5,
         "genre": "Crime / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/az5q4UCDAeRDUIMYqPg9yqGMMEN.jpg",
         "trailer": null
     },
     {
         "title": "L'Élue",
-        "rating": 4.7,
+        "rating": 5.023,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/7LEKkQYZH7UpQpuf5B6hj6VPBaF.jpg",
         "trailer": "https://www.youtube.com/watch?v=i4gV0d5PvKs"
@@ -127,7 +106,7 @@
     },
     {
         "title": "L'Œuf de l'ange",
-        "rating": 7.756,
+        "rating": 7.744,
         "genre": "Animation / Fantastique / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/2TCyaF5ilnyqUqgAmlOKpNOeMM.jpg",
         "trailer": "https://www.youtube.com/watch?v=SqyVGzaQFpQ"
@@ -138,5 +117,26 @@
         "genre": "Comédie / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/gk4boaamflMqJyzQ5hGdxupQ3Qp.jpg",
         "trailer": "https://www.youtube.com/watch?v=Jzr6pHIZAI0"
+    },
+    {
+        "title": "Avatar : De feu et de cendres",
+        "rating": 0,
+        "genre": "Science-fiction / Aventure / Fantastique",
+        "poster": "https://image.tmdb.org/t/p/w500/5BnOt0PRymp5mXuoKv1unQ9x8I8.jpg",
+        "trailer": "https://www.youtube.com/watch?v=Ma1x7ikpid8"
+    },
+    {
+        "title": "L’Agent secret",
+        "rating": 8.105,
+        "genre": "Crime / Drame / Thriller / Mystère",
+        "poster": "https://image.tmdb.org/t/p/w500/qPcUhGKuMxVwrqNBnVg1nnvfXfs.jpg",
+        "trailer": "https://www.youtube.com/watch?v=9UfrzDKrhEc"
+    },
+    {
+        "title": "La Fabrique des monstres",
+        "rating": 7.118,
+        "genre": "Animation / Aventure / Famille / Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/MQV1mkoEI1WmQO8qtsfV3T1iPY.jpg",
+        "trailer": "https://www.youtube.com/watch?v=V8uSUy-Hqc0"
     }
 ]
