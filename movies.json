@@ -1,28 +1,28 @@
 [
     {
         "title": "Insaisissables 3",
-        "rating": 6.318,
+        "rating": 6.3,
         "genre": "Thriller / Crime / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/bkLaI0JqXb1lRqGti0zGgUMb1Uk.jpg",
         "trailer": "https://www.youtube.com/watch?v=lLWESUfW-0A"
     },
     {
         "title": "Wicked : Partie II",
-        "rating": 6.751,
+        "rating": 6.8,
         "genre": "Romance / Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yirK6p8rQsV6wwsefBIZTf4ifGL.jpg",
         "trailer": "https://www.youtube.com/watch?v=R2Xubj7lazE"
     },
     {
         "title": "Running Man",
-        "rating": 6.847,
+        "rating": 6.866,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
         "trailer": "https://www.youtube.com/watch?v=_iHJHYjq7XI"
     },
     {
         "title": "Bugonia",
-        "rating": 7.4,
+        "rating": 7.436,
         "genre": "Science-fiction / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/btKcDyCzPZO06OpySaAOcMFQKyA.jpg",
         "trailer": "https://www.youtube.com/watch?v=7VBigr-JHB0"
@@ -36,28 +36,28 @@
     },
     {
         "title": "Zootopie 2",
-        "rating": 7.7,
+        "rating": 7.647,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/qq6MfHFDvBEzHhkE0Q5ozbkbde4.jpg",
         "trailer": "https://www.youtube.com/watch?v=sEgPQ7HKoBA"
     },
     {
         "title": "The Shadow's Edge",
-        "rating": 6.545,
+        "rating": 6.525,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg",
         "trailer": "https://www.youtube.com/watch?v=xvmADAJOoCg"
     },
     {
         "title": "Five Nights at Freddy's 2",
-        "rating": 6.391,
+        "rating": 6.4,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/enRyaRthhsuAqBwzYKqb7VfCJg.jpg",
         "trailer": "https://www.youtube.com/watch?v=NQypHE9_Fm4"
     },
     {
         "title": "Pour l'éternité",
-        "rating": 7.213,
+        "rating": 7.254,
         "genre": "Romance / Comédie / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/q61mJNREpmAKQ9cnU03mbk1ldwg.jpg",
         "trailer": "https://www.youtube.com/watch?v=GzkoY6hUvQQ"
@@ -71,14 +71,14 @@
     },
     {
         "title": "L'Élue",
-        "rating": 5.443,
+        "rating": 5.366,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/7LEKkQYZH7UpQpuf5B6hj6VPBaF.jpg",
         "trailer": "https://www.youtube.com/watch?v=i4gV0d5PvKs"
     },
     {
         "title": "Résurrection",
-        "rating": 7.25,
+        "rating": 7.368,
         "genre": "Drame / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/8mOJCEONLTnvTRytBgKt5psrUoC.jpg",
         "trailer": "https://www.youtube.com/watch?v=ZIJezWgFUEY"
@@ -92,14 +92,14 @@
     },
     {
         "title": "Avatar : De feu et de cendres",
-        "rating": 6.8,
+        "rating": 7.083,
         "genre": "Science-fiction / Aventure / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/5BnOt0PRymp5mXuoKv1unQ9x8I8.jpg",
         "trailer": "https://www.youtube.com/watch?v=Ma1x7ikpid8"
     },
     {
         "title": "L’Agent secret",
-        "rating": 8.104,
+        "rating": 8.063,
         "genre": "Crime / Drame / Thriller / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/qPcUhGKuMxVwrqNBnVg1nnvfXfs.jpg",
         "trailer": "https://www.youtube.com/watch?v=9UfrzDKrhEc"
@@ -113,21 +113,21 @@
     },
     {
         "title": "காந்தா",
-        "rating": 6.7,
+        "rating": 6.75,
         "genre": "Histoire / Crime / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/a6A0CvOMUUbQNfgkRSPqf5JMpsU.jpg",
         "trailer": null
     },
     {
         "title": "धुरंधर",
-        "rating": 6.5,
+        "rating": 6.3,
         "genre": "Action / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
         "trailer": null
     },
     {
         "title": "Bob L’Éponge – Le Film : Un Pour Tous, Tous Pirates !",
-        "rating": 8.3,
+        "rating": 8.8,
         "genre": "Famille / Comédie / Aventure / Animation",
         "poster": "https://image.tmdb.org/t/p/w500/xhNdh0uWMCT5q2rCALNtk8PXIr.jpg",
         "trailer": "https://www.youtube.com/watch?v=wS3mgDtELaU"
