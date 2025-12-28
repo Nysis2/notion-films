@@ -1,35 +1,35 @@
 [
     {
         "title": "Wicked : Partie II",
-        "rating": 6.764,
+        "rating": 6.762,
         "genre": "Romance / Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yirK6p8rQsV6wwsefBIZTf4ifGL.jpg",
         "trailer": "https://www.youtube.com/watch?v=R2Xubj7lazE"
     },
     {
         "title": "Running Man",
-        "rating": 6.834,
+        "rating": 6.84,
         "genre": "Action / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
         "trailer": "https://www.youtube.com/watch?v=_iHJHYjq7XI"
     },
     {
         "title": "Bugonia",
-        "rating": 7.412,
+        "rating": 7.406,
         "genre": "Science-fiction / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/btKcDyCzPZO06OpySaAOcMFQKyA.jpg",
         "trailer": "https://www.youtube.com/watch?v=7VBigr-JHB0"
     },
     {
         "title": "Shelby Oaks",
-        "rating": 5.744,
+        "rating": 5.733,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/xzPcDQRWqwa5HT636De4qOrpQGc.jpg",
         "trailer": "https://www.youtube.com/watch?v=B-m1TGIY6Zo"
     },
     {
         "title": "Zootopie 2",
-        "rating": 7.634,
+        "rating": 7.635,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/qq6MfHFDvBEzHhkE0Q5ozbkbde4.jpg",
         "trailer": "https://www.youtube.com/watch?v=sEgPQ7HKoBA"
@@ -43,63 +43,56 @@
     },
     {
         "title": "Five Nights at Freddy's 2",
-        "rating": 6.771,
+        "rating": 6.813,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/enRyaRthhsuAqBwzYKqb7VfCJg.jpg",
         "trailer": "https://www.youtube.com/watch?v=NQypHE9_Fm4"
     },
     {
         "title": "Pour l'éternité",
-        "rating": 6.942,
+        "rating": 6.986,
         "genre": "Romance / Comédie / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/q61mJNREpmAKQ9cnU03mbk1ldwg.jpg",
         "trailer": "https://www.youtube.com/watch?v=GzkoY6hUvQQ"
     },
     {
         "title": "L'Élue",
-        "rating": 5.5,
+        "rating": 5.494,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/7LEKkQYZH7UpQpuf5B6hj6VPBaF.jpg",
         "trailer": "https://www.youtube.com/watch?v=i4gV0d5PvKs"
     },
     {
-        "title": "Résurrection",
-        "rating": 7,
-        "genre": "Drame / Science-fiction",
-        "poster": "https://image.tmdb.org/t/p/w500/8mOJCEONLTnvTRytBgKt5psrUoC.jpg",
-        "trailer": "https://www.youtube.com/watch?v=ZIJezWgFUEY"
-    },
-    {
         "title": "Avatar : De feu et de cendres",
-        "rating": 7.355,
+        "rating": 7.352,
         "genre": "Science-fiction / Aventure / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/5BnOt0PRymp5mXuoKv1unQ9x8I8.jpg",
         "trailer": "https://www.youtube.com/watch?v=Ma1x7ikpid8"
     },
     {
         "title": "L’Agent secret",
-        "rating": 8.036,
+        "rating": 8.035,
         "genre": "Crime / Drame / Thriller / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/qPcUhGKuMxVwrqNBnVg1nnvfXfs.jpg",
         "trailer": "https://www.youtube.com/watch?v=9UfrzDKrhEc"
     },
     {
         "title": "La Femme de ménage",
-        "rating": 7.8,
+        "rating": 7.659,
         "genre": "Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/szdrVdnS8XAzqFyzPDhYXaJk7EK.jpg",
         "trailer": "https://www.youtube.com/watch?v=BqWH0KDqm3U"
     },
     {
         "title": "Dhurandhar",
-        "rating": 6.313,
+        "rating": 6.4,
         "genre": "Action / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
         "trailer": null
     },
     {
         "title": "L'Ultime Round",
-        "rating": 6.269,
+        "rating": 6.11,
         "genre": "Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/aC6lOgbpt4on9Dkv1A5oGcI5sRk.jpg",
         "trailer": "https://www.youtube.com/watch?v=pJjPBTC0ypU"
@@ -113,14 +106,14 @@
     },
     {
         "title": "Anaconda",
-        "rating": 6.574,
+        "rating": 6.591,
         "genre": "Aventure / Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/5EbKjIowNw5yExzrhvu231GFVCf.jpg",
-        "trailer": "https://www.youtube.com/watch?v=LFLyvzIZjK4"
+        "trailer": "https://www.youtube.com/watch?v=F29F6nIasuw"
     },
     {
         "title": "Sur un air de blues",
-        "rating": 6.5,
+        "rating": 6.8,
         "genre": "Drame / Musique / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/t5rI5QhOm65YB3WIPxLPnpUpegr.jpg",
         "trailer": "https://www.youtube.com/watch?v=ssZU6xUM-YI"
@@ -138,5 +131,12 @@
         "genre": "Animation / Aventure / Famille / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/MQV1mkoEI1WmQO8qtsfV3T1iPY.jpg",
         "trailer": "https://www.youtube.com/watch?v=SlHrSRmobKQ"
+    },
+    {
+        "title": "Panique à Noël",
+        "rating": 6.167,
+        "genre": "Comédie / Famille / Animation",
+        "poster": "https://image.tmdb.org/t/p/w500/fCitjmdu7gHlh4g17wkiiYmF5Zn.jpg",
+        "trailer": null
     }
 ]
