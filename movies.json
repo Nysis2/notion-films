@@ -1,119 +1,98 @@
 [
     {
-        "title": "Wicked : Partie II",
-        "rating": 6.779,
-        "genre": "Romance / Fantastique / Aventure",
-        "poster": "https://image.tmdb.org/t/p/w500/yirK6p8rQsV6wwsefBIZTf4ifGL.jpg",
-        "trailer": "https://www.youtube.com/watch?v=R2Xubj7lazE"
-    },
-    {
-        "title": "Running Man",
-        "rating": 6.843,
-        "genre": "Action / Thriller / Science-fiction",
-        "poster": "https://image.tmdb.org/t/p/w500/7IwZANZ0V9ygf0LM7NsRVeIKZJR.jpg",
-        "trailer": "https://www.youtube.com/watch?v=ZzkYwll2H_I"
-    },
-    {
         "title": "Bugonia",
-        "rating": 7.409,
+        "rating": 7.411,
         "genre": "Science-fiction / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/btKcDyCzPZO06OpySaAOcMFQKyA.jpg",
         "trailer": "https://www.youtube.com/watch?v=7VBigr-JHB0"
     },
     {
-        "title": "Shelby Oaks",
-        "rating": 5.747,
-        "genre": "Horreur / Mystère",
-        "poster": "https://image.tmdb.org/t/p/w500/xzPcDQRWqwa5HT636De4qOrpQGc.jpg",
-        "trailer": "https://www.youtube.com/watch?v=B-m1TGIY6Zo"
-    },
-    {
         "title": "Zootopie 2",
-        "rating": 7.624,
+        "rating": 7.6,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/qq6MfHFDvBEzHhkE0Q5ozbkbde4.jpg",
         "trailer": "https://www.youtube.com/watch?v=sEgPQ7HKoBA"
     },
     {
         "title": "The Shadow's Edge",
-        "rating": 6.646,
+        "rating": 6.7,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg",
         "trailer": "https://www.youtube.com/watch?v=xvmADAJOoCg"
     },
     {
         "title": "Five Nights at Freddy's 2",
-        "rating": 6.886,
+        "rating": 6.889,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/enRyaRthhsuAqBwzYKqb7VfCJg.jpg",
         "trailer": "https://www.youtube.com/watch?v=NQypHE9_Fm4"
     },
     {
         "title": "Pour l'éternité",
-        "rating": 7.033,
+        "rating": 7.058,
         "genre": "Romance / Comédie / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/q61mJNREpmAKQ9cnU03mbk1ldwg.jpg",
         "trailer": "https://www.youtube.com/watch?v=GzkoY6hUvQQ"
     },
     {
         "title": "L'Élue",
-        "rating": 5.5,
+        "rating": 5.524,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/7LEKkQYZH7UpQpuf5B6hj6VPBaF.jpg",
         "trailer": "https://www.youtube.com/watch?v=i4gV0d5PvKs"
     },
     {
         "title": "Avatar : De feu et de cendres",
-        "rating": 7.4,
+        "rating": 7.396,
         "genre": "Science-fiction / Aventure / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/5BnOt0PRymp5mXuoKv1unQ9x8I8.jpg",
         "trailer": "https://www.youtube.com/watch?v=TBCVOMLVgHY"
     },
     {
         "title": "L’Agent secret",
-        "rating": 8.026,
+        "rating": 8.021,
         "genre": "Crime / Drame / Thriller / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/qPcUhGKuMxVwrqNBnVg1nnvfXfs.jpg",
         "trailer": "https://www.youtube.com/watch?v=9UfrzDKrhEc"
     },
     {
         "title": "La Femme de ménage",
-        "rating": 7.636,
+        "rating": 7.57,
         "genre": "Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/szdrVdnS8XAzqFyzPDhYXaJk7EK.jpg",
         "trailer": "https://www.youtube.com/watch?v=Rsio1MkEkt4"
     },
     {
         "title": "Dhurandhar",
-        "rating": 6.303,
+        "rating": 6.3,
         "genre": "Action / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
         "trailer": null
     },
     {
         "title": "Bob l'éponge, le film : Un pour tous, tous pirates !",
-        "rating": 6.8,
+        "rating": 6.9,
         "genre": "Famille / Comédie / Aventure / Animation",
         "poster": "https://image.tmdb.org/t/p/w500/1WSOiU7XmLoEnYyADAEMQfGe9eN.jpg",
         "trailer": "https://www.youtube.com/watch?v=gvJ0655TBas"
     },
     {
         "title": "Anaconda",
-        "rating": 6.758,
+        "rating": 6.697,
         "genre": "Aventure / Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/5EbKjIowNw5yExzrhvu231GFVCf.jpg",
         "trailer": "https://www.youtube.com/watch?v=F29F6nIasuw"
     },
     {
         "title": "Sur un air de blues",
-        "rating": 7.429,
+        "rating": 8,
         "genre": "Drame / Musique / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/t5rI5QhOm65YB3WIPxLPnpUpegr.jpg",
         "trailer": "https://www.youtube.com/watch?v=ssZU6xUM-YI"
     },
     {
         "title": "L'Intermédiaire",
-        "rating": 7.062,
+        "rating": 7.057,
         "genre": "Action / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/rKCZTC8PBjOHyNGHc9cLGVGZdOI.jpg",
         "trailer": "https://www.youtube.com/watch?v=Hhkoa2LWImA"
@@ -127,7 +106,7 @@
     },
     {
         "title": "Father Mother Sister Brother",
-        "rating": 6.841,
+        "rating": 6.807,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zewZA6sL52YSH8xIH4wbG5GadjV.jpg",
         "trailer": "https://www.youtube.com/watch?v=PA07EmbZ0b0"
@@ -138,5 +117,26 @@
         "genre": "Comédie / Famille / Animation",
         "poster": "https://image.tmdb.org/t/p/w500/fCitjmdu7gHlh4g17wkiiYmF5Zn.jpg",
         "trailer": null
+    },
+    {
+        "title": "L'Ultime Round",
+        "rating": 6.107,
+        "genre": "Thriller / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/aC6lOgbpt4on9Dkv1A5oGcI5sRk.jpg",
+        "trailer": "https://www.youtube.com/watch?v=pJjPBTC0ypU"
+    },
+    {
+        "title": "En garde",
+        "rating": 7,
+        "genre": "Drame / Mystère / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/ekRywfBPjJ6es8U0QCuO7YwOwII.jpg",
+        "trailer": null
+    },
+    {
+        "title": "Vie privée",
+        "rating": 5.972,
+        "genre": "Drame / Crime / Mystère",
+        "poster": "https://image.tmdb.org/t/p/w500/ySU2kboUiK2IVs9dB0w4vnPiYgk.jpg",
+        "trailer": "https://www.youtube.com/watch?v=HbIEbJbEpF4"
     }
 ]
