@@ -1,112 +1,112 @@
 [
     {
         "title": "Bugonia",
-        "rating": 7.411,
+        "rating": 7.418,
         "genre": "Science-fiction / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/btKcDyCzPZO06OpySaAOcMFQKyA.jpg",
         "trailer": "https://www.youtube.com/watch?v=7VBigr-JHB0"
     },
     {
         "title": "Zootopie 2",
-        "rating": 7.7,
+        "rating": 7.661,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/qq6MfHFDvBEzHhkE0Q5ozbkbde4.jpg",
-        "trailer": "https://www.youtube.com/watch?v=sEgPQ7HKoBA"
+        "trailer": "https://www.youtube.com/watch?v=knk2Fzxd9zc"
     },
     {
         "title": "The Shadow's Edge",
-        "rating": 6.659,
+        "rating": 6.628,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg",
         "trailer": "https://www.youtube.com/watch?v=xvmADAJOoCg"
     },
     {
         "title": "Five Nights at Freddy's 2",
-        "rating": 6.9,
+        "rating": 6.824,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/enRyaRthhsuAqBwzYKqb7VfCJg.jpg",
         "trailer": "https://www.youtube.com/watch?v=NQypHE9_Fm4"
     },
     {
         "title": "Pour l'éternité",
-        "rating": 7.08,
+        "rating": 7.127,
         "genre": "Romance / Comédie / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/q61mJNREpmAKQ9cnU03mbk1ldwg.jpg",
         "trailer": "https://www.youtube.com/watch?v=GzkoY6hUvQQ"
     },
     {
         "title": "L'Élue",
-        "rating": 5.488,
+        "rating": 5.534,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/7LEKkQYZH7UpQpuf5B6hj6VPBaF.jpg",
         "trailer": "https://www.youtube.com/watch?v=i4gV0d5PvKs"
     },
     {
         "title": "Avatar : De feu et de cendres",
-        "rating": 7.386,
+        "rating": 7.4,
         "genre": "Science-fiction / Aventure / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/5BnOt0PRymp5mXuoKv1unQ9x8I8.jpg",
-        "trailer": "https://www.youtube.com/watch?v=TBCVOMLVgHY"
+        "trailer": "https://www.youtube.com/watch?v=Ma1x7ikpid8"
     },
     {
         "title": "L’Agent secret",
-        "rating": 8,
+        "rating": 7.955,
         "genre": "Crime / Drame / Thriller / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/qPcUhGKuMxVwrqNBnVg1nnvfXfs.jpg",
         "trailer": "https://www.youtube.com/watch?v=9UfrzDKrhEc"
     },
     {
         "title": "La Femme de ménage",
-        "rating": 7.58,
+        "rating": 7.585,
         "genre": "Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/szdrVdnS8XAzqFyzPDhYXaJk7EK.jpg",
         "trailer": "https://www.youtube.com/watch?v=Rsio1MkEkt4"
     },
     {
         "title": "Dhurandhar",
-        "rating": 6.323,
+        "rating": 6.336,
         "genre": "Action / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
         "trailer": null
     },
     {
         "title": "Bob l'éponge, le film : Un pour tous, tous pirates !",
-        "rating": 6.788,
+        "rating": 6.8,
         "genre": "Famille / Comédie / Aventure / Animation",
         "poster": "https://image.tmdb.org/t/p/w500/1WSOiU7XmLoEnYyADAEMQfGe9eN.jpg",
         "trailer": "https://www.youtube.com/watch?v=gvJ0655TBas"
     },
     {
         "title": "Anaconda",
-        "rating": 6.606,
+        "rating": 6.5,
         "genre": "Aventure / Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/5EbKjIowNw5yExzrhvu231GFVCf.jpg",
         "trailer": "https://www.youtube.com/watch?v=F29F6nIasuw"
     },
     {
         "title": "Sur un air de blues",
-        "rating": 8,
+        "rating": 7.722,
         "genre": "Drame / Musique / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/t5rI5QhOm65YB3WIPxLPnpUpegr.jpg",
         "trailer": "https://www.youtube.com/watch?v=ssZU6xUM-YI"
     },
     {
         "title": "L'Intermédiaire",
-        "rating": 7.063,
+        "rating": 7.006,
         "genre": "Action / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/rKCZTC8PBjOHyNGHc9cLGVGZdOI.jpg",
         "trailer": "https://www.youtube.com/watch?v=Hhkoa2LWImA"
     },
     {
         "title": "La Fabrique des Monstres",
-        "rating": 7.1,
+        "rating": 6.957,
         "genre": "Animation / Aventure / Famille / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/MQV1mkoEI1WmQO8qtsfV3T1iPY.jpg",
         "trailer": "https://www.youtube.com/watch?v=SlHrSRmobKQ"
     },
     {
         "title": "Father Mother Sister Brother",
-        "rating": 6.89,
+        "rating": 6.894,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zewZA6sL52YSH8xIH4wbG5GadjV.jpg",
         "trailer": "https://www.youtube.com/watch?v=PA07EmbZ0b0"
@@ -127,7 +127,7 @@
     },
     {
         "title": "Vie privée",
-        "rating": 5.926,
+        "rating": 5.9,
         "genre": "Drame / Crime / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/ySU2kboUiK2IVs9dB0w4vnPiYgk.jpg",
         "trailer": "https://www.youtube.com/watch?v=HbIEbJbEpF4"
