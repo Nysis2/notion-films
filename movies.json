@@ -1,7 +1,7 @@
 [
     {
         "title": "Bugonia",
-        "rating": 7.401,
+        "rating": 7.398,
         "genre": "Science-fiction / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/btKcDyCzPZO06OpySaAOcMFQKyA.jpg",
         "trailer": "https://www.youtube.com/watch?v=7VBigr-JHB0"
@@ -11,7 +11,7 @@
         "rating": 7.627,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/qq6MfHFDvBEzHhkE0Q5ozbkbde4.jpg",
-        "trailer": "https://www.youtube.com/watch?v=knk2Fzxd9zc"
+        "trailer": "https://www.youtube.com/watch?v=sEgPQ7HKoBA"
     },
     {
         "title": "The Shadow's Edge",
@@ -29,7 +29,7 @@
     },
     {
         "title": "Pour l'éternité",
-        "rating": 7.1,
+        "rating": 7.136,
         "genre": "Romance / Comédie / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/q61mJNREpmAKQ9cnU03mbk1ldwg.jpg",
         "trailer": "https://www.youtube.com/watch?v=GzkoY6hUvQQ"
@@ -43,24 +43,24 @@
     },
     {
         "title": "Avatar : De feu et de cendres",
-        "rating": 7.354,
+        "rating": 7.362,
         "genre": "Science-fiction / Aventure / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/5BnOt0PRymp5mXuoKv1unQ9x8I8.jpg",
         "trailer": "https://www.youtube.com/watch?v=Ma1x7ikpid8"
     },
     {
         "title": "L’Agent secret",
-        "rating": 7.917,
+        "rating": 7.9,
         "genre": "Crime / Drame / Thriller / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/qPcUhGKuMxVwrqNBnVg1nnvfXfs.jpg",
         "trailer": "https://www.youtube.com/watch?v=9UfrzDKrhEc"
     },
     {
         "title": "La Femme de ménage",
-        "rating": 7.298,
+        "rating": 7.3,
         "genre": "Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/szdrVdnS8XAzqFyzPDhYXaJk7EK.jpg",
-        "trailer": "https://www.youtube.com/watch?v=Rsio1MkEkt4"
+        "trailer": "https://www.youtube.com/watch?v=BqWH0KDqm3U"
     },
     {
         "title": "Dhurandhar",
@@ -71,28 +71,28 @@
     },
     {
         "title": "Bob l'éponge, le film : Un pour tous, tous pirates !",
-        "rating": 6.886,
+        "rating": 6.913,
         "genre": "Famille / Comédie / Aventure / Animation",
         "poster": "https://image.tmdb.org/t/p/w500/1WSOiU7XmLoEnYyADAEMQfGe9eN.jpg",
         "trailer": "https://www.youtube.com/watch?v=wS3mgDtELaU"
     },
     {
         "title": "Anaconda",
-        "rating": 6.2,
+        "rating": 6.018,
         "genre": "Aventure / Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/5EbKjIowNw5yExzrhvu231GFVCf.jpg",
-        "trailer": "https://www.youtube.com/watch?v=F29F6nIasuw"
+        "trailer": "https://www.youtube.com/watch?v=LFLyvzIZjK4"
     },
     {
         "title": "Sur un air de blues",
-        "rating": 7.2,
+        "rating": 7.296,
         "genre": "Drame / Musique / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/t5rI5QhOm65YB3WIPxLPnpUpegr.jpg",
         "trailer": "https://www.youtube.com/watch?v=ssZU6xUM-YI"
     },
     {
         "title": "L'Intermédiaire",
-        "rating": 7.006,
+        "rating": 7.002,
         "genre": "Action / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/rKCZTC8PBjOHyNGHc9cLGVGZdOI.jpg",
         "trailer": "https://www.youtube.com/watch?v=Hhkoa2LWImA"
@@ -119,24 +119,24 @@
         "trailer": null
     },
     {
-        "title": "En garde",
-        "rating": 7,
-        "genre": "Drame / Mystère / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/ekRywfBPjJ6es8U0QCuO7YwOwII.jpg",
-        "trailer": null
-    },
-    {
         "title": "Vie privée",
-        "rating": 5.94,
+        "rating": 5.9,
         "genre": "Drame / Crime / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/ySU2kboUiK2IVs9dB0w4vnPiYgk.jpg",
         "trailer": "https://www.youtube.com/watch?v=HbIEbJbEpF4"
     },
     {
         "title": "Résurrection",
-        "rating": 7.125,
+        "rating": 7.155,
         "genre": "Drame / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/yZxEsi2s7NyO1QGjizXA9GLh49O.jpg",
         "trailer": "https://www.youtube.com/watch?v=ZIJezWgFUEY"
+    },
+    {
+        "title": "Los Tigres",
+        "rating": 6.364,
+        "genre": "Thriller / Crime",
+        "poster": "https://image.tmdb.org/t/p/w500/uODrMvCbhudaN7rawwLhLNA73P1.jpg",
+        "trailer": null
     }
 ]
