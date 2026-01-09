@@ -1,21 +1,21 @@
 [
     {
         "title": "The Shadow's Edge",
-        "rating": 6.6,
+        "rating": 6.7,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg",
         "trailer": "https://www.youtube.com/watch?v=xvmADAJOoCg"
     },
     {
         "title": "Five Nights at Freddy's 2",
-        "rating": 6.8,
+        "rating": 6.811,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/enRyaRthhsuAqBwzYKqb7VfCJg.jpg",
         "trailer": "https://www.youtube.com/watch?v=NQypHE9_Fm4"
     },
     {
         "title": "Pour l'éternité",
-        "rating": 7.134,
+        "rating": 7.133,
         "genre": "Romance / Comédie / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/q61mJNREpmAKQ9cnU03mbk1ldwg.jpg",
         "trailer": "https://www.youtube.com/watch?v=GzkoY6hUvQQ"
@@ -29,42 +29,42 @@
     },
     {
         "title": "Avatar : De feu et de cendres",
-        "rating": 7.35,
+        "rating": 7.3,
         "genre": "Science-fiction / Aventure / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/5BnOt0PRymp5mXuoKv1unQ9x8I8.jpg",
         "trailer": "https://www.youtube.com/watch?v=Ma1x7ikpid8"
     },
     {
         "title": "L’Agent secret",
-        "rating": 7.9,
+        "rating": 7.912,
         "genre": "Crime / Drame / Thriller / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/qPcUhGKuMxVwrqNBnVg1nnvfXfs.jpg",
         "trailer": "https://www.youtube.com/watch?v=9UfrzDKrhEc"
     },
     {
         "title": "La Femme de ménage",
-        "rating": 7.185,
+        "rating": 7.187,
         "genre": "Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/szdrVdnS8XAzqFyzPDhYXaJk7EK.jpg",
         "trailer": "https://www.youtube.com/watch?v=BqWH0KDqm3U"
     },
     {
         "title": "Dhurandhar",
-        "rating": 6.464,
+        "rating": 6.5,
         "genre": "Action / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
         "trailer": null
     },
     {
         "title": "Bob l'éponge, le film : Un pour tous, tous pirates !",
-        "rating": 6.875,
+        "rating": 6.725,
         "genre": "Famille / Comédie / Aventure / Animation",
         "poster": "https://image.tmdb.org/t/p/w500/1WSOiU7XmLoEnYyADAEMQfGe9eN.jpg",
         "trailer": "https://www.youtube.com/watch?v=wS3mgDtELaU"
     },
     {
         "title": "Anaconda",
-        "rating": 5.968,
+        "rating": 5.922,
         "genre": "Aventure / Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/5EbKjIowNw5yExzrhvu231GFVCf.jpg",
         "trailer": "https://www.youtube.com/watch?v=LFLyvzIZjK4"
@@ -78,14 +78,14 @@
     },
     {
         "title": "La Fabrique des Monstres",
-        "rating": 6.957,
+        "rating": 7,
         "genre": "Animation / Aventure / Famille / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/MQV1mkoEI1WmQO8qtsfV3T1iPY.jpg",
         "trailer": "https://www.youtube.com/watch?v=SlHrSRmobKQ"
     },
     {
         "title": "Father Mother Sister Brother",
-        "rating": 6.81,
+        "rating": 6.828,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zewZA6sL52YSH8xIH4wbG5GadjV.jpg",
         "trailer": "https://www.youtube.com/watch?v=PA07EmbZ0b0"
@@ -106,7 +106,7 @@
     },
     {
         "title": "Greenland : Migration",
-        "rating": 8.75,
+        "rating": 8.8,
         "genre": "Aventure / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
         "trailer": "https://www.youtube.com/watch?v=hiD3zk0ZRFg"
@@ -127,14 +127,14 @@
     },
     {
         "title": "L'Ultime Round",
-        "rating": 6.167,
+        "rating": 6.2,
         "genre": "Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/aC6lOgbpt4on9Dkv1A5oGcI5sRk.jpg",
         "trailer": "https://www.youtube.com/watch?v=pJjPBTC0ypU"
     },
     {
         "title": "Palestine 36",
-        "rating": 8.048,
+        "rating": 8,
         "genre": "Drame / Histoire / Guerre",
         "poster": "https://image.tmdb.org/t/p/w500/sS3SQEmJ0tGsx4UZ601OiPFNOGZ.jpg",
         "trailer": "https://www.youtube.com/watch?v=14H4J8bewDY"
