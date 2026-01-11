@@ -8,14 +8,14 @@
     },
     {
         "title": "Five Nights at Freddy's 2",
-        "rating": 6.813,
+        "rating": 6.817,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/enRyaRthhsuAqBwzYKqb7VfCJg.jpg",
         "trailer": "https://www.youtube.com/watch?v=NQypHE9_Fm4"
     },
     {
         "title": "Pour l'éternité",
-        "rating": 7.126,
+        "rating": 7.1,
         "genre": "Romance / Comédie / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/q61mJNREpmAKQ9cnU03mbk1ldwg.jpg",
         "trailer": "https://www.youtube.com/watch?v=GzkoY6hUvQQ"
@@ -36,14 +36,14 @@
     },
     {
         "title": "L’Agent secret",
-        "rating": 7.912,
+        "rating": 7.929,
         "genre": "Crime / Drame / Thriller / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/qPcUhGKuMxVwrqNBnVg1nnvfXfs.jpg",
         "trailer": "https://www.youtube.com/watch?v=9UfrzDKrhEc"
     },
     {
         "title": "La Femme de ménage",
-        "rating": 7.184,
+        "rating": 7.189,
         "genre": "Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/szdrVdnS8XAzqFyzPDhYXaJk7EK.jpg",
         "trailer": "https://www.youtube.com/watch?v=BqWH0KDqm3U"
@@ -57,66 +57,59 @@
     },
     {
         "title": "Bob l'éponge, le film : Un pour tous, tous pirates !",
-        "rating": 6.618,
+        "rating": 6.7,
         "genre": "Famille / Comédie / Aventure / Animation",
         "poster": "https://image.tmdb.org/t/p/w500/1WSOiU7XmLoEnYyADAEMQfGe9eN.jpg",
         "trailer": "https://www.youtube.com/watch?v=wS3mgDtELaU"
     },
     {
         "title": "Anaconda",
-        "rating": 5.877,
+        "rating": 5.9,
         "genre": "Aventure / Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/5EbKjIowNw5yExzrhvu231GFVCf.jpg",
         "trailer": "https://www.youtube.com/watch?v=LFLyvzIZjK4"
     },
     {
         "title": "Sur un air de blues",
-        "rating": 7.243,
+        "rating": 7.342,
         "genre": "Drame / Musique / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/t5rI5QhOm65YB3WIPxLPnpUpegr.jpg",
         "trailer": "https://www.youtube.com/watch?v=ssZU6xUM-YI"
     },
     {
         "title": "La Fabrique des Monstres",
-        "rating": 7,
+        "rating": 6.917,
         "genre": "Animation / Aventure / Famille / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/MQV1mkoEI1WmQO8qtsfV3T1iPY.jpg",
         "trailer": "https://www.youtube.com/watch?v=SlHrSRmobKQ"
     },
     {
         "title": "Father Mother Sister Brother",
-        "rating": 6.828,
+        "rating": 6.819,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zewZA6sL52YSH8xIH4wbG5GadjV.jpg",
         "trailer": "https://www.youtube.com/watch?v=PA07EmbZ0b0"
     },
     {
         "title": "Résurrection",
-        "rating": 7.15,
+        "rating": 6.984,
         "genre": "Drame / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/yZxEsi2s7NyO1QGjizXA9GLh49O.jpg",
         "trailer": "https://www.youtube.com/watch?v=ZIJezWgFUEY"
     },
     {
         "title": "Los Tigres",
-        "rating": 6.333,
+        "rating": 5.857,
         "genre": "Thriller / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/uODrMvCbhudaN7rawwLhLNA73P1.jpg",
         "trailer": null
     },
     {
         "title": "Greenland : Migration",
-        "rating": 7.125,
+        "rating": 6.571,
         "genre": "Aventure / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
         "trailer": "https://www.youtube.com/watch?v=hiD3zk0ZRFg"
-    },
-    {
-        "title": "28 Ans plus tard : Le Temple des morts",
-        "rating": 0,
-        "genre": "Horreur / Thriller / Science-fiction",
-        "poster": "https://image.tmdb.org/t/p/w500/9Q1KexhHbHJFbiKjV4PUeMFt64N.jpg",
-        "trailer": "https://www.youtube.com/watch?v=rl_DJZCyEH4"
     },
     {
         "title": "Sahara",
@@ -134,9 +127,16 @@
     },
     {
         "title": "Palestine 36",
-        "rating": 8,
+        "rating": 8.045,
         "genre": "Drame / Histoire / Guerre",
         "poster": "https://image.tmdb.org/t/p/w500/sS3SQEmJ0tGsx4UZ601OiPFNOGZ.jpg",
         "trailer": "https://www.youtube.com/watch?v=14H4J8bewDY"
+    },
+    {
+        "title": "28 ans plus tard : Le Temple des morts",
+        "rating": 8.8,
+        "genre": "Horreur / Thriller / Science-fiction",
+        "poster": "https://image.tmdb.org/t/p/w500/9Q1KexhHbHJFbiKjV4PUeMFt64N.jpg",
+        "trailer": "https://www.youtube.com/watch?v=rl_DJZCyEH4"
     }
 ]
