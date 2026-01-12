@@ -1,14 +1,14 @@
 [
     {
         "title": "The Shadow's Edge",
-        "rating": 6.7,
+        "rating": 6.875,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg",
         "trailer": "https://www.youtube.com/watch?v=xvmADAJOoCg"
     },
     {
         "title": "Five Nights at Freddy's 2",
-        "rating": 6.817,
+        "rating": 6.784,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/enRyaRthhsuAqBwzYKqb7VfCJg.jpg",
         "trailer": "https://www.youtube.com/watch?v=NQypHE9_Fm4"
@@ -22,56 +22,56 @@
     },
     {
         "title": "L'Élue",
-        "rating": 5.489,
+        "rating": 5.495,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/7LEKkQYZH7UpQpuf5B6hj6VPBaF.jpg",
         "trailer": "https://www.youtube.com/watch?v=i4gV0d5PvKs"
     },
     {
         "title": "Avatar : De feu et de cendres",
-        "rating": 7.355,
+        "rating": 7.364,
         "genre": "Science-fiction / Aventure / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/5BnOt0PRymp5mXuoKv1unQ9x8I8.jpg",
         "trailer": "https://www.youtube.com/watch?v=Ma1x7ikpid8"
     },
     {
         "title": "L’Agent secret",
-        "rating": 7.929,
+        "rating": 7.923,
         "genre": "Crime / Drame / Thriller / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/qPcUhGKuMxVwrqNBnVg1nnvfXfs.jpg",
         "trailer": "https://www.youtube.com/watch?v=9UfrzDKrhEc"
     },
     {
         "title": "La Femme de ménage",
-        "rating": 7.189,
+        "rating": 7.222,
         "genre": "Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/szdrVdnS8XAzqFyzPDhYXaJk7EK.jpg",
         "trailer": "https://www.youtube.com/watch?v=BqWH0KDqm3U"
     },
     {
         "title": "Dhurandhar",
-        "rating": 6.5,
+        "rating": 6.556,
         "genre": "Action / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
         "trailer": null
     },
     {
         "title": "Bob l'éponge, le film : Un pour tous, tous pirates !",
-        "rating": 6.7,
+        "rating": 6.6,
         "genre": "Famille / Comédie / Aventure / Animation",
         "poster": "https://image.tmdb.org/t/p/w500/1WSOiU7XmLoEnYyADAEMQfGe9eN.jpg",
         "trailer": "https://www.youtube.com/watch?v=wS3mgDtELaU"
     },
     {
         "title": "Anaconda",
-        "rating": 5.9,
+        "rating": 5.953,
         "genre": "Aventure / Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/5EbKjIowNw5yExzrhvu231GFVCf.jpg",
         "trailer": "https://www.youtube.com/watch?v=LFLyvzIZjK4"
     },
     {
         "title": "Sur un air de blues",
-        "rating": 7.342,
+        "rating": 7.359,
         "genre": "Drame / Musique / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/t5rI5QhOm65YB3WIPxLPnpUpegr.jpg",
         "trailer": "https://www.youtube.com/watch?v=ssZU6xUM-YI"
@@ -85,28 +85,21 @@
     },
     {
         "title": "Father Mother Sister Brother",
-        "rating": 6.819,
+        "rating": 6.842,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zewZA6sL52YSH8xIH4wbG5GadjV.jpg",
         "trailer": "https://www.youtube.com/watch?v=PA07EmbZ0b0"
     },
     {
         "title": "Résurrection",
-        "rating": 6.984,
+        "rating": 7.031,
         "genre": "Drame / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/yZxEsi2s7NyO1QGjizXA9GLh49O.jpg",
         "trailer": "https://www.youtube.com/watch?v=ZIJezWgFUEY"
     },
     {
-        "title": "Los Tigres",
-        "rating": 5.857,
-        "genre": "Thriller / Crime",
-        "poster": "https://image.tmdb.org/t/p/w500/uODrMvCbhudaN7rawwLhLNA73P1.jpg",
-        "trailer": null
-    },
-    {
         "title": "Greenland : Migration",
-        "rating": 6.571,
+        "rating": 6.6,
         "genre": "Aventure / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
         "trailer": "https://www.youtube.com/watch?v=hiD3zk0ZRFg"
@@ -117,13 +110,6 @@
         "genre": "Action / Aventure / Comédie / Drame / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/cUc0nAx08PNIbXpbum5W35YZuzq.jpg",
         "trailer": "https://www.youtube.com/watch?v=VvA4Tbjk8tk"
-    },
-    {
-        "title": "L'Ultime Round",
-        "rating": 6.2,
-        "genre": "Thriller / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/aC6lOgbpt4on9Dkv1A5oGcI5sRk.jpg",
-        "trailer": "https://www.youtube.com/watch?v=pJjPBTC0ypU"
     },
     {
         "title": "Palestine 36",
@@ -138,5 +124,19 @@
         "genre": "Horreur / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/9Q1KexhHbHJFbiKjV4PUeMFt64N.jpg",
         "trailer": "https://www.youtube.com/watch?v=rl_DJZCyEH4"
+    },
+    {
+        "title": "Ma frère",
+        "rating": 7.364,
+        "genre": "Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/j4p4TaoK4LrlLgCK0m0pBUT5CcB.jpg",
+        "trailer": "https://www.youtube.com/watch?v=SG5nmdcUAI0"
+    },
+    {
+        "title": "Le Studio photo de Nankin",
+        "rating": 8.121,
+        "genre": "Drame / Guerre / Histoire",
+        "poster": "https://image.tmdb.org/t/p/w500/rdm3hPCnAWgHmGws9QG8L1AsXL1.jpg",
+        "trailer": "https://www.youtube.com/watch?v=_PX1WNbKdAE"
     }
 ]
