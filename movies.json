@@ -1,28 +1,28 @@
 [
     {
         "title": "L'Élue",
-        "rating": 5.464,
+        "rating": 5.5,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/7LEKkQYZH7UpQpuf5B6hj6VPBaF.jpg",
         "trailer": "https://www.youtube.com/watch?v=i4gV0d5PvKs"
     },
     {
         "title": "Avatar : De feu et de cendres",
-        "rating": 7.36,
+        "rating": 7.356,
         "genre": "Science-fiction / Aventure / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/5BnOt0PRymp5mXuoKv1unQ9x8I8.jpg",
         "trailer": "https://www.youtube.com/watch?v=Ma1x7ikpid8"
     },
     {
         "title": "L’Agent secret",
-        "rating": 7.9,
+        "rating": 7.916,
         "genre": "Crime / Drame / Thriller / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/qPcUhGKuMxVwrqNBnVg1nnvfXfs.jpg",
         "trailer": "https://www.youtube.com/watch?v=9UfrzDKrhEc"
     },
     {
         "title": "La Femme de ménage",
-        "rating": 7.2,
+        "rating": 7.233,
         "genre": "Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/szdrVdnS8XAzqFyzPDhYXaJk7EK.jpg",
         "trailer": "https://www.youtube.com/watch?v=BqWH0KDqm3U"
@@ -36,28 +36,28 @@
     },
     {
         "title": "Anaconda",
-        "rating": 5.935,
+        "rating": 5.9,
         "genre": "Aventure / Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/5EbKjIowNw5yExzrhvu231GFVCf.jpg",
         "trailer": "https://www.youtube.com/watch?v=LFLyvzIZjK4"
     },
     {
         "title": "Sur un air de blues",
-        "rating": 7.5,
+        "rating": 7.583,
         "genre": "Drame / Musique / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/t5rI5QhOm65YB3WIPxLPnpUpegr.jpg",
         "trailer": "https://www.youtube.com/watch?v=ssZU6xUM-YI"
     },
     {
         "title": "La Fabrique des Monstres",
-        "rating": 6.9,
+        "rating": 7.04,
         "genre": "Animation / Aventure / Famille / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/MQV1mkoEI1WmQO8qtsfV3T1iPY.jpg",
         "trailer": "https://www.youtube.com/watch?v=SlHrSRmobKQ"
     },
     {
         "title": "Father Mother Sister Brother",
-        "rating": 6.735,
+        "rating": 6.8,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zewZA6sL52YSH8xIH4wbG5GadjV.jpg",
         "trailer": "https://www.youtube.com/watch?v=PA07EmbZ0b0"
@@ -71,17 +71,10 @@
     },
     {
         "title": "Greenland : Migration",
-        "rating": 6.929,
+        "rating": 6.731,
         "genre": "Aventure / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
         "trailer": "https://www.youtube.com/watch?v=hiD3zk0ZRFg"
-    },
-    {
-        "title": "Sahara",
-        "rating": 5.9,
-        "genre": "Action / Aventure / Comédie / Drame / Mystère",
-        "poster": "https://image.tmdb.org/t/p/w500/cUc0nAx08PNIbXpbum5W35YZuzq.jpg",
-        "trailer": "https://www.youtube.com/watch?v=VvA4Tbjk8tk"
     },
     {
         "title": "Palestine 36",
@@ -92,7 +85,7 @@
     },
     {
         "title": "28 ans plus tard : Le Temple des morts",
-        "rating": 5.778,
+        "rating": 6.5,
         "genre": "Horreur / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/9Q1KexhHbHJFbiKjV4PUeMFt64N.jpg",
         "trailer": "https://www.youtube.com/watch?v=rl_DJZCyEH4"
@@ -120,17 +113,10 @@
     },
     {
         "title": "Primate",
-        "rating": 6.536,
+        "rating": 6.355,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/seHZ5tcGX08Bprm3qvwzFwSd39r.jpg",
         "trailer": "https://www.youtube.com/watch?v=wo87F-va410"
-    },
-    {
-        "title": "Le Maître du Kabuki",
-        "rating": 8.056,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/gWDU7HCcJKMyRAjz9eLclh1IHlo.jpg",
-        "trailer": "https://www.youtube.com/watch?v=p6k9Y-irvOE"
     },
     {
         "title": "Olivia",
@@ -138,5 +124,19 @@
         "genre": "Animation / Comédie / Drame / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/3qqL5jpYIatN0Cdz21eATs32SHG.jpg",
         "trailer": null
+    },
+    {
+        "title": "Rebuilding",
+        "rating": 6.789,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/b6cV7mSg93sDFX4NKVbVjJUXdUF.jpg",
+        "trailer": "https://www.youtube.com/watch?v=Xts1LhfqNEQ"
+    },
+    {
+        "title": "Les Échos du passé",
+        "rating": 6.788,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/aJqd1dzQOrMhEvUkEwu27qdO3Ei.jpg",
+        "trailer": "https://www.youtube.com/watch?v=O-jgGbvLgVo"
     }
 ]
