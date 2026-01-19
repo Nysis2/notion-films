@@ -15,35 +15,35 @@
     },
     {
         "title": "L’Agent secret",
-        "rating": 7.9,
+        "rating": 7.879,
         "genre": "Crime / Drame / Thriller / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/qPcUhGKuMxVwrqNBnVg1nnvfXfs.jpg",
         "trailer": "https://www.youtube.com/watch?v=9UfrzDKrhEc"
     },
     {
         "title": "La Femme de ménage",
-        "rating": 7.183,
+        "rating": 7.179,
         "genre": "Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/szdrVdnS8XAzqFyzPDhYXaJk7EK.jpg",
         "trailer": "https://www.youtube.com/watch?v=BqWH0KDqm3U"
     },
     {
         "title": "Bob l'éponge, le film : Un pour tous, tous pirates !",
-        "rating": 6.5,
+        "rating": 6.515,
         "genre": "Famille / Comédie / Aventure / Animation",
         "poster": "https://image.tmdb.org/t/p/w500/1WSOiU7XmLoEnYyADAEMQfGe9eN.jpg",
         "trailer": "https://www.youtube.com/watch?v=wS3mgDtELaU"
     },
     {
         "title": "Anaconda",
-        "rating": 5.94,
+        "rating": 5.9,
         "genre": "Aventure / Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/5EbKjIowNw5yExzrhvu231GFVCf.jpg",
         "trailer": "https://www.youtube.com/watch?v=LFLyvzIZjK4"
     },
     {
         "title": "Sur un air de blues",
-        "rating": 7.8,
+        "rating": 7.862,
         "genre": "Drame / Musique / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/t5rI5QhOm65YB3WIPxLPnpUpegr.jpg",
         "trailer": "https://www.youtube.com/watch?v=ssZU6xUM-YI"
@@ -57,14 +57,14 @@
     },
     {
         "title": "Father Mother Sister Brother",
-        "rating": 6.814,
+        "rating": 6.792,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zewZA6sL52YSH8xIH4wbG5GadjV.jpg",
         "trailer": "https://www.youtube.com/watch?v=PA07EmbZ0b0"
     },
     {
         "title": "Greenland : Migration",
-        "rating": 6.6,
+        "rating": 6.607,
         "genre": "Aventure / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
         "trailer": "https://www.youtube.com/watch?v=hiD3zk0ZRFg"
@@ -78,14 +78,14 @@
     },
     {
         "title": "28 ans plus tard : Le Temple des morts",
-        "rating": 6.918,
+        "rating": 7,
         "genre": "Horreur / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/9Q1KexhHbHJFbiKjV4PUeMFt64N.jpg",
         "trailer": "https://www.youtube.com/watch?v=rl_DJZCyEH4"
     },
     {
         "title": "Le Studio photo de Nankin",
-        "rating": 8.136,
+        "rating": 8.119,
         "genre": "Drame / Guerre / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/rdm3hPCnAWgHmGws9QG8L1AsXL1.jpg",
         "trailer": "https://www.youtube.com/watch?v=_PX1WNbKdAE"
@@ -99,35 +99,28 @@
     },
     {
         "title": "Hamnet",
-        "rating": 7.704,
+        "rating": 7.467,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/4mi0UFdr40vUIbiWSj2wuZDTNvB.jpg",
         "trailer": "https://www.youtube.com/watch?v=xYcgQMxQwmk"
     },
     {
         "title": "Primate",
-        "rating": 6.625,
+        "rating": 6.6,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/seHZ5tcGX08Bprm3qvwzFwSd39r.jpg",
         "trailer": "https://www.youtube.com/watch?v=wo87F-va410"
     },
     {
         "title": "Rebuilding",
-        "rating": 6.92,
+        "rating": 6.9,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/b6cV7mSg93sDFX4NKVbVjJUXdUF.jpg",
         "trailer": "https://www.youtube.com/watch?v=Xts1LhfqNEQ"
     },
     {
-        "title": "L'Amour qu'il nous reste",
-        "rating": 6.5,
-        "genre": "Drame / Comédie",
-        "poster": "https://image.tmdb.org/t/p/w500/gveoShAALiQfdINESmjmsPGb0IC.jpg",
-        "trailer": "https://www.youtube.com/watch?v=jZ0fdmesr-w"
-    },
-    {
         "title": "Le Maître du Kabuki",
-        "rating": 8.158,
+        "rating": 8.05,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/gWDU7HCcJKMyRAjz9eLclh1IHlo.jpg",
         "trailer": "https://www.youtube.com/watch?v=Y0KfXj3Skao"
@@ -138,5 +131,12 @@
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/aJqd1dzQOrMhEvUkEwu27qdO3Ei.jpg",
         "trailer": "https://www.youtube.com/watch?v=O-jgGbvLgVo"
+    },
+    {
+        "title": "L’affaire Bojarski",
+        "rating": 6.813,
+        "genre": "Histoire / Drame / Crime",
+        "poster": "https://image.tmdb.org/t/p/w500/4PcYBJbvPNpsIE6SMTMVUAfSyBp.jpg",
+        "trailer": null
     }
 ]
