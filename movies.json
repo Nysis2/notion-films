@@ -1,94 +1,73 @@
 [
     {
-        "title": "L'Élue",
-        "rating": 5.525,
-        "genre": "Horreur / Mystère",
-        "poster": "https://image.tmdb.org/t/p/w500/7LEKkQYZH7UpQpuf5B6hj6VPBaF.jpg",
-        "trailer": "https://www.youtube.com/watch?v=i4gV0d5PvKs"
-    },
-    {
         "title": "Avatar : De feu et de cendres",
-        "rating": 7.348,
+        "rating": 7.345,
         "genre": "Science-fiction / Aventure / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/5BnOt0PRymp5mXuoKv1unQ9x8I8.jpg",
         "trailer": "https://www.youtube.com/watch?v=Ma1x7ikpid8"
     },
     {
         "title": "L’Agent secret",
-        "rating": 7.913,
+        "rating": 7.7,
         "genre": "Crime / Drame / Thriller / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/qPcUhGKuMxVwrqNBnVg1nnvfXfs.jpg",
         "trailer": "https://www.youtube.com/watch?v=9UfrzDKrhEc"
     },
     {
         "title": "La Femme de ménage",
-        "rating": 7.2,
+        "rating": 7.198,
         "genre": "Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/szdrVdnS8XAzqFyzPDhYXaJk7EK.jpg",
         "trailer": "https://www.youtube.com/watch?v=BqWH0KDqm3U"
     },
     {
         "title": "Bob l'éponge, le film : Un pour tous, tous pirates !",
-        "rating": 6.6,
+        "rating": 6.5,
         "genre": "Famille / Comédie / Aventure / Animation",
         "poster": "https://image.tmdb.org/t/p/w500/1WSOiU7XmLoEnYyADAEMQfGe9eN.jpg",
         "trailer": "https://www.youtube.com/watch?v=wS3mgDtELaU"
     },
     {
         "title": "Anaconda",
-        "rating": 5.9,
+        "rating": 5.961,
         "genre": "Aventure / Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/5EbKjIowNw5yExzrhvu231GFVCf.jpg",
         "trailer": "https://www.youtube.com/watch?v=LFLyvzIZjK4"
     },
     {
         "title": "Sur un air de blues",
-        "rating": 7.826,
+        "rating": 7.733,
         "genre": "Drame / Musique / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/t5rI5QhOm65YB3WIPxLPnpUpegr.jpg",
         "trailer": "https://www.youtube.com/watch?v=ssZU6xUM-YI"
     },
     {
-        "title": "La Fabrique des Monstres",
-        "rating": 7,
-        "genre": "Animation / Aventure / Famille / Comédie",
-        "poster": "https://image.tmdb.org/t/p/w500/MQV1mkoEI1WmQO8qtsfV3T1iPY.jpg",
-        "trailer": "https://www.youtube.com/watch?v=SlHrSRmobKQ"
-    },
-    {
         "title": "Father Mother Sister Brother",
-        "rating": 6.781,
+        "rating": 6.732,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zewZA6sL52YSH8xIH4wbG5GadjV.jpg",
         "trailer": "https://www.youtube.com/watch?v=PA07EmbZ0b0"
     },
     {
         "title": "Greenland : Migration",
-        "rating": 6.69,
+        "rating": 6.617,
         "genre": "Aventure / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
         "trailer": "https://www.youtube.com/watch?v=hiD3zk0ZRFg"
     },
     {
         "title": "Palestine 36",
-        "rating": 7.96,
+        "rating": 7.923,
         "genre": "Drame / Histoire / Guerre",
         "poster": "https://image.tmdb.org/t/p/w500/sS3SQEmJ0tGsx4UZ601OiPFNOGZ.jpg",
         "trailer": "https://www.youtube.com/watch?v=14H4J8bewDY"
     },
     {
         "title": "28 ans plus tard : Le Temple des morts",
-        "rating": 7.1,
+        "rating": 7.152,
         "genre": "Horreur / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/9Q1KexhHbHJFbiKjV4PUeMFt64N.jpg",
         "trailer": "https://www.youtube.com/watch?v=rl_DJZCyEH4"
-    },
-    {
-        "title": "Le Studio photo de Nankin",
-        "rating": 8.119,
-        "genre": "Drame / Guerre / Histoire",
-        "poster": "https://image.tmdb.org/t/p/w500/rdm3hPCnAWgHmGws9QG8L1AsXL1.jpg",
-        "trailer": "https://www.youtube.com/watch?v=_PX1WNbKdAE"
     },
     {
         "title": "Tafiti",
@@ -113,30 +92,51 @@
     },
     {
         "title": "Rebuilding",
-        "rating": 6.907,
+        "rating": 6.9,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/b6cV7mSg93sDFX4NKVbVjJUXdUF.jpg",
         "trailer": "https://www.youtube.com/watch?v=Xts1LhfqNEQ"
     },
     {
         "title": "Le Maître du Kabuki",
-        "rating": 8.05,
+        "rating": 8.1,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/gWDU7HCcJKMyRAjz9eLclh1IHlo.jpg",
         "trailer": "https://www.youtube.com/watch?v=Y0KfXj3Skao"
     },
     {
         "title": "Les Échos du passé",
-        "rating": 6.8,
+        "rating": 6.895,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/aJqd1dzQOrMhEvUkEwu27qdO3Ei.jpg",
         "trailer": "https://www.youtube.com/watch?v=O-jgGbvLgVo"
     },
     {
-        "title": "L’affaire Bojarski",
-        "rating": 6.554,
-        "genre": "Histoire / Drame / Crime",
-        "poster": "https://image.tmdb.org/t/p/w500/4PcYBJbvPNpsIE6SMTMVUAfSyBp.jpg",
-        "trailer": null
+        "title": "Dreams",
+        "rating": 5.667,
+        "genre": "Drame / Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/wGGsqxugZSQPgAPzQPMcsntEVi4.jpg",
+        "trailer": "https://www.youtube.com/watch?v=J6Al_zihrvw"
+    },
+    {
+        "title": "Reconnu coupable",
+        "rating": 6.8,
+        "genre": "Science-fiction / Action / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/xPLvEWaLRSorCtcnmHmZiIcANLF.jpg",
+        "trailer": "https://www.youtube.com/watch?v=JUADqWkJiiE"
+    },
+    {
+        "title": "La Grazia",
+        "rating": 7.494,
+        "genre": "Drame / Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/vdaaImExSJ0VmN3E8qjsrRnanKe.jpg",
+        "trailer": "https://www.youtube.com/watch?v=zvQn44a_IHo"
+    },
+    {
+        "title": "Nuremberg",
+        "rating": 7.4,
+        "genre": "Histoire / Drame / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/6iYLH0TjqCyEkCYadpLUMHr9S8J.jpg",
+        "trailer": "https://www.youtube.com/watch?v=YWlCCVnZ4bo"
     }
 ]
