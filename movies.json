@@ -1,42 +1,42 @@
 [
     {
         "title": "Avatar : De feu et de cendres",
-        "rating": 7.326,
+        "rating": 7.325,
         "genre": "Science-fiction / Aventure / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/5BnOt0PRymp5mXuoKv1unQ9x8I8.jpg",
         "trailer": "https://www.youtube.com/watch?v=Ma1x7ikpid8"
     },
     {
         "title": "L’Agent secret",
-        "rating": 7.674,
+        "rating": 7.693,
         "genre": "Crime / Drame / Thriller / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/qPcUhGKuMxVwrqNBnVg1nnvfXfs.jpg",
         "trailer": "https://www.youtube.com/watch?v=9UfrzDKrhEc"
     },
     {
         "title": "La Femme de ménage",
-        "rating": 7.152,
+        "rating": 7.077,
         "genre": "Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/szdrVdnS8XAzqFyzPDhYXaJk7EK.jpg",
         "trailer": "https://www.youtube.com/watch?v=BqWH0KDqm3U"
     },
     {
         "title": "Bob l'éponge, le film : Un pour tous, tous pirates !",
-        "rating": 6.4,
+        "rating": 6.5,
         "genre": "Famille / Comédie / Aventure / Animation",
         "poster": "https://image.tmdb.org/t/p/w500/1WSOiU7XmLoEnYyADAEMQfGe9eN.jpg",
         "trailer": "https://www.youtube.com/watch?v=wS3mgDtELaU"
     },
     {
         "title": "Anaconda",
-        "rating": 5.973,
+        "rating": 6,
         "genre": "Aventure / Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/5EbKjIowNw5yExzrhvu231GFVCf.jpg",
         "trailer": "https://www.youtube.com/watch?v=LFLyvzIZjK4"
     },
     {
         "title": "Sur un air de blues",
-        "rating": 7.62,
+        "rating": 7.546,
         "genre": "Drame / Musique / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/t5rI5QhOm65YB3WIPxLPnpUpegr.jpg",
         "trailer": "https://www.youtube.com/watch?v=ssZU6xUM-YI"
@@ -50,7 +50,7 @@
     },
     {
         "title": "Greenland : Migration",
-        "rating": 6.432,
+        "rating": 6.4,
         "genre": "Aventure / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
         "trailer": "https://www.youtube.com/watch?v=hiD3zk0ZRFg"
@@ -64,21 +64,21 @@
     },
     {
         "title": "28 ans plus tard : Le Temple des morts",
-        "rating": 7.203,
+        "rating": 7.22,
         "genre": "Horreur / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/9Q1KexhHbHJFbiKjV4PUeMFt64N.jpg",
         "trailer": "https://www.youtube.com/watch?v=rl_DJZCyEH4"
     },
     {
         "title": "Hamnet",
-        "rating": 7.766,
+        "rating": 7.861,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/4mi0UFdr40vUIbiWSj2wuZDTNvB.jpg",
         "trailer": "https://www.youtube.com/watch?v=xYcgQMxQwmk"
     },
     {
         "title": "Primate",
-        "rating": 6.733,
+        "rating": 6.739,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/seHZ5tcGX08Bprm3qvwzFwSd39r.jpg",
         "trailer": "https://www.youtube.com/watch?v=wo87F-va410"
@@ -99,7 +99,7 @@
     },
     {
         "title": "Les Échos du passé",
-        "rating": 6.9,
+        "rating": 6.85,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/aJqd1dzQOrMhEvUkEwu27qdO3Ei.jpg",
         "trailer": "https://www.youtube.com/watch?v=O-jgGbvLgVo"
@@ -113,28 +113,28 @@
     },
     {
         "title": "Reconnu coupable",
-        "rating": 6.868,
+        "rating": 7,
         "genre": "Science-fiction / Action / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/xPLvEWaLRSorCtcnmHmZiIcANLF.jpg",
         "trailer": "https://www.youtube.com/watch?v=JUADqWkJiiE"
     },
     {
         "title": "La Grazia",
-        "rating": 7.606,
+        "rating": 7.588,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/vdaaImExSJ0VmN3E8qjsrRnanKe.jpg",
         "trailer": "https://www.youtube.com/watch?v=zvQn44a_IHo"
     },
     {
         "title": "Nuremberg",
-        "rating": 7.358,
+        "rating": 7.364,
         "genre": "Histoire / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/6iYLH0TjqCyEkCYadpLUMHr9S8J.jpg",
         "trailer": "https://www.youtube.com/watch?v=YWlCCVnZ4bo"
     },
     {
         "title": "Le Studio photo de Nankin",
-        "rating": 8.1,
+        "rating": 8.048,
         "genre": "Drame / Guerre / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/rdm3hPCnAWgHmGws9QG8L1AsXL1.jpg",
         "trailer": "https://www.youtube.com/watch?v=_PX1WNbKdAE"
