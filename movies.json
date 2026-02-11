@@ -1,70 +1,56 @@
 [
     {
-        "title": "Anaconda",
-        "rating": 5.835,
-        "genre": "Aventure / Comédie / Horreur",
-        "poster": "https://image.tmdb.org/t/p/w500/5EbKjIowNw5yExzrhvu231GFVCf.jpg",
-        "trailer": "https://www.youtube.com/watch?v=LFLyvzIZjK4"
-    },
-    {
-        "title": "Sur un air de blues",
-        "rating": 7.592,
-        "genre": "Drame / Musique / Romance",
-        "poster": "https://image.tmdb.org/t/p/w500/t5rI5QhOm65YB3WIPxLPnpUpegr.jpg",
-        "trailer": "https://www.youtube.com/watch?v=ssZU6xUM-YI"
-    },
-    {
         "title": "Greenland : Migration",
-        "rating": 6.567,
+        "rating": 6.555,
         "genre": "Aventure / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
         "trailer": "https://www.youtube.com/watch?v=hiD3zk0ZRFg"
     },
     {
         "title": "28 ans plus tard : Le Temple des morts",
-        "rating": 7.266,
+        "rating": 7.3,
         "genre": "Horreur / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/9Q1KexhHbHJFbiKjV4PUeMFt64N.jpg",
         "trailer": "https://www.youtube.com/watch?v=rl_DJZCyEH4"
     },
     {
         "title": "Hamnet",
-        "rating": 7.787,
+        "rating": 7.777,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/4mi0UFdr40vUIbiWSj2wuZDTNvB.jpg",
         "trailer": "https://www.youtube.com/watch?v=xYcgQMxQwmk"
     },
     {
         "title": "Primate",
-        "rating": 6.25,
+        "rating": 6.625,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/seHZ5tcGX08Bprm3qvwzFwSd39r.jpg",
         "trailer": "https://www.youtube.com/watch?v=wo87F-va410"
     },
     {
         "title": "Reconnu coupable",
-        "rating": 6.688,
+        "rating": 6.679,
         "genre": "Science-fiction / Action / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/xPLvEWaLRSorCtcnmHmZiIcANLF.jpg",
         "trailer": "https://www.youtube.com/watch?v=JUADqWkJiiE"
     },
     {
         "title": "Nuremberg",
-        "rating": 7.363,
+        "rating": 7.367,
         "genre": "Histoire / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/6iYLH0TjqCyEkCYadpLUMHr9S8J.jpg",
         "trailer": "https://www.youtube.com/watch?v=YWlCCVnZ4bo"
     },
     {
         "title": "Rental Family",
-        "rating": 7.856,
+        "rating": 7.9,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/7y4MMgdikoGMvQX8oEJNKMASUWr.jpg",
         "trailer": "https://www.youtube.com/watch?v=RP9QKdU0vvA"
     },
     {
         "title": "Retour à Silent Hill",
-        "rating": 5.104,
+        "rating": 5.2,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/n34IL1CF1A5i95pTYI3vtXeaBsg.jpg",
         "trailer": "https://www.youtube.com/watch?v=z10cMFhKbW8"
@@ -77,32 +63,25 @@
         "trailer": "https://www.youtube.com/watch?v=zB_yZ7_ixiM"
     },
     {
-        "title": "Amour apocalypse",
-        "rating": 7.167,
-        "genre": "Comédie / Romance / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/5V4hXZ5d8FnsRhfqx2IisP2Q8r8.jpg",
-        "trailer": "https://www.youtube.com/watch?v=XoV5F_BpRFo"
-    },
-    {
         "title": "Marsupilami",
-        "rating": 6.8,
+        "rating": 6.813,
         "genre": "Aventure / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/rJNHFa07Id2ylQgw0ttzGwpeczE.jpg",
         "trailer": "https://www.youtube.com/watch?v=pXGuY9qcSe0"
     },
     {
         "title": "Send Help",
-        "rating": 6.998,
+        "rating": 7,
         "genre": "Horreur / Thriller / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/74VMvWDNxQopExKmFJ7TpFUtlbt.jpg",
         "trailer": "https://www.youtube.com/watch?v=cOmnmFz_Uzs"
     },
     {
         "title": "\"Hurlevent\"",
-        "rating": 6.2,
+        "rating": 8.4,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/a1uxygM9e2lT5Q8x6fQFQfBJKUh.jpg",
-        "trailer": "https://www.youtube.com/watch?v=qHhtDbhLCu4"
+        "trailer": "https://www.youtube.com/watch?v=3fLCdIYShEQ"
     },
     {
         "title": "Aucun autre choix",
@@ -113,7 +92,7 @@
     },
     {
         "title": "La grazia",
-        "rating": 7.556,
+        "rating": 7.515,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/h4GTGfZRzhxszMx3HVyD90rMYT2.jpg",
         "trailer": "https://www.youtube.com/watch?v=zvQn44a_IHo"
@@ -127,16 +106,37 @@
     },
     {
         "title": "스트레이 키즈 : 더 도미네이트 익스피리언스",
-        "rating": 7.25,
+        "rating": 7.625,
         "genre": "Musique / Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/cx2dZzVe7HfEUEhQNTWhSmnwI21.jpg",
         "trailer": "https://www.youtube.com/watch?v=2R8MBgJWn4w"
     },
     {
         "title": "GOAT : Rêver plus haut",
-        "rating": 6.6,
+        "rating": 7,
         "genre": "Animation / Comédie / Famille / Action",
         "poster": "https://image.tmdb.org/t/p/w500/3knwJCqriSz7mTM3vFJUqJOGty1.jpg",
         "trailer": "https://www.youtube.com/watch?v=kmY-rYS7yng"
+    },
+    {
+        "title": "Cold Storage",
+        "rating": 5.4,
+        "genre": "Comédie / Horreur / Science-fiction",
+        "poster": "https://image.tmdb.org/t/p/w500/bUY4d5M2YXhiBVcRZNbGVeVi5on.jpg",
+        "trailer": "https://www.youtube.com/watch?v=kea7gnh1uYA"
+    },
+    {
+        "title": "Marty Supreme",
+        "rating": 7.705,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/bT5Y8w67r7tj3wFiFGvy72V5znJ.jpg",
+        "trailer": "https://www.youtube.com/watch?v=s9gSuKaKcqM"
+    },
+    {
+        "title": "Father Mother Sister Brother",
+        "rating": 6.58,
+        "genre": "Comédie / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/oYXv7IFiCuLCSWb0YNeiFdk5rPE.jpg",
+        "trailer": "https://www.youtube.com/watch?v=PA07EmbZ0b0"
     }
 ]
