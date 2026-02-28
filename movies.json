@@ -8,14 +8,14 @@
     },
     {
         "title": "Primate",
-        "rating": 6.585,
+        "rating": 6.6,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/seHZ5tcGX08Bprm3qvwzFwSd39r.jpg",
         "trailer": "https://www.youtube.com/watch?v=wo87F-va410"
     },
     {
         "title": "Reconnu coupable",
-        "rating": 7.114,
+        "rating": 7.133,
         "genre": "Science-fiction / Action / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/xPLvEWaLRSorCtcnmHmZiIcANLF.jpg",
         "trailer": "https://www.youtube.com/watch?v=JUADqWkJiiE"
@@ -36,7 +36,7 @@
     },
     {
         "title": "Retour à Silent Hill",
-        "rating": 5.129,
+        "rating": 5.068,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/n34IL1CF1A5i95pTYI3vtXeaBsg.jpg",
         "trailer": "https://www.youtube.com/watch?v=z10cMFhKbW8"
@@ -50,14 +50,14 @@
     },
     {
         "title": "Aucun autre choix",
-        "rating": 7.6,
+        "rating": 7.566,
         "genre": "Crime / Thriller / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/il2oGfQUJDJONe6iFW8Vo67idwN.jpg",
         "trailer": "https://www.youtube.com/watch?v=SK_DEabMNVg"
     },
     {
         "title": "GOAT : Rêver plus haut",
-        "rating": 7.465,
+        "rating": 7.5,
         "genre": "Animation / Comédie / Famille / Action",
         "poster": "https://image.tmdb.org/t/p/w500/3knwJCqriSz7mTM3vFJUqJOGty1.jpg",
         "trailer": "https://www.youtube.com/watch?v=kmY-rYS7yng"
@@ -71,21 +71,21 @@
     },
     {
         "title": "Marty Supreme",
-        "rating": 7.537,
+        "rating": 7.532,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/bT5Y8w67r7tj3wFiFGvy72V5znJ.jpg",
         "trailer": "https://www.youtube.com/watch?v=s9gSuKaKcqM"
     },
     {
         "title": "“Hurlevent”",
-        "rating": 6.535,
+        "rating": 6.534,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/a1uxygM9e2lT5Q8x6fQFQfBJKUh.jpg",
         "trailer": "https://www.youtube.com/watch?v=3fLCdIYShEQ"
     },
     {
         "title": "Scream 7",
-        "rating": 6.177,
+        "rating": 5.767,
         "genre": "Horreur / Mystère / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/5LjnIdBqsGKftMuFmDQytkTeNOG.jpg",
         "trailer": "https://www.youtube.com/watch?v=4g8OciWNJn4"
@@ -99,7 +99,7 @@
     },
     {
         "title": "Die My Love",
-        "rating": 6.142,
+        "rating": 6.139,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/tQk0zn7UirjbB3vh1B65WWKHd9Z.jpg",
         "trailer": "https://www.youtube.com/watch?v=2jzXHW6Qe70"
@@ -120,7 +120,7 @@
     },
     {
         "title": "Pillion",
-        "rating": 6.091,
+        "rating": 6.1,
         "genre": "Romance / Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/y92sV0uJiBp7RR02R7yfi6jIyvP.jpg",
         "trailer": "https://www.youtube.com/watch?v=Gl8n5I-IIHU"
