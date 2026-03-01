@@ -1,14 +1,14 @@
 [
     {
         "title": "Hamnet",
-        "rating": 7.7,
+        "rating": 7.74,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/4mi0UFdr40vUIbiWSj2wuZDTNvB.jpg",
         "trailer": "https://www.youtube.com/watch?v=xYcgQMxQwmk"
     },
     {
         "title": "Primate",
-        "rating": 6.6,
+        "rating": 6.575,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/seHZ5tcGX08Bprm3qvwzFwSd39r.jpg",
         "trailer": "https://www.youtube.com/watch?v=wo87F-va410"
@@ -29,28 +29,28 @@
     },
     {
         "title": "Rental Family",
-        "rating": 7.814,
+        "rating": 7.8,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/7y4MMgdikoGMvQX8oEJNKMASUWr.jpg",
         "trailer": "https://www.youtube.com/watch?v=dWSSjaIGdDI"
     },
     {
         "title": "Retour à Silent Hill",
-        "rating": 5.068,
+        "rating": 5.1,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/n34IL1CF1A5i95pTYI3vtXeaBsg.jpg",
         "trailer": "https://www.youtube.com/watch?v=z10cMFhKbW8"
     },
     {
         "title": "Send Help",
-        "rating": 7.084,
+        "rating": 7.063,
         "genre": "Horreur / Thriller / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/74VMvWDNxQopExKmFJ7TpFUtlbt.jpg",
         "trailer": "https://www.youtube.com/watch?v=cOmnmFz_Uzs"
     },
     {
         "title": "Aucun autre choix",
-        "rating": 7.566,
+        "rating": 7.567,
         "genre": "Crime / Thriller / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/il2oGfQUJDJONe6iFW8Vo67idwN.jpg",
         "trailer": "https://www.youtube.com/watch?v=SK_DEabMNVg"
@@ -64,28 +64,28 @@
     },
     {
         "title": "Cold Storage",
-        "rating": 6.222,
+        "rating": 6.237,
         "genre": "Comédie / Horreur / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/bUY4d5M2YXhiBVcRZNbGVeVi5on.jpg",
         "trailer": "https://www.youtube.com/watch?v=kea7gnh1uYA"
     },
     {
         "title": "Marty Supreme",
-        "rating": 7.532,
+        "rating": 7.5,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/bT5Y8w67r7tj3wFiFGvy72V5znJ.jpg",
         "trailer": "https://www.youtube.com/watch?v=s9gSuKaKcqM"
     },
     {
         "title": "“Hurlevent”",
-        "rating": 6.534,
+        "rating": 6.514,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/a1uxygM9e2lT5Q8x6fQFQfBJKUh.jpg",
         "trailer": "https://www.youtube.com/watch?v=3fLCdIYShEQ"
     },
     {
         "title": "Scream 7",
-        "rating": 5.767,
+        "rating": 5.835,
         "genre": "Horreur / Mystère / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/5LjnIdBqsGKftMuFmDQytkTeNOG.jpg",
         "trailer": "https://www.youtube.com/watch?v=4g8OciWNJn4"
@@ -99,14 +99,14 @@
     },
     {
         "title": "Die My Love",
-        "rating": 6.139,
+        "rating": 6.136,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/tQk0zn7UirjbB3vh1B65WWKHd9Z.jpg",
         "trailer": "https://www.youtube.com/watch?v=2jzXHW6Qe70"
     },
     {
         "title": "Jumpers",
-        "rating": 8,
+        "rating": 7.1,
         "genre": "Animation / Famille / Comédie / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/hcAeNk3tTXHACdmYBW9W7Jq55uW.jpg",
         "trailer": "https://www.youtube.com/watch?v=PypDSyIRRSs"
@@ -120,23 +120,23 @@
     },
     {
         "title": "Pillion",
-        "rating": 6.1,
+        "rating": 6.09,
         "genre": "Romance / Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/y92sV0uJiBp7RR02R7yfi6jIyvP.jpg",
         "trailer": "https://www.youtube.com/watch?v=Gl8n5I-IIHU"
     },
     {
-        "title": "Anemone",
-        "rating": 6.1,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/gkH89okkrxcxQDVEF0e9aHjzPDa.jpg",
-        "trailer": "https://www.youtube.com/watch?v=uS7DHGFXkNY"
-    },
-    {
         "title": "EPiC: Elvis Presley in Concert",
-        "rating": 8.2,
+        "rating": 8.292,
         "genre": "Musique / Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
         "trailer": "https://www.youtube.com/watch?v=2s_dCvUgOBI"
+    },
+    {
+        "title": "Les dimanches",
+        "rating": 7.336,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/YfD3npxe1VeMlcEUgwcRJ4JL0P.jpg",
+        "trailer": "https://www.youtube.com/watch?v=FRwwy6W2xh8"
     }
 ]
