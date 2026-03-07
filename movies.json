@@ -1,14 +1,14 @@
 [
     {
         "title": "Reconnu coupable",
-        "rating": 7.089,
+        "rating": 7.08,
         "genre": "Science-fiction / Action / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/xPLvEWaLRSorCtcnmHmZiIcANLF.jpg",
         "trailer": "https://www.youtube.com/watch?v=JUADqWkJiiE"
     },
     {
         "title": "Nuremberg",
-        "rating": 7.335,
+        "rating": 7.337,
         "genre": "Histoire / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/6iYLH0TjqCyEkCYadpLUMHr9S8J.jpg",
         "trailer": "https://www.youtube.com/watch?v=YWlCCVnZ4bo"
@@ -22,7 +22,7 @@
     },
     {
         "title": "Retour à Silent Hill",
-        "rating": 5.1,
+        "rating": 5,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/n34IL1CF1A5i95pTYI3vtXeaBsg.jpg",
         "trailer": "https://www.youtube.com/watch?v=z10cMFhKbW8"
@@ -36,107 +36,107 @@
     },
     {
         "title": "Aucun autre choix",
-        "rating": 7.561,
+        "rating": 7.6,
         "genre": "Crime / Thriller / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/il2oGfQUJDJONe6iFW8Vo67idwN.jpg",
         "trailer": "https://www.youtube.com/watch?v=SK_DEabMNVg"
     },
     {
         "title": "GOAT : Rêver plus haut",
-        "rating": 7.477,
+        "rating": 7.517,
         "genre": "Animation / Comédie / Famille / Action",
         "poster": "https://image.tmdb.org/t/p/w500/3knwJCqriSz7mTM3vFJUqJOGty1.jpg",
         "trailer": "https://www.youtube.com/watch?v=kmY-rYS7yng"
     },
     {
         "title": "Cold Storage",
-        "rating": 6.3,
+        "rating": 6.452,
         "genre": "Comédie / Horreur / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/bUY4d5M2YXhiBVcRZNbGVeVi5on.jpg",
         "trailer": "https://www.youtube.com/watch?v=kea7gnh1uYA"
     },
     {
         "title": "Marty Supreme",
-        "rating": 7.5,
+        "rating": 7.53,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/bT5Y8w67r7tj3wFiFGvy72V5znJ.jpg",
         "trailer": "https://www.youtube.com/watch?v=s9gSuKaKcqM"
     },
     {
         "title": "“Hurlevent”",
-        "rating": 6.444,
+        "rating": 6.432,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/a1uxygM9e2lT5Q8x6fQFQfBJKUh.jpg",
         "trailer": "https://www.youtube.com/watch?v=3fLCdIYShEQ"
     },
     {
         "title": "Scream 7",
-        "rating": 6.02,
+        "rating": 5.945,
         "genre": "Horreur / Mystère / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/5LjnIdBqsGKftMuFmDQytkTeNOG.jpg",
         "trailer": "https://www.youtube.com/watch?v=4g8OciWNJn4"
     },
     {
         "title": "Iron Lung",
-        "rating": 7.19,
+        "rating": 7.2,
         "genre": "Horreur / Science-fiction / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
         "trailer": "https://www.youtube.com/watch?v=7qRf_f_bbUk"
     },
     {
-        "title": "Die My Love",
-        "rating": 6.124,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/tQk0zn7UirjbB3vh1B65WWKHd9Z.jpg",
-        "trailer": "https://www.youtube.com/watch?v=2jzXHW6Qe70"
-    },
-    {
         "title": "Jumpers",
-        "rating": 7.794,
+        "rating": 7.7,
         "genre": "Animation / Famille / Comédie / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/hcAeNk3tTXHACdmYBW9W7Jq55uW.jpg",
         "trailer": "https://www.youtube.com/watch?v=PypDSyIRRSs"
     },
     {
         "title": "The Bride!",
-        "rating": 7.786,
+        "rating": 6.844,
         "genre": "Science-fiction / Horreur / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/x6XBJG5RGeRqT88BH1HjCVOifkU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QyLhkoGeSl4"
     },
     {
         "title": "Pillion",
-        "rating": 6.142,
+        "rating": 6.17,
         "genre": "Romance / Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/y92sV0uJiBp7RR02R7yfi6jIyvP.jpg",
         "trailer": "https://www.youtube.com/watch?v=Gl8n5I-IIHU"
     },
     {
         "title": "EPiC: Elvis Presley in Concert",
-        "rating": 8.225,
+        "rating": 8.2,
         "genre": "Musique / Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
         "trailer": "https://www.youtube.com/watch?v=2s_dCvUgOBI"
     },
     {
         "title": "Les dimanches",
-        "rating": 7.199,
+        "rating": 7.2,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/YfD3npxe1VeMlcEUgwcRJ4JL0P.jpg",
         "trailer": "https://www.youtube.com/watch?v=FRwwy6W2xh8"
     },
     {
-        "title": "Projet Dernière Chance",
-        "rating": 0,
-        "genre": "Science-fiction / Aventure / Mystère",
-        "poster": "https://image.tmdb.org/t/p/w500/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
-        "trailer": "https://www.youtube.com/watch?v=NKYea63tQmI"
+        "title": "Le Testament d’Ann Lee",
+        "rating": 6.9,
+        "genre": "Drame / Histoire / Musique",
+        "poster": "https://image.tmdb.org/t/p/w500/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg",
+        "trailer": "https://www.youtube.com/watch?v=Rb0ZhiDD9J0"
     },
     {
-        "title": "200% Loup",
-        "rating": 6.479,
-        "genre": "Animation / Aventure / Fantastique / Famille / Action / Comédie",
-        "poster": "https://image.tmdb.org/t/p/w500/bJBv5yq3hFrRcbzYNsEvnF1aoi2.jpg",
-        "trailer": "https://www.youtube.com/watch?v=zB_yZ7_ixiM"
+        "title": "Is This Thing On?",
+        "rating": 6.541,
+        "genre": "Comédie / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/7BTJB1HZXzOmBR20D3Vh0TFnu3R.jpg",
+        "trailer": "https://www.youtube.com/watch?v=x4jx0Xgc_Pc"
+    },
+    {
+        "title": "Christy",
+        "rating": 7.152,
+        "genre": "Histoire / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/e3x0tJ1EfSBsBFGEv2WCKfII4cv.jpg",
+        "trailer": "https://www.youtube.com/watch?v=hSHwFDPfeV8"
     }
 ]
