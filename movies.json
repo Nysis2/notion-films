@@ -1,21 +1,21 @@
 [
     {
         "title": "Reconnu coupable",
-        "rating": 7.08,
+        "rating": 7.07,
         "genre": "Science-fiction / Action / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/xPLvEWaLRSorCtcnmHmZiIcANLF.jpg",
         "trailer": "https://www.youtube.com/watch?v=JUADqWkJiiE"
     },
     {
         "title": "Nuremberg",
-        "rating": 7.337,
+        "rating": 7.3,
         "genre": "Histoire / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/6iYLH0TjqCyEkCYadpLUMHr9S8J.jpg",
         "trailer": "https://www.youtube.com/watch?v=YWlCCVnZ4bo"
     },
     {
         "title": "Rental Family",
-        "rating": 7.8,
+        "rating": 7.78,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/7y4MMgdikoGMvQX8oEJNKMASUWr.jpg",
         "trailer": "https://www.youtube.com/watch?v=dWSSjaIGdDI"
@@ -29,49 +29,49 @@
     },
     {
         "title": "Send Help",
-        "rating": 7.056,
+        "rating": 7.1,
         "genre": "Horreur / Thriller / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/74VMvWDNxQopExKmFJ7TpFUtlbt.jpg",
         "trailer": "https://www.youtube.com/watch?v=cOmnmFz_Uzs"
     },
     {
         "title": "Aucun autre choix",
-        "rating": 7.6,
+        "rating": 7.559,
         "genre": "Crime / Thriller / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/il2oGfQUJDJONe6iFW8Vo67idwN.jpg",
         "trailer": "https://www.youtube.com/watch?v=SK_DEabMNVg"
     },
     {
         "title": "GOAT : Rêver plus haut",
-        "rating": 7.517,
+        "rating": 7.478,
         "genre": "Animation / Comédie / Famille / Action",
         "poster": "https://image.tmdb.org/t/p/w500/3knwJCqriSz7mTM3vFJUqJOGty1.jpg",
         "trailer": "https://www.youtube.com/watch?v=kmY-rYS7yng"
     },
     {
         "title": "Cold Storage",
-        "rating": 6.452,
+        "rating": 6.6,
         "genre": "Comédie / Horreur / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/bUY4d5M2YXhiBVcRZNbGVeVi5on.jpg",
         "trailer": "https://www.youtube.com/watch?v=kea7gnh1uYA"
     },
     {
         "title": "Marty Supreme",
-        "rating": 7.53,
+        "rating": 7.525,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/bT5Y8w67r7tj3wFiFGvy72V5znJ.jpg",
         "trailer": "https://www.youtube.com/watch?v=s9gSuKaKcqM"
     },
     {
         "title": "“Hurlevent”",
-        "rating": 6.432,
+        "rating": 6.41,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/a1uxygM9e2lT5Q8x6fQFQfBJKUh.jpg",
         "trailer": "https://www.youtube.com/watch?v=3fLCdIYShEQ"
     },
     {
         "title": "Scream 7",
-        "rating": 5.945,
+        "rating": 5.992,
         "genre": "Horreur / Mystère / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/5LjnIdBqsGKftMuFmDQytkTeNOG.jpg",
         "trailer": "https://www.youtube.com/watch?v=4g8OciWNJn4"
@@ -85,21 +85,21 @@
     },
     {
         "title": "Jumpers",
-        "rating": 7.7,
+        "rating": 7.677,
         "genre": "Animation / Famille / Comédie / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/hcAeNk3tTXHACdmYBW9W7Jq55uW.jpg",
         "trailer": "https://www.youtube.com/watch?v=PypDSyIRRSs"
     },
     {
         "title": "The Bride!",
-        "rating": 6.844,
+        "rating": 6.689,
         "genre": "Science-fiction / Horreur / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/x6XBJG5RGeRqT88BH1HjCVOifkU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QyLhkoGeSl4"
     },
     {
         "title": "Pillion",
-        "rating": 6.17,
+        "rating": 6.168,
         "genre": "Romance / Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/y92sV0uJiBp7RR02R7yfi6jIyvP.jpg",
         "trailer": "https://www.youtube.com/watch?v=Gl8n5I-IIHU"
@@ -113,30 +113,30 @@
     },
     {
         "title": "Les dimanches",
-        "rating": 7.2,
+        "rating": 7.181,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/YfD3npxe1VeMlcEUgwcRJ4JL0P.jpg",
         "trailer": "https://www.youtube.com/watch?v=FRwwy6W2xh8"
     },
     {
-        "title": "Le Testament d’Ann Lee",
-        "rating": 6.9,
-        "genre": "Drame / Histoire / Musique",
-        "poster": "https://image.tmdb.org/t/p/w500/hBGg3IGRM7LM6ydMmDrl8mEx33Y.jpg",
-        "trailer": "https://www.youtube.com/watch?v=Rb0ZhiDD9J0"
-    },
-    {
         "title": "Is This Thing On?",
-        "rating": 6.541,
+        "rating": 6.532,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/7BTJB1HZXzOmBR20D3Vh0TFnu3R.jpg",
         "trailer": "https://www.youtube.com/watch?v=x4jx0Xgc_Pc"
     },
     {
-        "title": "Christy",
-        "rating": 7.152,
-        "genre": "Histoire / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/e3x0tJ1EfSBsBFGEv2WCKfII4cv.jpg",
-        "trailer": "https://www.youtube.com/watch?v=hSHwFDPfeV8"
+        "title": "Maigret et le mort amoureux",
+        "rating": 6,
+        "genre": "Crime / Mystère",
+        "poster": "https://image.tmdb.org/t/p/w500/t7KsplyJOPYvQitQmgVixVz8vpL.jpg",
+        "trailer": "https://www.youtube.com/watch?v=QdR2xExpvQM"
+    },
+    {
+        "title": "La maison des femmes",
+        "rating": 9.077,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/3blpQb6lMwX3VW4enxNpkX9po1c.jpg",
+        "trailer": null
     }
 ]
