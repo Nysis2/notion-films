@@ -1,28 +1,28 @@
 [
     {
         "title": "Rental Family",
-        "rating": 7.8,
+        "rating": 7.764,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/7y4MMgdikoGMvQX8oEJNKMASUWr.jpg",
         "trailer": "https://www.youtube.com/watch?v=dWSSjaIGdDI"
     },
     {
         "title": "Retour à Silent Hill",
-        "rating": 5,
+        "rating": 5.052,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/n34IL1CF1A5i95pTYI3vtXeaBsg.jpg",
         "trailer": "https://www.youtube.com/watch?v=z10cMFhKbW8"
     },
     {
         "title": "Send Help",
-        "rating": 7.074,
+        "rating": 7.1,
         "genre": "Horreur / Thriller / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/74VMvWDNxQopExKmFJ7TpFUtlbt.jpg",
         "trailer": "https://www.youtube.com/watch?v=cOmnmFz_Uzs"
     },
     {
         "title": "Aucun autre choix",
-        "rating": 7.552,
+        "rating": 7.6,
         "genre": "Crime / Thriller / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/il2oGfQUJDJONe6iFW8Vo67idwN.jpg",
         "trailer": "https://www.youtube.com/watch?v=SK_DEabMNVg"
@@ -36,14 +36,14 @@
     },
     {
         "title": "Cold Storage",
-        "rating": 6.464,
+        "rating": 6.5,
         "genre": "Comédie / Horreur / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/bUY4d5M2YXhiBVcRZNbGVeVi5on.jpg",
         "trailer": "https://www.youtube.com/watch?v=kea7gnh1uYA"
     },
     {
         "title": "Marty Supreme",
-        "rating": 7.506,
+        "rating": 7.5,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/bT5Y8w67r7tj3wFiFGvy72V5znJ.jpg",
         "trailer": "https://www.youtube.com/watch?v=s9gSuKaKcqM"
@@ -57,7 +57,7 @@
     },
     {
         "title": "Scream 7",
-        "rating": 5.955,
+        "rating": 5.922,
         "genre": "Horreur / Mystère / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/5LjnIdBqsGKftMuFmDQytkTeNOG.jpg",
         "trailer": "https://www.youtube.com/watch?v=4g8OciWNJn4"
@@ -71,7 +71,7 @@
     },
     {
         "title": "Jumpers",
-        "rating": 7.723,
+        "rating": 7.742,
         "genre": "Animation / Famille / Comédie / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/hcAeNk3tTXHACdmYBW9W7Jq55uW.jpg",
         "trailer": "https://www.youtube.com/watch?v=PypDSyIRRSs"
@@ -85,24 +85,17 @@
     },
     {
         "title": "Pillion",
-        "rating": 6.223,
+        "rating": 6.224,
         "genre": "Romance / Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/y92sV0uJiBp7RR02R7yfi6jIyvP.jpg",
         "trailer": "https://www.youtube.com/watch?v=Gl8n5I-IIHU"
     },
     {
         "title": "Is This Thing On?",
-        "rating": 6.5,
+        "rating": 6.556,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/7BTJB1HZXzOmBR20D3Vh0TFnu3R.jpg",
         "trailer": "https://www.youtube.com/watch?v=dr14-Ebwcns"
-    },
-    {
-        "title": "Maigret et le mort amoureux",
-        "rating": 6.1,
-        "genre": "Crime / Mystère",
-        "poster": "https://image.tmdb.org/t/p/w500/t7KsplyJOPYvQitQmgVixVz8vpL.jpg",
-        "trailer": "https://www.youtube.com/watch?v=QdR2xExpvQM"
     },
     {
         "title": "Dhurandhar : The Revenge",
@@ -113,30 +106,37 @@
     },
     {
         "title": "Le Sifflet",
-        "rating": 6.1,
+        "rating": 6.135,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg",
         "trailer": "https://www.youtube.com/watch?v=-O5DgGQJeks"
     },
     {
         "title": "Projet dernière chance",
-        "rating": 9.3,
+        "rating": 9.111,
         "genre": "Science-fiction / Aventure / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
         "trailer": "https://www.youtube.com/watch?v=NKYea63tQmI"
     },
     {
         "title": "Reminders of Him",
-        "rating": 7.5,
+        "rating": 8.2,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/94qmYp2SOGk2j5NHfKrYg0Fkqhp.jpg",
         "trailer": "https://www.youtube.com/watch?v=i36Zw32GfRQ"
     },
     {
         "title": "Le Testament d’Ann Lee",
-        "rating": 7.16,
+        "rating": 6.9,
         "genre": "Histoire / Drame / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/aMgibEZnV0LvSfCdi1ow2yVVvbH.jpg",
         "trailer": "https://www.youtube.com/watch?v=Rb0ZhiDD9J0"
+    },
+    {
+        "title": "EPiC: Elvis Presley in Concert",
+        "rating": 8.3,
+        "genre": "Musique / Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
+        "trailer": "https://www.youtube.com/watch?v=2s_dCvUgOBI"
     }
 ]
