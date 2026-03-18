@@ -1,14 +1,14 @@
 [
     {
         "title": "Rental Family",
-        "rating": 7.764,
+        "rating": 7.763,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/7y4MMgdikoGMvQX8oEJNKMASUWr.jpg",
         "trailer": "https://www.youtube.com/watch?v=dWSSjaIGdDI"
     },
     {
         "title": "Retour à Silent Hill",
-        "rating": 5,
+        "rating": 5.041,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/n34IL1CF1A5i95pTYI3vtXeaBsg.jpg",
         "trailer": "https://www.youtube.com/watch?v=z10cMFhKbW8"
@@ -22,14 +22,14 @@
     },
     {
         "title": "Aucun autre choix",
-        "rating": 7.558,
+        "rating": 7.6,
         "genre": "Crime / Thriller / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/il2oGfQUJDJONe6iFW8Vo67idwN.jpg",
         "trailer": "https://www.youtube.com/watch?v=SK_DEabMNVg"
     },
     {
         "title": "GOAT : Rêver plus haut",
-        "rating": 7.582,
+        "rating": 7.6,
         "genre": "Animation / Comédie / Famille / Action",
         "poster": "https://image.tmdb.org/t/p/w500/3knwJCqriSz7mTM3vFJUqJOGty1.jpg",
         "trailer": "https://www.youtube.com/watch?v=kmY-rYS7yng"
@@ -43,14 +43,14 @@
     },
     {
         "title": "Marty Supreme",
-        "rating": 7.464,
+        "rating": 7.467,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/bT5Y8w67r7tj3wFiFGvy72V5znJ.jpg",
         "trailer": "https://www.youtube.com/watch?v=s9gSuKaKcqM"
     },
     {
         "title": "“Hurlevent”",
-        "rating": 6.357,
+        "rating": 6.3,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/a1uxygM9e2lT5Q8x6fQFQfBJKUh.jpg",
         "trailer": "https://www.youtube.com/watch?v=3fLCdIYShEQ"
@@ -71,31 +71,24 @@
     },
     {
         "title": "Jumpers",
-        "rating": 7.718,
+        "rating": 7.723,
         "genre": "Animation / Famille / Comédie / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/hcAeNk3tTXHACdmYBW9W7Jq55uW.jpg",
         "trailer": "https://www.youtube.com/watch?v=PypDSyIRRSs"
     },
     {
         "title": "The Bride!",
-        "rating": 6.274,
+        "rating": 6.257,
         "genre": "Science-fiction / Horreur / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/x6XBJG5RGeRqT88BH1HjCVOifkU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QyLhkoGeSl4"
     },
     {
         "title": "Pillion",
-        "rating": 6.293,
+        "rating": 6.264,
         "genre": "Romance / Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/y92sV0uJiBp7RR02R7yfi6jIyvP.jpg",
         "trailer": "https://www.youtube.com/watch?v=Gl8n5I-IIHU"
-    },
-    {
-        "title": "Is This Thing On?",
-        "rating": 6.6,
-        "genre": "Comédie / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/7BTJB1HZXzOmBR20D3Vh0TFnu3R.jpg",
-        "trailer": "https://www.youtube.com/watch?v=dr14-Ebwcns"
     },
     {
         "title": "Dhurandhar : The Revenge",
@@ -106,14 +99,14 @@
     },
     {
         "title": "Le Sifflet",
-        "rating": 6.128,
+        "rating": 6.106,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg",
         "trailer": "https://www.youtube.com/watch?v=-O5DgGQJeks"
     },
     {
         "title": "Reminders of Him",
-        "rating": 7.6,
+        "rating": 7.653,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/94qmYp2SOGk2j5NHfKrYg0Fkqhp.jpg",
         "trailer": "https://www.youtube.com/watch?v=i36Zw32GfRQ"
@@ -133,10 +126,17 @@
         "trailer": "https://www.youtube.com/watch?v=Rb0ZhiDD9J0"
     },
     {
-        "title": "Anemone",
-        "rating": 6.139,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/gkH89okkrxcxQDVEF0e9aHjzPDa.jpg",
-        "trailer": "https://www.youtube.com/watch?v=uS7DHGFXkNY"
+        "title": "Miss Kobayashi's Dragon Maid : Une dragonne en manque d’amour",
+        "rating": 8.2,
+        "genre": "Animation / Comédie / Fantastique",
+        "poster": "https://image.tmdb.org/t/p/w500/udnoedTfNkI01LEZYmU50HJKy2R.jpg",
+        "trailer": "https://www.youtube.com/watch?v=RgJW1y1_ig0"
+    },
+    {
+        "title": "Projet dernière chance",
+        "rating": 8.4,
+        "genre": "Science-fiction / Aventure / Mystère",
+        "poster": "https://image.tmdb.org/t/p/w500/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
+        "trailer": "https://www.youtube.com/watch?v=NKYea63tQmI"
     }
 ]
