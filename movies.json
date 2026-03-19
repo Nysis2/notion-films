@@ -1,19 +1,5 @@
 [
     {
-        "title": "Rental Family",
-        "rating": 7.763,
-        "genre": "Comédie / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/7y4MMgdikoGMvQX8oEJNKMASUWr.jpg",
-        "trailer": "https://www.youtube.com/watch?v=dWSSjaIGdDI"
-    },
-    {
-        "title": "Retour à Silent Hill",
-        "rating": 5.041,
-        "genre": "Horreur / Mystère",
-        "poster": "https://image.tmdb.org/t/p/w500/n34IL1CF1A5i95pTYI3vtXeaBsg.jpg",
-        "trailer": "https://www.youtube.com/watch?v=z10cMFhKbW8"
-    },
-    {
         "title": "Send Help",
         "rating": 7.1,
         "genre": "Horreur / Thriller / Comédie",
@@ -22,7 +8,7 @@
     },
     {
         "title": "Aucun autre choix",
-        "rating": 7.6,
+        "rating": 7.564,
         "genre": "Crime / Thriller / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/il2oGfQUJDJONe6iFW8Vo67idwN.jpg",
         "trailer": "https://www.youtube.com/watch?v=SK_DEabMNVg"
@@ -36,14 +22,14 @@
     },
     {
         "title": "Cold Storage",
-        "rating": 6.7,
+        "rating": 6.725,
         "genre": "Comédie / Horreur / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/bUY4d5M2YXhiBVcRZNbGVeVi5on.jpg",
         "trailer": "https://www.youtube.com/watch?v=kea7gnh1uYA"
     },
     {
         "title": "Marty Supreme",
-        "rating": 7.467,
+        "rating": 7.469,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/bT5Y8w67r7tj3wFiFGvy72V5znJ.jpg",
         "trailer": "https://www.youtube.com/watch?v=s9gSuKaKcqM"
@@ -57,28 +43,21 @@
     },
     {
         "title": "Scream 7",
-        "rating": 6,
+        "rating": 5.945,
         "genre": "Horreur / Mystère / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/5LjnIdBqsGKftMuFmDQytkTeNOG.jpg",
         "trailer": "https://www.youtube.com/watch?v=4g8OciWNJn4"
     },
     {
-        "title": "Iron Lung",
-        "rating": 7.17,
-        "genre": "Horreur / Science-fiction / Mystère",
-        "poster": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
-        "trailer": "https://www.youtube.com/watch?v=7qRf_f_bbUk"
-    },
-    {
         "title": "Jumpers",
-        "rating": 7.723,
+        "rating": 7.8,
         "genre": "Animation / Famille / Comédie / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/hcAeNk3tTXHACdmYBW9W7Jq55uW.jpg",
         "trailer": "https://www.youtube.com/watch?v=PypDSyIRRSs"
     },
     {
         "title": "The Bride!",
-        "rating": 6.257,
+        "rating": 6.3,
         "genre": "Science-fiction / Horreur / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/x6XBJG5RGeRqT88BH1HjCVOifkU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QyLhkoGeSl4"
@@ -92,51 +71,72 @@
     },
     {
         "title": "Dhurandhar : The Revenge",
-        "rating": 0,
+        "rating": 9,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/iLOIbCjvScH1rrihalSzm4eU8Cu.jpg",
         "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I"
     },
     {
         "title": "Le Sifflet",
-        "rating": 6.106,
+        "rating": 6.103,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg",
         "trailer": "https://www.youtube.com/watch?v=-O5DgGQJeks"
     },
     {
         "title": "Reminders of Him",
-        "rating": 7.653,
+        "rating": 7.2,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/94qmYp2SOGk2j5NHfKrYg0Fkqhp.jpg",
         "trailer": "https://www.youtube.com/watch?v=i36Zw32GfRQ"
     },
     {
-        "title": "EPiC: Elvis Presley in Concert",
-        "rating": 8.2,
-        "genre": "Musique / Documentaire",
-        "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
-        "trailer": "https://www.youtube.com/watch?v=2s_dCvUgOBI"
-    },
-    {
         "title": "Le Testament d'Ann Lee",
-        "rating": 6.7,
+        "rating": 6.712,
         "genre": "Histoire / Drame / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/kVa32BHWeXU52ov8obUUTbt7Ltm.jpg",
         "trailer": "https://www.youtube.com/watch?v=Rb0ZhiDD9J0"
     },
     {
-        "title": "Miss Kobayashi's Dragon Maid : Une dragonne en manque d’amour",
-        "rating": 8.2,
-        "genre": "Animation / Comédie / Fantastique",
-        "poster": "https://image.tmdb.org/t/p/w500/udnoedTfNkI01LEZYmU50HJKy2R.jpg",
-        "trailer": "https://www.youtube.com/watch?v=RgJW1y1_ig0"
-    },
-    {
         "title": "Projet dernière chance",
-        "rating": 8.4,
+        "rating": 8.5,
         "genre": "Science-fiction / Aventure / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
         "trailer": "https://www.youtube.com/watch?v=NKYea63tQmI"
+    },
+    {
+        "title": "David",
+        "rating": 8.032,
+        "genre": "Animation / Famille / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/7lFG1WrCwAxBfyGK8ahlBVzXno7.jpg",
+        "trailer": "https://www.youtube.com/watch?v=gWgyI6_lR0A"
+    },
+    {
+        "title": "L'ultime Héritier",
+        "rating": 6.841,
+        "genre": "Comédie / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/2m5XLGvDFFbdC9A8Tf60aWa9lMS.jpg",
+        "trailer": "https://www.youtube.com/watch?v=B7RslMKZ2Yc"
+    },
+    {
+        "title": "Scarlet et l'éternité",
+        "rating": 6.217,
+        "genre": "Animation / Action / Drame / Science-fiction",
+        "poster": "https://image.tmdb.org/t/p/w500/vWE8uRoaFyhb2Jc5HoV6tr8mvto.jpg",
+        "trailer": "https://www.youtube.com/watch?v=J_jm2YZ8pYU"
+    },
+    {
+        "title": "Terminator 2 : Le Jugement dernier",
+        "rating": 8.1,
+        "genre": "Action / Thriller / Science-fiction",
+        "poster": "https://image.tmdb.org/t/p/w500/mRtFOHF93zW4kTp4JOYrH71vxBh.jpg",
+        "trailer": "https://www.youtube.com/watch?v=CRRlbK5w8AE"
+    },
+    {
+        "title": "They Will Kill You",
+        "rating": 0,
+        "genre": "Action / Comédie / Horreur",
+        "poster": "https://image.tmdb.org/t/p/w500/aerhRS1khx0H5UnC1yjVnMMM4uc.jpg",
+        "trailer": "https://www.youtube.com/watch?v=s0PGrtw0X1Q"
     }
 ]
