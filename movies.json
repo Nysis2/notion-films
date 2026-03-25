@@ -216,6 +216,18 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/nN1dort0lgOTWfnZDh6RfkFPfIT.jpg"
     },
     {
+        "title": "Faim De Vie",
+        "rating": 0,
+        "genre": "Thriller / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/1KsVav276W0Ap6lh6eeYRO3UEey.jpg",
+        "trailer": null,
+        "release_date": "2026-04-01",
+        "overview": "Mathias, du Samu social, s'allie durant une nuit avec deux infirmiers du Samu pour faire face à une vague mystérieuses de SDF victimes de crises cardiaques dans toute la ville...",
+        "tagline": "",
+        "runtime": 20,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/noKiDRRAAYGB0UkHhJJuXIg1LaV.jpg"
+    },
+    {
         "title": "Welcome to Europe",
         "rating": 8,
         "genre": "",
@@ -336,6 +348,18 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/4s8SHiNIA3emqKIfbTquN9N4nAN.jpg"
     },
     {
+        "title": "Plus forts que le diable",
+        "rating": 0,
+        "genre": "Crime / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/5df5bCme6GNouOaK2rga3T7Hfrf.jpg",
+        "trailer": null,
+        "release_date": "2026-03-25",
+        "overview": "Valentin, un homme paumé et fauché, retrouve son fils Joseph après 20 ans d’absence et le précipite, lui et sa femme Alice, dans un chaos total. Avec JP, Mila et Gigi, le diable n’a qu’à bien se tenir…",
+        "tagline": "",
+        "runtime": 84,
+        "backdrop": null
+    },
+    {
         "title": "Le Pouvoir de l'Insignifiant - Psycho affectif : une séparation Schizo Logique",
         "rating": 0,
         "genre": "Documentaire / Famille",
@@ -370,6 +394,18 @@
         "tagline": "",
         "runtime": 86,
         "backdrop": "https://image.tmdb.org/t/p/w1280/xprL040VY3rZYxuanOpJB0gNVx1.jpg"
+    },
+    {
+        "title": "Ce qu'il manque",
+        "rating": 0,
+        "genre": "Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/vjUpZGJZNzCkchL3VE6NzCXq6Sg.jpg",
+        "trailer": null,
+        "release_date": "2026-03-08",
+        "overview": "Ce qu’il manque raconte une histoire qui aurait presque pu exister. C’est le récit d’une rencontre qui fait du bien, mais qui ne va pas là où on l’attend. On y suit un groupe d’amis, des soirées où les lumières sont trop fortes, des métros trop tard, et ces moments où on aimerait être choisie sans avoir à le demander. C’est un film sur les débuts qui s’effritent, sur la complicité, le fait d’apprendre à ne plus attendre, et surtout sur l'importance d'être bien entouré.  Encore merci à toute l'équipe d'avoir bien voulu me faire confiance pour ce projet ambitieux, j'espère qu'il vous plaira :)",
+        "tagline": "",
+        "runtime": 13,
+        "backdrop": null
     },
     {
         "title": "Le Crime du 3e étage",
@@ -552,16 +588,16 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/n7dz2NHNuEvoreUM4qXFR0Yh0pw.jpg"
     },
     {
-        "title": "Liza Liza",
+        "title": "La petite graine",
         "rating": 0,
-        "genre": "",
-        "poster": "https://image.tmdb.org/t/p/w500None",
+        "genre": "Comédie / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/v96beRnso6V6s8CX5JBEMTbxuQo.jpg",
         "trailer": null,
-        "release_date": "2026-02-13",
-        "overview": "Depuis douze ans, Liza, une infirmière timide, prend soin de Marta, la veuve de l’Ambassadeur japonais en Hongrie. Le jour de son trentième anniversaire, Liza va au Mc Donald’s dans l’espoir d’y rencontrer quelqu’un. Pendant sa brève absence, Marta est assassinée par feu Toni Tani, l’ami imaginaire de Liza, chanteur japonais de pop des années 70. La famille de Marta dénonce Liza à la police, l’accusant d’avoir assassiné Marta pour hériter de son appartement.",
+        "release_date": "2026-04-01",
+        "overview": "Denis et Céline rêvent d’avoir un enfant. Après des années d’inséminations artificielles infructueuses, ils se lancent dans le plan de la dernière chance : demander à Piche, une vieille connaissance de lycée dont Denis était le souffre-douleur, de leur donner son sperme. Pourquoi lui ? Parce qu’il est le seul à avoir déjà mis Céline enceinte… A 17 ans, à la soirée d’Eglantine Despontin ! Mais l’irruption de ce célibataire endurci, farouchement anti-mômes, va finalement mettre en péril leur couple.",
         "tagline": "",
-        "runtime": 98,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/3pNf4EyNet3WNHRpxtQrsUlZeEf.jpg"
+        "runtime": 102,
+        "backdrop": null
     },
     {
         "title": "L’Ourse et L’oiseau",
@@ -586,6 +622,18 @@
         "tagline": "",
         "runtime": 85,
         "backdrop": "https://image.tmdb.org/t/p/w1280/72EbdGiivNWuO314j6eE7Lp6MgZ.jpg"
+    },
+    {
+        "title": "Le Petit Frère",
+        "rating": 6.899,
+        "genre": "Comédie / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/wH5VcRHUdR0ZIb938mVEbPzF13c.jpg",
+        "trailer": null,
+        "release_date": "2026-04-01",
+        "overview": "Harold, dernier des trois fils du shérif Hickory, va sauver malgré lui son père, accusé à tort de détournement d’argent, en poursuivant les deux voleurs.",
+        "tagline": "",
+        "runtime": 82,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/kH0q9W1rfj9tce0Y2b2pRz7iEMe.jpg"
     },
     {
         "title": "L’Homme Idéal",
@@ -672,16 +720,16 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/rZTRbUrUTlJe2nmmo7uXpQnZb9B.jpg"
     },
     {
-        "title": "Aurore musicale",
+        "title": "Compostelle",
         "rating": 0,
-        "genre": "",
-        "poster": "https://image.tmdb.org/t/p/w500None",
+        "genre": "Drame / Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/wK8mBBlhckZ5yp6iH0rJK4edyur.jpg",
         "trailer": null,
-        "release_date": "2026-02-13",
-        "overview": "",
-        "tagline": "",
-        "runtime": 50,
-        "backdrop": null
+        "release_date": "2026-04-01",
+        "overview": "Fred et Adam, un adolescent en rupture, ne se connaissent pas. Pourtant, grâce à une association, ils entreprennent ensemble le pèlerinage de Saint-Jacques-de-Compostelle. Elle cherche à apaiser son passé, il tente de canaliser sa colère et son sentiment d’abandon. Au fil des kilomètres, entre affrontements et instants suspendus, un lien fragile se tisse. Face aux épreuves du chemin, chacun découvre en lui une force insoupçonnée.",
+        "tagline": "Marcher pour se sauver.",
+        "runtime": 113,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/lW9uSLT4t7trf1rG0nnOj14AoXT.jpg"
     },
     {
         "title": "Le Fantôme des rocheuses",
@@ -766,6 +814,18 @@
         "tagline": "",
         "runtime": 119,
         "backdrop": "https://image.tmdb.org/t/p/w1280/v9w0xds8GUzOwHTZRuw2yeObRzD.jpg"
+    },
+    {
+        "title": "Holding Liat",
+        "rating": 6.333,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/eqLXeHTCCepLaYSMwOcBpex5FJI.jpg",
+        "trailer": "https://www.youtube.com/watch?v=kt_xTj352tw",
+        "release_date": "2026-04-01",
+        "overview": "",
+        "tagline": "",
+        "runtime": 97,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/nKrb2Bfh1Wl77ZE1XQwXdhXBgv3.jpg"
     },
     {
         "title": "Atterganger",
@@ -864,6 +924,18 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/1ZQFukYbuuyYzefDJd55f6Hy7jd.jpg"
     },
     {
+        "title": "Pour Klára",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/zOsThDt7K8TjMHF30Woea68nVIU.jpg",
+        "trailer": null,
+        "release_date": "2026-04-01",
+        "overview": "David emmène ses deux enfants en vacances sur l'Adriatique, espérant ainsi préserver les liens familiaux. Sa fille de 17 ans, Klára, qui souffre de troubles alimentaires, tombe amoureuse d'un jeune garçon du coin, Denis. Accusé de meurtre, David ramène aussitôt les enfants à la maison. La maladie de Klára s'aggrave et elle est hospitalisée. La seule chose qui unit les parents est la nécessité de sauver Klára, et dans les moments désespérés, les mesures les plus désespérées sont nécessaires.",
+        "tagline": "",
+        "runtime": 110,
+        "backdrop": null
+    },
+    {
         "title": "Slighean Samhach",
         "rating": 0,
         "genre": "Documentaire",
@@ -873,6 +945,30 @@
         "overview": "Quelle place les jeunes donnent t’iels à la marche dans notre société actuelle ? Qu’est ce que cela implique de se lancer dans une randonnée de plusieurs jours ? À travers les témoignages de 4 étudiant·es et l’expertise de Claire Millon et Aurélien Bigo, vivez cette aventure en suivant les pas de cette jeune équipe lors d'un périple sur la West Highland Way.",
         "tagline": "Une ôde à la marche",
         "runtime": 59,
+        "backdrop": null
+    },
+    {
+        "title": "Vive le sport !",
+        "rating": 6.964,
+        "genre": "Comédie / Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/ywFXfsjC2XIYUMp5jiiaIjCsuLs.jpg",
+        "trailer": "https://www.youtube.com/watch?v=1ntrhlDr8MU",
+        "release_date": "2026-04-01",
+        "overview": "Harold Lamb est la risée du collège. Une victoire inattendue au match de foot va lui permettre de changer sa réputation.",
+        "tagline": "",
+        "runtime": 76,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/kKRDECULj8d81IAshuJ8k04B53Y.jpg"
+    },
+    {
+        "title": "07.04.2015",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500/ceHK5OWinmB6YgBFnarSgs3ZXte.jpg",
+        "trailer": null,
+        "release_date": "2026-03-31",
+        "overview": "",
+        "tagline": "",
+        "runtime": 3,
         "backdrop": null
     },
     {
@@ -996,6 +1092,18 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/6XzyOYXu5flHzOgCBHcfPY2DLEG.jpg"
     },
     {
+        "title": "Nuestra tierra",
+        "rating": 7,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/2HeoEQUtoQNiDj0pXVuYjCnZYTj.jpg",
+        "trailer": "https://www.youtube.com/watch?v=yPQRXpzx55o",
+        "release_date": "2026-04-01",
+        "overview": "Argentine, 2009. Trois hommes blancs tentent d'expulser les membres de la communauté autochtone de Chuschagasta, revendiquant la propriété des terres. Armés, ils tuent le chef de la communauté, Javier Chocobar. Le meurtre est filmé, et en 2018, après neuf ans d’impunité et des siècles d’histoire coloniale, le procès s’ouvre.",
+        "tagline": "",
+        "runtime": 119,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/t4PVpbHAmJ6pA8Ff5JWSHFSBebX.jpg"
+    },
+    {
         "title": "La Famille Homolka",
         "rating": 6.391,
         "genre": "Comédie",
@@ -1030,6 +1138,18 @@
         "tagline": "En famille, on partage tout. Ou presque...",
         "runtime": 86,
         "backdrop": "https://image.tmdb.org/t/p/w1280/PWaFVd9BeTKBfEwvdBIgmoihKF.jpg"
+    },
+    {
+        "title": "Fantastique",
+        "rating": 3.5,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/9is4Cw24R9Hz77szyKQM1uJ7fwx.jpg",
+        "trailer": null,
+        "release_date": "2026-03-04",
+        "overview": "Fanta, une contorsionniste de 14 ans, vit à Conakry, en Guinée. À force de jongler quotidiennement entre l’école, le soutien à sa famille et ses entraînements au sein de la troupe où elle est l’une des rares filles, Fanta commence à douter de son rêve le plus cher : participer à la prochaine grande tournée du cirque acrobatique Amoukanama.",
+        "tagline": "",
+        "runtime": 71,
+        "backdrop": null
     },
     {
         "title": "Kiss of the Spider Woman",
@@ -1092,6 +1212,18 @@
         "backdrop": null
     },
     {
+        "title": "Broadcasting Club",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": null,
+        "release_date": "2026-03-19",
+        "overview": "L'émission de radio quotidienne du lycée est fortement perturbée par l'arrivée d'un visteur inattendu",
+        "tagline": "Fiction",
+        "runtime": 31,
+        "backdrop": null
+    },
+    {
         "title": "Little Trouble Girls",
         "rating": 6.821,
         "genre": "Drame / Romance",
@@ -1126,6 +1258,18 @@
         "tagline": "",
         "runtime": 106,
         "backdrop": "https://image.tmdb.org/t/p/w1280/bQInJ4d9ajaPGHGpEL5RPpmbE0p.jpg"
+    },
+    {
+        "title": "Digérez !",
+        "rating": 0,
+        "genre": "Drame / Fantastique",
+        "poster": "https://image.tmdb.org/t/p/w500/gxyDfGJbuh53osuEdSceTfGXCZl.jpg",
+        "trailer": null,
+        "release_date": "2026-04-01",
+        "overview": "Olive, dix ans, découvre des marques étranges apparaître sur son corps à la veille de son spectacle de danse.",
+        "tagline": "",
+        "runtime": 8,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/pm3QYkuZn99w5lvlUGBDQkPHWyW.jpg"
     },
     {
         "title": "La maison des femmes",
@@ -1186,6 +1330,18 @@
         "tagline": "Hervé et le champignion Magique",
         "runtime": 1,
         "backdrop": "https://image.tmdb.org/t/p/w1280/yl1c33mMMfC4F9qE7HmMA0XYGOn.jpg"
+    },
+    {
+        "title": "Mauvaise Pioche",
+        "rating": 0,
+        "genre": "Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/bLKDM4BEowhzck0Bdhy2hbMDecp.jpg",
+        "trailer": null,
+        "release_date": "2026-04-01",
+        "overview": "Arrêté par erreur et confondu avec l’homme le plus recherché de France, Serge Martin, paisible retraité, devient la cible des médias. Pris dans un tourbillon sans fin, il va tout tenter pour prouver son innocence et retrouver sa vie... si c’est encore possible !",
+        "tagline": "C'est lui l'homme le plus recherché de France ?",
+        "runtime": 0,
+        "backdrop": null
     },
     {
         "title": "Dolly",
@@ -1320,6 +1476,18 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/gRMJQCyl6T2kFJlqRm3Gpo6HP0i.jpg"
     },
     {
+        "title": "La Parole d'Orphée",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/2CfpT6B9TzzLSZTzZdVYgfa3lVi.jpg",
+        "trailer": null,
+        "release_date": "2026-02-18",
+        "overview": "La Parole d’Orphée est le film des répétitions entre trois danseurs : Dominique Mercy, Naomi Brito et Pau Aran Gimeno, qui partagent l’apprentissage d’une danse remarquable. Cette double distribution, nécessaire aux représentations, permet d’explorer la transmission du mouvement et de l’interprétation. Le film suit la reprise du spectacle dans les trois lieux emblématiques du Tanztheater : le Lichtburg (ancien cinéma), le Schauspielhaus (théâtre) et l’Opernhaus (opéra). C’est aussi le portrait d’un danseur, Dominique Mercy, aujourd’hui retraité, qui a contribué à inventer le Tanztheater et qui retrouve ici le chemin du studio.",
+        "tagline": "",
+        "runtime": 99,
+        "backdrop": null
+    },
+    {
         "title": "L'Odyssée (ou l'étonnante épopée d'un jouet)",
         "rating": 0,
         "genre": "",
@@ -1366,6 +1534,18 @@
         "tagline": "",
         "runtime": 75,
         "backdrop": "https://image.tmdb.org/t/p/w1280/pTjZUacy0dn8narfoQ0zY7bGdnp.jpg"
+    },
+    {
+        "title": "Finir en eau de boudin",
+        "rating": 0,
+        "genre": "Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/uzfLHaD0QW6BSsS9QBZwcdBmZVZ.jpg",
+        "trailer": null,
+        "release_date": "2026-03-22",
+        "overview": "Blaise, un jeune boucher désabusé, voit son quotidien basculer lorsqu’une apparition divine lui offre de réaliser ses trois premiers vœux. Grisé par la promesse d’une vie meilleure, il se précipite et enchaîne les maladresses : la magie dérape…  Qui donc est capable de bien user des dons que le ciel nous as fait ?",
+        "tagline": "",
+        "runtime": 14,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/kXxTq7rI7J7GUDuyaQwSyNaifPz.jpg"
     },
     {
         "title": "L'Homme au parapluie",
@@ -1452,6 +1632,18 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/5z75Q6nqgwgYfpMB9fVHQcw9gMz.jpg"
     },
     {
+        "title": "Assassination Classroom the Movie : Our Time",
+        "rating": 0,
+        "genre": "Animation / Comédie / Action / Science-fiction",
+        "poster": "https://image.tmdb.org/t/p/w500/jPCJ3drhhxcfJrLIZv3vucUGRBS.jpg",
+        "trailer": "https://www.youtube.com/watch?v=DzyXvNclj6c",
+        "release_date": "2026-03-28",
+        "overview": "",
+        "tagline": "",
+        "runtime": 87,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/oP3Gj7nihYsu9i4JyPVMRLR7xBP.jpg"
+    },
+    {
         "title": "Reflection of a Forest",
         "rating": 0,
         "genre": "",
@@ -1488,16 +1680,16 @@
         "backdrop": null
     },
     {
-        "title": "Silence Complice",
-        "rating": 10,
-        "genre": "Thriller / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/iwH4yjkJ7LS3FeRFwCzaTFULIwz.jpg",
+        "title": "Notre Enfance",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/q8SHCSPI4qyvPJvDNoTRteKGKi6.jpg",
         "trailer": null,
-        "release_date": "2026-02-16",
-        "overview": "Une soirée animée entre amis s'interrompt lorsque Bran se retrouve enfermé dans les toilettes d'un bar. Ce semble n'être qu'une mauvaise blague qui finit par tourner au cauchemar sous un silence qui cache une étrange machination.",
-        "tagline": "Silence Complice",
-        "runtime": 10,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/hl5BJiPErJhkNtiWN9OiPD0uJ5F.jpg"
+        "release_date": "2026-04-01",
+        "overview": "Durant deux semaines, une vingtaine de jeunes musiciens des quartiers nords de Marseille viennent s'entrainer tout les jours pour répéter trois morceaux de musique de Jazz.",
+        "tagline": "Tout nos souvenirs de notre enfance...",
+        "runtime": 19,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sejl4AJetHttGFsV7yHTza430Ef.jpg"
     },
     {
         "title": "Deux femmes et quelques hommes",
@@ -1572,6 +1764,30 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/hPJwUPclBbUwpUfKY8R9fAN1lj5.jpg"
     },
     {
+        "title": "Projecteur",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/l2EBwvU8gBa0cLximY5jEvjd8KZ.jpg",
+        "trailer": null,
+        "release_date": "2026-02-20",
+        "overview": "Une troupe de théâtre répète le jour de leur représentation, néanmoins un acteur manque a l'appel. C'est a travers la recherche de ce comédien que les vrais sentiments de cette troupe explosent.",
+        "tagline": "",
+        "runtime": 6,
+        "backdrop": null
+    },
+    {
+        "title": "En vitesse",
+        "rating": 7.3,
+        "genre": "Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/zWhWaWCCIsnQDsFTAe98ap3R5y.jpg",
+        "trailer": "https://www.youtube.com/watch?v=a-oh8XH5V48",
+        "release_date": "2026-04-01",
+        "overview": "Harold Swift, que tout le monde appelle « Speedy », est amoureux de la petite-fille du vieux Pop Dilon, propriétaire du dernier tramway à cheval de la ville. Harold n'a qu'un seul défaut aux yeux de Jane : sa passion dévorante pour le base-ball, qui lui fait perdre tous les jobs qu'il trouve. Ayant appris que la petite entreprise de Pop est menacée par les magouilles d'une grosse compagnie, Speedy entreprend de la sauver avec l'aide des habitants du quartier…",
+        "tagline": "",
+        "runtime": 86,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6NfwgI1eKHfprTv1nMqVUVi0Otq.jpg"
+    },
+    {
         "title": "La Danse des renards",
         "rating": 6.5,
         "genre": "Drame",
@@ -1582,6 +1798,18 @@
         "tagline": "",
         "runtime": 92,
         "backdrop": "https://image.tmdb.org/t/p/w1280/lCzWYwmeIjh4HHOMz2hQ8esEWV5.jpg"
+    },
+    {
+        "title": "Bring Me the Horizon: L.I.V.E. in São Paulo (Live Immersive Virtual Experiment)",
+        "rating": 0,
+        "genre": "Musique / Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/bAZIUDMA2Oqw5gD6pF1N4l4MHKT.jpg",
+        "trailer": "https://www.youtube.com/watch?v=EpeEql6BT6U",
+        "release_date": "2026-03-30",
+        "overview": "Bring Me The Horizon : L.I.V.E. à São Paulo immortalise le plus grand concert du groupe à ce jour considéré comme leur meilleure performance. Le film élargit l'univers visuel de POST HUMAN, mêlant production cinématographique, perspectives des fans et apparitions de personnages tels que E.V.E, Selene et M8. Grâce à des prises de vues multi-caméras, des images de drones et des séquences filmées par les fans, il offre une expérience immersive et multi-angles qui reflète l'énergie de la soirée. La performance couvre toute l'évolution du catalogue de BMTH, de Sempiternal et That’s the Spirit jusqu'à amo et la série POST HUMAN. L.I.V.E. à São Paulo capture bien plus qu'une performance : c'est un véritable moment d'histoire de la musique.",
+        "tagline": "",
+        "runtime": 103,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/DNbBOXZX78rCTHyAJaILCSkKgk.jpg"
     },
     {
         "title": "Yaffa Shem-Tov",
@@ -1606,6 +1834,18 @@
         "tagline": "",
         "runtime": 90,
         "backdrop": "https://image.tmdb.org/t/p/w1280/8cJ6U7wmfr1jrU9s1sgrIbB6OYy.jpg"
+    },
+    {
+        "title": "Hélène Trésore Transnationale",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/eCkIobO82723BJ869ruMygqooHh.jpg",
+        "trailer": null,
+        "release_date": "2026-04-01",
+        "overview": "En s’adressant directement, et intimement, à Hélène Hazera, la cinéaste Judith Abitbol réalise le portrait d’une figure importante des contre-cultures de la fin des années 60-90, en France. Membre des Gazolines, membre du F.H.A.R. (Front Homosexuel d’Action Révolutionnaire), activiste LGBTQ infatigable, Hélène Hazera a créé la commission Trans et SIDA au sein d’Act Up, une de ses grandes fiertés. Sa vraie revanche sur une vie qui a démarré dans des années où le désir et la nécessité de changer de genre n’avaient rien d’évident, fut de devenir la première journaliste transgenre d’un grand quotidien national, Libération, productrice à Radio France et à France TV.",
+        "tagline": "",
+        "runtime": 94,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3xFyADJOPSKTCWVPQ90HPu4dfXc.jpg"
     },
     {
         "title": "Un été à la ferme - L'âge d'or",
@@ -1644,16 +1884,16 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/hkEghiTQ62T2DmvuHiCLm2nfTGE.jpg"
     },
     {
-        "title": "Purgatory for Epiphanea",
+        "title": "Quand la nuit tombe",
         "rating": 0,
-        "genre": "Horreur / Mystère",
-        "poster": "https://image.tmdb.org/t/p/w500/pRfqe63l4H6nETs1d5i4FS1To0z.jpg",
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/Uj43eZB3bbhlpNRvTczE2Rfp0p.jpg",
         "trailer": null,
-        "release_date": "2026-02-16",
-        "overview": "Une femme du nom d’Epiphanea est malencontreusement tombée enceinte d’un inconnu, elle redoute les réactions de ses parents et surtout d’une rupture familiale définitive",
-        "tagline": "Dans l’attente du pire",
-        "runtime": 30,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/oDt8HTdUx62LtHXQDX12ZsR5EZm.jpg"
+        "release_date": "2026-04-01",
+        "overview": "Iris, 15 ans, se retrouve seule chez elle un soir quand Romain, son petit copain, vient lui rendre une visite surprise.  Ce qui semblait alors devenir une soirée tendre et romantique va se révéler être tout l'inverse…",
+        "tagline": "",
+        "runtime": 23,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/qrXwY4NZ8emH2KjHmTzMAFNeDu6.jpg"
     },
     {
         "title": "La Femme cachée",
@@ -1692,6 +1932,30 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/nBKrBDxNx10SuAKPLRtBXoRku5y.jpg"
     },
     {
+        "title": "C'est ici que l'on meurt",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500/7sO74IGPtuJoRPoxZZD0Z0SQGV6.jpg",
+        "trailer": null,
+        "release_date": "2026-03-01",
+        "overview": "Philippe, un vieux peintre parisien se retire à la campagne chez son défunt père pour le retrouver et passer le temps, là où il y en a.",
+        "tagline": "C'est ici que l'on meurt",
+        "runtime": 22,
+        "backdrop": null
+    },
+    {
+        "title": "Droits dans leurs bottes",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": null,
+        "release_date": "2026-03-25",
+        "overview": "Ce récit croise les portraits de jeunes paysannes et paysans d’aujourd’hui avec celui de Jocelyne Porcher, ancienne éleveuse devenue chercheuse. Loin des modèles intensifs, ces éleveurs de vaches, moutons, chèvres, poules et cochons en plein air, passionnés par leur métier et par leurs bêtes, s’efforcent de préserver leurs convictions et leur mode d’élevage respectueux des animaux, de l’environnement et des consommateurs face aux difficultés du monde agricole. De par son regard de chercheuse, Jocelyne Porcher met en perspective l’histoire de ces fermes avec son expérience et sa sensibilité. Ensemble ils nous interrogent sur le sens d’élever des animaux autrement qu’en système industriel et plus largement sur notre humanité.",
+        "tagline": "",
+        "runtime": 85,
+        "backdrop": null
+    },
+    {
         "title": "Quelque part, nulle part",
         "rating": 0,
         "genre": "",
@@ -1726,6 +1990,18 @@
         "tagline": "",
         "runtime": 119,
         "backdrop": "https://image.tmdb.org/t/p/w1280/sgWDs8ViH0WPSty46TJfgbKREuD.jpg"
+    },
+    {
+        "title": "L’Hôpital des Premiers Jours",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/iGJJoLwOfhf9sKZpNm4Kp1uPL2C.jpg",
+        "trailer": null,
+        "release_date": "2026-04-01",
+        "overview": "L’Hôpital des Premiers Jours est une immersion de cinq mois dans le service de néonatalogie de l’hôpital Robert Debré à Paris. Ce service de réanimation pour les nouveau-nés accueille des grands prématurés, mais aussi des enfants nés à terme avec des malformations ou des complications lors de l’accouchement. Ce film raconte la prise en charge de quelques enfants et de leurs parents, de leur entrée dans le service jusqu’à leur sortie. Il est un hommage à l’engagement des équipes soignantes, à la beauté de l’hôpital public et un cri d’alarme sur les conséquences dramatiques de sa dégradation. Le dévouement des soignants ne suffit pas à pallier la baisse constante des moyens alloués à notre système de santé.",
+        "tagline": "",
+        "runtime": 66,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/wT7gb3AJhPzI8lPcbCVBhzzXD4p.jpg"
     },
     {
         "title": "Saveurs d’Exil",
@@ -1776,6 +2052,18 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/jJ1757F6MCpab42xt4BFRoqxXxD.jpg"
     },
     {
+        "title": "Derrière les palmiers",
+        "rating": 0,
+        "genre": "Drame / Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/3tcZAxoGuexXtbmWmWcsEpqB9kk.jpg",
+        "trailer": null,
+        "release_date": "2026-04-01",
+        "overview": "À Tanger, Mehdi voit sa relation avec Selma bouleversée lorsqu’il rencontre Marie, une riche française dont les parents ont acheté une luxueuse villa dans la kasbah. Attiré par sa vie mondaine, il délaisse Selma, feignant d’ignorer que ses choix le rattraperont.",
+        "tagline": "",
+        "runtime": 94,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/arA4ecprfdAYslXIBheiAOPm8ha.jpg"
+    },
+    {
         "title": "Histoire d'une prostituée",
         "rating": 6.5,
         "genre": "Drame / Romance / Guerre",
@@ -1824,6 +2112,18 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/8x3xDTjVS2hlMmpZeMJEnqFbGDH.jpg"
     },
     {
+        "title": "The Catcher",
+        "rating": 0,
+        "genre": "Drame / Thriller / Mystère",
+        "poster": "https://image.tmdb.org/t/p/w500/lxCDwXCy9v2rHS4tLzMVJ3kqIQM.jpg",
+        "trailer": "https://www.youtube.com/watch?v=kEMOXVxw7Ng",
+        "release_date": "2026-03-31",
+        "overview": "",
+        "tagline": "",
+        "runtime": 29,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/aErhraCnJufHDcrC7hbhRvL3a40.jpg"
+    },
+    {
         "title": "Allo la France",
         "rating": 7,
         "genre": "Documentaire",
@@ -1845,6 +2145,18 @@
         "overview": "La Formule 1, ce n’est pas seulement une course. C’est une histoire qui s’écrit avant même que les voitures ne prennent la piste. Une épopée racontée depuis 2013 et l’arrivée de la F1 sur Canal+ par le service des Bandes Annonces, reconnu de tous.",
         "tagline": "",
         "runtime": 27,
+        "backdrop": null
+    },
+    {
+        "title": "The Garage Stone at the Cinémathèque française",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/zVYFKFl89NtmaiMY7wDkrbFwCwI.jpg",
+        "trailer": null,
+        "release_date": "2026-03-20",
+        "overview": "",
+        "tagline": "",
+        "runtime": 31,
         "backdrop": null
     },
     {
