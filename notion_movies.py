@@ -55,11 +55,25 @@ def get_existing_movies():
             payload = {"start_cursor": data["next_cursor"]} if has_more else {}
 
         else:
-            print("❌ Erreur Notion lors de la récupération :", response.json())
+            print("ERREUR Erreur Notion lors de la récupération :", response.json())
             return {}
 
     return all_movies
 
+
+# 🔹 Récupérer les détails d'un film depuis TMDb
+def get_movie_details(tmdb_id):
+    url = f"https://api.themoviedb.org/3/movie/{tmdb_id}?api_key={TMDB_API_KEY}&language=fr-FR"
+    response = requests.get(url)
+    if response.status_code == 200:
+        data = response.json()
+        return {
+            "overview": data.get("overview", ""),
+            "runtime": data.get("runtime"),
+            "tagline": data.get("tagline", ""),
+            "backdrop": f'https://image.tmdb.org/t/p/w1280{data["backdrop_path"]}' if data.get("backdrop_path") else None,
+        }
+    return {"overview": "", "runtime": None, "tagline": "", "backdrop": None}
 
 # 🔹 Récupérer la bande-annonce d'un film (YouTube)
 def get_trailer(movie_id):
@@ -74,14 +88,25 @@ def get_trailer(movie_id):
 
     return None  # Pas de bande-annonce disponible
 
-# 📽 Récupérer les films en salle depuis TMDb
+# 📽 Récupérer les films en salle depuis TMDb (toutes les pages)
 def get_movies():
-    response = requests.get(TMDB_URL)
-    if response.status_code == 200:
-        return response.json().get("results", [])
-    else:
-        print("Erreur TMDb:", response.json())
-        return []
+    all_movies = []
+    page = 1
+
+    while True:
+        response = requests.get(TMDB_URL + f"&page={page}")
+        if response.status_code != 200:
+            print("Erreur TMDb:", response.json())
+            break
+
+        data = response.json()
+        all_movies.extend(data.get("results", []))
+
+        if page >= data.get("total_pages", 1):
+            break
+        page += 1
+
+    return all_movies
 
 # 🔄 Mettre à jour un film si les données ont changé
 def update_movie_in_notion(movie_id, new_rating, new_trailer):
@@ -96,15 +121,14 @@ def update_movie_in_notion(movie_id, new_rating, new_trailer):
     response = requests.patch(f"https://api.notion.com/v1/pages/{movie_id}", headers=HEADERS_NOTION, json=update_data)
 
     if response.status_code == 200:
-        print(f"🔄 Mis à jour : {movie_id}")
+        print(f"MAJ : {movie_id}")
     else:
-        print("❌ Erreur mise à jour :", response.json())
+        print("ERREUR Erreur mise à jour :", response.json())
 
 # ➕ Ajouter un film dans la base Notion
 def add_movie_to_notion(movie):
     trailer_url = get_trailer(movie["id"])
-
-    # Obtenir la date et l'heure actuelles
+    details = get_movie_details(movie["id"])
     updated_date = datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%S.%fZ')
 
     data = {
@@ -116,6 +140,10 @@ def add_movie_to_notion(movie):
             "Genre": {"rich_text": [{"text": {"content": " / ".join(get_genres(movie["genre_ids"]))}}]},
             "Poster": {"rich_text": [{"text": {"content": f'https://image.tmdb.org/t/p/w500{movie["poster_path"]}'}}]},
             "Trailer": {"url": trailer_url if trailer_url else None},
+            "Overview": {"rich_text": [{"text": {"content": details["overview"][:2000]}}]},
+            "Tagline": {"rich_text": [{"text": {"content": details["tagline"]}}]},
+            "Runtime": {"number": details["runtime"]},
+            "Backdrop": {"rich_text": [{"text": {"content": details["backdrop"] or ""}}]},
             "Updated Date": {"rich_text": [{"text": {"content": updated_date}}]}
         }
     }
@@ -123,9 +151,9 @@ def add_movie_to_notion(movie):
     response = requests.post("https://api.notion.com/v1/pages", headers=HEADERS_NOTION, json=data)
 
     if response.status_code == 200:
-        print(f"✅ Ajouté : {movie['title']}")
+        print(f"OK Ajouté : {movie['title']}")
     else:
-        print("❌ Erreur Notion:", response.json())
+        print("ERREUR Erreur Notion:", response.json())
 
 # 🔄 Convertir les IDs des genres en noms
 def get_genres(genre_ids):
@@ -156,10 +184,10 @@ if __name__ == "__main__":
 
             # Vérification des changements
             if movie["vote_average"] != old_rating or trailer_url != old_trailer:
-                print(f"📝 Mise à jour requise pour {movie['title']}")
+                print(f"UPDATE requis pour {movie['title']}")
                 update_movie_in_notion(movie_id, movie["vote_average"], trailer_url)
             else:
-                print(f"✅ Pas de changement pour {movie['title']}")
+                print(f"OK Pas de changement pour {movie['title']}")
         else:
             add_movie_to_notion(movie)
 
@@ -175,7 +203,7 @@ if __name__ == "__main__":
             json={"archived": True}
         )
         if response.status_code == 200:
-            print(f"🗑️ Archivé dans Notion : {title}")
+            print(f"ARCHIVE : {title}")
         else:
-            print(f"❌ Erreur archivage {title} :", response.json())
+            print(f"ERREUR Erreur archivage {title} :", response.json())
 

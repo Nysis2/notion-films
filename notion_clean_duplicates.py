@@ -38,7 +38,7 @@ def get_movies_from_notion():
             has_more = data.get("has_more", False)
             payload = {"start_cursor": data["next_cursor"]} if has_more else {}
         else:
-            print("❌ Erreur Notion lors de la récupération :", response.json())
+            print("ERREUR Notion lors de la recuperation :", response.json())
             return []
 
     return all_movies
@@ -49,9 +49,9 @@ def delete_movie(movie_id):
     response = requests.patch(url, headers=HEADERS_NOTION, json={"archived": True})
     
     if response.status_code == 200:
-        print(f"🗑 Supprimé : {movie_id}")
+        print(f"SUPPRIME : {movie_id}")
     else:
-        print("❌ Erreur suppression :", response.json())
+        print("ERREUR suppression :", response.json())
 
 def are_titles_similar(title1, title2):
     return SequenceMatcher(None, title1.lower(), title2.lower()).ratio() > 0.8
@@ -74,7 +74,7 @@ def remove_duplicates():
     for movie_id in duplicates:
         delete_movie(movie_id)
     
-    print(f"✅ {len(duplicates)} doublon(s) supprimé(s).")
+    print(f"{len(duplicates)} doublon(s) supprimes.")
 
 # 🚀 Exécuter le script
 if __name__ == "__main__":

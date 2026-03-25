@@ -1,6 +1,7 @@
 import requests
 import os
 import json
+from datetime import datetime, timedelta
 from dotenv import load_dotenv
 
 # Charger les clés API depuis un fichier .env
@@ -18,11 +19,21 @@ HEADERS_NOTION = {
 # 🔹 Fonction pour récupérer les films
 def get_movies_from_notion():
     url = f"https://api.notion.com/v1/databases/{NOTION_DATABASE_ID}/query"
-    response = requests.post(url, headers=HEADERS_NOTION)
+    movies = []
+    next_cursor = None
 
-    if response.status_code == 200:
-        movies = []
-        data = response.json()["results"]
+    while True:
+        body = {"page_size": 100}
+        if next_cursor:
+            body["start_cursor"] = next_cursor
+        response = requests.post(url, headers=HEADERS_NOTION, json=body)
+
+        if response.status_code != 200:
+            print("Erreur API Notion :", response.json())
+            break
+
+        payload = response.json()
+        data = payload["results"]
 
         for entry in data:
             title = entry["properties"]["Title"]["title"][0]["text"]["content"]
@@ -45,22 +56,60 @@ def get_movies_from_notion():
             else:
                 trailer = None
 
+            def rich_text(key):
+                prop = entry["properties"].get(key, {}).get("rich_text", [])
+                return prop[0]["text"]["content"] if prop else ""
+
+            release_date = rich_text("Release Date") or None
+            overview = rich_text("Overview")
+            tagline = rich_text("Tagline")
+            backdrop = rich_text("Backdrop") or None
+            runtime = entry["properties"].get("Runtime", {}).get("number")
+
             movies.append({
                 "title": title,
                 "rating": rating,
                 "genre": genre,
                 "poster": poster,
-                "trailer": trailer
+                "trailer": trailer,
+                "release_date": release_date,
+                "overview": overview,
+                "tagline": tagline,
+                "runtime": runtime,
+                "backdrop": backdrop,
             })
 
-        return movies
-    else:
-        print("Erreur API Notion :", response.json())
-        return []
+        if payload.get("has_more"):
+            next_cursor = payload["next_cursor"]
+        else:
+            break
+
+    return movies
+
+# 🔹 Filtre : films des 6 dernières semaines uniquement
+def is_recent(movie, weeks=6):
+    rd = movie.get("release_date")
+    if not rd:
+        return True  # on garde si pas de date
+    try:
+        release = datetime.strptime(rd, "%Y-%m-%d")
+        return release >= datetime.now() - timedelta(weeks=weeks)
+    except ValueError:
+        return True
 
 # 🔹 Sauvegarde des données en JSON
-movies = get_movies_from_notion()
+all_movies = get_movies_from_notion()
+recent = [m for m in all_movies if is_recent(m)]
+
+# Dédoublonnage par titre (on garde le premier)
+seen = set()
+movies = []
+for m in recent:
+    if m["title"] not in seen:
+        seen.add(m["title"])
+        movies.append(m)
+
+print(f"{len(all_movies)} films recus, {len(recent)} recents, {len(movies)} apres dedoublonnage")
+
 with open("movies.json", "w", encoding="utf-8") as file:
     json.dump(movies, file, indent=4, ensure_ascii=False)
-
-print("✅ Données récupérées et sauvegardées !")
