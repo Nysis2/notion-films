@@ -1,7 +1,7 @@
 [
     {
         "title": "Cold Storage",
-        "rating": 6.747,
+        "rating": 6.8,
         "genre": "Comédie / Horreur / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/bUY4d5M2YXhiBVcRZNbGVeVi5on.jpg",
         "trailer": "https://www.youtube.com/watch?v=kea7gnh1uYA",
@@ -12,20 +12,8 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/puqQGxK9HYITUKhCdREg3XOLlZd.jpg"
     },
     {
-        "title": "Marty Supreme",
-        "rating": 7.453,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/bT5Y8w67r7tj3wFiFGvy72V5znJ.jpg",
-        "trailer": "https://www.youtube.com/watch?v=s9gSuKaKcqM",
-        "release_date": "2026-02-18",
-        "overview": "Marty Mauser, 23 ans, aspire à devenir le meilleur athlète sur la scène mondiale du tennis de table. Le sport est sous-représenté aux États-Unis, ce qui rend difficile le financement de ses compétitions à l'étranger. Il est toutefois prêt à tout pour arriver à ses fins, y compris nouer des liens avec une ancienne actrice et son riche mari entrepreneur. Son entêtement pose un problème pour les personnes de son entourage, qui font souvent les frais de ses choix cavaliers.",
-        "tagline": "Rêve en grand.",
-        "runtime": 150,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/qKWDHofjMHPSEOTLaixkC9ZmjTT.jpg"
-    },
-    {
         "title": "Scream 7",
-        "rating": 5.837,
+        "rating": 5.815,
         "genre": "Horreur / Mystère / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/5LjnIdBqsGKftMuFmDQytkTeNOG.jpg",
         "trailer": "https://www.youtube.com/watch?v=4g8OciWNJn4",
@@ -37,7 +25,7 @@
     },
     {
         "title": "Jumpers",
-        "rating": 7.6,
+        "rating": 7.614,
         "genre": "Animation / Famille / Comédie / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/hcAeNk3tTXHACdmYBW9W7Jq55uW.jpg",
         "trailer": "https://www.youtube.com/watch?v=PypDSyIRRSs",
@@ -49,7 +37,7 @@
     },
     {
         "title": "The Bride!",
-        "rating": 6.278,
+        "rating": 6.283,
         "genre": "Science-fiction / Horreur / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/x6XBJG5RGeRqT88BH1HjCVOifkU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QyLhkoGeSl4",
@@ -61,7 +49,7 @@
     },
     {
         "title": "Dhurandhar : The Revenge",
-        "rating": 7.804,
+        "rating": 7.87,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/iLOIbCjvScH1rrihalSzm4eU8Cu.jpg",
         "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I",
@@ -73,7 +61,7 @@
     },
     {
         "title": "Le Sifflet",
-        "rating": 6.046,
+        "rating": 6.031,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg",
         "trailer": "https://www.youtube.com/watch?v=-O5DgGQJeks",
@@ -85,7 +73,7 @@
     },
     {
         "title": "Reminders of Him",
-        "rating": 7.048,
+        "rating": 7.077,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/94qmYp2SOGk2j5NHfKrYg0Fkqhp.jpg",
         "trailer": "https://www.youtube.com/watch?v=i36Zw32GfRQ",
@@ -97,7 +85,7 @@
     },
     {
         "title": "Le Testament d'Ann Lee",
-        "rating": 6.529,
+        "rating": 6.5,
         "genre": "Histoire / Drame / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/kVa32BHWeXU52ov8obUUTbt7Ltm.jpg",
         "trailer": "https://www.youtube.com/watch?v=Rb0ZhiDD9J0",
@@ -109,7 +97,7 @@
     },
     {
         "title": "Projet dernière chance",
-        "rating": 8.2,
+        "rating": 8.179,
         "genre": "Science-fiction / Aventure / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
         "trailer": "https://www.youtube.com/watch?v=NKYea63tQmI",
@@ -121,7 +109,7 @@
     },
     {
         "title": "David",
-        "rating": 7.986,
+        "rating": 8,
         "genre": "Animation / Famille / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/7lFG1WrCwAxBfyGK8ahlBVzXno7.jpg",
         "trailer": "https://www.youtube.com/watch?v=gWgyI6_lR0A",
@@ -132,20 +120,8 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/oN4TQ1TxchynXlFiXFBL3NHLT54.jpg"
     },
     {
-        "title": "L'ultime Héritier",
-        "rating": 6.8,
-        "genre": "Comédie / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/2m5XLGvDFFbdC9A8Tf60aWa9lMS.jpg",
-        "trailer": "https://www.youtube.com/watch?v=B7RslMKZ2Yc",
-        "release_date": "2026-03-25",
-        "overview": "Becket Redfellow n’a qu’une obsession : se venger de la famille richissime qui a renié sa mère, coupable d’être tombée enceinte trop jeune… et surtout d’un homme beaucoup trop fauché pour eux ! À la mort de sa mère, Becket décide d’exécuter son souhait : récupérer l’héritage qu’il estime lui revenir. Le problème ? Sept membres de la famille se dressent entre lui et cette fortune. Qu’à cela ne tienne : pour mener à bien son projet, Becket est prêt à les éliminer un par un… jusqu’au dernier.",
-        "tagline": "Pour hériter, il faut bien que quelqu'un meure.",
-        "runtime": 105,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/4SKnHRIHv9SpsR1v45T7Los719O.jpg"
-    },
-    {
         "title": "Scarlet et l'éternité",
-        "rating": 6.891,
+        "rating": 6.936,
         "genre": "Animation / Action / Drame / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/vWE8uRoaFyhb2Jc5HoV6tr8mvto.jpg",
         "trailer": "https://www.youtube.com/watch?v=J_jm2YZ8pYU",
@@ -157,7 +133,7 @@
     },
     {
         "title": "They Will Kill You",
-        "rating": 6.688,
+        "rating": 5.75,
         "genre": "Action / Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/aerhRS1khx0H5UnC1yjVnMMM4uc.jpg",
         "trailer": "https://www.youtube.com/watch?v=s0PGrtw0X1Q",
@@ -169,7 +145,7 @@
     },
     {
         "title": "Is This Thing On?",
-        "rating": 6.554,
+        "rating": 6.6,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/yl4Px3QgHIC9IXhvpNUlXBIn5yn.jpg",
         "trailer": "https://www.youtube.com/watch?v=dr14-Ebwcns",
@@ -181,7 +157,7 @@
     },
     {
         "title": "Pillion",
-        "rating": 6.305,
+        "rating": 6.3,
         "genre": "Romance / Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/y92sV0uJiBp7RR02R7yfi6jIyvP.jpg",
         "trailer": "https://www.youtube.com/watch?v=Gl8n5I-IIHU",
@@ -349,7 +325,7 @@
     },
     {
         "title": "Plus forts que le diable",
-        "rating": 0,
+        "rating": 6,
         "genre": "Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/5df5bCme6GNouOaK2rga3T7Hfrf.jpg",
         "trailer": null,
@@ -373,7 +349,7 @@
     },
     {
         "title": "Le Mystérieux regard du flamant rose",
-        "rating": 7.067,
+        "rating": 7.1,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kixHMbUPzTZZYckN8zK97GpOjMY.jpg",
         "trailer": "https://www.youtube.com/watch?v=UscRzx6i53M",
@@ -409,7 +385,7 @@
     },
     {
         "title": "Le Crime du 3e étage",
-        "rating": 6.588,
+        "rating": 6.6,
         "genre": "Comédie / Drame / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/5FHAlQPHFyJEIN1UOxsADog1KUy.jpg",
         "trailer": null,
@@ -421,7 +397,7 @@
     },
     {
         "title": "Le Son des souvenirs",
-        "rating": 6.303,
+        "rating": 6.3,
         "genre": "Drame / Romance / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/fljAPAsvXioFeSU9wuYCk4z4cbE.jpg",
         "trailer": "https://www.youtube.com/watch?v=E2PSkw8BI7k",
@@ -457,7 +433,7 @@
     },
     {
         "title": "La Traque de Meral",
-        "rating": 6.125,
+        "rating": 6.1,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/aQHM3BRiyYt408Lf3vzvhEJdgoe.jpg",
         "trailer": null,
@@ -469,7 +445,7 @@
     },
     {
         "title": "Julian",
-        "rating": 7.333,
+        "rating": 7.3,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/83viwjTeBtJP4KbOmxDCF3Q2cqY.jpg",
         "trailer": "https://www.youtube.com/watch?v=hhyHRQI147E",
@@ -481,7 +457,7 @@
     },
     {
         "title": "The Cruise",
-        "rating": 7.28,
+        "rating": 7.3,
         "genre": "Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/aTPN6ttUQqkqV6ZT762Ihc8hwKi.jpg",
         "trailer": "https://www.youtube.com/watch?v=8HWaHBaqajk",
@@ -517,7 +493,7 @@
     },
     {
         "title": "Police Flash 80",
-        "rating": 7.071,
+        "rating": 7.1,
         "genre": "Comédie / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/2HD9MuSt5Fk6i7uAgI3m75VATjk.jpg",
         "trailer": null,
@@ -529,7 +505,7 @@
     },
     {
         "title": "Orwell: 2+2=5",
-        "rating": 7.167,
+        "rating": 7.2,
         "genre": "Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/tSDjEaCL8HOTtvkTgKcweeN61b3.jpg",
         "trailer": "https://www.youtube.com/watch?v=npwmcJxgLic",
@@ -577,7 +553,7 @@
     },
     {
         "title": "5 centimètres par seconde",
-        "rating": 8.3,
+        "rating": 8.083,
         "genre": "Romance / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/2JuwfUVyC2YTkzDlmSMRjb8egmG.jpg",
         "trailer": "https://www.youtube.com/watch?v=GsL_004_-uY",
@@ -625,7 +601,7 @@
     },
     {
         "title": "Le Petit Frère",
-        "rating": 6.899,
+        "rating": 6.9,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/wH5VcRHUdR0ZIb938mVEbPzF13c.jpg",
         "trailer": null,
@@ -673,7 +649,7 @@
     },
     {
         "title": "La Marque du Tueur",
-        "rating": 7.183,
+        "rating": 7.2,
         "genre": "Thriller / Crime / Action",
         "poster": "https://image.tmdb.org/t/p/w500/z2ItVyXtkx22rGy1kUwklRdBehs.jpg",
         "trailer": "https://www.youtube.com/watch?v=n_-Onsz_YQE",
@@ -745,7 +721,7 @@
     },
     {
         "title": "Christy",
-        "rating": 7.1,
+        "rating": 7.087,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/e3x0tJ1EfSBsBFGEv2WCKfII4cv.jpg",
         "trailer": "https://www.youtube.com/watch?v=hSHwFDPfeV8",
@@ -757,7 +733,7 @@
     },
     {
         "title": "Alter ego",
-        "rating": 6.433,
+        "rating": 6.454,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/xCJPYlQAmXwvP96qFDZAw18oqk6.jpg",
         "trailer": null,
@@ -817,7 +793,7 @@
     },
     {
         "title": "Holding Liat",
-        "rating": 6.333,
+        "rating": 6.3,
         "genre": "Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/eqLXeHTCCepLaYSMwOcBpex5FJI.jpg",
         "trailer": "https://www.youtube.com/watch?v=kt_xTj352tw",
@@ -841,7 +817,7 @@
     },
     {
         "title": "Le rêve américain",
-        "rating": 7.479,
+        "rating": 7.5,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/uXGqYv2cahBG062OQ93oMqWQCs5.jpg",
         "trailer": null,
@@ -949,7 +925,7 @@
     },
     {
         "title": "Vive le sport !",
-        "rating": 6.964,
+        "rating": 7,
         "genre": "Comédie / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/ywFXfsjC2XIYUMp5jiiaIjCsuLs.jpg",
         "trailer": "https://www.youtube.com/watch?v=1ntrhlDr8MU",
@@ -973,7 +949,7 @@
     },
     {
         "title": "Derrière les drapeaux, le soleil",
-        "rating": 0,
+        "rating": 8,
         "genre": "Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/f9PbH0SH8UehyNQbMNwXwYRJMWN.jpg",
         "trailer": "https://www.youtube.com/watch?v=j0S3uehaFRM",
@@ -1105,7 +1081,7 @@
     },
     {
         "title": "La Famille Homolka",
-        "rating": 6.391,
+        "rating": 6.4,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/3YW3Cp3m4EtbwOd0xpE5hV8hgkY.jpg",
         "trailer": null,
@@ -1129,7 +1105,7 @@
     },
     {
         "title": "Chers parents",
-        "rating": 6.886,
+        "rating": 6.9,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/dOTZP3gnMjJHva914Xrzljhyl7c.jpg",
         "trailer": null,
@@ -1225,7 +1201,7 @@
     },
     {
         "title": "Little Trouble Girls",
-        "rating": 6.821,
+        "rating": 6.8,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/b4S00GQaYQm3ThieNImvTMTHnip.jpg",
         "trailer": "https://www.youtube.com/watch?v=Rm9m7u-NsN4",
@@ -1273,7 +1249,7 @@
     },
     {
         "title": "La maison des femmes",
-        "rating": 8.583,
+        "rating": 8.558,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/3blpQb6lMwX3VW4enxNpkX9po1c.jpg",
         "trailer": null,
@@ -1393,7 +1369,7 @@
     },
     {
         "title": "Les rayons et les ombres",
-        "rating": 7.52,
+        "rating": 7.63,
         "genre": "Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/uROOJRTrrkpe7F33Y54OcRXsQOu.jpg",
         "trailer": null,
@@ -1573,7 +1549,7 @@
     },
     {
         "title": "Las corrientes",
-        "rating": 5.75,
+        "rating": 5.8,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/vDyNWGQa0iAhA9EzpFFvaaglZBl.jpg",
         "trailer": "https://www.youtube.com/watch?v=3j62GdBQySM",
@@ -1789,7 +1765,7 @@
     },
     {
         "title": "La Danse des renards",
-        "rating": 6.5,
+        "rating": 7,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/gXW4emlnXhQNsUlJVsnz8mhd3dz.jpg",
         "trailer": "https://www.youtube.com/watch?v=xdSNIPsLoug",
@@ -1825,7 +1801,7 @@
     },
     {
         "title": "ATHOS - Au cœur de la Patrouille de France",
-        "rating": 7.071,
+        "rating": 7.1,
         "genre": "Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/e24dSdxXe5Jyi9iE3TpOb5qzYUw.jpg",
         "trailer": null,
@@ -1909,7 +1885,7 @@
     },
     {
         "title": "Le Vagabond de Tokyo",
-        "rating": 7.088,
+        "rating": 7.1,
         "genre": "Thriller / Crime / Action",
         "poster": "https://image.tmdb.org/t/p/w500/bWl7DyF6mFwfWPyrZAeBHoofGkI.jpg",
         "trailer": "https://www.youtube.com/watch?v=LgXmTOC8Gow",
@@ -2017,7 +1993,7 @@
     },
     {
         "title": "La guerre des prix",
-        "rating": 6.833,
+        "rating": 6.8,
         "genre": "Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/h42PjQnT2xkH6kkLxID2RckLnT1.jpg",
         "trailer": null,
@@ -2041,7 +2017,7 @@
     },
     {
         "title": "Art College 1994",
-        "rating": 6.917,
+        "rating": 6.9,
         "genre": "Animation / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/iHANhUZlvOb2e5fp8vTnPbOd4W6.jpg",
         "trailer": "https://www.youtube.com/watch?v=3DCvvHJVqzc",
@@ -2101,7 +2077,7 @@
     },
     {
         "title": "EPiC: Elvis Presley in Concert",
-        "rating": 8.241,
+        "rating": 8.2,
         "genre": "Musique / Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
         "trailer": "https://www.youtube.com/watch?v=2s_dCvUgOBI",
@@ -2170,5 +2146,89 @@
         "tagline": "",
         "runtime": 116,
         "backdrop": "https://image.tmdb.org/t/p/w1280/81jteI5xIztDCFPhMXBTmT5MdW9.jpg"
+    },
+    {
+        "title": "Marty suprême",
+        "rating": 7.5,
+        "genre": "Drame / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/hjrvtc7UCrnsypfnLJuxx9ODKCi.jpg",
+        "trailer": "https://www.youtube.com/watch?v=s9gSuKaKcqM",
+        "release_date": "2026-02-18",
+        "overview": "Marty Mauser, 23 ans, aspire à devenir le meilleur athlète sur la scène mondiale du tennis de table. Le sport est sous-représenté aux États-Unis, ce qui rend difficile le financement de ses compétitions à l'étranger. Il est toutefois prêt à tout pour arriver à ses fins, y compris nouer des liens avec une ancienne actrice et son riche mari entrepreneur. Son entêtement pose un problème pour les personnes de son entourage, qui font souvent les frais de ses choix cavaliers.",
+        "tagline": "Rêve en grand.",
+        "runtime": 150,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3iMoYSbI72Nwsvi7uSpqReLJVa6.jpg"
+    },
+    {
+        "title": "Plus fort que moi",
+        "rating": 8.366,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/apm7tMSau8qIIdOZiQCw8xse4W1.jpg",
+        "trailer": "https://www.youtube.com/watch?v=7vwC2GKi3iA",
+        "release_date": "2026-04-01",
+        "overview": "L'histoire vraie et le parcours semé d'embûches de John Davidson, un adolescent atteint du syndrome de la Tourette, une maladie encore méconnue dans les années 1980.",
+        "tagline": "Je cligne des yeux. Je tressaute. Je saute. Je clique. Je siffle. Je crie.",
+        "runtime": 121,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/fe6kkxaxn0mCU2gl1vfU44IYWsy.jpg"
+    },
+    {
+        "title": "Le Fleuve de la mort",
+        "rating": 6.4,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/eYnM0UVTGJNfaAOnWuc7DzSAheI.jpg",
+        "trailer": "https://www.youtube.com/watch?v=_Qn51-FRbSU",
+        "release_date": "2026-04-01",
+        "overview": "Les familles Anguiano et Menchaca se livrent une lutte impitoyable depuis des années, endeuillant régulièrement leur village. Pour échapper à cette vendetta infernale, Gerardo est parti vivre en ville où il est devenu médecin. Un jour, on le somme de rentrer au village afin d'affronter le fils rival. Gerardo est alors pris dans un dilemme entre tradition familiale et désir de vivre sa propre vie...",
+        "tagline": "",
+        "runtime": 92,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7ClNA1wPIbRjwtEruh2KD4dtfnv.jpg"
+    },
+    {
+        "title": "Super Mario Galaxy, le film",
+        "rating": 0,
+        "genre": "Famille / Fantastique / Comédie / Aventure / Animation",
+        "poster": "https://image.tmdb.org/t/p/w500/aSQktALDmbunDbwkuZbZFMEWVFr.jpg",
+        "trailer": "https://www.youtube.com/watch?v=En5QZmL5R1s",
+        "release_date": "2026-04-01",
+        "overview": "Au-delà du Royaume Champignon, Mario, Luigi et Yoshi voyagent à travers les galaxies aux côtés de Rosalina pour arrêter Bowser Jr., dont la tentative de sauver son père menace l’équilibre de l’univers.",
+        "tagline": "La galaxie vous attend.",
+        "runtime": 100,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg"
+    },
+    {
+        "title": "L'Ultime Héritier",
+        "rating": 7.046,
+        "genre": "Comédie / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
+        "trailer": "https://www.youtube.com/watch?v=B7RslMKZ2Yc",
+        "release_date": "2026-03-25",
+        "overview": "Becket Redfellow n’a qu’une obsession : se venger de la famille richissime qui a renié sa mère, coupable d’être tombée enceinte trop jeune… et surtout d’un homme beaucoup trop fauché pour eux ! À la mort de sa mère, Becket décide d’exécuter son souhait : récupérer l’héritage qu’il estime lui revenir. Le problème ? Sept membres de la famille se dressent entre lui et cette fortune. Qu’à cela ne tienne : pour mener à bien son projet, Becket est prêt à les éliminer un par un… jusqu’au dernier.",
+        "tagline": "Pour hériter, il faut bien que quelqu'un meure.",
+        "runtime": 105,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/aRR90kdGuJiEOqzhBZ5UML463CF.jpg"
+    },
+    {
+        "title": "The Drama",
+        "rating": 6.5,
+        "genre": "Romance / Comédie / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/g0xtgOtRCsETenxPgxG9WbNHXBR.jpg",
+        "trailer": "https://www.youtube.com/watch?v=0ZDzsH3XGFA",
+        "release_date": "2026-04-01",
+        "overview": "Dans les jours précédant leur mariage, un couple est confronté à une crise lorsque des révélations inattendues font dérailler ce que l'un d'eux pensait savoir de l'autre.",
+        "tagline": "Vous êtes cordialement invités",
+        "runtime": 105,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/rw1WmxUvmbwRsbAX12m6toIg04j.jpg"
+    },
+    {
+        "title": "Iron Lung",
+        "rating": 7.259,
+        "genre": "Horreur / Science-fiction / Mystère",
+        "poster": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
+        "trailer": "https://www.youtube.com/watch?v=7qRf_f_bbUk",
+        "release_date": "2026-02-19",
+        "overview": "Les étoiles ne sont plus. Les planètes ont disparu. Seuls quelques individus subsistent, à bord de stations spatiales ou de vaisseaux errants. Ils ont survécu pour assister à la fin — et lui donner un nom : « Le Rapt silencieux ». Après des années de déclin et d’infrastructures en perdition, l’Iron Consolidation fait une découverte sur une lune désolée, AT-5. Un océan de sang. L’Iron Consolidation lance immédiatement une expédition, avec l’espoir d’y trouver des ressources cruciales. Un sous-marin est construit, et un condamné y est enfermé. En raison de la pression et de la profondeur de l’océan, l’hublot frontal du sous-marin est masqué par un bouclier de métal. S’il s’en sort, il gagnera sa liberté. Sinon, un autre suivra.",
+        "tagline": "",
+        "runtime": 125,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/gqGQ0zADV5FIcgMWtWX8FcGQjFp.jpg"
     }
 ]
