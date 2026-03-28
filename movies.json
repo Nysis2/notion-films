@@ -1,7 +1,7 @@
 [
     {
         "title": "Cold Storage",
-        "rating": 6.735,
+        "rating": 6.718,
         "genre": "Comédie / Horreur / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/bUY4d5M2YXhiBVcRZNbGVeVi5on.jpg",
         "trailer": "https://www.youtube.com/watch?v=kea7gnh1uYA",
@@ -13,7 +13,7 @@
     },
     {
         "title": "Scream 7",
-        "rating": 5.808,
+        "rating": 5.804,
         "genre": "Horreur / Mystère / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/5LjnIdBqsGKftMuFmDQytkTeNOG.jpg",
         "trailer": "https://www.youtube.com/watch?v=4g8OciWNJn4",
@@ -25,7 +25,7 @@
     },
     {
         "title": "Jumpers",
-        "rating": 7.623,
+        "rating": 7.6,
         "genre": "Animation / Famille / Comédie / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/hcAeNk3tTXHACdmYBW9W7Jq55uW.jpg",
         "trailer": "https://www.youtube.com/watch?v=PypDSyIRRSs",
@@ -37,7 +37,7 @@
     },
     {
         "title": "The Bride!",
-        "rating": 6.3,
+        "rating": 6.285,
         "genre": "Science-fiction / Horreur / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/x6XBJG5RGeRqT88BH1HjCVOifkU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QyLhkoGeSl4",
@@ -49,7 +49,7 @@
     },
     {
         "title": "Dhurandhar : The Revenge",
-        "rating": 7.946,
+        "rating": 7.9,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/iLOIbCjvScH1rrihalSzm4eU8Cu.jpg",
         "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I",
@@ -61,7 +61,7 @@
     },
     {
         "title": "Le Sifflet",
-        "rating": 6.003,
+        "rating": 6.034,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg",
         "trailer": "https://www.youtube.com/watch?v=-O5DgGQJeks",
@@ -73,7 +73,7 @@
     },
     {
         "title": "Reminders of Him",
-        "rating": 7.061,
+        "rating": 7.059,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/94qmYp2SOGk2j5NHfKrYg0Fkqhp.jpg",
         "trailer": "https://www.youtube.com/watch?v=i36Zw32GfRQ",
@@ -85,7 +85,7 @@
     },
     {
         "title": "Le Testament d'Ann Lee",
-        "rating": 6.5,
+        "rating": 6.539,
         "genre": "Histoire / Drame / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/kVa32BHWeXU52ov8obUUTbt7Ltm.jpg",
         "trailer": "https://www.youtube.com/watch?v=Rb0ZhiDD9J0",
@@ -97,7 +97,7 @@
     },
     {
         "title": "Projet dernière chance",
-        "rating": 8.2,
+        "rating": 8.171,
         "genre": "Science-fiction / Aventure / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
         "trailer": "https://www.youtube.com/watch?v=NKYea63tQmI",
@@ -109,7 +109,7 @@
     },
     {
         "title": "David",
-        "rating": 8,
+        "rating": 8.022,
         "genre": "Animation / Famille / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/7lFG1WrCwAxBfyGK8ahlBVzXno7.jpg",
         "trailer": "https://www.youtube.com/watch?v=gWgyI6_lR0A",
@@ -121,7 +121,7 @@
     },
     {
         "title": "Scarlet et l'éternité",
-        "rating": 6.9,
+        "rating": 7,
         "genre": "Animation / Action / Drame / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/vWE8uRoaFyhb2Jc5HoV6tr8mvto.jpg",
         "trailer": "https://www.youtube.com/watch?v=J_jm2YZ8pYU",
@@ -133,7 +133,7 @@
     },
     {
         "title": "They Will Kill You",
-        "rating": 6,
+        "rating": 6.514,
         "genre": "Action / Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/aerhRS1khx0H5UnC1yjVnMMM4uc.jpg",
         "trailer": "https://www.youtube.com/watch?v=s0PGrtw0X1Q",
@@ -145,7 +145,7 @@
     },
     {
         "title": "Is This Thing On?",
-        "rating": 6.6,
+        "rating": 6.547,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/yl4Px3QgHIC9IXhvpNUlXBIn5yn.jpg",
         "trailer": "https://www.youtube.com/watch?v=dr14-Ebwcns",
@@ -157,7 +157,7 @@
     },
     {
         "title": "Pillion",
-        "rating": 6.3,
+        "rating": 6.306,
         "genre": "Romance / Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/y92sV0uJiBp7RR02R7yfi6jIyvP.jpg",
         "trailer": "https://www.youtube.com/watch?v=Gl8n5I-IIHU",
@@ -397,7 +397,7 @@
     },
     {
         "title": "Le Son des souvenirs",
-        "rating": 6.3,
+        "rating": 6.315,
         "genre": "Drame / Romance / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/fljAPAsvXioFeSU9wuYCk4z4cbE.jpg",
         "trailer": "https://www.youtube.com/watch?v=E2PSkw8BI7k",
@@ -445,7 +445,7 @@
     },
     {
         "title": "Julian",
-        "rating": 7.3,
+        "rating": 7.25,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/83viwjTeBtJP4KbOmxDCF3Q2cqY.jpg",
         "trailer": "https://www.youtube.com/watch?v=hhyHRQI147E",
@@ -493,7 +493,7 @@
     },
     {
         "title": "Police Flash 80",
-        "rating": 7.1,
+        "rating": 6.722,
         "genre": "Comédie / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/2HD9MuSt5Fk6i7uAgI3m75VATjk.jpg",
         "trailer": null,
@@ -564,18 +564,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/n7dz2NHNuEvoreUM4qXFR0Yh0pw.jpg"
     },
     {
-        "title": "La petite graine",
-        "rating": 0,
-        "genre": "Comédie / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/v96beRnso6V6s8CX5JBEMTbxuQo.jpg",
-        "trailer": null,
-        "release_date": "2026-04-01",
-        "overview": "Denis et Céline rêvent d’avoir un enfant. Après des années d’inséminations artificielles infructueuses, ils se lancent dans le plan de la dernière chance : demander à Piche, une vieille connaissance de lycée dont Denis était le souffre-douleur, de leur donner son sperme. Pourquoi lui ? Parce qu’il est le seul à avoir déjà mis Céline enceinte… A 17 ans, à la soirée d’Eglantine Despontin ! Mais l’irruption de ce célibataire endurci, farouchement anti-mômes, va finalement mettre en péril leur couple.",
-        "tagline": "",
-        "runtime": 102,
-        "backdrop": null
-    },
-    {
         "title": "L’Ourse et L’oiseau",
         "rating": 0,
         "genre": "Animation",
@@ -589,7 +577,7 @@
     },
     {
         "title": "La Couleuvre noire",
-        "rating": 0,
+        "rating": 6,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/l84mzS9pItp1DMAagERGDx5b9A7.jpg",
         "trailer": null,
@@ -649,7 +637,7 @@
     },
     {
         "title": "La Marque du Tueur",
-        "rating": 7.2,
+        "rating": 7.194,
         "genre": "Thriller / Crime / Action",
         "poster": "https://image.tmdb.org/t/p/w500/z2ItVyXtkx22rGy1kUwklRdBehs.jpg",
         "trailer": "https://www.youtube.com/watch?v=n_-Onsz_YQE",
@@ -721,7 +709,7 @@
     },
     {
         "title": "Christy",
-        "rating": 7.087,
+        "rating": 7.094,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/e3x0tJ1EfSBsBFGEv2WCKfII4cv.jpg",
         "trailer": "https://www.youtube.com/watch?v=hSHwFDPfeV8",
@@ -817,7 +805,7 @@
     },
     {
         "title": "Le rêve américain",
-        "rating": 7.5,
+        "rating": 7.493,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/uXGqYv2cahBG062OQ93oMqWQCs5.jpg",
         "trailer": null,
@@ -898,18 +886,6 @@
         "tagline": "",
         "runtime": 77,
         "backdrop": "https://image.tmdb.org/t/p/w1280/1ZQFukYbuuyYzefDJd55f6Hy7jd.jpg"
-    },
-    {
-        "title": "Pour Klára",
-        "rating": 0,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/zOsThDt7K8TjMHF30Woea68nVIU.jpg",
-        "trailer": null,
-        "release_date": "2026-04-01",
-        "overview": "David emmène ses deux enfants en vacances sur l'Adriatique, espérant ainsi préserver les liens familiaux. Sa fille de 17 ans, Klára, qui souffre de troubles alimentaires, tombe amoureuse d'un jeune garçon du coin, Denis. Accusé de meurtre, David ramène aussitôt les enfants à la maison. La maladie de Klára s'aggrave et elle est hospitalisée. La seule chose qui unit les parents est la nécessité de sauver Klára, et dans les moments désespérés, les mesures les plus désespérées sont nécessaires.",
-        "tagline": "",
-        "runtime": 110,
-        "backdrop": null
     },
     {
         "title": "Slighean Samhach",
@@ -1357,7 +1333,7 @@
     },
     {
         "title": "Les rayons et les ombres",
-        "rating": 7.603,
+        "rating": 7.578,
         "genre": "Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/uROOJRTrrkpe7F33Y54OcRXsQOu.jpg",
         "trailer": null,
@@ -1873,7 +1849,7 @@
     },
     {
         "title": "Le Vagabond de Tokyo",
-        "rating": 7.1,
+        "rating": 7.102,
         "genre": "Thriller / Crime / Action",
         "poster": "https://image.tmdb.org/t/p/w500/bWl7DyF6mFwfWPyrZAeBHoofGkI.jpg",
         "trailer": "https://www.youtube.com/watch?v=LgXmTOC8Gow",
@@ -1993,7 +1969,7 @@
     },
     {
         "title": "Un jour avec mon père",
-        "rating": 8.364,
+        "rating": 8.333,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/aLQYyqWlIBBU3L8L84txbh0x1nq.jpg",
         "trailer": "https://www.youtube.com/watch?v=50ICTaEuQxg",
@@ -2125,7 +2101,7 @@
     },
     {
         "title": "Rue Málaga",
-        "rating": 7,
+        "rating": 7.08,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/qvfwPBIL4tGoJM2tzOVvrzmRJFd.jpg",
         "trailer": "https://www.youtube.com/watch?v=FwtLBQpAnk0",
@@ -2137,7 +2113,7 @@
     },
     {
         "title": "Marty suprême",
-        "rating": 7.451,
+        "rating": 7.4,
         "genre": "Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/hjrvtc7UCrnsypfnLJuxx9ODKCi.jpg",
         "trailer": "https://www.youtube.com/watch?v=s9gSuKaKcqM",
@@ -2149,7 +2125,7 @@
     },
     {
         "title": "Plus fort que moi",
-        "rating": 8.364,
+        "rating": 8.4,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/apm7tMSau8qIIdOZiQCw8xse4W1.jpg",
         "trailer": "https://www.youtube.com/watch?v=7vwC2GKi3iA",
@@ -2185,7 +2161,7 @@
     },
     {
         "title": "L'Ultime Héritier",
-        "rating": 7.03,
+        "rating": 6.9,
         "genre": "Comédie / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
         "trailer": "https://www.youtube.com/watch?v=B7RslMKZ2Yc",
@@ -2197,7 +2173,7 @@
     },
     {
         "title": "The Drama",
-        "rating": 6.5,
+        "rating": 6.3,
         "genre": "Romance / Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/g0xtgOtRCsETenxPgxG9WbNHXBR.jpg",
         "trailer": "https://www.youtube.com/watch?v=0ZDzsH3XGFA",
@@ -2242,5 +2218,41 @@
         "tagline": "",
         "runtime": 52,
         "backdrop": "https://image.tmdb.org/t/p/w1280/44l4qmOLd0LkvSukEYMVZazI7rl.jpg"
+    },
+    {
+        "title": "Anemone",
+        "rating": 6.1,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/gkH89okkrxcxQDVEF0e9aHjzPDa.jpg",
+        "trailer": "https://www.youtube.com/watch?v=uS7DHGFXkNY",
+        "release_date": "2026-03-25",
+        "overview": "Des secrets enfouis refont surface quand deux frères éloignés sont contraints d'affronter leur passé, des années après l'exil de l'un d'eux dans les terres sauvages. Avec force et sensibilité, Ronan Day-Lewis signe un premier film intense et envoûtant, un récit visuellement spectaculaire où se mêlent blessures du passé et quête de rédemption.",
+        "tagline": "",
+        "runtime": 121,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/4nExMuYsypZasoX8ri3t0lYLfAF.jpg"
+    },
+    {
+        "title": "Le Retour des fleurs",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500/ovGKIRPlvRQUkn8cYKZ0LTxKFhQ.jpg",
+        "trailer": null,
+        "release_date": "2026-04-01",
+        "overview": "Mars 2026, le printemps commence plus tôt que prévu, annonçant le retour du beau temps et des fleurs.",
+        "tagline": "",
+        "runtime": 14,
+        "backdrop": null
+    },
+    {
+        "title": "Si Vivaient les Ombres",
+        "rating": 0,
+        "genre": "Horreur / Mystère",
+        "poster": "https://image.tmdb.org/t/p/w500/bIByGJNrJwArWt74mI8ieLh3CFW.jpg",
+        "trailer": null,
+        "release_date": "2026-03-25",
+        "overview": "Une influenceuse et son caméraman se lancent dans l'exploration risquée d'un chateau abandonné. Mais l'urbex tourne mal...",
+        "tagline": "Vloguer n'a jamais été aussi risqué",
+        "runtime": 13,
+        "backdrop": null
     }
 ]
