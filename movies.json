@@ -1,7 +1,7 @@
 [
     {
         "title": "Cold Storage",
-        "rating": 6.719,
+        "rating": 6.73,
         "genre": "Comédie / Horreur / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/bUY4d5M2YXhiBVcRZNbGVeVi5on.jpg",
         "trailer": "https://www.youtube.com/watch?v=kea7gnh1uYA",
@@ -13,7 +13,7 @@
     },
     {
         "title": "Scream 7",
-        "rating": 5.766,
+        "rating": 5.782,
         "genre": "Horreur / Mystère / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/5LjnIdBqsGKftMuFmDQytkTeNOG.jpg",
         "trailer": "https://www.youtube.com/watch?v=4g8OciWNJn4",
@@ -25,7 +25,7 @@
     },
     {
         "title": "Jumpers",
-        "rating": 7.567,
+        "rating": 7.6,
         "genre": "Animation / Famille / Comédie / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/hcAeNk3tTXHACdmYBW9W7Jq55uW.jpg",
         "trailer": "https://www.youtube.com/watch?v=PypDSyIRRSs",
@@ -37,7 +37,7 @@
     },
     {
         "title": "The Bride!",
-        "rating": 6.293,
+        "rating": 6.3,
         "genre": "Science-fiction / Horreur / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/x6XBJG5RGeRqT88BH1HjCVOifkU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QyLhkoGeSl4",
@@ -49,7 +49,7 @@
     },
     {
         "title": "Dhurandhar : The Revenge",
-        "rating": 7.9,
+        "rating": 7.382,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/iLOIbCjvScH1rrihalSzm4eU8Cu.jpg",
         "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I",
@@ -61,7 +61,7 @@
     },
     {
         "title": "Le Sifflet",
-        "rating": 5.992,
+        "rating": 6,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg",
         "trailer": "https://www.youtube.com/watch?v=-O5DgGQJeks",
@@ -73,7 +73,7 @@
     },
     {
         "title": "Reminders of Him",
-        "rating": 7.041,
+        "rating": 7.118,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/94qmYp2SOGk2j5NHfKrYg0Fkqhp.jpg",
         "trailer": "https://www.youtube.com/watch?v=i36Zw32GfRQ",
@@ -85,7 +85,7 @@
     },
     {
         "title": "Le Testament d'Ann Lee",
-        "rating": 6.539,
+        "rating": 6.5,
         "genre": "Histoire / Drame / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/kVa32BHWeXU52ov8obUUTbt7Ltm.jpg",
         "trailer": "https://www.youtube.com/watch?v=Rb0ZhiDD9J0",
@@ -97,7 +97,7 @@
     },
     {
         "title": "Projet dernière chance",
-        "rating": 8.155,
+        "rating": 8.169,
         "genre": "Science-fiction / Aventure / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
         "trailer": "https://www.youtube.com/watch?v=NKYea63tQmI",
@@ -109,7 +109,7 @@
     },
     {
         "title": "David",
-        "rating": 8.03,
+        "rating": 8.064,
         "genre": "Animation / Famille / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/7lFG1WrCwAxBfyGK8ahlBVzXno7.jpg",
         "trailer": "https://www.youtube.com/watch?v=gWgyI6_lR0A",
@@ -121,7 +121,7 @@
     },
     {
         "title": "Scarlet et l'éternité",
-        "rating": 7.02,
+        "rating": 7.039,
         "genre": "Animation / Action / Drame / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/vWE8uRoaFyhb2Jc5HoV6tr8mvto.jpg",
         "trailer": "https://www.youtube.com/watch?v=J_jm2YZ8pYU",
@@ -133,7 +133,7 @@
     },
     {
         "title": "They Will Kill You",
-        "rating": 6.658,
+        "rating": 6.602,
         "genre": "Action / Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/aerhRS1khx0H5UnC1yjVnMMM4uc.jpg",
         "trailer": "https://www.youtube.com/watch?v=s0PGrtw0X1Q",
@@ -145,7 +145,7 @@
     },
     {
         "title": "Is This Thing On?",
-        "rating": 6.5,
+        "rating": 6.511,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/yl4Px3QgHIC9IXhvpNUlXBIn5yn.jpg",
         "trailer": "https://www.youtube.com/watch?v=dr14-Ebwcns",
@@ -157,7 +157,7 @@
     },
     {
         "title": "Pillion",
-        "rating": 6.313,
+        "rating": 6.3,
         "genre": "Romance / Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/y92sV0uJiBp7RR02R7yfi6jIyvP.jpg",
         "trailer": "https://www.youtube.com/watch?v=Gl8n5I-IIHU",
@@ -241,7 +241,7 @@
     },
     {
         "title": "Ceux qui comptent",
-        "rating": 6.389,
+        "rating": 6.591,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/gtmENvIUyH4J7x8UcrsdFkmTpJq.jpg",
         "trailer": null,
@@ -385,7 +385,7 @@
     },
     {
         "title": "Le Crime du 3e étage",
-        "rating": 6.526,
+        "rating": 6.55,
         "genre": "Comédie / Drame / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/5FHAlQPHFyJEIN1UOxsADog1KUy.jpg",
         "trailer": null,
@@ -397,7 +397,7 @@
     },
     {
         "title": "Le Son des souvenirs",
-        "rating": 6.315,
+        "rating": 6.3,
         "genre": "Drame / Romance / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/fljAPAsvXioFeSU9wuYCk4z4cbE.jpg",
         "trailer": "https://www.youtube.com/watch?v=E2PSkw8BI7k",
@@ -421,7 +421,7 @@
     },
     {
         "title": "Yellow Letters",
-        "rating": 9.25,
+        "rating": 9.2,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/gNrb0GhhSBDIcWgVsmngO4GlGPM.jpg",
         "trailer": "https://www.youtube.com/watch?v=PSrP-KNXLSc",
@@ -493,7 +493,7 @@
     },
     {
         "title": "Police Flash 80",
-        "rating": 6.857,
+        "rating": 6.867,
         "genre": "Comédie / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/2HD9MuSt5Fk6i7uAgI3m75VATjk.jpg",
         "trailer": null,
@@ -649,7 +649,7 @@
     },
     {
         "title": "LUPIN THE IIIRD: The Movie - La lignée immortelle",
-        "rating": 7.9,
+        "rating": 7.864,
         "genre": "Animation / Action / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/t0RYWEmM73J96wPLFgnX4m09MVA.jpg",
         "trailer": "https://www.youtube.com/watch?v=f3vu4JydRRA",
@@ -709,7 +709,7 @@
     },
     {
         "title": "Christy",
-        "rating": 7.1,
+        "rating": 7.152,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/e3x0tJ1EfSBsBFGEv2WCKfII4cv.jpg",
         "trailer": "https://www.youtube.com/watch?v=hSHwFDPfeV8",
@@ -805,7 +805,7 @@
     },
     {
         "title": "Le rêve américain",
-        "rating": 7.513,
+        "rating": 7.519,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/uXGqYv2cahBG062OQ93oMqWQCs5.jpg",
         "trailer": null,
@@ -901,7 +901,7 @@
     },
     {
         "title": "Vive le sport !",
-        "rating": 7,
+        "rating": 6.972,
         "genre": "Comédie / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/ywFXfsjC2XIYUMp5jiiaIjCsuLs.jpg",
         "trailer": "https://www.youtube.com/watch?v=1ntrhlDr8MU",
@@ -1108,7 +1108,7 @@
         "rating": 5.9,
         "genre": "Romance / Musique / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/c8zDeDq0Uatjly6Fh4ycmWuoLYy.jpg",
-        "trailer": "https://www.youtube.com/watch?v=XoSNPc03sh4",
+        "trailer": "https://www.youtube.com/watch?v=9DoylxHhxr4",
         "release_date": "2026-02-18",
         "overview": "Dans une prison argentine en 1983, sous la dictature militaire, Luis Molina, un coiffeur gay, purge une peine de huit ans de prison pour avoir prétendument corrompu un mineur. Pour échapper aux horreurs de son emprisonnement, Molina imagine des films mettant en vedette une actrice classique du cinéma, Ingrid Luna, notamment le rôle de la femme araignée, qui tue sa proie d'un baiser. La vie de Molina bascule lorsqu'un marxiste, Valentin Arregui Paz, est amené dans sa cellule, et que les deux forment un lien improbable.",
         "tagline": "Il est temps de revenir sur le devant de la scène.",
@@ -1333,7 +1333,7 @@
     },
     {
         "title": "Les rayons et les ombres",
-        "rating": 7.579,
+        "rating": 7.6,
         "genre": "Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/uROOJRTrrkpe7F33Y54OcRXsQOu.jpg",
         "trailer": null,
@@ -1969,7 +1969,7 @@
     },
     {
         "title": "Un jour avec mon père",
-        "rating": 8.2,
+        "rating": 8,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/aLQYyqWlIBBU3L8L84txbh0x1nq.jpg",
         "trailer": "https://www.youtube.com/watch?v=50ICTaEuQxg",
@@ -2005,7 +2005,7 @@
     },
     {
         "title": "Histoire d'une prostituée",
-        "rating": 6.5,
+        "rating": 6.474,
         "genre": "Drame / Romance / Guerre",
         "poster": "https://image.tmdb.org/t/p/w500/ny03pdVnP8O6uFIL9SM7d7aSezG.jpg",
         "trailer": "https://www.youtube.com/watch?v=ehfqm4xuVjU",
@@ -2041,7 +2041,7 @@
     },
     {
         "title": "EPiC: Elvis Presley in Concert",
-        "rating": 8.274,
+        "rating": 8.3,
         "genre": "Musique / Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
         "trailer": "https://www.youtube.com/watch?v=2s_dCvUgOBI",
@@ -2101,7 +2101,7 @@
     },
     {
         "title": "Rue Málaga",
-        "rating": 7.1,
+        "rating": 7.115,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/qvfwPBIL4tGoJM2tzOVvrzmRJFd.jpg",
         "trailer": "https://www.youtube.com/watch?v=FwtLBQpAnk0",
@@ -2149,7 +2149,7 @@
     },
     {
         "title": "L'Ultime Héritier",
-        "rating": 6.967,
+        "rating": 7.154,
         "genre": "Comédie / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
         "trailer": "https://www.youtube.com/watch?v=B7RslMKZ2Yc",
@@ -2173,7 +2173,7 @@
     },
     {
         "title": "Iron Lung",
-        "rating": 7.259,
+        "rating": 7.3,
         "genre": "Horreur / Science-fiction / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
         "trailer": "https://www.youtube.com/watch?v=7qRf_f_bbUk",
@@ -2209,7 +2209,7 @@
     },
     {
         "title": "Anemone",
-        "rating": 6.132,
+        "rating": 6.15,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/gkH89okkrxcxQDVEF0e9aHjzPDa.jpg",
         "trailer": "https://www.youtube.com/watch?v=uS7DHGFXkNY",
@@ -2245,7 +2245,7 @@
     },
     {
         "title": "Marty Supreme",
-        "rating": 7.435,
+        "rating": 7.433,
         "genre": "Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/hjrvtc7UCrnsypfnLJuxx9ODKCi.jpg",
         "trailer": "https://www.youtube.com/watch?v=s9gSuKaKcqM",
