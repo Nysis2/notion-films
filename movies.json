@@ -1,7 +1,7 @@
 [
     {
         "title": "Scream 7",
-        "rating": 5.94,
+        "rating": 6,
         "genre": "Horreur / Mystère / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/5LjnIdBqsGKftMuFmDQytkTeNOG.jpg",
         "trailer": "https://www.youtube.com/watch?v=4g8OciWNJn4",
@@ -25,7 +25,7 @@
     },
     {
         "title": "The Bride!",
-        "rating": 6.271,
+        "rating": 6.276,
         "genre": "Science-fiction / Horreur / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/x6XBJG5RGeRqT88BH1HjCVOifkU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QyLhkoGeSl4",
@@ -37,7 +37,7 @@
     },
     {
         "title": "Dhurandhar : The Revenge",
-        "rating": 7.75,
+        "rating": 7.8,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/iLOIbCjvScH1rrihalSzm4eU8Cu.jpg",
         "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I",
@@ -61,7 +61,7 @@
     },
     {
         "title": "Reminders of Him",
-        "rating": 7.1,
+        "rating": 7.055,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/94qmYp2SOGk2j5NHfKrYg0Fkqhp.jpg",
         "trailer": "https://www.youtube.com/watch?v=i36Zw32GfRQ",
@@ -85,7 +85,7 @@
     },
     {
         "title": "Projet dernière chance",
-        "rating": 8.184,
+        "rating": 8.2,
         "genre": "Science-fiction / Aventure / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
         "trailer": "https://www.youtube.com/watch?v=NKYea63tQmI",
@@ -109,7 +109,7 @@
     },
     {
         "title": "Scarlet et l'éternité",
-        "rating": 7,
+        "rating": 7.161,
         "genre": "Animation / Action / Drame / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/vWE8uRoaFyhb2Jc5HoV6tr8mvto.jpg",
         "trailer": "https://www.youtube.com/watch?v=J_jm2YZ8pYU",
@@ -121,7 +121,7 @@
     },
     {
         "title": "They Will Kill You",
-        "rating": 6.621,
+        "rating": 6.6,
         "genre": "Action / Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/aerhRS1khx0H5UnC1yjVnMMM4uc.jpg",
         "trailer": "https://www.youtube.com/watch?v=s0PGrtw0X1Q",
@@ -133,7 +133,7 @@
     },
     {
         "title": "Is This Thing On?",
-        "rating": 6.49,
+        "rating": 6.495,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/yl4Px3QgHIC9IXhvpNUlXBIn5yn.jpg",
         "trailer": "https://www.youtube.com/watch?v=dr14-Ebwcns",
@@ -145,7 +145,7 @@
     },
     {
         "title": "Pillion",
-        "rating": 6.305,
+        "rating": 6.303,
         "genre": "Romance / Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/y92sV0uJiBp7RR02R7yfi6jIyvP.jpg",
         "trailer": "https://www.youtube.com/watch?v=Gl8n5I-IIHU",
@@ -217,7 +217,7 @@
     },
     {
         "title": "Ceux qui comptent",
-        "rating": 6.706,
+        "rating": 6.658,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/gtmENvIUyH4J7x8UcrsdFkmTpJq.jpg",
         "trailer": null,
@@ -325,7 +325,7 @@
     },
     {
         "title": "Le Crime du 3e étage",
-        "rating": 6.458,
+        "rating": 6.5,
         "genre": "Comédie / Drame / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/5FHAlQPHFyJEIN1UOxsADog1KUy.jpg",
         "trailer": null,
@@ -361,7 +361,7 @@
     },
     {
         "title": "Yellow Letters",
-        "rating": 7.542,
+        "rating": 7.429,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/gNrb0GhhSBDIcWgVsmngO4GlGPM.jpg",
         "trailer": "https://www.youtube.com/watch?v=PSrP-KNXLSc",
@@ -577,7 +577,7 @@
     },
     {
         "title": "Compostelle",
-        "rating": 6.6,
+        "rating": 7.167,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/wK8mBBlhckZ5yp6iH0rJK4edyur.jpg",
         "trailer": null,
@@ -601,7 +601,7 @@
     },
     {
         "title": "Christy",
-        "rating": 7.148,
+        "rating": 7.15,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/e3x0tJ1EfSBsBFGEv2WCKfII4cv.jpg",
         "trailer": "https://www.youtube.com/watch?v=hSHwFDPfeV8",
@@ -625,7 +625,7 @@
     },
     {
         "title": "L'île de la demoiselle",
-        "rating": 0,
+        "rating": 4,
         "genre": "Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/tu1kBGHvsNgKUSuNay8cKeVA8MA.jpg",
         "trailer": null,
@@ -817,7 +817,7 @@
     },
     {
         "title": "Il maestro",
-        "rating": 6.366,
+        "rating": 6.228,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/3gf2EJyQqwbRUfdtxB6qwfyZyra.jpg",
         "trailer": null,
@@ -865,7 +865,7 @@
     },
     {
         "title": "Nuestra tierra",
-        "rating": 7.3,
+        "rating": 7.375,
         "genre": "Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/2HeoEQUtoQNiDj0pXVuYjCnZYTj.jpg",
         "trailer": "https://www.youtube.com/watch?v=yPQRXpzx55o",
@@ -997,7 +997,7 @@
     },
     {
         "title": "La maison des femmes",
-        "rating": 8.655,
+        "rating": 8.7,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/3blpQb6lMwX3VW4enxNpkX9po1c.jpg",
         "trailer": null,
@@ -1045,7 +1045,7 @@
     },
     {
         "title": "Mauvaise Pioche",
-        "rating": 7.667,
+        "rating": 7.4,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/bLKDM4BEowhzck0Bdhy2hbMDecp.jpg",
         "trailer": null,
@@ -1057,7 +1057,7 @@
     },
     {
         "title": "Dolly",
-        "rating": 6.6,
+        "rating": 6.308,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/9gIbvpGc3Dhm23XfjKZILbmppMA.jpg",
         "trailer": "https://www.youtube.com/watch?v=LALT2B-Ubpk",
@@ -1105,7 +1105,7 @@
     },
     {
         "title": "Les rayons et les ombres",
-        "rating": 7.713,
+        "rating": 7.724,
         "genre": "Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/uROOJRTrrkpe7F33Y54OcRXsQOu.jpg",
         "trailer": null,
@@ -1525,7 +1525,7 @@
     },
     {
         "title": "Miss Kobayashi's Dragon Maid : Une dragonne en manque d’amour",
-        "rating": 8.2,
+        "rating": 8.148,
         "genre": "Animation / Comédie / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/udnoedTfNkI01LEZYmU50HJKy2R.jpg",
         "trailer": "https://www.youtube.com/watch?v=RgJW1y1_ig0",
@@ -1621,7 +1621,7 @@
     },
     {
         "title": "Derrière les palmiers",
-        "rating": 6,
+        "rating": 5.5,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/3tcZAxoGuexXtbmWmWcsEpqB9kk.jpg",
         "trailer": null,
@@ -1717,7 +1717,7 @@
     },
     {
         "title": "Plus fort que moi",
-        "rating": 8.357,
+        "rating": 8.351,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/apm7tMSau8qIIdOZiQCw8xse4W1.jpg",
         "trailer": "https://www.youtube.com/watch?v=7vwC2GKi3iA",
@@ -1753,7 +1753,7 @@
     },
     {
         "title": "L'Ultime Héritier",
-        "rating": 7.1,
+        "rating": 7.072,
         "genre": "Comédie / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
         "trailer": "https://www.youtube.com/watch?v=B7RslMKZ2Yc",
@@ -1765,7 +1765,7 @@
     },
     {
         "title": "The Drama",
-        "rating": 6.743,
+        "rating": 6.8,
         "genre": "Romance / Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/g0xtgOtRCsETenxPgxG9WbNHXBR.jpg",
         "trailer": "https://www.youtube.com/watch?v=0ZDzsH3XGFA",
@@ -1801,7 +1801,7 @@
     },
     {
         "title": "Anemone",
-        "rating": 6.098,
+        "rating": 6.1,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/gkH89okkrxcxQDVEF0e9aHjzPDa.jpg",
         "trailer": "https://www.youtube.com/watch?v=uS7DHGFXkNY",
@@ -2209,7 +2209,7 @@
     },
     {
         "title": "Wedding Nightmare : Deuxième Partie",
-        "rating": 7.29,
+        "rating": 7.3,
         "genre": "Horreur / Comédie / Action",
         "poster": "https://image.tmdb.org/t/p/w500/ICQGjgWmTD3idlMUgRhhKIIxul.jpg",
         "trailer": "https://www.youtube.com/watch?v=jczr0KCloXk",
