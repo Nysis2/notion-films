@@ -13,7 +13,7 @@
     },
     {
         "title": "Le Sifflet",
-        "rating": 6.035,
+        "rating": 6.027,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg",
         "trailer": "https://www.youtube.com/watch?v=-O5DgGQJeks",
@@ -25,7 +25,7 @@
     },
     {
         "title": "Reminders of Him",
-        "rating": 7.16,
+        "rating": 7.148,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/94qmYp2SOGk2j5NHfKrYg0Fkqhp.jpg",
         "trailer": "https://www.youtube.com/watch?v=i36Zw32GfRQ",
@@ -37,7 +37,7 @@
     },
     {
         "title": "Le Testament d'Ann Lee",
-        "rating": 6.523,
+        "rating": 6.518,
         "genre": "Histoire / Drame / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/kVa32BHWeXU52ov8obUUTbt7Ltm.jpg",
         "trailer": "https://www.youtube.com/watch?v=Rb0ZhiDD9J0",
@@ -49,7 +49,7 @@
     },
     {
         "title": "Projet dernière chance",
-        "rating": 8.214,
+        "rating": 8.218,
         "genre": "Science-fiction / Aventure / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
         "trailer": "https://www.youtube.com/watch?v=NKYea63tQmI",
@@ -61,7 +61,7 @@
     },
     {
         "title": "David",
-        "rating": 8.075,
+        "rating": 8.1,
         "genre": "Animation / Famille / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/7lFG1WrCwAxBfyGK8ahlBVzXno7.jpg",
         "trailer": "https://www.youtube.com/watch?v=gWgyI6_lR0A",
@@ -73,7 +73,7 @@
     },
     {
         "title": "Scarlet et l'éternité",
-        "rating": 7.212,
+        "rating": 7.233,
         "genre": "Animation / Action / Drame / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/vWE8uRoaFyhb2Jc5HoV6tr8mvto.jpg",
         "trailer": "https://www.youtube.com/watch?v=J_jm2YZ8pYU",
@@ -85,7 +85,7 @@
     },
     {
         "title": "They Will Kill You",
-        "rating": 6.552,
+        "rating": 6.563,
         "genre": "Action / Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/aerhRS1khx0H5UnC1yjVnMMM4uc.jpg",
         "trailer": "https://www.youtube.com/watch?v=s0PGrtw0X1Q",
@@ -205,7 +205,7 @@
     },
     {
         "title": "Le Crime du 3e étage",
-        "rating": 6.5,
+        "rating": 6.534,
         "genre": "Comédie / Drame / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/5FHAlQPHFyJEIN1UOxsADog1KUy.jpg",
         "trailer": null,
@@ -241,7 +241,7 @@
     },
     {
         "title": "Julian",
-        "rating": 6.6,
+        "rating": 6.813,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/83viwjTeBtJP4KbOmxDCF3Q2cqY.jpg",
         "trailer": "https://www.youtube.com/watch?v=hhyHRQI147E",
@@ -253,7 +253,7 @@
     },
     {
         "title": "Police Flash 80",
-        "rating": 6.972,
+        "rating": 6.875,
         "genre": "Comédie / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/2HD9MuSt5Fk6i7uAgI3m75VATjk.jpg",
         "trailer": null,
@@ -361,7 +361,7 @@
     },
     {
         "title": "Compostelle",
-        "rating": 6.868,
+        "rating": 6.825,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/wK8mBBlhckZ5yp6iH0rJK4edyur.jpg",
         "trailer": null,
@@ -781,7 +781,7 @@
     },
     {
         "title": "Silent Friend",
-        "rating": 8.2,
+        "rating": 8.1,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/3QXmEnOKDjeRcxlgn3uka4SR5Im.jpg",
         "trailer": "https://www.youtube.com/watch?v=TaRZnpAmtJk",
@@ -1068,20 +1068,8 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/wT7gb3AJhPzI8lPcbCVBhzzXD4p.jpg"
     },
     {
-        "title": "La guerre des prix",
-        "rating": 6.8,
-        "genre": "Drame / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/h42PjQnT2xkH6kkLxID2RckLnT1.jpg",
-        "trailer": null,
-        "release_date": "2026-03-18",
-        "overview": "Audrey, fille d’agriculteurs et cheffe de rayon dans un hypermarché en province, se voit propulsée à la centrale d’achat de son enseigne afin d'y défendre la filière bio et locale. Alors qu’elle fait équipe avec un négociateur aux méthodes redoutables, Audrey va devoir se battre pour faire exister ses convictions au sein d'un système impitoyable.",
-        "tagline": "",
-        "runtime": 96,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/bPGFqHk5Qfo0PDoYXFSCnXqIYgI.jpg"
-    },
-    {
         "title": "Un jour avec mon père",
-        "rating": 7.759,
+        "rating": 7.733,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/aLQYyqWlIBBU3L8L84txbh0x1nq.jpg",
         "trailer": "https://www.youtube.com/watch?v=50ICTaEuQxg",
@@ -1165,7 +1153,7 @@
     },
     {
         "title": "Plus fort que moi",
-        "rating": 8.327,
+        "rating": 8.328,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/apm7tMSau8qIIdOZiQCw8xse4W1.jpg",
         "trailer": "https://www.youtube.com/watch?v=10ynpduiRpM",
@@ -1189,7 +1177,7 @@
     },
     {
         "title": "Super Mario Galaxy, le film",
-        "rating": 6.82,
+        "rating": 6.815,
         "genre": "Famille / Fantastique / Comédie / Aventure / Animation",
         "poster": "https://image.tmdb.org/t/p/w500/aSQktALDmbunDbwkuZbZFMEWVFr.jpg",
         "trailer": "https://www.youtube.com/watch?v=En5QZmL5R1s",
@@ -1201,7 +1189,7 @@
     },
     {
         "title": "L'Ultime Héritier",
-        "rating": 7,
+        "rating": 6.983,
         "genre": "Comédie / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
         "trailer": "https://www.youtube.com/watch?v=B7RslMKZ2Yc",
@@ -1213,7 +1201,7 @@
     },
     {
         "title": "The Drama",
-        "rating": 7,
+        "rating": 7.008,
         "genre": "Romance / Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/g0xtgOtRCsETenxPgxG9WbNHXBR.jpg",
         "trailer": "https://www.youtube.com/watch?v=0ZDzsH3XGFA",
@@ -1465,7 +1453,7 @@
     },
     {
         "title": "Cocorico 2",
-        "rating": 5,
+        "rating": 5.417,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/AnwqvppUdtn6Ki6X4BI08pdx7D2.jpg",
         "trailer": null,
@@ -1549,7 +1537,7 @@
     },
     {
         "title": "Wedding Nightmare : Deuxième Partie",
-        "rating": 7.029,
+        "rating": 6.996,
         "genre": "Horreur / Comédie / Action",
         "poster": "https://image.tmdb.org/t/p/w500/ICQGjgWmTD3idlMUgRhhKIIxul.jpg",
         "trailer": "https://www.youtube.com/watch?v=jczr0KCloXk",
@@ -1657,7 +1645,7 @@
     },
     {
         "title": "Good Luck, Have Fun, Don't Die",
-        "rating": 6.9,
+        "rating": 6.925,
         "genre": "Science-fiction / Action / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
         "trailer": "https://www.youtube.com/watch?v=Nm4WbapDzDQ",
@@ -1693,7 +1681,7 @@
     },
     {
         "title": "Une fille en or",
-        "rating": 0,
+        "rating": 6.5,
         "genre": "Comédie / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/ebg2kYDFlQzBaJ1rJtEBb4AB92d.jpg",
         "trailer": null,
@@ -1741,7 +1729,7 @@
     },
     {
         "title": "Truly Naked",
-        "rating": 0,
+        "rating": 6,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/bGbCNEGn0kLwamrEEWysowzhGDJ.jpg",
         "trailer": null,
@@ -1789,7 +1777,7 @@
     },
     {
         "title": "Le Réveil de la Momie",
-        "rating": 7,
+        "rating": 6.9,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/aENH9ETtWynb6T1XhRwIFlvkBzI.jpg",
         "trailer": "https://www.youtube.com/watch?v=6wbMsDmJLCs",
@@ -1849,7 +1837,7 @@
     },
     {
         "title": "Juste une illusion",
-        "rating": 6.905,
+        "rating": 7.167,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/my4QdEBuhYpYLR4M7AkJWJGcxxx.jpg",
         "trailer": null,
@@ -1861,7 +1849,7 @@
     },
     {
         "title": "Bagarre",
-        "rating": 1.75,
+        "rating": 2.5,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/obu9sjDiMLZRU7psKoK9uD8gHRi.jpg",
         "trailer": null,
@@ -1945,7 +1933,7 @@
     },
     {
         "title": "La Corde au cou",
-        "rating": 6.378,
+        "rating": 6.37,
         "genre": "Crime / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/g7Y94KrUd0pDGRVVZQMh4n9FnYp.jpg",
         "trailer": "https://www.youtube.com/watch?v=aHAwgnJL78Y",
@@ -2089,7 +2077,7 @@
     },
     {
         "title": "Mārama",
-        "rating": 0,
+        "rating": 4.5,
         "genre": "Horreur / Drame / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/kbhqPDnqGBfmTf5Yu5f8fBj6tfp.jpg",
         "trailer": "https://www.youtube.com/watch?v=uP_BNr2VerM",
@@ -2329,7 +2317,7 @@
     },
     {
         "title": "Michael",
-        "rating": 6.875,
+        "rating": 6.9,
         "genre": "Musique / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
         "trailer": "https://www.youtube.com/watch?v=k-YAcjaLuSI",
@@ -2365,7 +2353,7 @@
     },
     {
         "title": "La Fille du Konbini",
-        "rating": 6.4,
+        "rating": 5.875,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/opWcLjzymHxOZllnspuQc9zXHlY.jpg",
         "trailer": null,
@@ -2422,5 +2410,17 @@
         "tagline": "Ukraine War Archive",
         "runtime": 30,
         "backdrop": null
+    },
+    {
+        "title": "La Guerre des Prix",
+        "rating": 6.8,
+        "genre": "Drame / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/2JaBN5K9Q3toMRBLMiBmEhCvufW.jpg",
+        "trailer": null,
+        "release_date": "2026-03-18",
+        "overview": "Audrey, fille d’agriculteurs et cheffe de rayon dans un hypermarché en province, se voit propulsée à la centrale d’achat de son enseigne afin d'y défendre la filière bio et locale. Alors qu’elle fait équipe avec un négociateur aux méthodes redoutables, Audrey va devoir se battre pour faire exister ses convictions au sein d'un système impitoyable.",
+        "tagline": "",
+        "runtime": 96,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bPGFqHk5Qfo0PDoYXFSCnXqIYgI.jpg"
     }
 ]
