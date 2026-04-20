@@ -13,7 +13,7 @@
     },
     {
         "title": "Le Sifflet",
-        "rating": 6.027,
+        "rating": 6,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg",
         "trailer": "https://www.youtube.com/watch?v=-O5DgGQJeks",
@@ -25,7 +25,7 @@
     },
     {
         "title": "Reminders of Him",
-        "rating": 7.148,
+        "rating": 7.135,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/94qmYp2SOGk2j5NHfKrYg0Fkqhp.jpg",
         "trailer": "https://www.youtube.com/watch?v=i36Zw32GfRQ",
@@ -37,7 +37,7 @@
     },
     {
         "title": "Le Testament d'Ann Lee",
-        "rating": 6.518,
+        "rating": 6.5,
         "genre": "Histoire / Drame / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/kVa32BHWeXU52ov8obUUTbt7Ltm.jpg",
         "trailer": "https://www.youtube.com/watch?v=Rb0ZhiDD9J0",
@@ -49,7 +49,7 @@
     },
     {
         "title": "Projet dernière chance",
-        "rating": 8.218,
+        "rating": 8.2,
         "genre": "Science-fiction / Aventure / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
         "trailer": "https://www.youtube.com/watch?v=NKYea63tQmI",
@@ -73,7 +73,7 @@
     },
     {
         "title": "Scarlet et l'éternité",
-        "rating": 7.233,
+        "rating": 7.2,
         "genre": "Animation / Action / Drame / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/vWE8uRoaFyhb2Jc5HoV6tr8mvto.jpg",
         "trailer": "https://www.youtube.com/watch?v=J_jm2YZ8pYU",
@@ -85,7 +85,7 @@
     },
     {
         "title": "They Will Kill You",
-        "rating": 6.563,
+        "rating": 6.6,
         "genre": "Action / Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/aerhRS1khx0H5UnC1yjVnMMM4uc.jpg",
         "trailer": "https://www.youtube.com/watch?v=s0PGrtw0X1Q",
@@ -205,7 +205,7 @@
     },
     {
         "title": "Le Crime du 3e étage",
-        "rating": 6.534,
+        "rating": 6.567,
         "genre": "Comédie / Drame / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/5FHAlQPHFyJEIN1UOxsADog1KUy.jpg",
         "trailer": null,
@@ -253,7 +253,7 @@
     },
     {
         "title": "Police Flash 80",
-        "rating": 6.875,
+        "rating": 6.833,
         "genre": "Comédie / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/2HD9MuSt5Fk6i7uAgI3m75VATjk.jpg",
         "trailer": null,
@@ -541,7 +541,7 @@
     },
     {
         "title": "Il maestro",
-        "rating": 6.369,
+        "rating": 6.364,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/3gf2EJyQqwbRUfdtxB6qwfyZyra.jpg",
         "trailer": null,
@@ -1153,7 +1153,7 @@
     },
     {
         "title": "Plus fort que moi",
-        "rating": 8.328,
+        "rating": 8.325,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/apm7tMSau8qIIdOZiQCw8xse4W1.jpg",
         "trailer": "https://www.youtube.com/watch?v=10ynpduiRpM",
@@ -1177,7 +1177,7 @@
     },
     {
         "title": "Super Mario Galaxy, le film",
-        "rating": 6.815,
+        "rating": 6.791,
         "genre": "Famille / Fantastique / Comédie / Aventure / Animation",
         "poster": "https://image.tmdb.org/t/p/w500/aSQktALDmbunDbwkuZbZFMEWVFr.jpg",
         "trailer": "https://www.youtube.com/watch?v=En5QZmL5R1s",
@@ -1189,7 +1189,7 @@
     },
     {
         "title": "L'Ultime Héritier",
-        "rating": 6.983,
+        "rating": 6.994,
         "genre": "Comédie / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
         "trailer": "https://www.youtube.com/watch?v=B7RslMKZ2Yc",
@@ -1201,7 +1201,7 @@
     },
     {
         "title": "The Drama",
-        "rating": 7.008,
+        "rating": 7.038,
         "genre": "Romance / Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/g0xtgOtRCsETenxPgxG9WbNHXBR.jpg",
         "trailer": "https://www.youtube.com/watch?v=0ZDzsH3XGFA",
@@ -1357,7 +1357,7 @@
     },
     {
         "title": "L’Enfant du Désert",
-        "rating": 8.143,
+        "rating": 7.875,
         "genre": "Famille / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/5hjUoUhsQ2Ffs8Y6BpDIB5GIZEH.jpg",
         "trailer": null,
@@ -1453,7 +1453,7 @@
     },
     {
         "title": "Cocorico 2",
-        "rating": 5.417,
+        "rating": 5.571,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/AnwqvppUdtn6Ki6X4BI08pdx7D2.jpg",
         "trailer": null,
@@ -1537,7 +1537,7 @@
     },
     {
         "title": "Wedding Nightmare : Deuxième Partie",
-        "rating": 6.996,
+        "rating": 6.939,
         "genre": "Horreur / Comédie / Action",
         "poster": "https://image.tmdb.org/t/p/w500/ICQGjgWmTD3idlMUgRhhKIIxul.jpg",
         "trailer": "https://www.youtube.com/watch?v=jczr0KCloXk",
@@ -1645,7 +1645,7 @@
     },
     {
         "title": "Good Luck, Have Fun, Don't Die",
-        "rating": 6.925,
+        "rating": 6.929,
         "genre": "Science-fiction / Action / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
         "trailer": "https://www.youtube.com/watch?v=Nm4WbapDzDQ",
@@ -1729,7 +1729,7 @@
     },
     {
         "title": "Truly Naked",
-        "rating": 6,
+        "rating": 6.75,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/bGbCNEGn0kLwamrEEWysowzhGDJ.jpg",
         "trailer": null,
@@ -1777,7 +1777,7 @@
     },
     {
         "title": "Le Réveil de la Momie",
-        "rating": 6.9,
+        "rating": 6.839,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/aENH9ETtWynb6T1XhRwIFlvkBzI.jpg",
         "trailer": "https://www.youtube.com/watch?v=6wbMsDmJLCs",
@@ -1837,7 +1837,7 @@
     },
     {
         "title": "Juste une illusion",
-        "rating": 7.167,
+        "rating": 7,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/my4QdEBuhYpYLR4M7AkJWJGcxxx.jpg",
         "trailer": null,
@@ -1933,7 +1933,7 @@
     },
     {
         "title": "La Corde au cou",
-        "rating": 6.37,
+        "rating": 6.388,
         "genre": "Crime / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/g7Y94KrUd0pDGRVVZQMh4n9FnYp.jpg",
         "trailer": "https://www.youtube.com/watch?v=aHAwgnJL78Y",
@@ -2305,7 +2305,7 @@
     },
     {
         "title": "Romería",
-        "rating": 6.51,
+        "rating": 6.538,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/oE9fWg0f9ewu68hFq8TOVBrVDZe.jpg",
         "trailer": "https://www.youtube.com/watch?v=MqSgCiLaRmM",
@@ -2317,7 +2317,7 @@
     },
     {
         "title": "Michael",
-        "rating": 6.9,
+        "rating": 7.5,
         "genre": "Musique / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
         "trailer": "https://www.youtube.com/watch?v=k-YAcjaLuSI",
@@ -2422,5 +2422,17 @@
         "tagline": "",
         "runtime": 96,
         "backdrop": "https://image.tmdb.org/t/p/w1280/bPGFqHk5Qfo0PDoYXFSCnXqIYgI.jpg"
+    },
+    {
+        "title": "Un Corps Andalou",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500/u37TDRr9ypJ8uuxjxjjkvupo6dD.jpg",
+        "trailer": null,
+        "release_date": "2026-04-19",
+        "overview": "",
+        "tagline": "",
+        "runtime": 3,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9Tpr26i7WFpqK3rbQQ9mZMHFq1P.jpg"
     }
 ]
