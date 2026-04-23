@@ -1,7 +1,7 @@
 [
     {
         "title": "Dhurandhar : The Revenge",
-        "rating": 7.708,
+        "rating": 7.7,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/iLOIbCjvScH1rrihalSzm4eU8Cu.jpg",
         "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I",
@@ -13,7 +13,7 @@
     },
     {
         "title": "Le Sifflet",
-        "rating": 6.039,
+        "rating": 6.038,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg",
         "trailer": "https://www.youtube.com/watch?v=-O5DgGQJeks",
@@ -25,7 +25,7 @@
     },
     {
         "title": "Reminders of Him",
-        "rating": 7.146,
+        "rating": 7.179,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/94qmYp2SOGk2j5NHfKrYg0Fkqhp.jpg",
         "trailer": "https://www.youtube.com/watch?v=i36Zw32GfRQ",
@@ -34,18 +34,6 @@
         "tagline": "",
         "runtime": 115,
         "backdrop": "https://image.tmdb.org/t/p/w1280/5rxEnsgriw8z065q51lrvPKYmCL.jpg"
-    },
-    {
-        "title": "Projet dernière chance",
-        "rating": 8.2,
-        "genre": "Science-fiction / Aventure / Mystère",
-        "poster": "https://image.tmdb.org/t/p/w500/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
-        "trailer": "https://www.youtube.com/watch?v=NKYea63tQmI",
-        "release_date": "2026-03-15",
-        "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
-        "tagline": "Croyez en la dernière chance.",
-        "runtime": 155,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg"
     },
     {
         "title": "David",
@@ -61,7 +49,7 @@
     },
     {
         "title": "They Will Kill You",
-        "rating": 6.558,
+        "rating": 6.5,
         "genre": "Action / Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/aerhRS1khx0H5UnC1yjVnMMM4uc.jpg",
         "trailer": "https://www.youtube.com/watch?v=s0PGrtw0X1Q",
@@ -181,7 +169,7 @@
     },
     {
         "title": "Yellow Letters",
-        "rating": 7.5,
+        "rating": 7.478,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/gNrb0GhhSBDIcWgVsmngO4GlGPM.jpg",
         "trailer": "https://www.youtube.com/watch?v=PSrP-KNXLSc",
@@ -420,18 +408,6 @@
         "backdrop": null
     },
     {
-        "title": "Jungle Race",
-        "rating": 0,
-        "genre": "Animation / Comédie / Action",
-        "poster": "https://image.tmdb.org/t/p/w500/2Ox8S9FqKlnXSoZs8aCB5uDB6cp.jpg",
-        "trailer": null,
-        "release_date": "2026-03-12",
-        "overview": "Sur une île, dans un monde où les humains ont disparu, des singes s'affrontent dans une course automobile sanglante et sans merci dans le simple but de se divertir",
-        "tagline": "",
-        "runtime": 9,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/wSwjShPsunM9RdQm0tFwbhMVgYK.jpg"
-    },
-    {
         "title": "La vie d'un tatoué",
         "rating": 7,
         "genre": "Crime / Drame / Thriller",
@@ -553,7 +529,7 @@
     },
     {
         "title": "Les rayons et les ombres",
-        "rating": 7.641,
+        "rating": 7.623,
         "genre": "Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/uROOJRTrrkpe7F33Y54OcRXsQOu.jpg",
         "trailer": null,
@@ -574,18 +550,6 @@
         "tagline": "",
         "runtime": 90,
         "backdrop": "https://image.tmdb.org/t/p/w1280/lpY4RTJpuKboamSwE1IYK36RB7A.jpg"
-    },
-    {
-        "title": "Silent Friend",
-        "rating": 8.1,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/3QXmEnOKDjeRcxlgn3uka4SR5Im.jpg",
-        "trailer": "https://www.youtube.com/watch?v=TaRZnpAmtJk",
-        "release_date": "2026-04-01",
-        "overview": "Une rencontre de deux rythmes de vie : celui de l’homme et celui de la nature. \"Inspirer - expirer. Environ seize fois par minute pour les humains. Une fois par jour pour les arbres. Voici une histoire dans laquelle ces deux rythmes se rencontrent.",
-        "tagline": "",
-        "runtime": 146,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/e40FMjHg2RoypsjxygoTFB5jLUd.jpg"
     },
     {
         "title": "L’Appel du silence",
@@ -889,7 +853,7 @@
     },
     {
         "title": "Plus fort que moi",
-        "rating": 8.308,
+        "rating": 8.293,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/apm7tMSau8qIIdOZiQCw8xse4W1.jpg",
         "trailer": "https://www.youtube.com/watch?v=10ynpduiRpM",
@@ -913,7 +877,7 @@
     },
     {
         "title": "Super Mario Galaxy, le film",
-        "rating": 6.754,
+        "rating": 6.759,
         "genre": "Famille / Fantastique / Comédie / Aventure / Animation",
         "poster": "https://image.tmdb.org/t/p/w500/aSQktALDmbunDbwkuZbZFMEWVFr.jpg",
         "trailer": "https://www.youtube.com/watch?v=En5QZmL5R1s",
@@ -925,7 +889,7 @@
     },
     {
         "title": "L'Ultime Héritier",
-        "rating": 6.962,
+        "rating": 6.948,
         "genre": "Comédie / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
         "trailer": "https://www.youtube.com/watch?v=B7RslMKZ2Yc",
@@ -937,7 +901,7 @@
     },
     {
         "title": "The Drama",
-        "rating": 7.035,
+        "rating": 7.034,
         "genre": "Romance / Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/g0xtgOtRCsETenxPgxG9WbNHXBR.jpg",
         "trailer": "https://www.youtube.com/watch?v=0ZDzsH3XGFA",
@@ -1261,7 +1225,7 @@
     },
     {
         "title": "Wedding Nightmare : Deuxième Partie",
-        "rating": 6.92,
+        "rating": 6.927,
         "genre": "Horreur / Comédie / Action",
         "poster": "https://image.tmdb.org/t/p/w500/ICQGjgWmTD3idlMUgRhhKIIxul.jpg",
         "trailer": "https://www.youtube.com/watch?v=jczr0KCloXk",
@@ -1369,7 +1333,7 @@
     },
     {
         "title": "Good Luck, Have Fun, Don't Die",
-        "rating": 6.93,
+        "rating": 6.918,
         "genre": "Science-fiction / Action / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
         "trailer": "https://www.youtube.com/watch?v=Nm4WbapDzDQ",
@@ -1381,7 +1345,7 @@
     },
     {
         "title": "Hayat",
-        "rating": 6.828,
+        "rating": 6.8,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/cN6S1WMSGyB8VZwnni3UXcXNpw.jpg",
         "trailer": "https://www.youtube.com/watch?v=4MPAbrvQxQA",
@@ -1501,7 +1465,7 @@
     },
     {
         "title": "Le Réveil de la Momie",
-        "rating": 6.924,
+        "rating": 6.9,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/aENH9ETtWynb6T1XhRwIFlvkBzI.jpg",
         "trailer": "https://www.youtube.com/watch?v=6wbMsDmJLCs",
@@ -1537,7 +1501,7 @@
     },
     {
         "title": "Juste une illusion",
-        "rating": 7.067,
+        "rating": 7.148,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/my4QdEBuhYpYLR4M7AkJWJGcxxx.jpg",
         "trailer": null,
@@ -1825,7 +1789,7 @@
     },
     {
         "title": "À voix basse",
-        "rating": 0,
+        "rating": 7,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/ydvhFTXIN3IHG8cxdEBDpJb9E7W.jpg",
         "trailer": null,
@@ -1921,7 +1885,7 @@
     },
     {
         "title": "La Poupée",
-        "rating": 0,
+        "rating": 7.25,
         "genre": "Comédie / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/5YhSuGSqSKp5rDvj2gMqCxxl30d.jpg",
         "trailer": null,
@@ -1957,7 +1921,7 @@
     },
     {
         "title": "Nous, l'Orchestre",
-        "rating": 0,
+        "rating": 8,
         "genre": "Documentaire / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/w0BDdIPygkUo4t7wCoXueTDZ7r8.jpg",
         "trailer": null,
@@ -1993,7 +1957,7 @@
     },
     {
         "title": "Michael",
-        "rating": 6.8,
+        "rating": 7.19,
         "genre": "Musique / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
         "trailer": "https://www.youtube.com/watch?v=k-YAcjaLuSI",
@@ -2029,7 +1993,7 @@
     },
     {
         "title": "La Fille du Konbini",
-        "rating": 5.727,
+        "rating": 5.833,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/opWcLjzymHxOZllnspuQc9zXHlY.jpg",
         "trailer": null,
@@ -2218,5 +2182,257 @@
         "tagline": "",
         "runtime": 30,
         "backdrop": null
+    },
+    {
+        "title": "Elfie et les supers elfkins",
+        "rating": 6.7,
+        "genre": "Animation / Aventure / Famille / Fantastique",
+        "poster": "https://image.tmdb.org/t/p/w500/7xiKtQg7rT4vRluCVa1e3zRjrcU.jpg",
+        "trailer": "https://www.youtube.com/watch?v=1TmznPAc6iw",
+        "release_date": "2026-04-29",
+        "overview": "",
+        "tagline": "",
+        "runtime": 85,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/61arVnYIN3OefoZkVXcAPq2mJ2N.jpg"
+    },
+    {
+        "title": "L'Envol",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/jVLsglPv1joPPobmYmftOa7hhso.jpg",
+        "trailer": null,
+        "release_date": "2026-04-21",
+        "overview": "Salomé recherche désespérément l'approbation de sa mère. Le chant peut-il encore les unir ?",
+        "tagline": "Drame",
+        "runtime": 6,
+        "backdrop": null
+    },
+    {
+        "title": "Sorda",
+        "rating": 7.3,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/suCZzRLf3fxltbVlg6z4nZBY4Tt.jpg",
+        "trailer": "https://www.youtube.com/watch?v=YhYdF1oavYk",
+        "release_date": "2026-04-29",
+        "overview": "Angela est sourde, Hector est entendant. Ils forment un couple épanoui et heureux malgré leur différence. Mais la naissance de leur premier enfant inquiète Angela : saura-t-elle créer un lien avec sa fille ? Comment apprendre à devenir mère dans un monde qui oublie si souvent d’inclure ceux qui n’entendent pas ?",
+        "tagline": "",
+        "runtime": 99,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/iMvvdAm8lrFA4tow1wea5StM3pE.jpg"
+    },
+    {
+        "title": "Le 13e Round",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/y8vsceR1cd4s5FvaxRQXB7RIiYF.jpg",
+        "trailer": null,
+        "release_date": "2026-04-29",
+        "overview": "Un ancien champion de boxe, retiré du ring pour sa famille, est contraint d’affronter son passé lorsque son jeune fils est atteint d’une maladie grave.",
+        "tagline": "",
+        "runtime": 85,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/A9xZZmQrcyiKCMTQGW8fclL1xOJ.jpg"
+    },
+    {
+        "title": "D'où vient le vent",
+        "rating": 7.4,
+        "genre": "Drame / Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/ppViwGpufHCkpFHm8R3tkcGuqOZ.jpg",
+        "trailer": "https://www.youtube.com/watch?v=ScHDxX_MMpM",
+        "release_date": "2026-04-17",
+        "overview": "À Tunis, Alyssa, 19 ans rêve d'échapper à un quotidien étouffant. Avec son ami Mehdi, 23 ans, elle part pour Djerba afin de participer à un concours d'art. Leur road trip devient un voyage initiatique où chacun tente de tracer se voie vers la liberté…",
+        "tagline": "",
+        "runtime": 100,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sWzG6GFWLO01fxzRHxoDwErEQW7.jpg"
+    },
+    {
+        "title": "FANG!",
+        "rating": 0,
+        "genre": "Comédie / Horreur / Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/sEZjKOGMGmbUUH2djdW5o9oGHm3.jpg",
+        "trailer": null,
+        "release_date": "2026-04-22",
+        "overview": "Trois vampires queer ont juré de ne plus jamais boire le sang des hétéros. Par fierté, par rage, par principe. Mais quand un voisin hétéro, solaire et irrésistiblement appétissant, emménage juste en face, leur boycott éthique se transforme en une tentation mortelle.",
+        "tagline": "",
+        "runtime": 4,
+        "backdrop": null
+    },
+    {
+        "title": "Die My Love",
+        "rating": 6.166,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/tQk0zn7UirjbB3vh1B65WWKHd9Z.jpg",
+        "trailer": "https://www.youtube.com/watch?v=2jzXHW6Qe70",
+        "release_date": "2026-04-29",
+        "overview": "Grace et Jackson emménagent dans une vieille maison de campagne. Elle poursuit son rêve d'écriture, et les deux deviennent parents peu de temps après. Cependant, avec les absences de Jackson et les pressions de la vie domestique, Grace commence à sombrer, semant la destruction dans son sillage.",
+        "tagline": "Vivre. Aimer. Détester.",
+        "runtime": 118,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/dEkFlZzj2cb5F7SShvqkL54E4lr.jpg"
+    },
+    {
+        "title": "La Serpe d'Or",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": null,
+        "release_date": "2026-04-23",
+        "overview": "Un jeune lecteur perd sa BD et part dans une quête haute en couleurs pour la retrouver !",
+        "tagline": "Mais où est ce que j'ai mis ma BD ?",
+        "runtime": 9,
+        "backdrop": null
+    },
+    {
+        "title": "Omaha",
+        "rating": 8,
+        "genre": "Drame / Famille",
+        "poster": "https://image.tmdb.org/t/p/w500/s1SNVyTWWmvpWK439bOrRF9xywS.jpg",
+        "trailer": "https://www.youtube.com/watch?v=M2OTVoxpetU",
+        "release_date": "2026-04-29",
+        "overview": "Après une tragédie familiale, Ella et Charlie, deux frères et sœurs, sont réveillés par leur père et emmenés dans un voyage à travers le pays, à la découverte d'un monde nouveau. Au fil de leur aventure, Ella commence à comprendre que les choses ne sont peut-être pas ce qu'elles semblent être.",
+        "tagline": "",
+        "runtime": 83,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/rf8V9z28gJre58U9ObHN3NJph4A.jpg"
+    },
+    {
+        "title": "L'Enfant Bélier",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/yeF5PsxOPysGplA8izsRdaL5BMC.jpg",
+        "trailer": null,
+        "release_date": "2026-04-29",
+        "overview": "Sara et Adam sont arrivés illégalement en Belgique avec leur petite fille de 2 ans, espérant rejoindre l’Angleterre. Entassés à l’arrière d’un véhicule, la peur semble prendre le pas sur l’espoir. Redouane est policier depuis 20 ans. Avec son équipe, toutes les nuits, il fait la chasse aux passeurs. Ce soir-là, alors que la voiture de police essaie d’arrêter la camionnette soupçonnée de transporter des migrants, tout bascule…",
+        "tagline": "",
+        "runtime": 94,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/5xd65IDTUbzObiy59BhK3ZIIPqG.jpg"
+    },
+    {
+        "title": "Noise",
+        "rating": 6.7,
+        "genre": "Horreur / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/R7MVc6TMjInJwkjrgAob7VA2MM.jpg",
+        "trailer": "https://www.youtube.com/watch?v=lptFuq1LG7g",
+        "release_date": "2026-04-29",
+        "overview": "Une femme malentendante est hantée par des sons liés à la disparition de sa sœur et à la présence d'un esprit malveillant.",
+        "tagline": "",
+        "runtime": 95,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/pPwRqyXCV3U2Y5Zw9AaD07XFlW0.jpg"
+    },
+    {
+        "title": "Le Diable s'habille en Prada 2",
+        "rating": 6,
+        "genre": "Drame / Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/pD5fSVgDW2L5993eAlDd2GFXwIp.jpg",
+        "trailer": "https://www.youtube.com/watch?v=PMd1at7OwiE",
+        "release_date": "2026-04-29",
+        "overview": "Près de vingt ans après, Meryl Streep, Anne Hathaway, Emily Blunt et Stanley Tucci reprennent leurs rôles emblématiques de Miranda, Andy, Emily et Nigel, et nous replongent dans l’univers impitoyable et glamour du magazine Runway et des rues new-yorkaises où l’élégance est une arme redoutable.",
+        "tagline": "Les icônes règnent éternellement.",
+        "runtime": 120,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/Af907x5h9W1wVis8XrSd7ynTWuy.jpg"
+    },
+    {
+        "title": "Yunan",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/hLKSWOnqlsb8Sr6kgdhaFHiD3aW.jpg",
+        "trailer": "https://www.youtube.com/watch?v=96QSKS8WqyE",
+        "release_date": "2026-04-18",
+        "overview": "Munir, écrivain syrien en exil, se rend sur une île isolée d'Allemagne pour mettre fin à ses jours. Là, il rencontre Valeska, une hôtelière âgée, et son fils Karl. Grâce à leur humanité, Munir se retrouve peu à peu l'envie de vivre…",
+        "tagline": "",
+        "runtime": 124,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/5mVwgp05MLQqFbFJiIbdoQjjWfO.jpg"
+    },
+    {
+        "title": "Polvo serán",
+        "rating": 6.8,
+        "genre": "Drame / Musique / Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/2dbpfjh1vQ1kT4KmR9SErZWLEuU.jpg",
+        "trailer": "https://www.youtube.com/watch?v=11Qvz97Kqw0",
+        "release_date": "2026-04-29",
+        "overview": "Claudia, atteinte d’une maladie en phase terminale, décide de se rendre en Suisse pour mettre fin à ses jours. Elle entreprend ce voyage sans retour aux côtés de Flavio, son compagnon depuis quarante ans, tandis que Violeta, leur fille, doit assumer le rôle de médiatrice entre eux et gérer tout ce qu’ils laissent derrière eux.",
+        "tagline": "",
+        "runtime": 106,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bQInJ4d9ajaPGHGpEL5RPpmbE0p.jpg"
+    },
+    {
+        "title": "Hokum",
+        "rating": 0,
+        "genre": "Horreur / Mystère",
+        "poster": "https://image.tmdb.org/t/p/w500/kfA90SVM17WbJRMV8kC5k7IRFZz.jpg",
+        "trailer": "https://www.youtube.com/watch?v=qU_i5e48KzQ",
+        "release_date": "2026-04-29",
+        "overview": "Un romancier d'horreur se rend en Irlande pour répandre les cendres de ses parents, ignorant que l'endroit serait hanté par une sorcière.",
+        "tagline": "",
+        "runtime": 111,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zQcj9CaPFrxhJE30AIn8XqDM4yK.jpg"
+    },
+    {
+        "title": "Stiller Freund",
+        "rating": 8,
+        "genre": "Drame / Histoire",
+        "poster": "https://image.tmdb.org/t/p/w500/yTPbeO1Peb9fgmJLecTk7KyzctQ.jpg",
+        "trailer": "https://www.youtube.com/watch?v=TaRZnpAmtJk",
+        "release_date": "2026-04-01",
+        "overview": "Une rencontre de deux rythmes de vie : celui de l’homme et celui de la nature. \"Inspirer - expirer. Environ seize fois par minute pour les humains. Une fois par jour pour les arbres. Voici une histoire dans laquelle ces deux rythmes se rencontrent.",
+        "tagline": "",
+        "runtime": 146,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/e40FMjHg2RoypsjxygoTFB5jLUd.jpg"
+    },
+    {
+        "title": "Sukkwan Island",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/vWJlE5tGAKCIVq0EIDI7K7suDIr.jpg",
+        "trailer": null,
+        "release_date": "2026-04-29",
+        "overview": "Tom emmène son fils de treize ans vivre une année sur une île isolée dans le Grand Nord. Ce retour à la vie sauvage au cœur d’une nature majestueuse leur permet de se retrouver. Mais les conditions extrêmes et l’isolement mettent leur relation à l’épreuve.",
+        "tagline": "",
+        "runtime": 115,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/oJXxxTpyEQyu0QOt3lCq6Ej5g5G.jpg"
+    },
+    {
+        "title": "Moi, quand je me réincarne en Slime, le Film - Les larmes de la mer azur",
+        "rating": 0,
+        "genre": "Animation / Fantastique / Aventure / Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/q2CqzdaaxHrpH1SKlqjKOBKCUEm.jpg",
+        "trailer": "https://www.youtube.com/watch?v=0FwonLrjji8",
+        "release_date": "2026-04-29",
+        "overview": "",
+        "tagline": "",
+        "runtime": 105,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/4z6VWajbDWZ6CQFC3u4ApKMzGMk.jpg"
+    },
+    {
+        "title": "Vivaldi et moi",
+        "rating": 6.9,
+        "genre": "Musique / Drame / Histoire",
+        "poster": "https://image.tmdb.org/t/p/w500/519IrW1wWNeR4sdAdH8HY4srrB6.jpg",
+        "trailer": "https://www.youtube.com/watch?v=J-fEjuVy5cQ",
+        "release_date": "2026-04-29",
+        "overview": "Venise du XVIIIe siècle, Cecilia, une violoniste virtuose de 20 ans vit à l'orphelinat Pièta. Malgré son talent, Cecilia sait que le mariage est sa seule échappatoire. Elle rencontre Antonio Vivaldi, un compositeur brillant et ambitieux qui devient son nouveau professeur de violon.",
+        "tagline": "",
+        "runtime": 110,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/tjRhxRyaF7LgGnNP2lrAIo3cQSb.jpg"
+    },
+    {
+        "title": "Embarquement immédiat",
+        "rating": 0,
+        "genre": "Drame / Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/sawjHid87FajAIDYK40sDUlH5y5.jpg",
+        "trailer": "https://www.youtube.com/watch?v=s2LLsEmk7fc",
+        "release_date": "2026-04-29",
+        "overview": "Benji rencontre Jake à la caisse d’un aéroport et est immédiatement intrigué. Jake est musclé, insaisissable, dominant et, comme Benji le soupçonne avec joie, \"un peu gay\". S’ensuivent des escapades passionnées à Amsterdam, beaucoup de sexe et l’émergence progressive d’un rapport de force voué à l’échec. Pris dans un tourbillon émotionnel, Benji se retrouve à remettre en question ce qu’il attend de l’amour, de lui-même… et de la vie.",
+        "tagline": "",
+        "runtime": 82,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/8UKS1fmoReGfVPY2yQ2V5lO29VT.jpg"
+    },
+    {
+        "title": "Dao",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/4wiscRFdQwiWhdOEK9mwCbccdgc.jpg",
+        "trailer": null,
+        "release_date": "2026-04-29",
+        "overview": "Aujourd’hui Gloria marie sa fille en banlieue parisienne. Il y a peu, en Guinée Bissau, elle assistait à la cérémonie qui consacre son père décédé en ancêtre. D’une cérémonie à l’autre, entre passé et présent, vie et mort, réalité et fiction, Gloria se réconcilie avec son histoire, trouve sa place et connaît un moment de paix.",
+        "tagline": "",
+        "runtime": 185,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/1bcX2146IaCIMwfrBUUymaUo1Km.jpg"
     }
 ]
