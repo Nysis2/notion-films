@@ -1,7 +1,7 @@
 [
     {
         "title": "They Will Kill You",
-        "rating": 6.536,
+        "rating": 6.565,
         "genre": "Action / Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/aerhRS1khx0H5UnC1yjVnMMM4uc.jpg",
         "trailer": "https://www.youtube.com/watch?v=s0PGrtw0X1Q",
@@ -85,7 +85,7 @@
     },
     {
         "title": "Yellow Letters",
-        "rating": 7.5,
+        "rating": 7.519,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/gNrb0GhhSBDIcWgVsmngO4GlGPM.jpg",
         "trailer": "https://www.youtube.com/watch?v=PSrP-KNXLSc",
@@ -421,7 +421,7 @@
     },
     {
         "title": "Un jour avec mon père",
-        "rating": 7.563,
+        "rating": 7.6,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/aLQYyqWlIBBU3L8L84txbh0x1nq.jpg",
         "trailer": "https://www.youtube.com/watch?v=50ICTaEuQxg",
@@ -469,7 +469,7 @@
     },
     {
         "title": "Plus fort que moi",
-        "rating": 8.235,
+        "rating": 8.242,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/apm7tMSau8qIIdOZiQCw8xse4W1.jpg",
         "trailer": "https://www.youtube.com/watch?v=10ynpduiRpM",
@@ -493,7 +493,7 @@
     },
     {
         "title": "Super Mario Galaxy, le film",
-        "rating": 6.728,
+        "rating": 6.725,
         "genre": "Famille / Fantastique / Comédie / Aventure / Animation",
         "poster": "https://image.tmdb.org/t/p/w500/aSQktALDmbunDbwkuZbZFMEWVFr.jpg",
         "trailer": "https://www.youtube.com/watch?v=En5QZmL5R1s",
@@ -505,7 +505,7 @@
     },
     {
         "title": "L'Ultime Héritier",
-        "rating": 7.027,
+        "rating": 7.02,
         "genre": "Comédie / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/j1cWNJO6iKNZoKEQ70fgl7QrhVS.jpg",
         "trailer": "https://www.youtube.com/watch?v=B7RslMKZ2Yc",
@@ -517,7 +517,7 @@
     },
     {
         "title": "The Drama",
-        "rating": 7.009,
+        "rating": 7.01,
         "genre": "Romance / Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/g0xtgOtRCsETenxPgxG9WbNHXBR.jpg",
         "trailer": "https://www.youtube.com/watch?v=0ZDzsH3XGFA",
@@ -526,18 +526,6 @@
         "tagline": "Vous êtes cordialement invités",
         "runtime": 105,
         "backdrop": "https://image.tmdb.org/t/p/w1280/rw1WmxUvmbwRsbAX12m6toIg04j.jpg"
-    },
-    {
-        "title": "Avant le jour",
-        "rating": 0,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/2xefPGUJppCeDQuOmDXoK2raD0f.jpg",
-        "trailer": null,
-        "release_date": "2026-03-20",
-        "overview": "",
-        "tagline": "",
-        "runtime": 13,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/4fktHVLz2gDOWUz1oOuvL8PPTsi.jpg"
     },
     {
         "title": "Anemone",
@@ -841,7 +829,7 @@
     },
     {
         "title": "Wedding Nightmare : Deuxième Partie",
-        "rating": 7.002,
+        "rating": 7.012,
         "genre": "Horreur / Comédie / Action",
         "poster": "https://image.tmdb.org/t/p/w500/ICQGjgWmTD3idlMUgRhhKIIxul.jpg",
         "trailer": "https://www.youtube.com/watch?v=jczr0KCloXk",
@@ -925,7 +913,7 @@
     },
     {
         "title": "Good Luck, Have Fun, Don't Die",
-        "rating": 6.918,
+        "rating": 6.909,
         "genre": "Science-fiction / Action / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
         "trailer": "https://www.youtube.com/watch?v=Nm4WbapDzDQ",
@@ -1057,7 +1045,7 @@
     },
     {
         "title": "Le Réveil de la Momie",
-        "rating": 6.8,
+        "rating": 6.768,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/aENH9ETtWynb6T1XhRwIFlvkBzI.jpg",
         "trailer": "https://www.youtube.com/watch?v=6wbMsDmJLCs",
@@ -1093,7 +1081,7 @@
     },
     {
         "title": "Juste une illusion",
-        "rating": 7.187,
+        "rating": 7.181,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/my4QdEBuhYpYLR4M7AkJWJGcxxx.jpg",
         "trailer": null,
@@ -1117,7 +1105,7 @@
     },
     {
         "title": "Le dernier pour la route",
-        "rating": 7.619,
+        "rating": 7.615,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/puu0JBOsQJn6BSsuEnsaR85NrEh.jpg",
         "trailer": "https://www.youtube.com/watch?v=5kYHufR72P0",
@@ -1153,7 +1141,7 @@
     },
     {
         "title": "La Corde au cou",
-        "rating": 6.417,
+        "rating": 6.413,
         "genre": "Crime / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/g7Y94KrUd0pDGRVVZQMh4n9FnYp.jpg",
         "trailer": "https://www.youtube.com/watch?v=aHAwgnJL78Y",
@@ -1489,7 +1477,7 @@
     },
     {
         "title": "Romería",
-        "rating": 6.58,
+        "rating": 6.6,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/oE9fWg0f9ewu68hFq8TOVBrVDZe.jpg",
         "trailer": "https://www.youtube.com/watch?v=da3CAnPA_EM",
@@ -1501,7 +1489,7 @@
     },
     {
         "title": "Michael",
-        "rating": 7.623,
+        "rating": 7.571,
         "genre": "Musique / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
         "trailer": "https://www.youtube.com/watch?v=k-YAcjaLuSI",
@@ -1717,7 +1705,7 @@
     },
     {
         "title": "Sorda",
-        "rating": 7.3,
+        "rating": 7.28,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/suCZzRLf3fxltbVlg6z4nZBY4Tt.jpg",
         "trailer": "https://www.youtube.com/watch?v=YhYdF1oavYk",
@@ -1741,7 +1729,7 @@
     },
     {
         "title": "D'où vient le vent",
-        "rating": 7.4,
+        "rating": 7.7,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/ppViwGpufHCkpFHm8R3tkcGuqOZ.jpg",
         "trailer": "https://www.youtube.com/watch?v=ScHDxX_MMpM",
@@ -1753,7 +1741,7 @@
     },
     {
         "title": "Die My Love",
-        "rating": 6.172,
+        "rating": 6.168,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/tQk0zn7UirjbB3vh1B65WWKHd9Z.jpg",
         "trailer": "https://www.youtube.com/watch?v=2jzXHW6Qe70",
@@ -1774,18 +1762,6 @@
         "tagline": "Mais où est ce que j'ai mis ma BD ?",
         "runtime": 9,
         "backdrop": null
-    },
-    {
-        "title": "Omaha",
-        "rating": 8,
-        "genre": "Drame / Famille",
-        "poster": "https://image.tmdb.org/t/p/w500/s1SNVyTWWmvpWK439bOrRF9xywS.jpg",
-        "trailer": "https://www.youtube.com/watch?v=M2OTVoxpetU",
-        "release_date": "2026-04-29",
-        "overview": "Après une tragédie familiale, Ella et Charlie, deux frères et sœurs, sont réveillés par leur père et emmenés dans un voyage à travers le pays, à la découverte d'un monde nouveau. Au fil de leur aventure, Ella commence à comprendre que les choses ne sont peut-être pas ce qu'elles semblent être.",
-        "tagline": "",
-        "runtime": 83,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/rf8V9z28gJre58U9ObHN3NJph4A.jpg"
     },
     {
         "title": "L'Enfant Bélier",
@@ -1813,7 +1789,7 @@
     },
     {
         "title": "Le Diable s'habille en Prada 2",
-        "rating": 6.958,
+        "rating": 6.3,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/pD5fSVgDW2L5993eAlDd2GFXwIp.jpg",
         "trailer": "https://www.youtube.com/watch?v=PMd1at7OwiE",
@@ -1861,7 +1837,7 @@
     },
     {
         "title": "Sukkwan Island",
-        "rating": 0,
+        "rating": 5,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/vWJlE5tGAKCIVq0EIDI7K7suDIr.jpg",
         "trailer": null,
@@ -1873,7 +1849,7 @@
     },
     {
         "title": "Moi, quand je me réincarne en Slime, le Film - Les larmes de la mer azur",
-        "rating": 0,
+        "rating": 6,
         "genre": "Animation / Fantastique / Aventure / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/q2CqzdaaxHrpH1SKlqjKOBKCUEm.jpg",
         "trailer": "https://www.youtube.com/watch?v=0FwonLrjji8",
@@ -1885,7 +1861,7 @@
     },
     {
         "title": "Vivaldi et moi",
-        "rating": 6.989,
+        "rating": 7,
         "genre": "Musique / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/519IrW1wWNeR4sdAdH8HY4srrB6.jpg",
         "trailer": "https://www.youtube.com/watch?v=J-fEjuVy5cQ",
@@ -2209,7 +2185,7 @@
     },
     {
         "title": "Cinque secondi",
-        "rating": 6.671,
+        "rating": 6.7,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/5hPjY75ddE90l6XzfAC6zrMRnNg.jpg",
         "trailer": null,
@@ -2434,5 +2410,29 @@
         "tagline": "",
         "runtime": 87,
         "backdrop": "https://image.tmdb.org/t/p/w1280/in3LVvb6bENZDeMs9oqy11JUbNR.jpg"
+    },
+    {
+        "title": "Sur la route d’Omaha",
+        "rating": 8,
+        "genre": "Drame / Famille",
+        "poster": "https://image.tmdb.org/t/p/w500/s1SNVyTWWmvpWK439bOrRF9xywS.jpg",
+        "trailer": "https://www.youtube.com/watch?v=M2OTVoxpetU",
+        "release_date": "2026-04-29",
+        "overview": "Après une tragédie familiale, Ella et Charlie, deux frères et sœurs, sont réveillés par leur père et emmenés dans un voyage à travers le pays, à la découverte d'un monde nouveau. Au fil de leur aventure, Ella commence à comprendre que les choses ne sont peut-être pas ce qu'elles semblent être.",
+        "tagline": "",
+        "runtime": 83,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/rf8V9z28gJre58U9ObHN3NJph4A.jpg"
+    },
+    {
+        "title": "Sérénade",
+        "rating": 0,
+        "genre": "Drame / Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/9JSDY2dL5hAPglYlbP9qeTCXgjf.jpg",
+        "trailer": null,
+        "release_date": "2026-04-29",
+        "overview": "Dans une maison habitée par ses souvenirs, Jean revit un passé où amour et mémoire se confondent sans jamais se rejoindre.",
+        "tagline": "",
+        "runtime": 5,
+        "backdrop": null
     }
 ]
