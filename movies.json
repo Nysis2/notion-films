@@ -1,5 +1,161 @@
 [
     {
+        "title": "The march of the great putrid bees",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/kq25f3Oqf6QeOQ6K0OnxnnlZSBj.jpg",
+        "trailer": null,
+        "release_date": "2026-05-13",
+        "overview": "",
+        "tagline": "",
+        "runtime": 8,
+        "backdrop": null
+    },
+    {
+        "title": "The Mad Dog of Europe",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/qBTAcQjFCNFbLmHdvU2wZaUwyVT.jpg",
+        "trailer": null,
+        "release_date": "2026-04-15",
+        "overview": "En 1932, Herman J. Mankiewicz, qui deviendra célèbre 10 ans plus tard pour son scénario de Citizen Kane, écrit The Mad Dog of Europe : un script visionnaire dénonçant la menace hitlérienne. Entre pressions diplomatiques et intérêts économiques, les studios hollywoodiens préfèrent se taire et enterrer le projet. L’histoire de ce film jamais produit semble résonner avec les fractures de plus en plus menaçantes de notre époque, ils vont devoir lutter contre les éléments, tandis que le désespoir et la folie menacent de les emporter...",
+        "tagline": "",
+        "runtime": 80,
+        "backdrop": null
+    },
+    {
+        "title": "If Birds Believed in God",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/tLXIqcSk7ZXgiobm6QBm878horX.jpg",
+        "trailer": "https://www.youtube.com/watch?v=-BAaZvjdxqA",
+        "release_date": "2026-05-12",
+        "overview": "",
+        "tagline": "",
+        "runtime": 20,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/olr5ojIgmxYqFJONJnfGgzFUSkx.jpg"
+    },
+    {
+        "title": "Bin U Bin, ailleurs la frontière",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/9iZ1pVnu1GGNAHbkCXlYCT8lEhw.jpg",
+        "trailer": "https://www.youtube.com/watch?v=EqyNB4Bn3io",
+        "release_date": "2026-04-17",
+        "overview": "Dans les régions reculées de l'Est algérien, un réalisateur de films se réfugie chez un ami, qui lui fait découvrir le troublant univers de la contrebande… Un premier film à mi-chemin entre le western et le conte philosophique. Plongée passionnante au cœur de la contrebande d'essence à la frontière algéro-tunisienne.",
+        "tagline": "",
+        "runtime": 100,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/2lPu7tE7gWh6tCD3XMvsL0en0cb.jpg"
+    },
+    {
+        "title": "Chambre 313",
+        "rating": 10,
+        "genre": "Comédie / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/5G7CzEDZc90A7heqBdUcLweY7uo.jpg",
+        "trailer": null,
+        "release_date": "2026-04-21",
+        "overview": "Lorsque le patient de la chambre 313 apprend la mauvaise nouvelle, son continuum existentiel est bouleversé. Ce court-métrage à dominante absurde opère alors comme un dispositif d’exploration des notions de vie et de mort, en articulant les dimensions métaphysiques et bureaucratiques de la finitude humaine. Il propose une relecture systémique des seuils vie/mort, en interrogeant leurs protocoles de validation, leurs régimes de preuve et leurs implications métaphysico-administratives, invitant ainsi à une reconfiguration cognitive des paradigmes établis.",
+        "tagline": "Chambre 313 : veuillez patienter, votre décès est en cours",
+        "runtime": 7,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3R8xxrxyXnls4TjCGx41dATOGyw.jpg"
+    },
+    {
+        "title": "Mon Papy",
+        "rating": 0,
+        "genre": "Drame / Animation",
+        "poster": "https://image.tmdb.org/t/p/w500/r7S7jFqGYRH8cGarqw6pBwdREwG.jpg",
+        "trailer": null,
+        "release_date": "2026-05-10",
+        "overview": "",
+        "tagline": "",
+        "runtime": 1,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7w4JJ6AOlcpdHb2fE8M5Ti8FhZi.jpg"
+    },
+    {
+        "title": "Primitif",
+        "rating": 0,
+        "genre": "Fantastique / Histoire",
+        "poster": "https://image.tmdb.org/t/p/w500/or7TvgNhCpD7JgFud7pyFfGubGo.jpg",
+        "trailer": null,
+        "release_date": "2026-04-19",
+        "overview": "Il y a environ 10 000 ans, la tribu des Gbewa migre pour survivre aux changements climatiques. K'BOA, chamane guidée par les esprits, et NAHAR, un chasseur sceptique qui vient de les rejoindre, nouent une relation complexe, teinté d’affection et de défiance. Quand NAHAR remet en question les croyances de K'BOA, une apparition mystérieuse lui offre un vœu, le confrontant à un dilemme qui pourrait bouleverser leur lien fragile.",
+        "tagline": "Avant les dieux, il y avait les hommes. Et leurs égos.",
+        "runtime": 18,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hCjgfYpaHFsFEMWfqUEeS8ArX9A.jpg"
+    },
+    {
+        "title": "Sans retour possible",
+        "rating": 6,
+        "genre": "Documentaire / Histoire",
+        "poster": "https://image.tmdb.org/t/p/w500/2cSniZS96mNFIQmZlqbOrIJydyp.jpg",
+        "trailer": null,
+        "release_date": "2026-04-22",
+        "overview": "« Sans retour possible » : ces trois mots barrent les papiers d'identité des Arméniens partis de Turquie après les massacres de 1915.",
+        "tagline": "",
+        "runtime": 108,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/44SNo8NHCRLrBKHj8pJNKqXJnTj.jpg"
+    },
+    {
+        "title": "La casa de los monstruos",
+        "rating": 0,
+        "genre": "Drame / Horreur",
+        "poster": "https://image.tmdb.org/t/p/w500/wU8ZZ9ri4WR2sUVUkr1FUKgGG2A.jpg",
+        "trailer": null,
+        "release_date": "2026-05-18",
+        "overview": "",
+        "tagline": "",
+        "runtime": 0,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/nXS0X9ZYOXuAv0J2MbQwM24jf1b.jpg"
+    },
+    {
+        "title": "Maximilien Kolbe",
+        "rating": 0,
+        "genre": "Histoire / Drame / Guerre",
+        "poster": "https://image.tmdb.org/t/p/w500/egZcLEf6DSapJ70jGqSSi7Iv0pd.jpg",
+        "trailer": null,
+        "release_date": "2026-05-20",
+        "overview": "Auschwitz, 1941. En représailles à l’évasion d’un prisonnier, 10 hommes sont condamnés à mourir de faim dans un bunker. Lorsqu’un père de famille est désigné par le sort, Maximilien Kolbe, prêtre polonais, s’avance pour prendre sa place. Maximilien s’engage alors dans un combat pour faire triompher l’amour dans cet enfer sur terre. Film inspiré d'une histoire vraie.",
+        "tagline": "Une vie donnée.",
+        "runtime": 111,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/uLYMkj40oKOZt28yDq7dNjYupby.jpg"
+    },
+    {
+        "title": "ETTY : Partie 2",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/1ZVZDfmGb5SnO0OzLayJ9N3i0p2.jpg",
+        "trailer": "https://www.youtube.com/watch?v=_bUMWEJhP_c",
+        "release_date": "2026-05-06",
+        "overview": "",
+        "tagline": "",
+        "runtime": 180,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/whlxv3GAahFMiHzBSoDZ0Nxs2h0.jpg"
+    },
+    {
+        "title": "Triumf serca",
+        "rating": 6.444,
+        "genre": "Drame / Histoire",
+        "poster": "https://image.tmdb.org/t/p/w500/odkKeZaG6w4Py9RAbyHr38pacvO.jpg",
+        "trailer": "https://www.youtube.com/watch?v=gw-E2KEr6Gw",
+        "release_date": "2026-05-20",
+        "overview": "",
+        "tagline": "",
+        "runtime": 118,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7SzUd9CzaCmrWu8BbYDmE9LPMml.jpg"
+    },
+    {
+        "title": "TRENTE",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/vHkdSTAESea4Q5V30247epiqtqN.jpg",
+        "trailer": null,
+        "release_date": "2026-05-18",
+        "overview": "J’ai documenté l’année de mes 29 ans jusqu’à mon passage symbolique de la trentaine, et il s’est passé pas mal de choses au final…",
+        "tagline": "",
+        "runtime": 70,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/w6qWjxwYMvmHsQEtse9hgb6cppG.jpg"
+    },
+    {
         "title": "Dessine-moi",
         "rating": 0,
         "genre": "",
@@ -46,30 +202,6 @@
         "tagline": "L'illusion de l'espoir est-elle une forme d'espoir ?",
         "runtime": 12,
         "backdrop": "https://image.tmdb.org/t/p/w1280/7uFGIp1sMdPcd8vSH686eVISaqi.jpg"
-    },
-    {
-        "title": "ETTY : Partie 1",
-        "rating": 0,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/ef0hLjx8FkqesySRwU6xBYVNNwF.jpg",
-        "trailer": "https://www.youtube.com/watch?v=_bUMWEJhP_c",
-        "release_date": "2026-05-06",
-        "overview": "",
-        "tagline": "",
-        "runtime": 148,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/54TxItas2SZRnbi5uhkVtSMXQU.jpg"
-    },
-    {
-        "title": "Mad Dog of Europe",
-        "rating": 7,
-        "genre": "Documentaire",
-        "poster": "https://image.tmdb.org/t/p/w500None",
-        "trailer": null,
-        "release_date": "2026-04-15",
-        "overview": "L’histoire du film antinazi le plus tristement célèbre. Jamais réalisé par Herman J. Mankiewicz, son scénariste et producteur, le film prédit en 1932 la montée de Hitler.",
-        "tagline": "",
-        "runtime": 80,
-        "backdrop": null
     },
     {
         "title": "Morte e Vida Madalena",
@@ -133,7 +265,7 @@
     },
     {
         "title": "Autofiction",
-        "rating": 7.25,
+        "rating": 7.2,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/Aqp47ZQiPcOgX1WHLkxmSYoMc4w.jpg",
         "trailer": null,
@@ -145,7 +277,7 @@
     },
     {
         "title": "ALL YOU NEED IS KILL",
-        "rating": 6.281,
+        "rating": 6.3,
         "genre": "Animation / Action / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/nP3Dmepb5XENLPAWzpYFOUmL8j8.jpg",
         "trailer": "https://www.youtube.com/watch?v=0YpXN40vIxM",
@@ -157,7 +289,7 @@
     },
     {
         "title": "Ella McCay",
-        "rating": 5.535,
+        "rating": 5.5,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/l7Ywl6GKDNfjym63TLHKsxr3ffo.jpg",
         "trailer": "https://www.youtube.com/watch?v=vRE6Iobir8k",
@@ -589,7 +721,7 @@
     },
     {
         "title": "Un balcon à Limoges",
-        "rating": 7,
+        "rating": 6.5,
         "genre": "Comédie / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/9Ufq4GAoxvA15zkGjX4h41vnx8M.jpg",
         "trailer": null,
@@ -646,18 +778,6 @@
         "tagline": "",
         "runtime": 98,
         "backdrop": "https://image.tmdb.org/t/p/w1280/pzGbiuYkc8B2Nu4SGzGEGIuduw4.jpg"
-    },
-    {
-        "title": "My Undesirable Friends: Part I - Last Air in Moscow",
-        "rating": 7.5,
-        "genre": "Documentaire",
-        "poster": "https://image.tmdb.org/t/p/w500/290La7BM5CLhLTwa7QsJQVGthok.jpg",
-        "trailer": "https://www.youtube.com/watch?v=GMIEVj_PKX8",
-        "release_date": "2026-04-03",
-        "overview": "",
-        "tagline": "",
-        "runtime": 324,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/k0mfIl2mNf50mUbNcNNhTDkeZCM.jpg"
     },
     {
         "title": "An Evening Song (for Three Voices)",
@@ -757,7 +877,7 @@
     },
     {
         "title": "Billie Eilish - Hit Me Hard and Soft : The Tour (3D)",
-        "rating": 7.5,
+        "rating": 7.625,
         "genre": "Musique / Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/8DTastKqiYno03GHdkOxLpm2het.jpg",
         "trailer": "https://www.youtube.com/watch?v=9ElURjcuWLQ",
@@ -769,7 +889,7 @@
     },
     {
         "title": "Obsession",
-        "rating": 6.893,
+        "rating": 6.9,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/bHZTpFju6Bv2kkd0SGU5Jo4sPQl.jpg",
         "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ",
@@ -793,7 +913,7 @@
     },
     {
         "title": "JUNK WORLD",
-        "rating": 6.929,
+        "rating": 6.813,
         "genre": "Animation / Science-fiction / Action / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/wy4zIDgXNqY0iN4XQljEicAfFi.jpg",
         "trailer": null,
@@ -1033,7 +1153,7 @@
     },
     {
         "title": "Mi Amor",
-        "rating": 6,
+        "rating": 5,
         "genre": "Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/ukOLfGfUileYmo2RArqyofwkpWS.jpg",
         "trailer": "https://www.youtube.com/watch?v=9ux7XiChxZo",
@@ -1045,7 +1165,7 @@
     },
     {
         "title": "Pour le plaisir",
-        "rating": 5.531,
+        "rating": 5.75,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/2cWdr2n7VNrLEAer6hMPASIP7Px.jpg",
         "trailer": null,
@@ -1117,7 +1237,7 @@
     },
     {
         "title": "The Criminals",
-        "rating": 6.148,
+        "rating": 6.1,
         "genre": "Action / Crime / Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/t6XO6yRFyLFbYEb5f7agQJjLlHR.jpg",
         "trailer": "https://www.youtube.com/watch?v=1aNywiElPSY",
@@ -1141,7 +1261,7 @@
     },
     {
         "title": "Mortal Kombat II",
-        "rating": 7.145,
+        "rating": 7.003,
         "genre": "Action / Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
         "trailer": "https://www.youtube.com/watch?v=zva2PQ-ud5Y",
@@ -1357,7 +1477,7 @@
     },
     {
         "title": "Vivaldi et moi",
-        "rating": 7.198,
+        "rating": 7.211,
         "genre": "Musique / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/519IrW1wWNeR4sdAdH8HY4srrB6.jpg",
         "trailer": "https://www.youtube.com/watch?v=J-fEjuVy5cQ",
@@ -1369,7 +1489,7 @@
     },
     {
         "title": "Moi, quand je me réincarne en Slime, le Film - Les larmes de la mer azur",
-        "rating": 5.333,
+        "rating": 5.3,
         "genre": "Animation / Fantastique / Aventure / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/q2CqzdaaxHrpH1SKlqjKOBKCUEm.jpg",
         "trailer": "https://www.youtube.com/watch?v=0FwonLrjji8",
@@ -1393,7 +1513,7 @@
     },
     {
         "title": "Noise",
-        "rating": 6.861,
+        "rating": 6.904,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/R7MVc6TMjInJwkjrgAob7VA2MM.jpg",
         "trailer": "https://www.youtube.com/watch?v=lptFuq1LG7g",
@@ -1405,7 +1525,7 @@
     },
     {
         "title": "Die My Love",
-        "rating": 6.154,
+        "rating": 6.163,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/tQk0zn7UirjbB3vh1B65WWKHd9Z.jpg",
         "trailer": "https://www.youtube.com/watch?v=2jzXHW6Qe70",
@@ -1417,7 +1537,7 @@
     },
     {
         "title": "Le Diable s'habille en Prada 2",
-        "rating": 6.7,
+        "rating": 6.731,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/pD5fSVgDW2L5993eAlDd2GFXwIp.jpg",
         "trailer": "https://www.youtube.com/watch?v=PMd1at7OwiE",
@@ -1513,7 +1633,7 @@
     },
     {
         "title": "La Poupée",
-        "rating": 6.278,
+        "rating": 6.079,
         "genre": "Comédie / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/5YhSuGSqSKp5rDvj2gMqCxxl30d.jpg",
         "trailer": null,
@@ -1549,7 +1669,7 @@
     },
     {
         "title": "Michael",
-        "rating": 7.555,
+        "rating": 7.551,
         "genre": "Musique / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
         "trailer": "https://www.youtube.com/watch?v=k-YAcjaLuSI",
@@ -1705,7 +1825,7 @@
     },
     {
         "title": "Le dernier pour la route",
-        "rating": 7.585,
+        "rating": 7.587,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/puu0JBOsQJn6BSsuEnsaR85NrEh.jpg",
         "trailer": "https://www.youtube.com/watch?v=5kYHufR72P0",
@@ -1717,7 +1837,7 @@
     },
     {
         "title": "Juste une illusion",
-        "rating": 7.35,
+        "rating": 7.336,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/my4QdEBuhYpYLR4M7AkJWJGcxxx.jpg",
         "trailer": null,
@@ -1729,7 +1849,7 @@
     },
     {
         "title": "La Corde au cou",
-        "rating": 6.426,
+        "rating": 6.439,
         "genre": "Crime / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/g7Y94KrUd0pDGRVVZQMh4n9FnYp.jpg",
         "trailer": "https://www.youtube.com/watch?v=aHAwgnJL78Y",
@@ -1837,7 +1957,7 @@
     },
     {
         "title": "Good Luck, Have Fun, Don't Die",
-        "rating": 6.9,
+        "rating": 6.903,
         "genre": "Science-fiction / Action / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
         "trailer": "https://www.youtube.com/watch?v=Nm4WbapDzDQ",
@@ -1885,7 +2005,7 @@
     },
     {
         "title": "Wedding Nightmare : Deuxième Partie",
-        "rating": 7.476,
+        "rating": 7.499,
         "genre": "Horreur / Comédie / Action",
         "poster": "https://image.tmdb.org/t/p/w500/ICQGjgWmTD3idlMUgRhhKIIxul.jpg",
         "trailer": "https://www.youtube.com/watch?v=jczr0KCloXk",
