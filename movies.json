@@ -1,5 +1,41 @@
 [
     {
+        "title": "COLOCATAIRES",
+        "rating": 10,
+        "genre": "Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/1mAxjzUzTcd7hk1gmzZdWjOt2At.jpg",
+        "trailer": null,
+        "release_date": "2026-05-15",
+        "overview": "Une incursion d'une soirée dans un appartement hébergeant 4 colocataires avec chacun des personnalités proéminentes. Une livreuse va, en les harcelant avec un nombre incessant de colis, rythmer leur soirée...",
+        "tagline": "",
+        "runtime": 9,
+        "backdrop": null
+    },
+    {
+        "title": "ETTY : Partie 1",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/ef0hLjx8FkqesySRwU6xBYVNNwF.jpg",
+        "trailer": "https://www.youtube.com/watch?v=_bUMWEJhP_c",
+        "release_date": "2026-05-06",
+        "overview": "",
+        "tagline": "",
+        "runtime": 148,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/54TxItas2SZRnbi5uhkVtSMXQU.jpg"
+    },
+    {
+        "title": "Mad Dog of Europe",
+        "rating": 7,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": null,
+        "release_date": "2026-04-15",
+        "overview": "L’histoire du film antinazi le plus tristement célèbre. Jamais réalisé par Herman J. Mankiewicz, son scénariste et producteur, le film prédit en 1932 la montée de Hitler.",
+        "tagline": "",
+        "runtime": 80,
+        "backdrop": null
+    },
+    {
         "title": "Synapse",
         "rating": 0,
         "genre": "Science-fiction",
@@ -24,32 +60,8 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/b5lcIGWBPIfgy68HQQ8qsKlHuhB.jpg"
     },
     {
-        "title": "The Mad Dog of Europe",
-        "rating": 0,
-        "genre": "Documentaire",
-        "poster": "https://image.tmdb.org/t/p/w500/qBTAcQjFCNFbLmHdvU2wZaUwyVT.jpg",
-        "trailer": null,
-        "release_date": "2026-04-15",
-        "overview": "En 1932, Herman J. Mankiewicz, qui deviendra célèbre 10 ans plus tard pour son scénario de Citizen Kane, écrit The Mad Dog of Europe : un script visionnaire dénonçant la menace hitlérienne. Entre pressions diplomatiques et intérêts économiques, les studios hollywoodiens préfèrent se taire et enterrer le projet. L’histoire de ce film jamais produit semble résonner avec les fractures de plus en plus menaçantes de notre époque, ils vont devoir lutter contre les éléments, tandis que le désespoir et la folie menacent de les emporter...",
-        "tagline": "",
-        "runtime": 80,
-        "backdrop": null
-    },
-    {
-        "title": "ETTY : Partie 2",
-        "rating": 0,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/1ZVZDfmGb5SnO0OzLayJ9N3i0p2.jpg",
-        "trailer": "https://www.youtube.com/watch?v=_bUMWEJhP_c",
-        "release_date": "2026-05-06",
-        "overview": "",
-        "tagline": "",
-        "runtime": 180,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/whlxv3GAahFMiHzBSoDZ0Nxs2h0.jpg"
-    },
-    {
         "title": "Wedding Nightmare : Deuxième partie",
-        "rating": 7.548,
+        "rating": 7.564,
         "genre": "Horreur / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/ygbalhUdg7RnQKwnnyyqqSXoSvY.jpg",
         "trailer": "https://www.youtube.com/watch?v=jczr0KCloXk",
@@ -76,7 +88,7 @@
         "rating": 0,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/tLXIqcSk7ZXgiobm6QBm878horX.jpg",
-        "trailer": "https://www.youtube.com/watch?v=-BAaZvjdxqA",
+        "trailer": "https://www.youtube.com/watch?v=FyAvLG0EZ-k",
         "release_date": "2026-05-12",
         "overview": "",
         "tagline": "",
@@ -241,7 +253,7 @@
     },
     {
         "title": "L'Être Aimé",
-        "rating": 0,
+        "rating": 7.5,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/guyRccNh9py85OYQO7Y7pLblxGQ.jpg",
         "trailer": null,
@@ -265,7 +277,7 @@
     },
     {
         "title": "Histoires parallèles",
-        "rating": 5.654,
+        "rating": 5.833,
         "genre": "Drame / Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/amQZiDsJ8SXCN6w073UxBBnYBmi.jpg",
         "trailer": "https://www.youtube.com/watch?v=y3BV9KeJzGM",
@@ -889,7 +901,7 @@
     },
     {
         "title": "La Vénus électrique",
-        "rating": 7.667,
+        "rating": 7.438,
         "genre": "Comédie / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/eCzBpynLz6SHmupssSo9RIX4YIs.jpg",
         "trailer": null,
@@ -901,7 +913,7 @@
     },
     {
         "title": "Billie Eilish - Hit Me Hard and Soft : The Tour (3D)",
-        "rating": 7.7,
+        "rating": 7.679,
         "genre": "Musique / Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/8DTastKqiYno03GHdkOxLpm2het.jpg",
         "trailer": "https://www.youtube.com/watch?v=9ElURjcuWLQ",
@@ -913,7 +925,7 @@
     },
     {
         "title": "Obsession",
-        "rating": 7.9,
+        "rating": 8.008,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/bHZTpFju6Bv2kkd0SGU5Jo4sPQl.jpg",
         "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ",
@@ -1213,7 +1225,7 @@
     },
     {
         "title": "C’est quoi l’amour ?",
-        "rating": 6.594,
+        "rating": 6.262,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/rCESGHvM0XCPoTUMkqG7E9pDYPq.jpg",
         "trailer": null,
@@ -1261,7 +1273,7 @@
     },
     {
         "title": "The Criminals",
-        "rating": 6.1,
+        "rating": 6.2,
         "genre": "Action / Crime / Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/t6XO6yRFyLFbYEb5f7agQJjLlHR.jpg",
         "trailer": "https://www.youtube.com/watch?v=1aNywiElPSY",
@@ -1273,7 +1285,7 @@
     },
     {
         "title": "The World of Love",
-        "rating": 7.867,
+        "rating": 7.824,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/tLGaVKh2rBfkBmhW6qXep4njrlO.jpg",
         "trailer": "https://www.youtube.com/watch?v=SXLRjxnPAwM",
@@ -1285,7 +1297,7 @@
     },
     {
         "title": "Mortal Kombat II",
-        "rating": 7,
+        "rating": 6.992,
         "genre": "Action / Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
         "trailer": "https://www.youtube.com/watch?v=zva2PQ-ud5Y",
@@ -1501,7 +1513,7 @@
     },
     {
         "title": "Vivaldi et moi",
-        "rating": 7.176,
+        "rating": 7.2,
         "genre": "Musique / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/519IrW1wWNeR4sdAdH8HY4srrB6.jpg",
         "trailer": "https://www.youtube.com/watch?v=J-fEjuVy5cQ",
@@ -1525,7 +1537,7 @@
     },
     {
         "title": "Hokum",
-        "rating": 6.811,
+        "rating": 6.816,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/kfA90SVM17WbJRMV8kC5k7IRFZz.jpg",
         "trailer": "https://www.youtube.com/watch?v=qU_i5e48KzQ",
@@ -1561,7 +1573,7 @@
     },
     {
         "title": "Le Diable s'habille en Prada 2",
-        "rating": 6.7,
+        "rating": 6.676,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/pD5fSVgDW2L5993eAlDd2GFXwIp.jpg",
         "trailer": "https://www.youtube.com/watch?v=PMd1at7OwiE",
@@ -1657,7 +1669,7 @@
     },
     {
         "title": "La Poupée",
-        "rating": 6,
+        "rating": 5.975,
         "genre": "Comédie / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/5YhSuGSqSKp5rDvj2gMqCxxl30d.jpg",
         "trailer": null,
@@ -1681,7 +1693,7 @@
     },
     {
         "title": "Romería",
-        "rating": 6.6,
+        "rating": 6.542,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/oE9fWg0f9ewu68hFq8TOVBrVDZe.jpg",
         "trailer": "https://www.youtube.com/watch?v=da3CAnPA_EM",
@@ -1693,7 +1705,7 @@
     },
     {
         "title": "Michael",
-        "rating": 7.547,
+        "rating": 7.572,
         "genre": "Musique / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
         "trailer": "https://www.youtube.com/watch?v=k-YAcjaLuSI",
@@ -1849,7 +1861,7 @@
     },
     {
         "title": "Le dernier pour la route",
-        "rating": 7.581,
+        "rating": 7.584,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/puu0JBOsQJn6BSsuEnsaR85NrEh.jpg",
         "trailer": "https://www.youtube.com/watch?v=5kYHufR72P0",
@@ -1873,7 +1885,7 @@
     },
     {
         "title": "La Corde au cou",
-        "rating": 6.451,
+        "rating": 6.516,
         "genre": "Crime / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/g7Y94KrUd0pDGRVVZQMh4n9FnYp.jpg",
         "trailer": "https://www.youtube.com/watch?v=aHAwgnJL78Y",
@@ -1969,7 +1981,7 @@
     },
     {
         "title": "Le Réveil de la Momie",
-        "rating": 6.731,
+        "rating": 6.7,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/aENH9ETtWynb6T1XhRwIFlvkBzI.jpg",
         "trailer": "https://www.youtube.com/watch?v=6wbMsDmJLCs",
@@ -1981,7 +1993,7 @@
     },
     {
         "title": "Good Luck, Have Fun, Don't Die",
-        "rating": 6.903,
+        "rating": 6.915,
         "genre": "Science-fiction / Action / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
         "trailer": "https://www.youtube.com/watch?v=Nm4WbapDzDQ",
