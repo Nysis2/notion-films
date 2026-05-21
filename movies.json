@@ -1,5 +1,257 @@
 [
     {
+        "title": "Aïra is talking",
+        "rating": 0,
+        "genre": "Drame / Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/tQxyyAYvL9CXq4uj14YP7BakorK.jpg",
+        "trailer": null,
+        "release_date": "2026-05-19",
+        "overview": "Léon est un personnage qui vit seul avec une assistante IA : Aïra. Depuis très longtemps, son quotidien consiste d’une routine basique menée par elle. Elle lui dit tout ce qu’il doit faire, comment le faire et quand. Mais brusquement, le serveur de l'IA tombe en panne, la rendant inutilisable. Léon, n’ayant plus d'autonomie, est pris de panique, il essaie alors d’improviser une journée typique en attendant avec impatience le retour de son assistante. Par tous les moyens, il essaye de réactiver son IA, mais ses efforts sont vains. Il prend alors la décision finale de vraiment agir par lui-même.",
+        "tagline": "",
+        "runtime": 8,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/s4FEb9E1UvU4NS8iIljMlK9NA5Z.jpg"
+    },
+    {
+        "title": "the walls were white",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": null,
+        "release_date": "2026-05-23",
+        "overview": "Peut-être que filmer n’a jamais été autre chose qu’une manière de retarder l’oubli.",
+        "tagline": "",
+        "runtime": 5,
+        "backdrop": null
+    },
+    {
+        "title": "You & Eye",
+        "rating": 0,
+        "genre": "Romance / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/bYRbLgPWw9BCjj54lZnkRwNvpRR.jpg",
+        "trailer": null,
+        "release_date": "2026-05-27",
+        "overview": "Tom, un jeune homme ennuyé par la vie, va faire une rencontre pleine de couleurs.",
+        "tagline": "",
+        "runtime": 4,
+        "backdrop": null
+    },
+    {
+        "title": "The Mad Dog of Europe",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/qBTAcQjFCNFbLmHdvU2wZaUwyVT.jpg",
+        "trailer": null,
+        "release_date": "2026-04-15",
+        "overview": "En 1932, Herman J. Mankiewicz, qui deviendra célèbre 10 ans plus tard pour son scénario de Citizen Kane, écrit The Mad Dog of Europe : un script visionnaire dénonçant la menace hitlérienne. Entre pressions diplomatiques et intérêts économiques, les studios hollywoodiens préfèrent se taire et enterrer le projet. L’histoire de ce film jamais produit semble résonner avec les fractures de plus en plus menaçantes de notre époque, ils vont devoir lutter contre les éléments, tandis que le désespoir et la folie menacent de les emporter...",
+        "tagline": "",
+        "runtime": 80,
+        "backdrop": null
+    },
+    {
+        "title": "Entre deux âges, portraits d'une jeunesse",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/y3BEXrVFgyszFPIGSzGGU7AkIlN.jpg",
+        "trailer": null,
+        "release_date": "2026-04-16",
+        "overview": "Un après-midi de fin d’été, dans un quartier de banlieue tout au nord de la France, en périphérie de Calais et de la mer. Des enfants et des adolescents tuent le temps qui s’écoule en bas des tours, entre les immeubles et les terrains vagues. Ils parlent d’amour, de doutes et d’espoirs, tentent de comprendre ce qui les anime.",
+        "tagline": "",
+        "runtime": 52,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zd1HmfKnKOhPsukjNVMpMPM1RFl.jpg"
+    },
+    {
+        "title": "The Party",
+        "rating": 0,
+        "genre": "Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/tuzC0DVpURw2rL6hixRyFupxCUs.jpg",
+        "trailer": null,
+        "release_date": "2026-04-30",
+        "overview": "Invités à dîner dans le château isolé de la richissime famille De Naultar, Marcel, Alice et Medhi, trois ouvriers, pensaient assister à une simple réception. Mais lorsque l'horloge sonne les douze coups de minuit, le malaise laisse place à l'horreur. La véritable « partie » commence alors : les invités ont une minute pour se cacher avant que leurs hôtes ne transforment le manoir en terrain de chasse.",
+        "tagline": "",
+        "runtime": 0,
+        "backdrop": null
+    },
+    {
+        "title": "Flana",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/v45BCNiGnMSK5h20PO2AnfAsuZ8.jpg",
+        "trailer": null,
+        "release_date": "2026-05-06",
+        "overview": "",
+        "tagline": "",
+        "runtime": 85,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sUxFmMnPkdSkblwkIdn3bhGp4wl.jpg"
+    },
+    {
+        "title": "Synapse",
+        "rating": 0,
+        "genre": "Science-fiction",
+        "poster": "https://image.tmdb.org/t/p/w500/2rasHLMM1icBfJoHXdlDzHNko9f.jpg",
+        "trailer": null,
+        "release_date": "2026-05-17",
+        "overview": "Noa ne va plus vraiment au lycée. Il a trouvé un commerce beaucoup plus lucratif.",
+        "tagline": "",
+        "runtime": 7,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/8Ef6XhE6oA2xwvX8579GRJakoPP.jpg"
+    },
+    {
+        "title": "Kherson, Resistance goes on",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": null,
+        "release_date": "2026-04-16",
+        "overview": "« Kherson. Resistance Goes On » raconte l’histoire des bénévoles Oleh Dehusarov, Vyacheslav Lukashchuk et Oleh Salnyk. Depuis les premiers jours de l’invasion, ils sauvent des vies, évacuent des civils et livrent de l’aide humanitaire – malgré les bombardements, les inondations et le fait d’être traqués par des drones FPV. Le 12 avril 2025, Oleh Salnyk a été tué lors de l’une de ces attaques ciblées de drones FPV. L’équipe de Ukraine War Archive a enregistré une interview avec lui en août 2023, peu après la destruction du barrage de Kakhovka.",
+        "tagline": "Ukraine War Archive",
+        "runtime": 30,
+        "backdrop": null
+    },
+    {
+        "title": "The Joyless Economy",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/pyGreqAF1VQs7bxzMe5NzoD5WYU.jpg",
+        "trailer": null,
+        "release_date": "2026-05-21",
+        "overview": "",
+        "tagline": "",
+        "runtime": 58,
+        "backdrop": null
+    },
+    {
+        "title": "Viaduc.de.Millau.les.secrets.du.pont.le.plus.haut.du.monde.",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500/gxqh3r5LV30Pehza0lCmO8Utg6F.jpg",
+        "trailer": null,
+        "release_date": "2026-05-18",
+        "overview": "Le viaduc de Millau : un chef-d'œuvre d'ingénierie qui défie le vertige et repousse les limites du possible. Situé dans le sud du Massif central, sa silhouette majestueuse domine la vallée du Tarn à 343 mètres de hauteur, soit 13 mètres de plus que la Tour Eiffel. Près de 5 millions de véhicules l'empruntent chaque année. Mais le viaduc de Millau n'est pas né de nulle par",
+        "tagline": "",
+        "runtime": 0,
+        "backdrop": null
+    },
+    {
+        "title": "Bérénice",
+        "rating": 0,
+        "genre": "Drame / Mystère / Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/9QCnJE8zpWHrx2LbuDjyuRZ7S1C.jpg",
+        "trailer": null,
+        "release_date": "2026-05-09",
+        "overview": "Le lendemain d'une rupture douloureuse, Bérénice rejoint Cassandre, son amie de longue date, à la plage. Entre honte, amertume et désir inavoué, leurs retrouvailles s'annoncent emplies de mystère et de fierté...",
+        "tagline": "",
+        "runtime": 5,
+        "backdrop": null
+    },
+    {
+        "title": "ETTY : Partie 1",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/ef0hLjx8FkqesySRwU6xBYVNNwF.jpg",
+        "trailer": "https://www.youtube.com/watch?v=_bUMWEJhP_c",
+        "release_date": "2026-05-06",
+        "overview": "",
+        "tagline": "",
+        "runtime": 148,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/54TxItas2SZRnbi5uhkVtSMXQU.jpg"
+    },
+    {
+        "title": "Temps de pause",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500/qyjQItHBBjaqvc0qWDXMG0qOpEZ.jpg",
+        "trailer": null,
+        "release_date": "2026-05-20",
+        "overview": "Le boucan parisien ne ressemble plus à rien, il est temps de partir avec de quoi garder des souvenirs.",
+        "tagline": "Il n’y a plus de pellicule nulle part",
+        "runtime": 21,
+        "backdrop": null
+    },
+    {
+        "title": "Le Pont",
+        "rating": 0,
+        "genre": "Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/uBiOjMWa8ZQyIN49rwCILkuFMdR.jpg",
+        "trailer": null,
+        "release_date": "2026-05-27",
+        "overview": "Foued, jeune metteur en scène, rend service à un ami d’enfance, Tita, pour filmer le tournage de son clip de hip-hop. Pendant une scène de tournage avec la jeune Safa, ils trouvent un paquet de cocaïne. Ils décident de la vendre en petites quantités dans une boite de nuit branchée de Tunis. Tous les soirs, ils traversent le pont reliant les deux banlieues de Tunis. Mais les choses prennent une tournure inattendue.",
+        "tagline": "",
+        "runtime": 90,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/a5ob2RnfPnFTfRenYobKW8KVcDK.jpg"
+    },
+    {
+        "title": "Le Fard de Ginza",
+        "rating": 6.467,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/9FRDQXFucLh7bizEN90fo1l92U6.jpg",
+        "trailer": null,
+        "release_date": "2026-04-15",
+        "overview": "Yukiko élève son fils et travaille comme serveuse dans un bar du quartier chaud, Ginza. Désabusée, elle garde quand même l'espoir de rencontrer l'âme sœur et refaire sa vie, comme les autres femmes de sa condition.",
+        "tagline": "",
+        "runtime": 87,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/in3LVvb6bENZDeMs9oqy11JUbNR.jpg"
+    },
+    {
+        "title": "À bras-le-corps",
+        "rating": 6.5,
+        "genre": "Drame / Histoire",
+        "poster": "https://image.tmdb.org/t/p/w500/zDSBxNZB3O6JStsATmQzaDwuCgv.jpg",
+        "trailer": null,
+        "release_date": "2026-05-27",
+        "overview": "Emma, 15 ans, enceinte après avoir été violée, défie sa communauté protestante rurale répressive pour se forger un chemin vers l'autodétermination, transformant son traumatisme en catalyseur d'émancipation tout en affrontant l'hypocrisie morale du village et le spectre de la Seconde Guerre mondiale qui l'entoure.",
+        "tagline": "",
+        "runtime": 96,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hsa6h0E8gRkX1RH5n2JfkdNHOcn.jpg"
+    },
+    {
+        "title": "Otec",
+        "rating": 6.5,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/iMr0h67ZOgneXxxT6sW79HbnuPq.jpg",
+        "trailer": "https://www.youtube.com/watch?v=Y0T_5i6ZE98",
+        "release_date": "2026-05-27",
+        "overview": "Michal et Zuzka sont un couple épanoui, comblé par la réussite et la présence de leur petite fille, Dominika. Mais un jour de canicule, un drame vient briser leur amour et bouleverser leur vie. Leur histoire est exposée par les médias et malgré le poids de l’opinion et de leur entourage, un lien fragile va renaître entre eux, suspendu entre culpabilité et amour.",
+        "tagline": "",
+        "runtime": 102,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ld3PIgbveWOPF2B8s5iwENDk7YM.jpg"
+    },
+    {
+        "title": "Le Dernier Souffle d'un Yakuza",
+        "rating": 7.8,
+        "genre": "Animation / Drame / Crime",
+        "poster": "https://image.tmdb.org/t/p/w500/w7UflIbTtaBxlJezrQ1tF98owDZ.jpg",
+        "trailer": "https://www.youtube.com/watch?v=mfq5MFQ58wU",
+        "release_date": "2026-05-27",
+        "overview": "Automne 2023. Akutsu, un détenu âgé purgeant une peine de réclusion à perpétuité, est sur le point de mourir seul dans sa cellule. Une fleur dotée de parole lui assène: \"Quelle vie pourrie tu as eue. » Au fil de leur conversation, Akutsu commence à replonger dans son passé.  Été 1986. Akutsu vit avec Nana, une femme six ans plus jeune, et son fils, Kensuke, dans un appartement délabré. Leur quotidien est marqué par la précarité, mais aussi par des instants de bonheur. Cependant, hanté par ses propres démons et accablé par un passé trouble, Akutsu lutte pour trouver un sens à son existence. Alors que les jours passent, des tensions émergent, révélant des fissures profondes dans leur fragile équilibre. Jusqu'au jour où un événement irréversible vient bouleverser leur destin.",
+        "tagline": "",
+        "runtime": 90,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/q9BznLtUUuHfHzyT3NOKzqM6oxz.jpg"
+    },
+    {
+        "title": "2026 TXT Moa Con in Japan: Live Viewing",
+        "rating": 0,
+        "genre": "Musique",
+        "poster": "https://image.tmdb.org/t/p/w500/AlCWMdUsp3smzWGBgkIFeqnhSSw.jpg",
+        "trailer": "https://www.youtube.com/watch?v=YbLP6Z_5B5E",
+        "release_date": "2026-05-24",
+        "overview": "",
+        "tagline": "",
+        "runtime": 225,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/fwiU2R0a5r8s6C73BVfTni4lqEy.jpg"
+    },
+    {
+        "title": "Mata",
+        "rating": 0,
+        "genre": "Drame / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/7LBB26Bt98NVu5zLnwBYM68rWtB.jpg",
+        "trailer": null,
+        "release_date": "2026-05-27",
+        "overview": "Blessée lors d’une opération clandestine au Niger, MATA, agente du service action de la DGSE, perd la trace d’Antoine, son compagnon capturé sur place. À son retour, elle est affectée à la Sécurité Intérieure du Territoire et se saisit d’une mission de contre-espionnage dans les Alpes : une ombre semble relier ce dossier à l’embuscade en Afrique. Convaincue que ses supérieurs lui dissimulent des informations et hantée par la captivité d'Antoine, elle se lance dans une course contre la montre, hors de tout cadre officiel… au risque de tout perdre.",
+        "tagline": "",
+        "runtime": 0,
+        "backdrop": null
+    },
+    {
         "title": "LE ROUGE EST UNE COULEUR FROIDE",
         "rating": 0,
         "genre": "Horreur / Mystère",
@@ -58,18 +310,6 @@
         "tagline": "",
         "runtime": 15,
         "backdrop": null
-    },
-    {
-        "title": "ETTY : Partie 2",
-        "rating": 0,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/1ZVZDfmGb5SnO0OzLayJ9N3i0p2.jpg",
-        "trailer": "https://www.youtube.com/watch?v=_bUMWEJhP_c",
-        "release_date": "2026-05-06",
-        "overview": "",
-        "tagline": "",
-        "runtime": 180,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/whlxv3GAahFMiHzBSoDZ0Nxs2h0.jpg"
     },
     {
         "title": "FLAMENCO",
@@ -145,7 +385,7 @@
     },
     {
         "title": "Le Virtuose",
-        "rating": 6,
+        "rating": 7,
         "genre": "Crime / Thriller / Comédie / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/sQvdQNlQjuTqNRhicV5RUlhOIpT.jpg",
         "trailer": "https://www.youtube.com/watch?v=rdlOZhl-nSA",
@@ -190,18 +430,6 @@
         "tagline": "",
         "runtime": 85,
         "backdrop": "https://image.tmdb.org/t/p/w1280/cRHb4KrWDuSFVzKGDuCHpCoXTmw.jpg"
-    },
-    {
-        "title": "Mad Dog of Europe",
-        "rating": 7,
-        "genre": "Documentaire",
-        "poster": "https://image.tmdb.org/t/p/w500None",
-        "trailer": null,
-        "release_date": "2026-04-15",
-        "overview": "L’histoire du film antinazi le plus tristement célèbre. Jamais réalisé par Herman J. Mankiewicz, son scénariste et producteur, le film prédit en 1932 la montée de Hitler.",
-        "tagline": "",
-        "runtime": 80,
-        "backdrop": null
     },
     {
         "title": "Passages",
@@ -457,7 +685,7 @@
     },
     {
         "title": "L'Être Aimé",
-        "rating": 7.313,
+        "rating": 7.389,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/guyRccNh9py85OYQO7Y7pLblxGQ.jpg",
         "trailer": null,
@@ -505,7 +733,7 @@
     },
     {
         "title": "Autofiction",
-        "rating": 7.2,
+        "rating": 7.361,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/Aqp47ZQiPcOgX1WHLkxmSYoMc4w.jpg",
         "trailer": null,
@@ -553,7 +781,7 @@
     },
     {
         "title": "Star Wars: The Mandalorian and Grogu",
-        "rating": 6.625,
+        "rating": 6.2,
         "genre": "Aventure / Science-fiction / Action",
         "poster": "https://image.tmdb.org/t/p/w500/iQoIGnmrt8rzDDRC6el8HLvHvKf.jpg",
         "trailer": "https://www.youtube.com/watch?v=uwild1rw7Aw",
@@ -828,18 +1056,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/fkhlkRRcWc6qdWIbmd8NqanFqyH.jpg"
     },
     {
-        "title": "Première ligne",
-        "rating": 6,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/6T4AOvbgSw39vWuwgGU18nigqw3.jpg",
-        "trailer": "https://www.youtube.com/watch?v=fcFr8OIQkLM",
-        "release_date": "2026-04-22",
-        "overview": "C’est l’été ! La famille Bouderbala arrive tôt à la plage pour être installée au bord de l’eau, en \"première ligne\". Entre secrets de famille et guerres de voisinage, le séjour va vite tourner au cauchemar.",
-        "tagline": "",
-        "runtime": 86,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/jkXvjttSVihdNKsxcoaXEm7ATjo.jpg"
-    },
-    {
         "title": "Silence Plateau",
         "rating": 0,
         "genre": "Horreur / Comédie",
@@ -925,7 +1141,7 @@
     },
     {
         "title": "L'abandon",
-        "rating": 8.464,
+        "rating": 8.433,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kfUKP5IgzgLQyQD1MDt99yq9Af0.jpg",
         "trailer": null,
@@ -985,7 +1201,7 @@
     },
     {
         "title": "La Vénus électrique",
-        "rating": 6.986,
+        "rating": 7.11,
         "genre": "Comédie / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/eCzBpynLz6SHmupssSo9RIX4YIs.jpg",
         "trailer": null,
@@ -997,7 +1213,7 @@
     },
     {
         "title": "Billie Eilish - Hit Me Hard and Soft : The Tour (3D)",
-        "rating": 7.206,
+        "rating": 7.2,
         "genre": "Musique / Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/8DTastKqiYno03GHdkOxLpm2het.jpg",
         "trailer": "https://www.youtube.com/watch?v=9ElURjcuWLQ",
@@ -1137,18 +1353,6 @@
         "overview": "\"Une télé-réalité qui n’a plus rien de divertissant, seulement de l’enfermement et du regard qui pèse. Un homme s’effrite lentement, jusqu’à ne plus supporter ni les murs, ni lui-même.\"",
         "tagline": "",
         "runtime": 4,
-        "backdrop": null
-    },
-    {
-        "title": "Women - J'ai suivi une inconnue jusqu'en Chine",
-        "rating": 0,
-        "genre": "Documentaire",
-        "poster": "https://image.tmdb.org/t/p/w500None",
-        "trailer": null,
-        "release_date": "2026-04-14",
-        "overview": "",
-        "tagline": "",
-        "runtime": 52,
         "backdrop": null
     },
     {
@@ -1321,7 +1525,7 @@
     },
     {
         "title": "The Criminals",
-        "rating": 6.2,
+        "rating": 6.3,
         "genre": "Action / Crime / Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/t6XO6yRFyLFbYEb5f7agQJjLlHR.jpg",
         "trailer": "https://www.youtube.com/watch?v=1aNywiElPSY",
@@ -1345,7 +1549,7 @@
     },
     {
         "title": "Mortal Kombat II",
-        "rating": 6.954,
+        "rating": 6.919,
         "genre": "Action / Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
         "trailer": "https://www.youtube.com/watch?v=zva2PQ-ud5Y",
@@ -1549,7 +1753,7 @@
     },
     {
         "title": "Vivaldi et moi",
-        "rating": 7.058,
+        "rating": 7.045,
         "genre": "Musique / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/519IrW1wWNeR4sdAdH8HY4srrB6.jpg",
         "trailer": "https://www.youtube.com/watch?v=J-fEjuVy5cQ",
@@ -1597,7 +1801,7 @@
     },
     {
         "title": "Die My Love",
-        "rating": 6.2,
+        "rating": 6.158,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/tQk0zn7UirjbB3vh1B65WWKHd9Z.jpg",
         "trailer": "https://www.youtube.com/watch?v=2jzXHW6Qe70",
@@ -1609,7 +1813,7 @@
     },
     {
         "title": "Le Diable s'habille en Prada 2",
-        "rating": 6.65,
+        "rating": 6.646,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/pD5fSVgDW2L5993eAlDd2GFXwIp.jpg",
         "trailer": "https://www.youtube.com/watch?v=PMd1at7OwiE",
@@ -1618,18 +1822,6 @@
         "tagline": "Les icônes règnent éternellement.",
         "runtime": 120,
         "backdrop": "https://image.tmdb.org/t/p/w1280/Af907x5h9W1wVis8XrSd7ynTWuy.jpg"
-    },
-    {
-        "title": "Les grands espaces",
-        "rating": 0,
-        "genre": "",
-        "poster": "https://image.tmdb.org/t/p/w500/tRr01o4sNK7LuaJvAwCKtzXmQtA.jpg",
-        "trailer": null,
-        "release_date": "2026-04-09",
-        "overview": "Dans un dernier souffle, José s'imprègne de ce qui l'entoure et trouve ce qu'il lui manquait depuis bien longtemps.",
-        "tagline": "",
-        "runtime": 3,
-        "backdrop": null
     },
     {
         "title": "Sans regard",
@@ -1729,7 +1921,7 @@
     },
     {
         "title": "Michael",
-        "rating": 7.582,
+        "rating": 7.575,
         "genre": "Musique / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
         "trailer": "https://www.youtube.com/watch?v=k-YAcjaLuSI",
@@ -1849,7 +2041,7 @@
     },
     {
         "title": "La Corde au cou",
-        "rating": 6.5,
+        "rating": 6.504,
         "genre": "Crime / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/g7Y94KrUd0pDGRVVZQMh4n9FnYp.jpg",
         "trailer": "https://www.youtube.com/watch?v=aHAwgnJL78Y",
@@ -1945,7 +2137,7 @@
     },
     {
         "title": "Le Réveil de la Momie",
-        "rating": 7.599,
+        "rating": 7.728,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/aENH9ETtWynb6T1XhRwIFlvkBzI.jpg",
         "trailer": "https://www.youtube.com/watch?v=6wbMsDmJLCs",
@@ -1957,7 +2149,7 @@
     },
     {
         "title": "Good Luck, Have Fun, Don't Die",
-        "rating": 6.9,
+        "rating": 6.894,
         "genre": "Science-fiction / Action / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
         "trailer": "https://www.youtube.com/watch?v=Nm4WbapDzDQ",
