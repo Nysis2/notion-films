@@ -1,7 +1,67 @@
 [
     {
-        "title": "Ruben",
+        "title": "THE ANGUISHED GIRL",
         "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500/lX7H0U1WjTo8V9c5evYH4WNPQck.jpg",
+        "trailer": null,
+        "release_date": "2026-05-22",
+        "overview": "Dans les années 50, une peintre tente de réaliser une toile capable de contenir son âme.",
+        "tagline": "",
+        "runtime": 7,
+        "backdrop": null
+    },
+    {
+        "title": "Pois et rayure",
+        "rating": 0,
+        "genre": "Animation",
+        "poster": "https://image.tmdb.org/t/p/w500/3XRqV5Ufs5UNwhQNxKGIBhBVwus.jpg",
+        "trailer": null,
+        "release_date": "2026-05-26",
+        "overview": "Pablo, étudiant en mode, raconte l’histoire de ses parents et l’origine des motifs qu’ils portent au quotidien.",
+        "tagline": "",
+        "runtime": 3,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/jszu1XfvOgxLIjMsqFTd26rCPV5.jpg"
+    },
+    {
+        "title": "ETTY : Partie 2",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/1ZVZDfmGb5SnO0OzLayJ9N3i0p2.jpg",
+        "trailer": "https://www.youtube.com/watch?v=_bUMWEJhP_c",
+        "release_date": "2026-05-06",
+        "overview": "",
+        "tagline": "",
+        "runtime": 180,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/whlxv3GAahFMiHzBSoDZ0Nxs2h0.jpg"
+    },
+    {
+        "title": "Mad Dog of Europe",
+        "rating": 7,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": null,
+        "release_date": "2026-04-15",
+        "overview": "L’histoire du film antinazi le plus tristement célèbre. Jamais réalisé par Herman J. Mankiewicz, son scénariste et producteur, le film prédit en 1932 la montée de Hitler.",
+        "tagline": "",
+        "runtime": 80,
+        "backdrop": null
+    },
+    {
+        "title": "obsession",
+        "rating": 7.9,
+        "genre": "Horreur",
+        "poster": "https://image.tmdb.org/t/p/w500/mDCR1frpUvGfIKksuM440VLb7X9.jpg",
+        "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ",
+        "release_date": "2026-05-13",
+        "overview": "Et si vous pouviez réaliser votre rêve le plus fou ? Un jeune introverti met la main sur un objet magique capable d’exaucer n’importe quel souhait. Son crush de toujours tombe alors raide dingue de lui… jusqu’à l’obsession la plus totale. Faites attention à ce que vous souhaitez !",
+        "tagline": "Votre relation est toxique ? La leur est mortelle.",
+        "runtime": 108,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/1pKFDggvtk23zcn1vUcPiKyuHxM.jpg"
+    },
+    {
+        "title": "Ruben",
+        "rating": 10,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/crfOeAPiSdskS9u8kyAoqm21AZo.jpg",
         "trailer": null,
@@ -10,30 +70,6 @@
         "tagline": "Peut-il éviter la boucherie ?",
         "runtime": 3,
         "backdrop": null
-    },
-    {
-        "title": "The Mad Dog of Europe",
-        "rating": 0,
-        "genre": "Documentaire",
-        "poster": "https://image.tmdb.org/t/p/w500/qBTAcQjFCNFbLmHdvU2wZaUwyVT.jpg",
-        "trailer": null,
-        "release_date": "2026-04-15",
-        "overview": "En 1932, Herman J. Mankiewicz, qui deviendra célèbre 10 ans plus tard pour son scénario de Citizen Kane, écrit The Mad Dog of Europe : un script visionnaire dénonçant la menace hitlérienne. Entre pressions diplomatiques et intérêts économiques, les studios hollywoodiens préfèrent se taire et enterrer le projet. L’histoire de ce film jamais produit semble résonner avec les fractures de plus en plus menaçantes de notre époque, ils vont devoir lutter contre les éléments, tandis que le désespoir et la folie menacent de les emporter...",
-        "tagline": "",
-        "runtime": 80,
-        "backdrop": null
-    },
-    {
-        "title": "ETTY : Partie 1",
-        "rating": 0,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/ef0hLjx8FkqesySRwU6xBYVNNwF.jpg",
-        "trailer": "https://www.youtube.com/watch?v=_bUMWEJhP_c",
-        "release_date": "2026-05-06",
-        "overview": "",
-        "tagline": "",
-        "runtime": 148,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/54TxItas2SZRnbi5uhkVtSMXQU.jpg"
     },
     {
         "title": "La Zigouillade",
@@ -421,7 +457,7 @@
     },
     {
         "title": "Colony",
-        "rating": 5.2,
+        "rating": 5.875,
         "genre": "Action / Thriller / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
         "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8",
@@ -709,7 +745,7 @@
     },
     {
         "title": "L'Être Aimé",
-        "rating": 7.182,
+        "rating": 7.25,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/guyRccNh9py85OYQO7Y7pLblxGQ.jpg",
         "trailer": null,
@@ -721,7 +757,7 @@
     },
     {
         "title": "Les Goûteuses d'Hitler",
-        "rating": 6.611,
+        "rating": 6.612,
         "genre": "Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/ruP7m8O2gXlQ2jnVSUq1vfA2hd4.jpg",
         "trailer": "https://www.youtube.com/watch?v=DasVReZy2N8",
@@ -733,7 +769,7 @@
     },
     {
         "title": "Histoires parallèles",
-        "rating": 5.6,
+        "rating": 5.732,
         "genre": "Drame / Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/amQZiDsJ8SXCN6w073UxBBnYBmi.jpg",
         "trailer": "https://www.youtube.com/watch?v=y3BV9KeJzGM",
@@ -757,7 +793,7 @@
     },
     {
         "title": "Autofiction",
-        "rating": 6.9,
+        "rating": 6.722,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/Aqp47ZQiPcOgX1WHLkxmSYoMc4w.jpg",
         "trailer": null,
@@ -769,7 +805,7 @@
     },
     {
         "title": "ALL YOU NEED IS KILL",
-        "rating": 6.528,
+        "rating": 6.526,
         "genre": "Animation / Action / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/nP3Dmepb5XENLPAWzpYFOUmL8j8.jpg",
         "trailer": "https://www.youtube.com/watch?v=0YpXN40vIxM",
@@ -793,7 +829,7 @@
     },
     {
         "title": "Passenger",
-        "rating": 6.059,
+        "rating": 5.875,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/6BDQJoZpzhFJCTop59BRR51k9yp.jpg",
         "trailer": "https://www.youtube.com/watch?v=eNIn8kW1kyE",
@@ -805,7 +841,7 @@
     },
     {
         "title": "Star Wars: The Mandalorian and Grogu",
-        "rating": 6.533,
+        "rating": 6.596,
         "genre": "Aventure / Science-fiction / Action",
         "poster": "https://image.tmdb.org/t/p/w500/iQoIGnmrt8rzDDRC6el8HLvHvKf.jpg",
         "trailer": "https://www.youtube.com/watch?v=uwild1rw7Aw",
@@ -1165,7 +1201,7 @@
     },
     {
         "title": "L'abandon",
-        "rating": 8.184,
+        "rating": 8.065,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kfUKP5IgzgLQyQD1MDt99yq9Af0.jpg",
         "trailer": null,
@@ -1248,18 +1284,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/uRs7s4CowsDqium4ses8tc5QNO5.jpg"
     },
     {
-        "title": "Obsession",
-        "rating": 8,
-        "genre": "Horreur",
-        "poster": "https://image.tmdb.org/t/p/w500/bHZTpFju6Bv2kkd0SGU5Jo4sPQl.jpg",
-        "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ",
-        "release_date": "2026-05-13",
-        "overview": "Après avoir brisé le mystérieux « One Wish Willow » pour gagner le cœur de son béguin, un romantique désespéré se retrouve à obtenir exactement ce qu'il a demandé, mais découvre bientôt que certains désirs ont un prix sombre et sinistre.",
-        "tagline": "Attention à qui vous souhaitez…",
-        "runtime": 108,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg"
-    },
-    {
         "title": "Loin des yeux, près du coeur",
         "rating": 0,
         "genre": "Romance / Drame",
@@ -1297,7 +1321,7 @@
     },
     {
         "title": "Élise sous emprise",
-        "rating": 7,
+        "rating": 5.5,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/obBOM8cxbYRakpa5opGgu2v1WAR.jpg",
         "trailer": null,
@@ -1477,7 +1501,7 @@
     },
     {
         "title": "Pour le plaisir",
-        "rating": 6,
+        "rating": 6.022,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/2cWdr2n7VNrLEAer6hMPASIP7Px.jpg",
         "trailer": null,
@@ -1489,7 +1513,7 @@
     },
     {
         "title": "Cosmos",
-        "rating": 8,
+        "rating": 8.667,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/90Ij1uGLuuBU7WcFFtEMosWrbl8.jpg",
         "trailer": null,
@@ -1549,7 +1573,7 @@
     },
     {
         "title": "The Criminals",
-        "rating": 6.4,
+        "rating": 6.394,
         "genre": "Action / Crime / Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/t6XO6yRFyLFbYEb5f7agQJjLlHR.jpg",
         "trailer": "https://www.youtube.com/watch?v=1aNywiElPSY",
@@ -1573,7 +1597,7 @@
     },
     {
         "title": "Mortal Kombat II",
-        "rating": 6.9,
+        "rating": 6.84,
         "genre": "Action / Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
         "trailer": "https://www.youtube.com/watch?v=zva2PQ-ud5Y",
@@ -1777,7 +1801,7 @@
     },
     {
         "title": "Vivaldi et moi",
-        "rating": 7.056,
+        "rating": 7.055,
         "genre": "Musique / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/519IrW1wWNeR4sdAdH8HY4srrB6.jpg",
         "trailer": "https://www.youtube.com/watch?v=J-fEjuVy5cQ",
@@ -1801,7 +1825,7 @@
     },
     {
         "title": "Hokum",
-        "rating": 7,
+        "rating": 6.896,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/kfA90SVM17WbJRMV8kC5k7IRFZz.jpg",
         "trailer": "https://www.youtube.com/watch?v=qU_i5e48KzQ",
@@ -1825,7 +1849,7 @@
     },
     {
         "title": "Die My Love",
-        "rating": 6.153,
+        "rating": 6.154,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/tQk0zn7UirjbB3vh1B65WWKHd9Z.jpg",
         "trailer": "https://www.youtube.com/watch?v=2jzXHW6Qe70",
@@ -1837,7 +1861,7 @@
     },
     {
         "title": "Le Diable s'habille en Prada 2",
-        "rating": 6.63,
+        "rating": 6.646,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/pD5fSVgDW2L5993eAlDd2GFXwIp.jpg",
         "trailer": "https://www.youtube.com/watch?v=PMd1at7OwiE",
@@ -1936,7 +1960,7 @@
         "rating": 6,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/dsVB83xtAhdQ0DIjmomXwfH68Ro.jpg",
-        "trailer": null,
+        "trailer": "https://www.youtube.com/watch?v=hzb6nXtUcI4",
         "release_date": "2026-04-22",
         "overview": "Dans un village isolé du Tchad, Kellou est traversée par des visions qu’elle ne comprend pas. Grâce à sa rencontre avec Aya, une exilée aux secrets douloureux, elle va découvrir une autre façon de regarder son passé, ses rêves et son village. Mais en prenant la défense d’Aya, que le chef du village tente de chasser, elle se heurte à la peur et à la colère des habitants, et devra se battre pour garder sa liberté.",
         "tagline": "",
@@ -1945,7 +1969,7 @@
     },
     {
         "title": "Michael",
-        "rating": 7.579,
+        "rating": 7.577,
         "genre": "Musique / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
         "trailer": "https://www.youtube.com/watch?v=k-YAcjaLuSI",
@@ -2053,7 +2077,7 @@
     },
     {
         "title": "Juste une illusion",
-        "rating": 7.303,
+        "rating": 7.3,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/my4QdEBuhYpYLR4M7AkJWJGcxxx.jpg",
         "trailer": null,
@@ -2065,7 +2089,7 @@
     },
     {
         "title": "La Corde au cou",
-        "rating": 6.508,
+        "rating": 6.5,
         "genre": "Crime / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/g7Y94KrUd0pDGRVVZQMh4n9FnYp.jpg",
         "trailer": "https://www.youtube.com/watch?v=aHAwgnJL78Y",
@@ -2161,7 +2185,7 @@
     },
     {
         "title": "Le Réveil de la Momie",
-        "rating": 8,
+        "rating": 7.981,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/aENH9ETtWynb6T1XhRwIFlvkBzI.jpg",
         "trailer": "https://www.youtube.com/watch?v=6wbMsDmJLCs",
@@ -2173,7 +2197,7 @@
     },
     {
         "title": "Good Luck, Have Fun, Don't Die",
-        "rating": 6.901,
+        "rating": 6.906,
         "genre": "Science-fiction / Action / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/rWcfOdY7TU6lTdazWj0ebDZnAfO.jpg",
         "trailer": "https://www.youtube.com/watch?v=Nm4WbapDzDQ",
