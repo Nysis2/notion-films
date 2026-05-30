@@ -1,5 +1,101 @@
 [
     {
+        "title": "La scripte",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": null,
+        "release_date": "2026-06-02",
+        "overview": "Figure du cinéma français, Sylvette Baudrot, la scripte de Jacques Tati, Alfred Hitchcock, et Costa Gavras, se remémore ses soixante années de plateau.",
+        "tagline": "",
+        "runtime": 60,
+        "backdrop": null
+    },
+    {
+        "title": "Le Grand Jeu du Départage",
+        "rating": 0,
+        "genre": "Action",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": null,
+        "release_date": "2026-06-02",
+        "overview": "Dans un lycée situé dans un futur dystopique, les élèves doivent s'entre tuer pour garder leur matière.",
+        "tagline": "",
+        "runtime": 14,
+        "backdrop": null
+    },
+    {
+        "title": "Paul Mirabel - Par Amour",
+        "rating": 0,
+        "genre": "Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/wqGWJpVZtqYKlLBHzbChYiu2jpX.jpg",
+        "trailer": null,
+        "release_date": "2026-05-28",
+        "overview": "",
+        "tagline": "",
+        "runtime": 85,
+        "backdrop": null
+    },
+    {
+        "title": "Coup de Gigot",
+        "rating": 0,
+        "genre": "Thriller / Mystère",
+        "poster": "https://image.tmdb.org/t/p/w500/htI9x0BCeLspivPbhVoByiVI27E.jpg",
+        "trailer": null,
+        "release_date": "2026-05-29",
+        "overview": "Après avoir fait des courses, Mary rentre chez elle et découvre son mari mort dans le salon. Alors que les policiers enquêtent sur cette mort mystérieuse, la soirée prend une tournure de plus en plus étrange, entre tension, souvenirs et apparences trompeuses.",
+        "tagline": "Certains secrets méritent d'être découpés",
+        "runtime": 6,
+        "backdrop": null
+    },
+    {
+        "title": "Baignade Interdite",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/67BllZQkO2ZT5w9JhH3qHY7RVKg.jpg",
+        "trailer": null,
+        "release_date": "2026-05-27",
+        "overview": "",
+        "tagline": "",
+        "runtime": 7,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/gfOxmlDM8yyJjXtRwTtc8Xsy5Wo.jpg"
+    },
+    {
+        "title": "ETTY : Partie 2",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/1ZVZDfmGb5SnO0OzLayJ9N3i0p2.jpg",
+        "trailer": "https://www.youtube.com/watch?v=_bUMWEJhP_c",
+        "release_date": "2026-05-06",
+        "overview": "",
+        "tagline": "",
+        "runtime": 180,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/whlxv3GAahFMiHzBSoDZ0Nxs2h0.jpg"
+    },
+    {
+        "title": "La Bataille de Gaulle - L’âge de fer",
+        "rating": 0,
+        "genre": "Histoire / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/zWuZWFKyga6GF3agrhJn8UtdMSu.jpg",
+        "trailer": null,
+        "release_date": "2026-06-03",
+        "overview": "Juin 1940. La France s'effondre et signe l’armistice. Au milieu du chaos, un homme refuse de céder. Seul contre tous, ce général inconnu s'échappe vers Londres pour sauver ce qu'il reste d'un rêve : la liberté. Sans armée, sans appui, sans espoir. Mais avec une folle conviction : la France, sa France, n'a pas déposé les armes. Il tente un ultime pari : convaincre le monde que la bataille de France n'est ni terminée, ni perdue. La réalité est têtue, et lui donne tort. Mais peu à peu se lèvent autour de lui en Angleterre, en France et en Afrique des résistants de l'ombre, des lycéens révoltés, des soldats déterminés. Leur foi, leur audace, leur rage de liberté défient l'Histoire qui semblait pourtant écrite d’avance.",
+        "tagline": "",
+        "runtime": 160,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6kjWe9AjCKbVzHVkG9GVjGTFcRc.jpg"
+    },
+    {
+        "title": "കാട്ടാളൻ",
+        "rating": 6,
+        "genre": "Action / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/9OA6y2GdbXuJ5PAMMMawNBIkrZA.jpg",
+        "trailer": null,
+        "release_date": "2026-05-27",
+        "overview": "",
+        "tagline": "",
+        "runtime": 119,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/wvmfToHjflWab2PHKG1vCqg2Asx.jpg"
+    },
+    {
         "title": "Bullshit",
         "rating": 0,
         "genre": "Comédie",
@@ -58,18 +154,6 @@
         "tagline": "L'illusion de l'espoir est-elle une forme d'espoir ?",
         "runtime": 12,
         "backdrop": "https://image.tmdb.org/t/p/w1280/7uFGIp1sMdPcd8vSH686eVISaqi.jpg"
-    },
-    {
-        "title": "ETTY : Partie 1",
-        "rating": 0,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/ef0hLjx8FkqesySRwU6xBYVNNwF.jpg",
-        "trailer": "https://www.youtube.com/watch?v=_bUMWEJhP_c",
-        "release_date": "2026-05-06",
-        "overview": "",
-        "tagline": "",
-        "runtime": 148,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/54TxItas2SZRnbi5uhkVtSMXQU.jpg"
     },
     {
         "title": "Suzanne",
@@ -229,7 +313,7 @@
     },
     {
         "title": "Le Garçon qui faisait danser les collines",
-        "rating": 7.02,
+        "rating": 7,
         "genre": "Drame / Musique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/9uWxZFfe4Xv7NMXn70sFU6nwZp3.jpg",
         "trailer": "https://www.youtube.com/watch?v=GHBATVjjLWY",
@@ -372,18 +456,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/7NUx7bQAD4lo9yMDbprvIblhWo2.jpg"
     },
     {
-        "title": "La Bataille de Gaulle : L’âge de fer",
-        "rating": 0,
-        "genre": "Histoire / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/zWuZWFKyga6GF3agrhJn8UtdMSu.jpg",
-        "trailer": null,
-        "release_date": "2026-06-03",
-        "overview": "Juin 1940. La France s'effondre et signe l’armistice. Au milieu du chaos, un homme refuse de céder. Seul contre tous, ce général inconnu s'échappe vers Londres pour sauver ce qu'il reste d'un rêve : la liberté. Sans armée, sans appui, sans espoir. Mais avec une folle conviction : la France, sa France, n'a pas déposé les armes. Il tente un ultime pari : convaincre le monde que la bataille de France n'est ni terminée, ni perdue. La réalité est têtue, et lui donne tort. Mais peu à peu se lèvent autour de lui en Angleterre, en France et en Afrique des résistants de l'ombre, des lycéens révoltés, des soldats déterminés. Leur foi, leur audace, leur rage de liberté défient l'Histoire qui semblait pourtant écrite d’avance.",
-        "tagline": "",
-        "runtime": 160,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/6kjWe9AjCKbVzHVkG9GVjGTFcRc.jpg"
-    },
-    {
         "title": "The Plague",
         "rating": 6.433,
         "genre": "Drame / Thriller",
@@ -433,7 +505,7 @@
     },
     {
         "title": "Obsession",
-        "rating": 7.9,
+        "rating": 7.924,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/s8F6DCIX9gOMM6rv6WCGyGp6oSB.jpg",
         "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ",
@@ -781,7 +853,7 @@
     },
     {
         "title": "L'Objet du délit",
-        "rating": 7.2,
+        "rating": 6.5,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/AdM7jQOEdRZ0DW6nfizLwxhSmVI.jpg",
         "trailer": null,
@@ -817,7 +889,7 @@
     },
     {
         "title": "Le Virtuose",
-        "rating": 6.643,
+        "rating": 6.75,
         "genre": "Crime / Thriller / Comédie / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/sQvdQNlQjuTqNRhicV5RUlhOIpT.jpg",
         "trailer": "https://www.youtube.com/watch?v=rdlOZhl-nSA",
@@ -829,7 +901,7 @@
     },
     {
         "title": "Colony",
-        "rating": 6.318,
+        "rating": 6.958,
         "genre": "Action / Thriller / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
         "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8",
@@ -1009,7 +1081,7 @@
     },
     {
         "title": "TRENTE",
-        "rating": 7.111,
+        "rating": 7.1,
         "genre": "Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/vHkdSTAESea4Q5V30247epiqtqN.jpg",
         "trailer": null,
@@ -1105,7 +1177,7 @@
     },
     {
         "title": "Autofiction",
-        "rating": 6.7,
+        "rating": 6.645,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/Aqp47ZQiPcOgX1WHLkxmSYoMc4w.jpg",
         "trailer": null,
@@ -1117,7 +1189,7 @@
     },
     {
         "title": "ALL YOU NEED IS KILL",
-        "rating": 6.526,
+        "rating": 6.5,
         "genre": "Animation / Action / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/nP3Dmepb5XENLPAWzpYFOUmL8j8.jpg",
         "trailer": "https://www.youtube.com/watch?v=0YpXN40vIxM",
@@ -1141,7 +1213,7 @@
     },
     {
         "title": "Passenger",
-        "rating": 5.883,
+        "rating": 5.8,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/6BDQJoZpzhFJCTop59BRR51k9yp.jpg",
         "trailer": "https://www.youtube.com/watch?v=eNIn8kW1kyE",
@@ -1393,7 +1465,7 @@
     },
     {
         "title": "L'abandon",
-        "rating": 7.946,
+        "rating": 7.887,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kfUKP5IgzgLQyQD1MDt99yq9Af0.jpg",
         "trailer": null,
@@ -1429,7 +1501,7 @@
     },
     {
         "title": "La Vénus électrique",
-        "rating": 7.089,
+        "rating": 7.086,
         "genre": "Comédie / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/eCzBpynLz6SHmupssSo9RIX4YIs.jpg",
         "trailer": null,
@@ -1465,7 +1537,7 @@
     },
     {
         "title": "JUNK WORLD",
-        "rating": 6.85,
+        "rating": 6.8,
         "genre": "Animation / Science-fiction / Action / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/wy4zIDgXNqY0iN4XQljEicAfFi.jpg",
         "trailer": null,
@@ -1657,7 +1729,7 @@
     },
     {
         "title": "C’est quoi l’amour ?",
-        "rating": 6.2,
+        "rating": 6.188,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/rCESGHvM0XCPoTUMkqG7E9pDYPq.jpg",
         "trailer": null,
@@ -1669,7 +1741,7 @@
     },
     {
         "title": "Mon grand frère et moi",
-        "rating": 6.5,
+        "rating": 6.714,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/bJRpVBQZBYU8vXT3ZPEj6xF7BD4.jpg",
         "trailer": "https://www.youtube.com/watch?v=WgWo-_cYedA",
@@ -1693,7 +1765,7 @@
     },
     {
         "title": "Cinque secondi",
-        "rating": 6.7,
+        "rating": 6.733,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/5hPjY75ddE90l6XzfAC6zrMRnNg.jpg",
         "trailer": null,
@@ -1705,7 +1777,7 @@
     },
     {
         "title": "The Criminals",
-        "rating": 6.536,
+        "rating": 6.45,
         "genre": "Action / Crime / Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/t6XO6yRFyLFbYEb5f7agQJjLlHR.jpg",
         "trailer": "https://www.youtube.com/watch?v=1aNywiElPSY",
@@ -1729,7 +1801,7 @@
     },
     {
         "title": "Mortal Kombat II",
-        "rating": 6.783,
+        "rating": 6.8,
         "genre": "Action / Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
         "trailer": "https://www.youtube.com/watch?v=zva2PQ-ud5Y",
@@ -1909,7 +1981,7 @@
     },
     {
         "title": "Hokum",
-        "rating": 6.927,
+        "rating": 7,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/kfA90SVM17WbJRMV8kC5k7IRFZz.jpg",
         "trailer": "https://www.youtube.com/watch?v=qU_i5e48KzQ",
@@ -1933,7 +2005,7 @@
     },
     {
         "title": "Le Diable s'habille en Prada 2",
-        "rating": 6.637,
+        "rating": 6.638,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/pD5fSVgDW2L5993eAlDd2GFXwIp.jpg",
         "trailer": "https://www.youtube.com/watch?v=PMd1at7OwiE",
@@ -2017,7 +2089,7 @@
     },
     {
         "title": "Michael",
-        "rating": 7.592,
+        "rating": 7.588,
         "genre": "Musique / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
         "trailer": "https://www.youtube.com/watch?v=k-YAcjaLuSI",
