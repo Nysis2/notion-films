@@ -1,5 +1,17 @@
 [
     {
+        "title": "ETTY : Partie 1",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/ef0hLjx8FkqesySRwU6xBYVNNwF.jpg",
+        "trailer": "https://www.youtube.com/watch?v=_bUMWEJhP_c",
+        "release_date": "2026-05-06",
+        "overview": "",
+        "tagline": "",
+        "runtime": 148,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/54TxItas2SZRnbi5uhkVtSMXQU.jpg"
+    },
+    {
         "title": "THIRSTY : A VITTEL MOVIE",
         "rating": 8,
         "genre": "Comédie / Aventure / Mystère",
@@ -10,18 +22,6 @@
         "tagline": "Le plus grand film de survie jamais tourné à 300 mètres d’un café.",
         "runtime": 7,
         "backdrop": "https://image.tmdb.org/t/p/w1280/N0gvfkDOLwLc5qU2JG1dFI0VI2.jpg"
-    },
-    {
-        "title": "ETTY : Partie 2",
-        "rating": 0,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/1ZVZDfmGb5SnO0OzLayJ9N3i0p2.jpg",
-        "trailer": "https://www.youtube.com/watch?v=_bUMWEJhP_c",
-        "release_date": "2026-05-06",
-        "overview": "",
-        "tagline": "",
-        "runtime": 180,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/whlxv3GAahFMiHzBSoDZ0Nxs2h0.jpg"
     },
     {
         "title": "Comètée",
@@ -505,10 +505,10 @@
     },
     {
         "title": "Scary Movie",
-        "rating": 8,
+        "rating": 8.5,
         "genre": "Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/aAZdZIwbMgSqCeybsooOa5stPwG.jpg",
-        "trailer": "https://www.youtube.com/watch?v=2aMPPfmP5cY",
+        "trailer": "https://www.youtube.com/watch?v=cGgWAHXuTKc",
         "release_date": "2026-06-03",
         "overview": "Vingt-six ans après avoir échappé à un tueur masqué étrangement familier, les héros emblématiques de la saga sont de nouveau dans la ligne de mire du meurtrier, et aucune franchise de film d’horreur n’est à l’abri.",
         "tagline": "Rien n’est sacré. Aucun cliché ne survit. Toutes les limites sont franchies.",
@@ -889,10 +889,10 @@
     },
     {
         "title": "L'Objet du délit",
-        "rating": 6.5,
+        "rating": 6.321,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/AdM7jQOEdRZ0DW6nfizLwxhSmVI.jpg",
-        "trailer": null,
+        "trailer": "https://www.youtube.com/watch?v=HpJ_M4brFAI",
         "release_date": "2026-05-27",
         "overview": "Dans les coulisses d’une ambitieuse production de l’opéra « Les Noces de Figaro », les tensions montent lorsqu’une accusation d’agression sexuelle éclate, mettant en péril la production et forçant chacun à prendre position. Les conflits d’opinion et de génération se font jour…",
         "tagline": "",
@@ -925,7 +925,7 @@
     },
     {
         "title": "Le Virtuose",
-        "rating": 6.65,
+        "rating": 6.661,
         "genre": "Crime / Thriller / Comédie / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/sQvdQNlQjuTqNRhicV5RUlhOIpT.jpg",
         "trailer": "https://www.youtube.com/watch?v=rdlOZhl-nSA",
@@ -937,7 +937,7 @@
     },
     {
         "title": "Colony",
-        "rating": 6.841,
+        "rating": 6.556,
         "genre": "Action / Thriller / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
         "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8",
@@ -1080,18 +1080,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/44SNo8NHCRLrBKHj8pJNKqXJnTj.jpg"
     },
     {
-        "title": "La casa de los monstruos",
-        "rating": 0,
-        "genre": "Drame / Horreur",
-        "poster": "https://image.tmdb.org/t/p/w500/wU8ZZ9ri4WR2sUVUkr1FUKgGG2A.jpg",
-        "trailer": null,
-        "release_date": "2026-05-18",
-        "overview": "",
-        "tagline": "",
-        "runtime": 0,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/nXS0X9ZYOXuAv0J2MbQwM24jf1b.jpg"
-    },
-    {
         "title": "Maximilien Kolbe",
         "rating": 0,
         "genre": "Histoire / Drame / Guerre",
@@ -1117,7 +1105,7 @@
     },
     {
         "title": "TRENTE",
-        "rating": 7.1,
+        "rating": 7.05,
         "genre": "Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/vHkdSTAESea4Q5V30247epiqtqN.jpg",
         "trailer": null,
@@ -1189,7 +1177,7 @@
     },
     {
         "title": "Histoires parallèles",
-        "rating": 5.6,
+        "rating": 5.638,
         "genre": "Drame / Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/amQZiDsJ8SXCN6w073UxBBnYBmi.jpg",
         "trailer": "https://www.youtube.com/watch?v=y3BV9KeJzGM",
@@ -1213,7 +1201,7 @@
     },
     {
         "title": "Autofiction",
-        "rating": 6.595,
+        "rating": 6.583,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/Aqp47ZQiPcOgX1WHLkxmSYoMc4w.jpg",
         "trailer": null,
@@ -1237,7 +1225,7 @@
     },
     {
         "title": "Ella McCay",
-        "rating": 5.5,
+        "rating": 5.53,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/l7Ywl6GKDNfjym63TLHKsxr3ffo.jpg",
         "trailer": "https://www.youtube.com/watch?v=vRE6Iobir8k",
@@ -1249,7 +1237,7 @@
     },
     {
         "title": "Passenger",
-        "rating": 6.098,
+        "rating": 6.1,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/6BDQJoZpzhFJCTop59BRR51k9yp.jpg",
         "trailer": "https://www.youtube.com/watch?v=eNIn8kW1kyE",
@@ -1501,7 +1489,7 @@
     },
     {
         "title": "L'abandon",
-        "rating": 7.681,
+        "rating": 7.743,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kfUKP5IgzgLQyQD1MDt99yq9Af0.jpg",
         "trailer": null,
@@ -1513,7 +1501,7 @@
     },
     {
         "title": "Cocotte",
-        "rating": 9,
+        "rating": 7.25,
         "genre": "Aventure / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/5EZ8GvrxXG3Y8pQBUIP8XFiL6Ux.jpg",
         "trailer": "https://www.youtube.com/watch?v=Zd9CGEUsIFA",
@@ -1537,7 +1525,7 @@
     },
     {
         "title": "La Vénus électrique",
-        "rating": 7.213,
+        "rating": 7.2,
         "genre": "Comédie / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/eCzBpynLz6SHmupssSo9RIX4YIs.jpg",
         "trailer": null,
@@ -1813,7 +1801,7 @@
     },
     {
         "title": "The Criminals",
-        "rating": 6.481,
+        "rating": 6.47,
         "genre": "Action / Crime / Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/t6XO6yRFyLFbYEb5f7agQJjLlHR.jpg",
         "trailer": "https://www.youtube.com/watch?v=1aNywiElPSY",
@@ -1837,7 +1825,7 @@
     },
     {
         "title": "Mortal Kombat II",
-        "rating": 6.762,
+        "rating": 6.8,
         "genre": "Action / Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
         "trailer": "https://www.youtube.com/watch?v=zva2PQ-ud5Y",
@@ -2029,7 +2017,7 @@
     },
     {
         "title": "Die My Love",
-        "rating": 6.135,
+        "rating": 6.133,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/tQk0zn7UirjbB3vh1B65WWKHd9Z.jpg",
         "trailer": "https://www.youtube.com/watch?v=2jzXHW6Qe70",
@@ -2041,7 +2029,7 @@
     },
     {
         "title": "Le Diable s'habille en Prada 2",
-        "rating": 6.63,
+        "rating": 6.6,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/pD5fSVgDW2L5993eAlDd2GFXwIp.jpg",
         "trailer": "https://www.youtube.com/watch?v=PMd1at7OwiE",
@@ -2125,7 +2113,7 @@
     },
     {
         "title": "Michael",
-        "rating": 7.575,
+        "rating": 7.579,
         "genre": "Musique / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
         "trailer": "https://www.youtube.com/watch?v=k-YAcjaLuSI",
