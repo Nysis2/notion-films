@@ -1,5 +1,77 @@
 [
     {
+        "title": "Rejouer Dreyfus",
+        "rating": 0,
+        "genre": "Drame / Histoire",
+        "poster": "https://image.tmdb.org/t/p/w500/z3yahaE9SQ8fSttSu9EYutHLz57.jpg",
+        "trailer": null,
+        "release_date": "2026-05-07",
+        "overview": "En août 1899, Rennes accueille le second procès du capitaine Alfred Dreyfus accusé de trahison. Ce procès rendu nécessaire après la révélation du faux document fabriqué par les services militaires et la publication du célèbre J'accuse ! de Emile Zola. Le procès très médiatisé et marqué par de fortes tensions politiques et antisémites divise profondément la France. Malgré l'affaiblissement des preuves et la mise en cause du commandant Esterhazy, le conseil de guerre condamne à nouveau Dreyfus, cette fois avec circonstances atténuantes. Gracié peu après, il ne sera réhabilité qu'en 1906 après des années de combats judiciaires et politiques illustrant l'ampleur de l'une des plus grandes crises politiques et judiciaires de la Troisième République.  La reconstitution est jouée dans la salle où s'est tenu le conseil de guerre, aujourd'hui salle des sports du lycée. Cette fidélité donne à la représentation une dimension mémorielle et immersive unique.",
+        "tagline": "Un procès historique rejoué dans son lieu d'origine il y a 127 ans !",
+        "runtime": 120,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/aLWhDLg5KjCaCuRKRAmPSWAtUlH.jpg"
+    },
+    {
+        "title": "ABSOLUTE CINEMA",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500/zFEhp8K6fLbuiO5jYh6zx41CV2u.jpg",
+        "trailer": null,
+        "release_date": "2026-06-04",
+        "overview": "Film qui relate la passion d’une jeune fille pour le cinéma.",
+        "tagline": "court-métrage",
+        "runtime": 7,
+        "backdrop": null
+    },
+    {
+        "title": "Le Pont",
+        "rating": 0,
+        "genre": "Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/uBiOjMWa8ZQyIN49rwCILkuFMdR.jpg",
+        "trailer": null,
+        "release_date": "2026-05-27",
+        "overview": "Foued, jeune metteur en scène, rend service à un ami d’enfance, Tita, pour filmer le tournage de son clip de hip-hop. Pendant une scène de tournage avec la jeune Safa, ils trouvent un paquet de cocaïne. Ils décident de la vendre en petites quantités dans une boite de nuit branchée de Tunis. Tous les soirs, ils traversent le pont reliant les deux banlieues de Tunis. Mais les choses prennent une tournure inattendue.",
+        "tagline": "",
+        "runtime": 90,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/a5ob2RnfPnFTfRenYobKW8KVcDK.jpg"
+    },
+    {
+        "title": "Bérénice",
+        "rating": 0,
+        "genre": "Drame / Mystère / Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/9QCnJE8zpWHrx2LbuDjyuRZ7S1C.jpg",
+        "trailer": null,
+        "release_date": "2026-05-09",
+        "overview": "Le lendemain d'une rupture douloureuse, Bérénice rejoint Cassandre, son amie de longue date, à la plage. Entre honte, amertume et désir inavoué, leurs retrouvailles s'annoncent emplies de mystère et de fierté...",
+        "tagline": "",
+        "runtime": 5,
+        "backdrop": null
+    },
+    {
+        "title": "ETTY : Partie 2",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/1ZVZDfmGb5SnO0OzLayJ9N3i0p2.jpg",
+        "trailer": "https://www.youtube.com/watch?v=_bUMWEJhP_c",
+        "release_date": "2026-05-06",
+        "overview": "",
+        "tagline": "",
+        "runtime": 180,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/whlxv3GAahFMiHzBSoDZ0Nxs2h0.jpg"
+    },
+    {
+        "title": "وعد التراب",
+        "rating": 0,
+        "genre": "Drame / Fantastique",
+        "poster": "https://image.tmdb.org/t/p/w500/eeIIRG7OShkr0T2okFYlkvgldKM.jpg",
+        "trailer": null,
+        "release_date": "2026-05-22",
+        "overview": "",
+        "tagline": "",
+        "runtime": 7,
+        "backdrop": null
+    },
+    {
         "title": "La Vierge des Tufières",
         "rating": 0,
         "genre": "Fantastique / Drame",
@@ -156,18 +228,6 @@
         "backdrop": null
     },
     {
-        "title": "ETTY : Partie 1",
-        "rating": 0,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/ef0hLjx8FkqesySRwU6xBYVNNwF.jpg",
-        "trailer": "https://www.youtube.com/watch?v=_bUMWEJhP_c",
-        "release_date": "2026-05-06",
-        "overview": "",
-        "tagline": "",
-        "runtime": 148,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/54TxItas2SZRnbi5uhkVtSMXQU.jpg"
-    },
-    {
         "title": "PASTIS",
         "rating": 0,
         "genre": "Comédie / Drame",
@@ -241,7 +301,7 @@
     },
     {
         "title": "La Bataille de Gaulle: L’âge de fer",
-        "rating": 8.667,
+        "rating": 7.5,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zWuZWFKyga6GF3agrhJn8UtdMSu.jpg",
         "trailer": null,
@@ -277,7 +337,7 @@
     },
     {
         "title": "Disclosure Day",
-        "rating": 0,
+        "rating": 7.2,
         "genre": "Mystère / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/n3eMT3X0dbaqPMYbDP9unIB33pY.jpg",
         "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w",
@@ -817,7 +877,7 @@
     },
     {
         "title": "WHO",
-        "rating": 4.958,
+        "rating": 4.929,
         "genre": "Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/rO9L4pXE0ykAKGHOTPNGXcvh450.jpg",
         "trailer": null,
@@ -829,7 +889,7 @@
     },
     {
         "title": "L'Affaire Zanetti",
-        "rating": 6.278,
+        "rating": 6.272,
         "genre": "Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/cWxb9pIW8zyQjntIKtxRvHkbweO.jpg",
         "trailer": null,
@@ -889,7 +949,7 @@
     },
     {
         "title": "Scary Movie",
-        "rating": 5.429,
+        "rating": 5.7,
         "genre": "Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/aAZdZIwbMgSqCeybsooOa5stPwG.jpg",
         "trailer": "https://www.youtube.com/watch?v=cGgWAHXuTKc",
@@ -913,7 +973,7 @@
     },
     {
         "title": "The Mandalorian and Grogu",
-        "rating": 6.854,
+        "rating": 6.837,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/iQoIGnmrt8rzDDRC6el8HLvHvKf.jpg",
         "trailer": "https://www.youtube.com/watch?v=uwild1rw7Aw",
@@ -925,7 +985,7 @@
     },
     {
         "title": "Obsession",
-        "rating": 7.9,
+        "rating": 7.917,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/s8F6DCIX9gOMM6rv6WCGyGp6oSB.jpg",
         "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ",
@@ -1237,7 +1297,7 @@
     },
     {
         "title": "Tout va super",
-        "rating": 7,
+        "rating": 6.667,
         "genre": "Comédie / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/8AhPzankrDw6C6ZFL7Fd2Zx169y.jpg",
         "trailer": null,
@@ -1261,7 +1321,7 @@
     },
     {
         "title": "Colony",
-        "rating": 6.485,
+        "rating": 6.6,
         "genre": "Action / Thriller / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
         "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8",
@@ -1293,18 +1353,6 @@
         "overview": "Une exploration sensible et fragmentée de ce que signifie « être chez soi »",
         "tagline": "",
         "runtime": 8,
-        "backdrop": null
-    },
-    {
-        "title": "Ressacs, une histoire touarègue",
-        "rating": 7,
-        "genre": "Documentaire",
-        "poster": "https://image.tmdb.org/t/p/w500None",
-        "trailer": null,
-        "release_date": "2026-05-06",
-        "overview": "Ressacs, une histoire touarègue est une quête personnelle, une transmission générationnelle.  Il s’agit du voyage hiératique d’un cinéaste dans la mémoire de son peuple. Sous forme d’une lettre intime que le réalisateur adresse tel un testament à son fils, à travers notamment, l’histoire des Kel Ansar - tribu suzeraine dans la région de Tombouctou, dont l’auteur est issu - le film raconte l’histoire, la résistance et la culture touarègues. Ébranlés par la colonisation, la sédentarisation, les sècheresses, les rebellions et exils cycliques, les Touaregs tentent leur ultime survie. À la fois témoignage des conflits en cours et récit conté, le film est aussi un voyage existentiel, entre sable et mer, exil et mémoire vivante.",
-        "tagline": "",
-        "runtime": 120,
         "backdrop": null
     },
     {
@@ -1453,7 +1501,7 @@
     },
     {
         "title": "L'Être Aimé",
-        "rating": 7.292,
+        "rating": 7.24,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/guyRccNh9py85OYQO7Y7pLblxGQ.jpg",
         "trailer": null,
@@ -1477,7 +1525,7 @@
     },
     {
         "title": "Histoires parallèles",
-        "rating": 5.7,
+        "rating": 5.667,
         "genre": "Drame / Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/amQZiDsJ8SXCN6w073UxBBnYBmi.jpg",
         "trailer": "https://www.youtube.com/watch?v=y3BV9KeJzGM",
@@ -1501,7 +1549,7 @@
     },
     {
         "title": "Autofiction",
-        "rating": 6.507,
+        "rating": 6.5,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/Aqp47ZQiPcOgX1WHLkxmSYoMc4w.jpg",
         "trailer": null,
@@ -1525,7 +1573,7 @@
     },
     {
         "title": "Ella McCay",
-        "rating": 5.547,
+        "rating": 5.551,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/l7Ywl6GKDNfjym63TLHKsxr3ffo.jpg",
         "trailer": "https://www.youtube.com/watch?v=vRE6Iobir8k",
@@ -1537,7 +1585,7 @@
     },
     {
         "title": "Passenger",
-        "rating": 6.139,
+        "rating": 6.1,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/6BDQJoZpzhFJCTop59BRR51k9yp.jpg",
         "trailer": "https://www.youtube.com/watch?v=eNIn8kW1kyE",
@@ -1933,7 +1981,7 @@
     },
     {
         "title": "C’est quoi l’amour ?",
-        "rating": 6.242,
+        "rating": 6.2,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/rCESGHvM0XCPoTUMkqG7E9pDYPq.jpg",
         "trailer": null,
@@ -1945,7 +1993,7 @@
     },
     {
         "title": "Mon grand frère et moi",
-        "rating": 6.714,
+        "rating": 6.7,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/bJRpVBQZBYU8vXT3ZPEj6xF7BD4.jpg",
         "trailer": "https://www.youtube.com/watch?v=WgWo-_cYedA",
@@ -1981,7 +2029,7 @@
     },
     {
         "title": "The Criminals",
-        "rating": 6.421,
+        "rating": 6.416,
         "genre": "Action / Crime / Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/t6XO6yRFyLFbYEb5f7agQJjLlHR.jpg",
         "trailer": "https://www.youtube.com/watch?v=1aNywiElPSY",
@@ -2005,7 +2053,7 @@
     },
     {
         "title": "Mortal Kombat II",
-        "rating": 6.734,
+        "rating": 6.739,
         "genre": "Action / Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
         "trailer": "https://www.youtube.com/watch?v=zva2PQ-ud5Y",
@@ -2077,7 +2125,7 @@
     },
     {
         "title": "Dao",
-        "rating": 5.333,
+        "rating": 5.3,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/4wiscRFdQwiWhdOEK9mwCbccdgc.jpg",
         "trailer": null,
@@ -2125,7 +2173,7 @@
     },
     {
         "title": "Vivaldi et moi",
-        "rating": 7.061,
+        "rating": 7.1,
         "genre": "Musique / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/519IrW1wWNeR4sdAdH8HY4srrB6.jpg",
         "trailer": "https://www.youtube.com/watch?v=J-fEjuVy5cQ",
@@ -2149,7 +2197,7 @@
     },
     {
         "title": "Hokum",
-        "rating": 7.07,
+        "rating": 7.013,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/kfA90SVM17WbJRMV8kC5k7IRFZz.jpg",
         "trailer": "https://www.youtube.com/watch?v=qU_i5e48KzQ",
@@ -2173,7 +2221,7 @@
     },
     {
         "title": "Le Diable s'habille en Prada 2",
-        "rating": 6.619,
+        "rating": 6.607,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/pD5fSVgDW2L5993eAlDd2GFXwIp.jpg",
         "trailer": "https://www.youtube.com/watch?v=PMd1at7OwiE",
