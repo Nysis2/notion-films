@@ -1,5 +1,89 @@
 [
     {
+        "title": "Les Yeux Grands Ouverts",
+        "rating": 0,
+        "genre": "Thriller / Crime / Mystère",
+        "poster": "https://image.tmdb.org/t/p/w500/hluwXUWiaiOnOxnRRRm45mZwJXY.jpg",
+        "trailer": null,
+        "release_date": "2026-06-08",
+        "overview": "Roger vient d'assassiner sa femme.  Après une retraite anticipée, il se rend compte de la vie insignifiante qu'il menait jusque-là. Il a le sentiment d'ouvrir les yeux sur sa vie, et sur tout le temps perdu à ne rien contrôler. Il s'aperçoit alors que sa femme, Catherine, le bride dans son expansion depuis des années, et lui cache des choses. Quels cheminements vont le mener à commettre l'impardonnable ?",
+        "tagline": "OUVRIR LES YEUX NE PERMET PAS TOUJOURS DE BIEN VOIR.",
+        "runtime": 71,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/8i1ChUGbwbQgVm2p62oxovV2eCe.jpg"
+    },
+    {
+        "title": "Rose",
+        "rating": 0,
+        "genre": "Famille",
+        "poster": "https://image.tmdb.org/t/p/w500/7n9eBlQbMCGJTLQ5APeuoBUzglU.jpg",
+        "trailer": null,
+        "release_date": "2026-06-11",
+        "overview": "Rose fête son 13e anniversaire en famille un jour d’été, chez ses parents. Les cadeaux offerts par sa grand-mère Marie-Claire et par sa cousine Louïse révèlent alors toute l’ambiguïté de cet âge charnière, qui oscille entre l’enfance et l’adolescence.  Un bref instant familial qui nous fait réaliser que grandir passe aussi par des moments ordinaires.",
+        "tagline": "",
+        "runtime": 8,
+        "backdrop": null
+    },
+    {
+        "title": "2036",
+        "rating": 0,
+        "genre": "Documentaire / Drame / Musique",
+        "poster": "https://image.tmdb.org/t/p/w500/aHTyiWbcCZHv2kDbYztbtJfKcnG.jpg",
+        "trailer": null,
+        "release_date": "2026-06-08",
+        "overview": "2036 est un documentaire étudiant suivant trois lycéens qui imaginent leur vie dans dix ans. À travers des entretiens intimes et des séquences mises en scène, le film explore leurs doutes, leurs rêves et leur rapport à l’avenir.",
+        "tagline": "Où est-ce que tu te vois dans 10 ans ?",
+        "runtime": 12,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/i3RPkEMR9i5yBUm6hfMSpuuD1PI.jpg"
+    },
+    {
+        "title": "Easter Eggs",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500/gzTshAXmbPdlJR3rt3Or5x47GC3.jpg",
+        "trailer": null,
+        "release_date": "2026-06-11",
+        "overview": "",
+        "tagline": "",
+        "runtime": 16,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/41XD8e7OZj2hySnRAjj9LLwbhhM.jpg"
+    },
+    {
+        "title": "ETTY : Partie 2",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/1ZVZDfmGb5SnO0OzLayJ9N3i0p2.jpg",
+        "trailer": "https://www.youtube.com/watch?v=_bUMWEJhP_c",
+        "release_date": "2026-05-06",
+        "overview": "",
+        "tagline": "",
+        "runtime": 180,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/whlxv3GAahFMiHzBSoDZ0Nxs2h0.jpg"
+    },
+    {
+        "title": "October Crow",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/nzWHBNJ6vIO27PpoHvEV6OyGGuJ.jpg",
+        "trailer": "https://www.youtube.com/watch?v=SzkOIwmyLUo",
+        "release_date": "2026-06-10",
+        "overview": "",
+        "tagline": "",
+        "runtime": 74,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/r4zqpPd6nWFIk1rlOPQeps8kk12.jpg"
+    },
+    {
+        "title": "Double Occupancy",
+        "rating": 0,
+        "genre": "Romance / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/p3fLvXCkYev8LEQ6HUiJOB45q5p.jpg",
+        "trailer": null,
+        "release_date": "2026-06-12",
+        "overview": "",
+        "tagline": "",
+        "runtime": 132,
+        "backdrop": null
+    },
+    {
         "title": "Nos victoires fragiles",
         "rating": 0,
         "genre": "",
@@ -82,18 +166,6 @@
         "tagline": "Il est temps pour elle de devenir la narratrice de sa propre histoire et de choisir son destin.",
         "runtime": 15,
         "backdrop": null
-    },
-    {
-        "title": "ETTY : Partie 1",
-        "rating": 0,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/ef0hLjx8FkqesySRwU6xBYVNNwF.jpg",
-        "trailer": "https://www.youtube.com/watch?v=_bUMWEJhP_c",
-        "release_date": "2026-05-06",
-        "overview": "",
-        "tagline": "",
-        "runtime": 148,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/54TxItas2SZRnbi5uhkVtSMXQU.jpg"
     },
     {
         "title": "A Seat at the Table",
@@ -385,7 +457,7 @@
     },
     {
         "title": "Toy Story 5",
-        "rating": 7,
+        "rating": 8,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QftAW9TTmuQ",
@@ -397,7 +469,7 @@
     },
     {
         "title": "Backrooms",
-        "rating": 6.797,
+        "rating": 6.836,
         "genre": "Horreur / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
         "trailer": "https://www.youtube.com/watch?v=0HjdiohVOik",
@@ -517,7 +589,7 @@
     },
     {
         "title": "La Bataille de Gaulle : L’âge de fer",
-        "rating": 7.844,
+        "rating": 7.853,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zWuZWFKyga6GF3agrhJn8UtdMSu.jpg",
         "trailer": null,
@@ -672,18 +744,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/a5ob2RnfPnFTfRenYobKW8KVcDK.jpg"
     },
     {
-        "title": "Bérénice",
-        "rating": 0,
-        "genre": "Drame / Mystère / Romance",
-        "poster": "https://image.tmdb.org/t/p/w500/9QCnJE8zpWHrx2LbuDjyuRZ7S1C.jpg",
-        "trailer": null,
-        "release_date": "2026-05-09",
-        "overview": "Le lendemain d'une rupture douloureuse, Bérénice rejoint Cassandre, son amie de longue date, à la plage. Entre honte, amertume et désir inavoué, leurs retrouvailles s'annoncent emplies de mystère et de fierté...",
-        "tagline": "",
-        "runtime": 5,
-        "backdrop": null
-    },
-    {
         "title": "وعد التراب",
         "rating": 0,
         "genre": "Drame / Fantastique",
@@ -828,18 +888,6 @@
         "backdrop": null
     },
     {
-        "title": "PASTIS",
-        "rating": 0,
-        "genre": "Comédie / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/saW2hX4Ri2egJTdDXkzm0XKkUcT.jpg",
-        "trailer": null,
-        "release_date": "2026-05-30",
-        "overview": "Sasha, 20 ans, part en vacances avec son groupe d’amis dans sa maison d'enfance dans le Sud de la France. De retour pour la première fois depuis la mort de sa soeur, ce qui devait être un été idyllique devient rapidement étouffant pour elle.",
-        "tagline": "",
-        "runtime": 16,
-        "backdrop": null
-    },
-    {
         "title": "D’un monde à l’autre",
         "rating": 0,
         "genre": "Documentaire / Aventure",
@@ -901,7 +949,7 @@
     },
     {
         "title": "The Furious",
-        "rating": 8,
+        "rating": 8.6,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
         "trailer": "https://www.youtube.com/watch?v=Avky8dVaqAI",
@@ -913,7 +961,7 @@
     },
     {
         "title": "Disclosure Day",
-        "rating": 7.819,
+        "rating": 7.494,
         "genre": "Mystère / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/n3eMT3X0dbaqPMYbDP9unIB33pY.jpg",
         "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w",
@@ -996,18 +1044,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/nXS0X9ZYOXuAv0J2MbQwM24jf1b.jpg"
     },
     {
-        "title": "Au bord du monde",
-        "rating": 0,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/6WUwTJDQ2UKqBGRRIa2FXIcshnG.jpg",
-        "trailer": null,
-        "release_date": "2026-06-10",
-        "overview": "Alexia, une jeune femme volontaire et idéaliste, arrive comme infirmière stagiaire dans le service fermé d’un hôpital psychiatrique, et rencontre Joëlle, l’infirmière en chef, qui lui apprend le métier. Alexia va être touchée par la colère de Beline, une patiente de 20 ans, qui pense qu’elle n’a rien à faire là. Malgré les avertissements de Joëlle sur la distance à garder avec les patients, Alexia va se rapprocher de Beline et s’investir à fond pour essayer de la faire sortir.",
-        "tagline": "",
-        "runtime": 104,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/2Mk7DSrATGf63sub8OSKQpUS3K4.jpg"
-    },
-    {
         "title": "Ma Famille chérie",
         "rating": 0,
         "genre": "Comédie / Drame",
@@ -1021,7 +1057,7 @@
     },
     {
         "title": "A Second Life",
-        "rating": 0,
+        "rating": 4,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/dAFQATYknL9MO1yoywPj3vd4Epm.jpg",
         "trailer": null,
@@ -1162,18 +1198,6 @@
         "tagline": "",
         "runtime": 119,
         "backdrop": "https://image.tmdb.org/t/p/w1280/wvmfToHjflWab2PHKG1vCqg2Asx.jpg"
-    },
-    {
-        "title": "La Passion selon Mathilde",
-        "rating": 0,
-        "genre": "Documentaire",
-        "poster": "https://image.tmdb.org/t/p/w500/yvC4RzYyvexmxedlSIwZh0N8lv1.jpg",
-        "trailer": null,
-        "release_date": "2026-05-01",
-        "overview": "Mathilde Froustey est une danseuse étoile au parcours singulier : après une carrière à succès à l'Opéra de Paris et au San Francisco Ballet, elle revient en France en 2023 au Ballet de Bordeaux, où elle se blesse gravement dès les premières répétitions. Pendant plus d'un an, de la rééducation au retour sur scène, elle partage son parcours médical et l'état de sa santé mentale. À l'approche de son quarantième anniversaire, elle se livre sur sa vie d'athlète, d'artiste, de mère célibataire, et ose poser la délicate question de l'après. Ce film raconte sa détermination à danser encore et interroge une passion qui lui a « tout pris et tout donné ».",
-        "tagline": "",
-        "runtime": 52,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/e9PE1Pea8JQz1zPJpIajJZgt97z.jpg"
     },
     {
         "title": "Sacrifice Eternel",
@@ -1441,7 +1465,7 @@
     },
     {
         "title": "Scary Movie",
-        "rating": 5.685,
+        "rating": 5.667,
         "genre": "Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/aAZdZIwbMgSqCeybsooOa5stPwG.jpg",
         "trailer": "https://www.youtube.com/watch?v=cGgWAHXuTKc",
@@ -1465,7 +1489,7 @@
     },
     {
         "title": "The Mandalorian and Grogu",
-        "rating": 6.808,
+        "rating": 6.793,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/iQoIGnmrt8rzDDRC6el8HLvHvKf.jpg",
         "trailer": "https://www.youtube.com/watch?v=uwild1rw7Aw",
@@ -1789,7 +1813,7 @@
     },
     {
         "title": "Colony",
-        "rating": 6.837,
+        "rating": 6.861,
         "genre": "Action / Thriller / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
         "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8",
@@ -2113,7 +2137,7 @@
     },
     {
         "title": "La Vénus électrique",
-        "rating": 7.195,
+        "rating": 7.2,
         "genre": "Comédie / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/eCzBpynLz6SHmupssSo9RIX4YIs.jpg",
         "trailer": null,
@@ -2257,7 +2281,7 @@
     },
     {
         "title": "The New West",
-        "rating": 5.963,
+        "rating": 6,
         "genre": "Drame / Western",
         "poster": "https://image.tmdb.org/t/p/w500/9U6HCvWvecowsny54PmOR66CMjM.jpg",
         "trailer": "https://www.youtube.com/watch?v=NwGEF8B6Bcw",
@@ -2305,7 +2329,7 @@
     },
     {
         "title": "Mortal Kombat II",
-        "rating": 7.908,
+        "rating": 7.932,
         "genre": "Action / Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
         "trailer": "https://www.youtube.com/watch?v=zva2PQ-ud5Y",
