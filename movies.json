@@ -1,7 +1,43 @@
 [
     {
-        "title": "Les Yeux Grands Ouverts",
+        "title": "Bérénice",
         "rating": 0,
+        "genre": "Drame / Mystère / Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/9QCnJE8zpWHrx2LbuDjyuRZ7S1C.jpg",
+        "trailer": null,
+        "release_date": "2026-05-09",
+        "overview": "Le lendemain d'une rupture douloureuse, Bérénice rejoint Cassandre, son amie de longue date, à la plage. Entre honte, amertume et désir inavoué, leurs retrouvailles s'annoncent emplies de mystère et de fierté...",
+        "tagline": "",
+        "runtime": 5,
+        "backdrop": null
+    },
+    {
+        "title": "ETTY : Partie 1",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/ef0hLjx8FkqesySRwU6xBYVNNwF.jpg",
+        "trailer": "https://www.youtube.com/watch?v=_bUMWEJhP_c",
+        "release_date": "2026-05-06",
+        "overview": "",
+        "tagline": "",
+        "runtime": 148,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/54TxItas2SZRnbi5uhkVtSMXQU.jpg"
+    },
+    {
+        "title": "Au bord du monde",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/6WUwTJDQ2UKqBGRRIa2FXIcshnG.jpg",
+        "trailer": null,
+        "release_date": "2026-06-10",
+        "overview": "Alexia, une jeune femme volontaire et idéaliste, arrive comme infirmière stagiaire dans le service fermé d’un hôpital psychiatrique, et rencontre Joëlle, l’infirmière en chef, qui lui apprend le métier. Alexia va être touchée par la colère de Beline, une patiente de 20 ans, qui pense qu’elle n’a rien à faire là. Malgré les avertissements de Joëlle sur la distance à garder avec les patients, Alexia va se rapprocher de Beline et s’investir à fond pour essayer de la faire sortir.",
+        "tagline": "",
+        "runtime": 104,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/2Mk7DSrATGf63sub8OSKQpUS3K4.jpg"
+    },
+    {
+        "title": "Les Yeux Grands Ouverts",
+        "rating": 10,
         "genre": "Thriller / Crime / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/hluwXUWiaiOnOxnRRRm45mZwJXY.jpg",
         "trailer": null,
@@ -46,18 +82,6 @@
         "tagline": "",
         "runtime": 16,
         "backdrop": "https://image.tmdb.org/t/p/w1280/41XD8e7OZj2hySnRAjj9LLwbhhM.jpg"
-    },
-    {
-        "title": "ETTY : Partie 2",
-        "rating": 0,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/1ZVZDfmGb5SnO0OzLayJ9N3i0p2.jpg",
-        "trailer": "https://www.youtube.com/watch?v=_bUMWEJhP_c",
-        "release_date": "2026-05-06",
-        "overview": "",
-        "tagline": "",
-        "runtime": 180,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/whlxv3GAahFMiHzBSoDZ0Nxs2h0.jpg"
     },
     {
         "title": "October Crow",
@@ -469,7 +493,7 @@
     },
     {
         "title": "Backrooms",
-        "rating": 6.836,
+        "rating": 6.8,
         "genre": "Horreur / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
         "trailer": "https://www.youtube.com/watch?v=0HjdiohVOik",
@@ -589,10 +613,10 @@
     },
     {
         "title": "La Bataille de Gaulle : L’âge de fer",
-        "rating": 7.853,
+        "rating": 7.639,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zWuZWFKyga6GF3agrhJn8UtdMSu.jpg",
-        "trailer": null,
+        "trailer": "https://www.youtube.com/watch?v=dKUArYoZ_0U",
         "release_date": "2026-06-03",
         "overview": "Juin 1940. La France s'effondre et signe l’armistice. Au milieu du chaos, un homme refuse de céder. Seul contre tous, ce général inconnu s'échappe vers Londres pour sauver ce qu'il reste d'un rêve : la liberté. Sans armée, sans appui, sans espoir. Mais avec une folle conviction : la France, sa France, n'a pas déposé les armes. Il tente un ultime pari : convaincre le monde que la bataille de France n'est ni terminée, ni perdue. La réalité est têtue, et lui donne tort. Mais peu à peu se lèvent autour de lui en Angleterre, en France et en Afrique des résistants de l'ombre, des lycéens révoltés, des soldats déterminés. Leur foi, leur audace, leur rage de liberté défient l'Histoire qui semblait pourtant écrite d’avance.",
         "tagline": "Le Général qui a refusé de se rendre.",
@@ -697,7 +721,7 @@
     },
     {
         "title": "Bait",
-        "rating": 6.954,
+        "rating": 7,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kM9uIcRIgG9dmZF3Zf7yMR2zftt.jpg",
         "trailer": "https://www.youtube.com/watch?v=rWPi3CZLnfU",
@@ -901,7 +925,7 @@
     },
     {
         "title": "Le Vertige",
-        "rating": 5.5,
+        "rating": 5.4,
         "genre": "Animation",
         "poster": "https://image.tmdb.org/t/p/w500/3UgSYWJBhtuFVUY5wWj0LUOa3pH.jpg",
         "trailer": "https://www.youtube.com/watch?v=e_VdQd0rhyk",
@@ -937,7 +961,7 @@
     },
     {
         "title": "The Christophers",
-        "rating": 6.8,
+        "rating": 6.844,
         "genre": "Crime / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/bZvRuU5OaDd7toBVMuPrsYVl2dN.jpg",
         "trailer": "https://www.youtube.com/watch?v=42GkXhRVLUQ",
@@ -949,7 +973,7 @@
     },
     {
         "title": "The Furious",
-        "rating": 8.6,
+        "rating": 8,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
         "trailer": "https://www.youtube.com/watch?v=Avky8dVaqAI",
@@ -961,7 +985,7 @@
     },
     {
         "title": "Disclosure Day",
-        "rating": 7.494,
+        "rating": 7.151,
         "genre": "Mystère / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/n3eMT3X0dbaqPMYbDP9unIB33pY.jpg",
         "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w",
@@ -1069,7 +1093,7 @@
     },
     {
         "title": "Une année italienne",
-        "rating": 7.3,
+        "rating": 7.321,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/8kGEfpIabMiaWpdMkTcNFclld5W.jpg",
         "trailer": null,
@@ -1081,7 +1105,7 @@
     },
     {
         "title": "Fils de personne",
-        "rating": 0,
+        "rating": 7.5,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/AlN6NGHgdyn1ZOIkESOMSm2NCWh.jpg",
         "trailer": null,
@@ -1405,7 +1429,7 @@
     },
     {
         "title": "WHO",
-        "rating": 5.105,
+        "rating": 4.875,
         "genre": "Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/rO9L4pXE0ykAKGHOTPNGXcvh450.jpg",
         "trailer": null,
@@ -1465,7 +1489,7 @@
     },
     {
         "title": "Scary Movie",
-        "rating": 5.667,
+        "rating": 5.727,
         "genre": "Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/aAZdZIwbMgSqCeybsooOa5stPwG.jpg",
         "trailer": "https://www.youtube.com/watch?v=cGgWAHXuTKc",
@@ -1489,7 +1513,7 @@
     },
     {
         "title": "The Mandalorian and Grogu",
-        "rating": 6.793,
+        "rating": 6.8,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/iQoIGnmrt8rzDDRC6el8HLvHvKf.jpg",
         "trailer": "https://www.youtube.com/watch?v=uwild1rw7Aw",
@@ -1501,7 +1525,7 @@
     },
     {
         "title": "Obsession",
-        "rating": 7.906,
+        "rating": 7.904,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/s8F6DCIX9gOMM6rv6WCGyGp6oSB.jpg",
         "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ",
@@ -1801,7 +1825,7 @@
     },
     {
         "title": "Le Virtuose",
-        "rating": 6.841,
+        "rating": 6.8,
         "genre": "Crime / Thriller / Comédie / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/sQvdQNlQjuTqNRhicV5RUlhOIpT.jpg",
         "trailer": "https://www.youtube.com/watch?v=rdlOZhl-nSA",
@@ -1813,7 +1837,7 @@
     },
     {
         "title": "Colony",
-        "rating": 6.861,
+        "rating": 6.884,
         "genre": "Action / Thriller / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
         "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8",
@@ -2005,7 +2029,7 @@
     },
     {
         "title": "Autofiction",
-        "rating": 6.488,
+        "rating": 6.5,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/Aqp47ZQiPcOgX1WHLkxmSYoMc4w.jpg",
         "trailer": null,
@@ -2113,7 +2137,7 @@
     },
     {
         "title": "L'abandon",
-        "rating": 7.726,
+        "rating": 7.733,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kfUKP5IgzgLQyQD1MDt99yq9Af0.jpg",
         "trailer": null,
@@ -2140,7 +2164,7 @@
         "rating": 7.2,
         "genre": "Comédie / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/eCzBpynLz6SHmupssSo9RIX4YIs.jpg",
-        "trailer": null,
+        "trailer": "https://www.youtube.com/watch?v=UduHymnELtA",
         "release_date": "2026-05-12",
         "overview": "Paris, au début du XXe siècle. Persuadé que sa femme Irène est morte par sa faute, Antoine Balestro, peintre en vogue, n’arrive plus à se remettre au travail et désespère Armand, son galeriste. Un soir, en quête de pardon, Antoine, ivre, tente d’entrer en contact avec Irène par l’intermédiaire d’un médium. Sans le savoir, il parle en réalité avec Suzanne, une modeste saltimbanque, qui ne connaît rien à l’au-delà et s’est faufilée dans la roulotte de la voyante pour voler de la nourriture…",
         "tagline": "",
@@ -2305,7 +2329,7 @@
     },
     {
         "title": "The Criminals",
-        "rating": 6.482,
+        "rating": 6.5,
         "genre": "Action / Crime / Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/t6XO6yRFyLFbYEb5f7agQJjLlHR.jpg",
         "trailer": "https://www.youtube.com/watch?v=1aNywiElPSY",
@@ -2329,7 +2353,7 @@
     },
     {
         "title": "Mortal Kombat II",
-        "rating": 7.932,
+        "rating": 7.985,
         "genre": "Action / Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
         "trailer": "https://www.youtube.com/watch?v=zva2PQ-ud5Y",
