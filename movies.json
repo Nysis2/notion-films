@@ -1,5 +1,17 @@
 [
     {
+        "title": "ETTY : Partie 2",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/1ZVZDfmGb5SnO0OzLayJ9N3i0p2.jpg",
+        "trailer": "https://www.youtube.com/watch?v=_bUMWEJhP_c",
+        "release_date": "2026-05-06",
+        "overview": "",
+        "tagline": "",
+        "runtime": 180,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/whlxv3GAahFMiHzBSoDZ0Nxs2h0.jpg"
+    },
+    {
         "title": "Bérénice",
         "rating": 0,
         "genre": "Drame / Mystère / Romance",
@@ -10,18 +22,6 @@
         "tagline": "",
         "runtime": 5,
         "backdrop": null
-    },
-    {
-        "title": "ETTY : Partie 1",
-        "rating": 0,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/ef0hLjx8FkqesySRwU6xBYVNNwF.jpg",
-        "trailer": "https://www.youtube.com/watch?v=_bUMWEJhP_c",
-        "release_date": "2026-05-06",
-        "overview": "",
-        "tagline": "",
-        "runtime": 148,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/54TxItas2SZRnbi5uhkVtSMXQU.jpg"
     },
     {
         "title": "Au bord du monde",
@@ -481,7 +481,7 @@
     },
     {
         "title": "Toy Story 5",
-        "rating": 8,
+        "rating": 6,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QftAW9TTmuQ",
@@ -493,7 +493,7 @@
     },
     {
         "title": "Backrooms",
-        "rating": 6.8,
+        "rating": 6.885,
         "genre": "Horreur / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
         "trailer": "https://www.youtube.com/watch?v=0HjdiohVOik",
@@ -613,7 +613,7 @@
     },
     {
         "title": "La Bataille de Gaulle : L’âge de fer",
-        "rating": 7.639,
+        "rating": 7.692,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zWuZWFKyga6GF3agrhJn8UtdMSu.jpg",
         "trailer": "https://www.youtube.com/watch?v=dKUArYoZ_0U",
@@ -925,7 +925,7 @@
     },
     {
         "title": "Le Vertige",
-        "rating": 5.4,
+        "rating": 6.625,
         "genre": "Animation",
         "poster": "https://image.tmdb.org/t/p/w500/3UgSYWJBhtuFVUY5wWj0LUOa3pH.jpg",
         "trailer": "https://www.youtube.com/watch?v=e_VdQd0rhyk",
@@ -961,7 +961,7 @@
     },
     {
         "title": "The Christophers",
-        "rating": 6.844,
+        "rating": 6.758,
         "genre": "Crime / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/bZvRuU5OaDd7toBVMuPrsYVl2dN.jpg",
         "trailer": "https://www.youtube.com/watch?v=42GkXhRVLUQ",
@@ -973,7 +973,7 @@
     },
     {
         "title": "The Furious",
-        "rating": 8,
+        "rating": 7.824,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
         "trailer": "https://www.youtube.com/watch?v=Avky8dVaqAI",
@@ -985,7 +985,7 @@
     },
     {
         "title": "Disclosure Day",
-        "rating": 7.151,
+        "rating": 7,
         "genre": "Mystère / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/n3eMT3X0dbaqPMYbDP9unIB33pY.jpg",
         "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w",
@@ -1069,7 +1069,7 @@
     },
     {
         "title": "Ma Famille chérie",
-        "rating": 0,
+        "rating": 6,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/laXkaFXWi96nAFSpLHEG2KZ4zzy.jpg",
         "trailer": null,
@@ -1465,7 +1465,7 @@
     },
     {
         "title": "Saccharine",
-        "rating": 5.5,
+        "rating": 6.4,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/73xAtmZh1oOMKoGtGdzsvPNswmD.jpg",
         "trailer": "https://www.youtube.com/watch?v=uIY13LD3RUY",
@@ -1477,7 +1477,7 @@
     },
     {
         "title": "The Plague",
-        "rating": 6.515,
+        "rating": 6.5,
         "genre": "Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/agW0Xi07cpuhGiguRx9FeJvMkAA.jpg",
         "trailer": "https://www.youtube.com/watch?v=QGMRkHPAaVU",
@@ -1489,7 +1489,7 @@
     },
     {
         "title": "Scary Movie",
-        "rating": 5.727,
+        "rating": 5.627,
         "genre": "Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/aAZdZIwbMgSqCeybsooOa5stPwG.jpg",
         "trailer": "https://www.youtube.com/watch?v=cGgWAHXuTKc",
@@ -1513,7 +1513,7 @@
     },
     {
         "title": "The Mandalorian and Grogu",
-        "rating": 6.8,
+        "rating": 6.789,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/iQoIGnmrt8rzDDRC6el8HLvHvKf.jpg",
         "trailer": "https://www.youtube.com/watch?v=uwild1rw7Aw",
@@ -1525,7 +1525,7 @@
     },
     {
         "title": "Obsession",
-        "rating": 7.904,
+        "rating": 7.9,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/s8F6DCIX9gOMM6rv6WCGyGp6oSB.jpg",
         "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ",
@@ -1693,7 +1693,7 @@
     },
     {
         "title": "Mata",
-        "rating": 6,
+        "rating": 6.286,
         "genre": "Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/7LBB26Bt98NVu5zLnwBYM68rWtB.jpg",
         "trailer": null,
@@ -1825,7 +1825,7 @@
     },
     {
         "title": "Le Virtuose",
-        "rating": 6.8,
+        "rating": 6.891,
         "genre": "Crime / Thriller / Comédie / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/sQvdQNlQjuTqNRhicV5RUlhOIpT.jpg",
         "trailer": "https://www.youtube.com/watch?v=rdlOZhl-nSA",
@@ -1993,7 +1993,7 @@
     },
     {
         "title": "Les Goûteuses d'Hitler",
-        "rating": 6.613,
+        "rating": 6.615,
         "genre": "Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/ruP7m8O2gXlQ2jnVSUq1vfA2hd4.jpg",
         "trailer": "https://www.youtube.com/watch?v=DasVReZy2N8",
@@ -2137,7 +2137,7 @@
     },
     {
         "title": "L'abandon",
-        "rating": 7.733,
+        "rating": 7.761,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kfUKP5IgzgLQyQD1MDt99yq9Af0.jpg",
         "trailer": null,
@@ -2257,7 +2257,7 @@
     },
     {
         "title": "Pour le plaisir",
-        "rating": 6.019,
+        "rating": 6,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/2cWdr2n7VNrLEAer6hMPASIP7Px.jpg",
         "trailer": null,
@@ -2317,7 +2317,7 @@
     },
     {
         "title": "Cinque secondi",
-        "rating": 6.733,
+        "rating": 6.736,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/5hPjY75ddE90l6XzfAC6zrMRnNg.jpg",
         "trailer": null,
@@ -2353,7 +2353,7 @@
     },
     {
         "title": "Mortal Kombat II",
-        "rating": 7.985,
+        "rating": 8.004,
         "genre": "Action / Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
         "trailer": "https://www.youtube.com/watch?v=zva2PQ-ud5Y",
