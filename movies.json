@@ -1,15 +1,99 @@
 [
     {
-        "title": "ETTY : Partie 2",
+        "title": "Chambre Noire",
+        "rating": 0,
+        "genre": "Drame / Histoire",
+        "poster": "https://image.tmdb.org/t/p/w500/wMyOkwYzLeLl75gRIlD24EBvfLj.jpg",
+        "trailer": null,
+        "release_date": "2026-06-16",
+        "overview": "Ilona, une photographe de guerre, part explorer une prison polonaise en ruine où sa grand-mère a été déportée durant la Seconde Guerre mondiale. Sur place, elle rencontre une mystérieuse vieille dame qui vit recluse parmi les ruines et semble cacher un lourd secret lié au passé de ce lieu.",
+        "tagline": "",
+        "runtime": 16,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/jtqZmfRwZk4GuyMEFoAGPLdOkSJ.jpg"
+    },
+    {
+        "title": "ETTY : Partie 1",
         "rating": 0,
         "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/1ZVZDfmGb5SnO0OzLayJ9N3i0p2.jpg",
+        "poster": "https://image.tmdb.org/t/p/w500/ef0hLjx8FkqesySRwU6xBYVNNwF.jpg",
         "trailer": "https://www.youtube.com/watch?v=_bUMWEJhP_c",
         "release_date": "2026-05-06",
         "overview": "",
         "tagline": "",
-        "runtime": 180,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/whlxv3GAahFMiHzBSoDZ0Nxs2h0.jpg"
+        "runtime": 148,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/54TxItas2SZRnbi5uhkVtSMXQU.jpg"
+    },
+    {
+        "title": "True Story of a Woman in Jail: Hell of Love",
+        "rating": 5.2,
+        "genre": "Drame / Crime",
+        "poster": "https://image.tmdb.org/t/p/w500/fwRBODA5eGfwIzSwuaCFF0zmG1p.jpg",
+        "trailer": null,
+        "release_date": "2026-06-13",
+        "overview": "Mayumi est envoyée en prison après avoir brutalement attaqué son partenaire et sa maîtresse. Envoyées dans la cellule 31, les femmes ne pourraient pas être plus différentes... elles sont très religieuses, chantent des hymnes et discutent de la Bible. Une bagarre avec une cellule rivale déclenche une guerre sanglante et vicieuse dans la prison... une guerre au cours de laquelle le directeur et les gardiens cherchent à se venger des femmes en les torturant brutalement et en les humiliant sexuellement. Lorsqu'une nouvelle détenue arrive et que Mayumi la reconnaît, l'enfer se déchaîne !",
+        "tagline": "",
+        "runtime": 67,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/n0eBkw4SCrPI2lEjru5kiwKbgU7.jpg"
+    },
+    {
+        "title": "Les amants mouillés",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/33RRDx7rMJqLoGKjMNNmCgOwB9I.jpg",
+        "trailer": "https://www.youtube.com/watch?v=496ycYNItwg",
+        "release_date": "2026-06-11",
+        "overview": "Katsu travaille dans le cinéma porno de son petit village, qu'il a retrouvé après des années d'absence. Bien qu'il soit de retour, il décide d'ignorer ses anciens camarades. Il trompe l'ennui en entretenant une liaison avec sa patronne. Mais la rencontre avec Yuko, une jeune femme belle et libre, qu'il épie en train de faire l'amour avec un de ses anciens amis, bouleverse sa vie. Une passion trouble s'éveille entre les trois jeunes gens...",
+        "tagline": "",
+        "runtime": 76,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/2XhNNr3AlQspkUE0LuN9SJRpDaP.jpg"
+    },
+    {
+        "title": "Le marché sexuel des filles",
+        "rating": 6.4,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/trWzdzcNzLyma147JVblDNmIvuA.jpg",
+        "trailer": "https://www.youtube.com/watch?v=OSiiTK3aGCo",
+        "release_date": "2026-06-14",
+        "overview": "Dans les quartiers glauques d'un Osaka écrasé par un soleil de plomb, Tome, tout comme sa mère, est une prostituée désinvolte qui passe de client en client sans état d'âme. Rien ne semble l'atteindre : ni ses disputes constantes avec sa mère qui l'accuse de lui voler des clients... ou son amant, ni l'appétit sexuel de son frère attardé mental, qu'elle satisfait d'ailleurs avec indifférence. Tant qu'elle n'a rien à perdre, elle se sent libre. Mais elle se rend bien compte que tout cela risque de changer un jour.",
+        "tagline": "",
+        "runtime": 83,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sENL7UduNMLp0ubkSg7kfs4vxD3.jpg"
+    },
+    {
+        "title": "団鬼六　蛇の穴",
+        "rating": 3,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/djORbak3qNoKPa7yKM1S7Z6oXhI.jpg",
+        "trailer": null,
+        "release_date": "2026-06-13",
+        "overview": "",
+        "tagline": "",
+        "runtime": 69,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/a2mQeMOVBWDm3n08mzn1ELtv8wz.jpg"
+    },
+    {
+        "title": "La Vie secrète de Madame Yoshino",
+        "rating": 6,
+        "genre": "Drame / Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/oIgb5wYZavL4LfiJUDkx2eUz8n6.jpg",
+        "trailer": null,
+        "release_date": "2026-06-11",
+        "overview": "Mme Yoshino est la fille d'un accessoiriste du théâtre Kabuki. Elle est belle, élégante et est passée maître dans l'art de faire des poupées de papier traditionnelles qui représentent des personnages célèbres du Kabuki. Mais elle est veuve, son mari étant décédé six mois après leur mariage. Depuis, elle vit avec sa fille Takako, adolescente en mal d'amour et jalouse de la beauté de sa mère. Un jour, Mme Yoshino et sa fille rencontrent Hideo, qui n'est autre que le fils de l'acteur qui a violé Mme Yoshino dans son adolescence. Une rivalité naît entre la mère et la fille, toutes deux désormais amoureuses de Hideo.",
+        "tagline": "",
+        "runtime": 74,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/lA1qeD1iclQUTBtCCUBVqxqNYia.jpg"
+    },
+    {
+        "title": "Chandu Champion",
+        "rating": 7.2,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/pg8MMnPlDLjllrv0wEWV5f0Ql74.jpg",
+        "trailer": "https://www.youtube.com/watch?v=IHQQK_Wn5DM",
+        "release_date": "2026-06-14",
+        "overview": "Un homme qui a affronté ses différents adversaires avec une détermination sans nom. Son zèle inébranlable et son attitude de ne jamais abandonner ont permis à l'Inde de remporter sa première médaille d'or individuelle aux Jeux Paralympiques en 1972. Ce biopic retrace la vie de l'athlète Murlikant Petkar.",
+        "tagline": "",
+        "runtime": 142,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/b21xN1TVcFeuEKdSGxEjGKfOYhE.jpg"
     },
     {
         "title": "Bérénice",
@@ -409,7 +493,7 @@
     },
     {
         "title": "Shana",
-        "rating": 0,
+        "rating": 5,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zPikE6yXfc6DVGxyYmuJOsgK2n.jpg",
         "trailer": "https://www.youtube.com/watch?v=kClDa_QGp8M",
@@ -481,7 +565,7 @@
     },
     {
         "title": "Toy Story 5",
-        "rating": 6,
+        "rating": 6.4,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QftAW9TTmuQ",
@@ -493,7 +577,7 @@
     },
     {
         "title": "Backrooms",
-        "rating": 6.885,
+        "rating": 6.898,
         "genre": "Horreur / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
         "trailer": "https://www.youtube.com/watch?v=0HjdiohVOik",
@@ -613,7 +697,7 @@
     },
     {
         "title": "La Bataille de Gaulle : L’âge de fer",
-        "rating": 7.692,
+        "rating": 7.768,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zWuZWFKyga6GF3agrhJn8UtdMSu.jpg",
         "trailer": "https://www.youtube.com/watch?v=dKUArYoZ_0U",
@@ -721,7 +805,7 @@
     },
     {
         "title": "Bait",
-        "rating": 7,
+        "rating": 6.924,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kM9uIcRIgG9dmZF3Zf7yMR2zftt.jpg",
         "trailer": "https://www.youtube.com/watch?v=rWPi3CZLnfU",
@@ -973,7 +1057,7 @@
     },
     {
         "title": "The Furious",
-        "rating": 7.824,
+        "rating": 7.9,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
         "trailer": "https://www.youtube.com/watch?v=Avky8dVaqAI",
@@ -985,7 +1069,7 @@
     },
     {
         "title": "Disclosure Day",
-        "rating": 7,
+        "rating": 6.912,
         "genre": "Mystère / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/n3eMT3X0dbaqPMYbDP9unIB33pY.jpg",
         "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w",
@@ -1006,18 +1090,6 @@
         "tagline": "7 minutes d'activité",
         "runtime": 8,
         "backdrop": null
-    },
-    {
-        "title": "La Dernière Visite",
-        "rating": 0,
-        "genre": "Fantastique / Drame / Famille",
-        "poster": "https://image.tmdb.org/t/p/w500/wU4RDvHMMQlCFsDDi1LBXCj6y9T.jpg",
-        "trailer": null,
-        "release_date": "2026-06-08",
-        "overview": "L’histoire suit Tristan, un lycéen solitaire souvent exclu par ses camarades à cause de rumeurs concernant sa famille. Lors d’une visite de classe au Château de Monthyon, ancienne demeure du réalisateur Jean-Claude Brialy, Tristan aperçoit une mystérieuse jeune fille, Agathe, qui l’observe depuis une fenêtre. Tandis que le reste de la classe suit le guide officiel, Tristan est attiré par Agathe, qui le conduit dans une visite privée du domaine. En explorant les pièces, ils se rapprochent à travers leurs expériences partagées d’isolement et de douleur. Agathe révèle des ecchymoses sur son cou et ses bras, tandis que Tristan parle du harcèlement qu’il subit. L’atmosphère change lorsque Tristan découvre une vieille photographie calcinée dans la « Chambre Rouge », dessus un homme portant exactement le même collier que Lui",
-        "tagline": "Certains Lieux gardent plus que de simples souvenirs",
-        "runtime": 10,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/cblcUz1fZkvPCRUHy0tKfOaANBJ.jpg"
     },
     {
         "title": "Premier Rôle",
@@ -1081,7 +1153,7 @@
     },
     {
         "title": "A Second Life",
-        "rating": 4,
+        "rating": 5,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/dAFQATYknL9MO1yoywPj3vd4Epm.jpg",
         "trailer": null,
@@ -1093,7 +1165,7 @@
     },
     {
         "title": "Une année italienne",
-        "rating": 7.321,
+        "rating": 7.1,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/8kGEfpIabMiaWpdMkTcNFclld5W.jpg",
         "trailer": null,
@@ -1105,7 +1177,7 @@
     },
     {
         "title": "Fils de personne",
-        "rating": 7.5,
+        "rating": 7,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/AlN6NGHgdyn1ZOIkESOMSm2NCWh.jpg",
         "trailer": null,
@@ -1345,7 +1417,7 @@
     },
     {
         "title": "Le Garçon qui faisait danser les collines",
-        "rating": 6.857,
+        "rating": 6.862,
         "genre": "Drame / Musique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/9uWxZFfe4Xv7NMXn70sFU6nwZp3.jpg",
         "trailer": "https://www.youtube.com/watch?v=GHBATVjjLWY",
@@ -1465,7 +1537,7 @@
     },
     {
         "title": "Saccharine",
-        "rating": 6.4,
+        "rating": 6.3,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/73xAtmZh1oOMKoGtGdzsvPNswmD.jpg",
         "trailer": "https://www.youtube.com/watch?v=uIY13LD3RUY",
@@ -1489,7 +1561,7 @@
     },
     {
         "title": "Scary Movie",
-        "rating": 5.627,
+        "rating": 5.582,
         "genre": "Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/aAZdZIwbMgSqCeybsooOa5stPwG.jpg",
         "trailer": "https://www.youtube.com/watch?v=cGgWAHXuTKc",
@@ -1513,7 +1585,7 @@
     },
     {
         "title": "The Mandalorian and Grogu",
-        "rating": 6.789,
+        "rating": 6.8,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/iQoIGnmrt8rzDDRC6el8HLvHvKf.jpg",
         "trailer": "https://www.youtube.com/watch?v=uwild1rw7Aw",
@@ -1525,7 +1597,7 @@
     },
     {
         "title": "Obsession",
-        "rating": 7.9,
+        "rating": 7.923,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/s8F6DCIX9gOMM6rv6WCGyGp6oSB.jpg",
         "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ",
@@ -1570,18 +1642,6 @@
         "tagline": "",
         "runtime": 3,
         "backdrop": "https://image.tmdb.org/t/p/w1280/jszu1XfvOgxLIjMsqFTd26rCPV5.jpg"
-    },
-    {
-        "title": "Ruben",
-        "rating": 10,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/crfOeAPiSdskS9u8kyAoqm21AZo.jpg",
-        "trailer": null,
-        "release_date": "2026-05-21",
-        "overview": "Un cochon nommé Ruben se retrouve coincé dans les griffes d'un homme.  Ce film a été créé dans le cadre de l'option cinéma au lycée Pothier par un des groupes de la classe de seconde.",
-        "tagline": "Peut-il éviter la boucherie ?",
-        "runtime": 3,
-        "backdrop": null
     },
     {
         "title": "La Zigouillade",
@@ -1729,7 +1789,7 @@
     },
     {
         "title": "Josiane",
-        "rating": 0,
+        "rating": 5,
         "genre": "Horreur / Animation",
         "poster": "https://image.tmdb.org/t/p/w500/cQlpDLL40uI51bWc3cslAzgq6AN.jpg",
         "trailer": null,
@@ -1789,7 +1849,7 @@
     },
     {
         "title": "L'Objet du délit",
-        "rating": 6.667,
+        "rating": 6.68,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/AdM7jQOEdRZ0DW6nfizLwxhSmVI.jpg",
         "trailer": "https://www.youtube.com/watch?v=HpJ_M4brFAI",
@@ -1825,7 +1885,7 @@
     },
     {
         "title": "Le Virtuose",
-        "rating": 6.891,
+        "rating": 6.894,
         "genre": "Crime / Thriller / Comédie / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/sQvdQNlQjuTqNRhicV5RUlhOIpT.jpg",
         "trailer": "https://www.youtube.com/watch?v=rdlOZhl-nSA",
@@ -1837,7 +1897,7 @@
     },
     {
         "title": "Colony",
-        "rating": 6.884,
+        "rating": 6.868,
         "genre": "Action / Thriller / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
         "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8",
@@ -2065,7 +2125,7 @@
     },
     {
         "title": "Passenger",
-        "rating": 6.2,
+        "rating": 6.284,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/6BDQJoZpzhFJCTop59BRR51k9yp.jpg",
         "trailer": "https://www.youtube.com/watch?v=eNIn8kW1kyE",
@@ -2137,7 +2197,7 @@
     },
     {
         "title": "L'abandon",
-        "rating": 7.761,
+        "rating": 7.767,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kfUKP5IgzgLQyQD1MDt99yq9Af0.jpg",
         "trailer": null,
@@ -2161,7 +2221,7 @@
     },
     {
         "title": "La Vénus électrique",
-        "rating": 7.2,
+        "rating": 7.196,
         "genre": "Comédie / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/eCzBpynLz6SHmupssSo9RIX4YIs.jpg",
         "trailer": "https://www.youtube.com/watch?v=UduHymnELtA",
@@ -2257,7 +2317,7 @@
     },
     {
         "title": "Pour le plaisir",
-        "rating": 6,
+        "rating": 6.093,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/2cWdr2n7VNrLEAer6hMPASIP7Px.jpg",
         "trailer": null,
@@ -2305,7 +2365,7 @@
     },
     {
         "title": "The New West",
-        "rating": 6,
+        "rating": 5.893,
         "genre": "Drame / Western",
         "poster": "https://image.tmdb.org/t/p/w500/9U6HCvWvecowsny54PmOR66CMjM.jpg",
         "trailer": "https://www.youtube.com/watch?v=NwGEF8B6Bcw",
@@ -2329,7 +2389,7 @@
     },
     {
         "title": "The Criminals",
-        "rating": 6.5,
+        "rating": 6.483,
         "genre": "Action / Crime / Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/t6XO6yRFyLFbYEb5f7agQJjLlHR.jpg",
         "trailer": "https://www.youtube.com/watch?v=1aNywiElPSY",
@@ -2353,7 +2413,7 @@
     },
     {
         "title": "Mortal Kombat II",
-        "rating": 8.004,
+        "rating": 8.02,
         "genre": "Action / Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
         "trailer": "https://www.youtube.com/watch?v=zva2PQ-ud5Y",
