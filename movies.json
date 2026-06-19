@@ -1,5 +1,17 @@
 [
     {
+        "title": "Léonie",
+        "rating": 0,
+        "genre": "Drame / Horreur",
+        "poster": "https://image.tmdb.org/t/p/w500/nO69wBRcOgPYVhtW0lJL3NgKv9K.jpg",
+        "trailer": null,
+        "release_date": "2026-06-18",
+        "overview": "",
+        "tagline": "",
+        "runtime": 8,
+        "backdrop": null
+    },
+    {
         "title": "Ma mère dort",
         "rating": 0,
         "genre": "Drame",
@@ -253,7 +265,7 @@
     },
     {
         "title": "Blue Heron",
-        "rating": 8.3,
+        "rating": 8.2,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/972gqjsBAqfHTa4BqRnpPpPoOXS.jpg",
         "trailer": "https://www.youtube.com/watch?v=JeWg8wUlQVo",
@@ -505,7 +517,7 @@
     },
     {
         "title": "赤線玉の井 ぬけられます",
-        "rating": 0,
+        "rating": 7,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/eNxX6AsiXVvWnyYEbUS1dQyM0nb.jpg",
         "trailer": null,
@@ -721,7 +733,7 @@
     },
     {
         "title": "Au bord du monde",
-        "rating": 7,
+        "rating": 6.75,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/6WUwTJDQ2UKqBGRRIa2FXIcshnG.jpg",
         "trailer": null,
@@ -1105,7 +1117,7 @@
     },
     {
         "title": "Jim Queen",
-        "rating": 7.25,
+        "rating": 7.2,
         "genre": "Animation / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
         "trailer": null,
@@ -1129,7 +1141,7 @@
     },
     {
         "title": "Toy Story 5",
-        "rating": 7.1,
+        "rating": 7.177,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QftAW9TTmuQ",
@@ -1141,7 +1153,7 @@
     },
     {
         "title": "Backrooms",
-        "rating": 6.9,
+        "rating": 6.876,
         "genre": "Horreur / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
         "trailer": "https://www.youtube.com/watch?v=0HjdiohVOik",
@@ -1513,7 +1525,7 @@
     },
     {
         "title": "The Giaccomo",
-        "rating": 0,
+        "rating": 7,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/31DK5LclGlYLyO6FFkwBLY5Q39V.jpg",
         "trailer": null,
@@ -1537,7 +1549,7 @@
     },
     {
         "title": "The Furious",
-        "rating": 8.09,
+        "rating": 7.965,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
         "trailer": "https://www.youtube.com/watch?v=Avky8dVaqAI",
@@ -1549,7 +1561,7 @@
     },
     {
         "title": "Disclosure Day",
-        "rating": 6.758,
+        "rating": 6.761,
         "genre": "Mystère / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/n3eMT3X0dbaqPMYbDP9unIB33pY.jpg",
         "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w",
@@ -1933,7 +1945,7 @@
     },
     {
         "title": "WHO",
-        "rating": 4.875,
+        "rating": 4.9,
         "genre": "Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/rO9L4pXE0ykAKGHOTPNGXcvh450.jpg",
         "trailer": null,
@@ -1969,7 +1981,7 @@
     },
     {
         "title": "Saccharine",
-        "rating": 6.3,
+        "rating": 6.087,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/73xAtmZh1oOMKoGtGdzsvPNswmD.jpg",
         "trailer": "https://www.youtube.com/watch?v=uIY13LD3RUY",
@@ -1993,7 +2005,7 @@
     },
     {
         "title": "Scary Movie",
-        "rating": 5.5,
+        "rating": 5.525,
         "genre": "Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/aAZdZIwbMgSqCeybsooOa5stPwG.jpg",
         "trailer": "https://www.youtube.com/watch?v=cGgWAHXuTKc",
@@ -2017,7 +2029,7 @@
     },
     {
         "title": "The Mandalorian and Grogu",
-        "rating": 6.769,
+        "rating": 6.76,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/iQoIGnmrt8rzDDRC6el8HLvHvKf.jpg",
         "trailer": "https://www.youtube.com/watch?v=uwild1rw7Aw",
@@ -2029,7 +2041,7 @@
     },
     {
         "title": "Obsession",
-        "rating": 7.911,
+        "rating": 7.917,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/s8F6DCIX9gOMM6rv6WCGyGp6oSB.jpg",
         "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ",
@@ -2305,7 +2317,7 @@
     },
     {
         "title": "Colony",
-        "rating": 6.9,
+        "rating": 6.85,
         "genre": "Action / Thriller / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
         "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8",
@@ -2401,7 +2413,7 @@
     },
     {
         "title": "L'Être Aimé",
-        "rating": 7.061,
+        "rating": 7.029,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/guyRccNh9py85OYQO7Y7pLblxGQ.jpg",
         "trailer": null,
@@ -2425,7 +2437,7 @@
     },
     {
         "title": "Histoires parallèles",
-        "rating": 5.648,
+        "rating": 5.6,
         "genre": "Drame / Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/amQZiDsJ8SXCN6w073UxBBnYBmi.jpg",
         "trailer": "https://www.youtube.com/watch?v=y3BV9KeJzGM",
@@ -2473,7 +2485,7 @@
     },
     {
         "title": "Ella McCay",
-        "rating": 5.558,
+        "rating": 5.566,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/l7Ywl6GKDNfjym63TLHKsxr3ffo.jpg",
         "trailer": "https://www.youtube.com/watch?v=vRE6Iobir8k",
@@ -2485,7 +2497,7 @@
     },
     {
         "title": "Passenger",
-        "rating": 6.271,
+        "rating": 6.3,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/6BDQJoZpzhFJCTop59BRR51k9yp.jpg",
         "trailer": "https://www.youtube.com/watch?v=eNIn8kW1kyE",
