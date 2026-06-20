@@ -1,5 +1,65 @@
 [
     {
+        "title": "50K Entre 30 Doigts",
+        "rating": 0,
+        "genre": "Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/mIzEuE9VVAwCE9NrE5p9bJWr86a.jpg",
+        "trailer": null,
+        "release_date": "2026-05-28",
+        "overview": "Benjamin se promène dans la rue accompagné de ses deux amis Tom et William, quand il découvre un ticket gagnant de 50 000 € abandonné sur le sol. Confronté à ses compères, il va alors imaginer toutes les possibilités afin de conserver le lot uniquement pour lui-même.",
+        "tagline": "Comment conservera t-il ce lot exceptionnel ?",
+        "runtime": 12,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/oDDI6BgH2Za7CFGfP7B6BJtllbO.jpg"
+    },
+    {
+        "title": "Coucou Sara !",
+        "rating": 0,
+        "genre": "Comédie / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/91ZlqQ7ck1ZydpO8hJM3wkqKhAt.jpg",
+        "trailer": null,
+        "release_date": "2026-06-18",
+        "overview": "4 adolescents partent en road-trip et filment leurs aventures",
+        "tagline": "Coucou Sara !",
+        "runtime": 10,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bKAIG1UymIObg0yF7kzYgF3im1x.jpg"
+    },
+    {
+        "title": "Les Heures Mortes",
+        "rating": 0,
+        "genre": "Science-fiction / Romance",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": null,
+        "release_date": "2026-06-18",
+        "overview": "",
+        "tagline": "",
+        "runtime": 15,
+        "backdrop": null
+    },
+    {
+        "title": "L'oeuf Noir",
+        "rating": 0,
+        "genre": "Drame / Fantastique",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": null,
+        "release_date": "2026-06-22",
+        "overview": "Dans un monde souterrain où l’humanité a été punie pour avoir osé ouvrir l’Œuf noir, un père et son fils vivent reclus, éclairés seulement par la lumière d’une cheminée. Le rêve de Petit est de sortir de cette prison et de découvrir ce que recelle l’Œuf noir .",
+        "tagline": "",
+        "runtime": 16,
+        "backdrop": null
+    },
+    {
+        "title": "Jim Queen à la recherche de la Chloroqueer",
+        "rating": 7.2,
+        "genre": "Animation / Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
+        "trailer": null,
+        "release_date": "2026-06-17",
+        "overview": "Jim, icône sexy de la scène gay parisienne, voit sa vie basculer lorsqu’il contracte l’Hétérose, un étrange virus qui transforme les hommes gays… en hétérosexuels ! Il voit alors tout le monde lui tourner le dos à l’exception de son dernier follower (et premier admirateur), Lucien, un jeune homme qui peine à s’assumer. Ensemble, ils partiront en quête d’un mystérieux remède capable de guérir Jim et d’empêcher l’extinction de l’homosexualité…",
+        "tagline": "Un long métrage d'animation de dur à queer",
+        "runtime": 85,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/vQw05sfFEVCVpysDAU5C8NU1gMO.jpg"
+    },
+    {
         "title": "Léonie",
         "rating": 0,
         "genre": "Drame / Horreur",
@@ -577,7 +637,7 @@
     },
     {
         "title": "Des Minions et des monstres",
-        "rating": 0,
+        "rating": 9.5,
         "genre": "Aventure / Animation / Comédie / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/igD0dUmeaJfWME9j3OoqeN2dHvp.jpg",
         "trailer": "https://www.youtube.com/watch?v=V-O-uBaHk3c",
@@ -1116,18 +1176,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/81jAPAQBKsmJAHk87Za81Z7D0OX.jpg"
     },
     {
-        "title": "Jim Queen",
-        "rating": 7.2,
-        "genre": "Animation / Comédie",
-        "poster": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
-        "trailer": null,
-        "release_date": "2026-06-17",
-        "overview": "Jim, icône sexy de la scène gay parisienne, voit sa vie basculer lorsqu’il contracte l’Hétérose, un étrange virus qui transforme les hommes gays… en hétérosexuels ! Il voit alors tout le monde lui tourner le dos à l’exception de son dernier follower (et premier admirateur), Lucien, un jeune homme qui peine à s’assumer. Ensemble, ils partiront en quête d’un mystérieux remède capable de guérir Jim et d’empêcher l’extinction de l’homosexualité…",
-        "tagline": "Un long métrage d'animation de dur à queer",
-        "runtime": 85,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/vQw05sfFEVCVpysDAU5C8NU1gMO.jpg"
-    },
-    {
         "title": "Eruption",
         "rating": 6.3,
         "genre": "Drame / Comédie",
@@ -1141,7 +1189,7 @@
     },
     {
         "title": "Toy Story 5",
-        "rating": 7.177,
+        "rating": 7.404,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QftAW9TTmuQ",
@@ -1153,7 +1201,7 @@
     },
     {
         "title": "Backrooms",
-        "rating": 6.876,
+        "rating": 6.9,
         "genre": "Horreur / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
         "trailer": "https://www.youtube.com/watch?v=0HjdiohVOik",
@@ -1237,7 +1285,7 @@
     },
     {
         "title": "La Bataille de Gaulle : L’âge de fer",
-        "rating": 7.734,
+        "rating": 7.75,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zWuZWFKyga6GF3agrhJn8UtdMSu.jpg",
         "trailer": "https://www.youtube.com/watch?v=dKUArYoZ_0U",
@@ -1501,7 +1549,7 @@
     },
     {
         "title": "Le Vertige",
-        "rating": 5.875,
+        "rating": 5.824,
         "genre": "Animation",
         "poster": "https://image.tmdb.org/t/p/w500/3UgSYWJBhtuFVUY5wWj0LUOa3pH.jpg",
         "trailer": "https://www.youtube.com/watch?v=e_VdQd0rhyk",
@@ -1549,7 +1597,7 @@
     },
     {
         "title": "The Furious",
-        "rating": 7.965,
+        "rating": 8,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
         "trailer": "https://www.youtube.com/watch?v=Avky8dVaqAI",
@@ -1561,7 +1609,7 @@
     },
     {
         "title": "Disclosure Day",
-        "rating": 6.761,
+        "rating": 6.738,
         "genre": "Mystère / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/n3eMT3X0dbaqPMYbDP9unIB33pY.jpg",
         "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w",
@@ -1945,7 +1993,7 @@
     },
     {
         "title": "WHO",
-        "rating": 4.9,
+        "rating": 4.69,
         "genre": "Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/rO9L4pXE0ykAKGHOTPNGXcvh450.jpg",
         "trailer": null,
@@ -1981,7 +2029,7 @@
     },
     {
         "title": "Saccharine",
-        "rating": 6.087,
+        "rating": 6.212,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/73xAtmZh1oOMKoGtGdzsvPNswmD.jpg",
         "trailer": "https://www.youtube.com/watch?v=uIY13LD3RUY",
@@ -2005,7 +2053,7 @@
     },
     {
         "title": "Scary Movie",
-        "rating": 5.525,
+        "rating": 5.511,
         "genre": "Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/aAZdZIwbMgSqCeybsooOa5stPwG.jpg",
         "trailer": "https://www.youtube.com/watch?v=cGgWAHXuTKc",
@@ -2029,7 +2077,7 @@
     },
     {
         "title": "The Mandalorian and Grogu",
-        "rating": 6.76,
+        "rating": 6.74,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/iQoIGnmrt8rzDDRC6el8HLvHvKf.jpg",
         "trailer": "https://www.youtube.com/watch?v=uwild1rw7Aw",
@@ -2041,7 +2089,7 @@
     },
     {
         "title": "Obsession",
-        "rating": 7.917,
+        "rating": 7.9,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/s8F6DCIX9gOMM6rv6WCGyGp6oSB.jpg",
         "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ",
@@ -2257,7 +2305,7 @@
     },
     {
         "title": "Charli XCX: Alone Together",
-        "rating": 6.133,
+        "rating": 6.1,
         "genre": "Documentaire / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/q2cGRdxcZu4PkjQxjOP8Z2CDXD9.jpg",
         "trailer": "https://www.youtube.com/watch?v=hvVJa2N6PeE",
@@ -2305,7 +2353,7 @@
     },
     {
         "title": "Le Virtuose",
-        "rating": 6.9,
+        "rating": 6.927,
         "genre": "Crime / Thriller / Comédie / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/sQvdQNlQjuTqNRhicV5RUlhOIpT.jpg",
         "trailer": "https://www.youtube.com/watch?v=rdlOZhl-nSA",
@@ -2317,7 +2365,7 @@
     },
     {
         "title": "Colony",
-        "rating": 6.85,
+        "rating": 6.9,
         "genre": "Action / Thriller / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
         "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8",
@@ -2413,7 +2461,7 @@
     },
     {
         "title": "L'Être Aimé",
-        "rating": 7.029,
+        "rating": 7.028,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/guyRccNh9py85OYQO7Y7pLblxGQ.jpg",
         "trailer": null,
@@ -2437,7 +2485,7 @@
     },
     {
         "title": "Histoires parallèles",
-        "rating": 5.6,
+        "rating": 5.544,
         "genre": "Drame / Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/amQZiDsJ8SXCN6w073UxBBnYBmi.jpg",
         "trailer": "https://www.youtube.com/watch?v=y3BV9KeJzGM",
@@ -2473,7 +2521,7 @@
     },
     {
         "title": "ALL YOU NEED IS KILL",
-        "rating": 6.364,
+        "rating": 6.4,
         "genre": "Animation / Action / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/nP3Dmepb5XENLPAWzpYFOUmL8j8.jpg",
         "trailer": "https://www.youtube.com/watch?v=0YpXN40vIxM",
