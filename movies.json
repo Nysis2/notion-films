@@ -1,5 +1,89 @@
 [
     {
+        "title": "Angle Mort",
+        "rating": 5,
+        "genre": "Fantastique / Horreur / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/coLCdMQPutNyZzmbd2G7wb4Ij1P.jpg",
+        "trailer": null,
+        "release_date": "2026-06-18",
+        "overview": "Après avoir commis l'irréparable, un jeune homme sourd cherche à se faire oublier en s'isolant dans une maison de campagne. Alors qu'il reprend le cours de sa vie normale, des phénomènes paranormaux commencent à hanter son quotidien.",
+        "tagline": "Le châtiment marche en rampant, mais il arrive.",
+        "runtime": 10,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/e32OEBw1bFsRZEc8TQ8qzhQxarU.jpg"
+    },
+    {
+        "title": "Cachet",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/gZwzUTb15S3MqZY8oGISesV9Yek.jpg",
+        "trailer": null,
+        "release_date": "2026-06-18",
+        "overview": "Dans un monde où chaque être humain prend des médicaments visant à mettre les émotions de côté, Maël découvre par inadvertance la vie sans ses \"Antipathos\" et doit s'opposer à sa mère, toujours sous l'emprise de ceux-ci.",
+        "tagline": "Cachet",
+        "runtime": 10,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/1CctUQVwdJ4PY17LT2e0DWGHrUk.jpg"
+    },
+    {
+        "title": "La folle aventure de Douglass",
+        "rating": 0,
+        "genre": "Action / Comédie / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/5g3dPHrRuOc7w8LtesGzDRUrOWS.jpg",
+        "trailer": null,
+        "release_date": "2026-06-18",
+        "overview": "Un jeune policier et sa collègue s'embourbent dans une affaire dangereuse, suite à une simple affaire de vélo volé...",
+        "tagline": "SI, SI... Ferrari Ferrari...",
+        "runtime": 8,
+        "backdrop": null
+    },
+    {
+        "title": "Double meurtre pour la danseuse",
+        "rating": 0,
+        "genre": "Drame / Crime",
+        "poster": "https://image.tmdb.org/t/p/w500/hE7ymxonDlLKoYN0rw5JV6CNajH.jpg",
+        "trailer": null,
+        "release_date": "2026-06-18",
+        "overview": "",
+        "tagline": "",
+        "runtime": 5,
+        "backdrop": null
+    },
+    {
+        "title": "Cuba & Alaska",
+        "rating": 8,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/7ODABHYCAsGM9bNf1BPinOi26K0.jpg",
+        "trailer": null,
+        "release_date": "2026-05-27",
+        "overview": "Cuba et Alaska, deux jeunes ambulancières, vivent dans des conditions précaires dans la région de Kharkiv, ravagée par la guerre. Leur mission : sauver des vies tout en cultivant leur humour et leur foi en la victoire.",
+        "tagline": "",
+        "runtime": 91,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3iZwXeZmitP4fvwn3qXmb5ofjbl.jpg"
+    },
+    {
+        "title": "SWEET DREAMS",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500/n8Gpix2MTGmZcGTvW6OYZV4Kotm.jpg",
+        "trailer": null,
+        "release_date": "2026-06-18",
+        "overview": "Camille, une jeune fille de 17 ans se rend chaque matin dans un café, parfois avec son meilleur ami. Un jour elle rencontre une serveuse de son âge avec qui elle va se rapprocher. La jeune femme extravertie va l’aider à s’ouvrir. Pour Camille c’est une nouvelle page blanche et le début d’une aventure.",
+        "tagline": "",
+        "runtime": 8,
+        "backdrop": null
+    },
+    {
+        "title": "Flamenco",
+        "rating": 0,
+        "genre": "Musique",
+        "poster": "https://image.tmdb.org/t/p/w500/gSm3BNyNPAv20txhRpCs8QgHblr.jpg",
+        "trailer": null,
+        "release_date": "2026-05-18",
+        "overview": "",
+        "tagline": "",
+        "runtime": 19,
+        "backdrop": null
+    },
+    {
         "title": "50K Entre 30 Doigts",
         "rating": 0,
         "genre": "Comédie",
@@ -49,7 +133,7 @@
     },
     {
         "title": "Jim Queen à la recherche de la Chloroqueer",
-        "rating": 7.2,
+        "rating": 7.6,
         "genre": "Animation / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
         "trailer": null,
@@ -301,7 +385,7 @@
     },
     {
         "title": "Les Parfait(s) : Arnaques en Famille",
-        "rating": 0,
+        "rating": 9,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/6vnFSM696DNcWUmRY68Eal1BVk5.jpg",
         "trailer": null,
@@ -1177,7 +1261,7 @@
     },
     {
         "title": "Eruption",
-        "rating": 6.3,
+        "rating": 6.273,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/1OMiyrpkZvu5YmWbPBtwDQHZsu1.jpg",
         "trailer": "https://www.youtube.com/watch?v=v5D_0BJD6CU",
@@ -1189,7 +1273,7 @@
     },
     {
         "title": "Toy Story 5",
-        "rating": 7.404,
+        "rating": 7.43,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QftAW9TTmuQ",
@@ -1201,7 +1285,7 @@
     },
     {
         "title": "Backrooms",
-        "rating": 6.9,
+        "rating": 6.886,
         "genre": "Horreur / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
         "trailer": "https://www.youtube.com/watch?v=0HjdiohVOik",
@@ -1285,7 +1369,7 @@
     },
     {
         "title": "La Bataille de Gaulle : L’âge de fer",
-        "rating": 7.75,
+        "rating": 7.824,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zWuZWFKyga6GF3agrhJn8UtdMSu.jpg",
         "trailer": "https://www.youtube.com/watch?v=dKUArYoZ_0U",
@@ -1549,7 +1633,7 @@
     },
     {
         "title": "Le Vertige",
-        "rating": 5.824,
+        "rating": 6,
         "genre": "Animation",
         "poster": "https://image.tmdb.org/t/p/w500/3UgSYWJBhtuFVUY5wWj0LUOa3pH.jpg",
         "trailer": "https://www.youtube.com/watch?v=e_VdQd0rhyk",
@@ -1609,7 +1693,7 @@
     },
     {
         "title": "Disclosure Day",
-        "rating": 6.738,
+        "rating": 6.73,
         "genre": "Mystère / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/n3eMT3X0dbaqPMYbDP9unIB33pY.jpg",
         "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w",
@@ -2053,7 +2137,7 @@
     },
     {
         "title": "Scary Movie",
-        "rating": 5.511,
+        "rating": 5.514,
         "genre": "Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/aAZdZIwbMgSqCeybsooOa5stPwG.jpg",
         "trailer": "https://www.youtube.com/watch?v=cGgWAHXuTKc",
@@ -2077,7 +2161,7 @@
     },
     {
         "title": "The Mandalorian and Grogu",
-        "rating": 6.74,
+        "rating": 6.7,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/iQoIGnmrt8rzDDRC6el8HLvHvKf.jpg",
         "trailer": "https://www.youtube.com/watch?v=uwild1rw7Aw",
@@ -2089,7 +2173,7 @@
     },
     {
         "title": "Obsession",
-        "rating": 7.9,
+        "rating": 7.914,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/s8F6DCIX9gOMM6rv6WCGyGp6oSB.jpg",
         "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ",
@@ -2292,20 +2376,8 @@
         "backdrop": null
     },
     {
-        "title": "FLAMENCO",
-        "rating": 0,
-        "genre": "Musique",
-        "poster": "https://image.tmdb.org/t/p/w500/gSm3BNyNPAv20txhRpCs8QgHblr.jpg",
-        "trailer": null,
-        "release_date": "2026-05-18",
-        "overview": "",
-        "tagline": "",
-        "runtime": 19,
-        "backdrop": null
-    },
-    {
         "title": "Charli XCX: Alone Together",
-        "rating": 6.1,
+        "rating": 6.3,
         "genre": "Documentaire / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/q2cGRdxcZu4PkjQxjOP8Z2CDXD9.jpg",
         "trailer": "https://www.youtube.com/watch?v=hvVJa2N6PeE",
@@ -2317,7 +2389,7 @@
     },
     {
         "title": "L'Objet du délit",
-        "rating": 6.68,
+        "rating": 6.741,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/AdM7jQOEdRZ0DW6nfizLwxhSmVI.jpg",
         "trailer": "https://www.youtube.com/watch?v=HpJ_M4brFAI",
@@ -2353,7 +2425,7 @@
     },
     {
         "title": "Le Virtuose",
-        "rating": 6.927,
+        "rating": 6.976,
         "genre": "Crime / Thriller / Comédie / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/sQvdQNlQjuTqNRhicV5RUlhOIpT.jpg",
         "trailer": "https://www.youtube.com/watch?v=rdlOZhl-nSA",
@@ -2509,7 +2581,7 @@
     },
     {
         "title": "Autofiction",
-        "rating": 6.506,
+        "rating": 6.5,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/Aqp47ZQiPcOgX1WHLkxmSYoMc4w.jpg",
         "trailer": null,
@@ -2545,7 +2617,7 @@
     },
     {
         "title": "Passenger",
-        "rating": 6.3,
+        "rating": 6.271,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/6BDQJoZpzhFJCTop59BRR51k9yp.jpg",
         "trailer": "https://www.youtube.com/watch?v=eNIn8kW1kyE",
