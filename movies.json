@@ -1,5 +1,41 @@
 [
     {
+        "title": "Hellebore",
+        "rating": 0,
+        "genre": "Horreur / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/eU7qKr1nJYLVE8ZXWeweuBjegcw.jpg",
+        "trailer": null,
+        "release_date": "2026-06-18",
+        "overview": "Paul, un jeune homme vient de se faire larguer par sa petite amie, Hellebore. Après une promenade en forêt, il rentre chez lui mais il se rencontre qu'il n'est pas tout seul. Entre remords et vision psychique, Paul va vivre une pression infernale par un être de l'autre monde...",
+        "tagline": "",
+        "runtime": 4,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/2VS2YhTCZfyPDbvuWLK8R0UAqSv.jpg"
+    },
+    {
+        "title": "Spirale",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/uvy24zF9p2NXo4f2QJXsM1HgANZ.jpg",
+        "trailer": null,
+        "release_date": "2026-06-20",
+        "overview": "Abel est le chauffeur privé de Franck, un scientifique étudiant une étrange communauté tribale et éloignée. Lors d'une nuit d'observation, le jeune homme va être soudainement aspiré dans un tourbillon d'évènements dramatiques qui changeront à jamais sa vie.",
+        "tagline": "La spirale, symbole naturel très ancien, se recroqueville où s'expand selon le point de vue.",
+        "runtime": 27,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/v8TCtdezEppdcqAnrunLy5jLYyf.jpg"
+    },
+    {
+        "title": "Jim Queen",
+        "rating": 8.3,
+        "genre": "Animation / Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
+        "trailer": null,
+        "release_date": "2026-06-17",
+        "overview": "Jim, icône sexy de la scène gay parisienne, voit sa vie basculer lorsqu’il contracte l’Hétérose, un étrange virus qui transforme les hommes gays… en hétérosexuels ! Il voit alors tout le monde lui tourner le dos à l’exception de son dernier follower (et premier admirateur), Lucien, un jeune homme qui peine à s’assumer. Ensemble, ils partiront en quête d’un mystérieux remède capable de guérir Jim et d’empêcher l’extinction de l’homosexualité…",
+        "tagline": "Un long métrage d'animation de dur à queer",
+        "runtime": 85,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/vQw05sfFEVCVpysDAU5C8NU1gMO.jpg"
+    },
+    {
         "title": "Angle Mort",
         "rating": 5,
         "genre": "Fantastique / Horreur / Thriller",
@@ -130,18 +166,6 @@
         "tagline": "",
         "runtime": 16,
         "backdrop": null
-    },
-    {
-        "title": "Jim Queen à la recherche de la Chloroqueer",
-        "rating": 7.6,
-        "genre": "Animation / Comédie",
-        "poster": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
-        "trailer": null,
-        "release_date": "2026-06-17",
-        "overview": "Jim, icône sexy de la scène gay parisienne, voit sa vie basculer lorsqu’il contracte l’Hétérose, un étrange virus qui transforme les hommes gays… en hétérosexuels ! Il voit alors tout le monde lui tourner le dos à l’exception de son dernier follower (et premier admirateur), Lucien, un jeune homme qui peine à s’assumer. Ensemble, ils partiront en quête d’un mystérieux remède capable de guérir Jim et d’empêcher l’extinction de l’homosexualité…",
-        "tagline": "Un long métrage d'animation de dur à queer",
-        "runtime": 85,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/vQw05sfFEVCVpysDAU5C8NU1gMO.jpg"
     },
     {
         "title": "Léonie",
@@ -361,7 +385,7 @@
     },
     {
         "title": "Maspalomas",
-        "rating": 6.66,
+        "rating": 6.7,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/2g5UBmSaxqwavsDrUGlf4OX2Aj3.jpg",
         "trailer": "https://www.youtube.com/watch?v=8o6gkyinORg",
@@ -709,7 +733,7 @@
     },
     {
         "title": "Noise",
-        "rating": 6.8,
+        "rating": 6.807,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/R7MVc6TMjInJwkjrgAob7VA2MM.jpg",
         "trailer": "https://www.youtube.com/watch?v=lptFuq1LG7g",
@@ -1225,7 +1249,7 @@
     },
     {
         "title": "Shana",
-        "rating": 7.5,
+        "rating": 6.333,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zPikE6yXfc6DVGxyYmuJOsgK2n.jpg",
         "trailer": "https://www.youtube.com/watch?v=kClDa_QGp8M",
@@ -1273,7 +1297,7 @@
     },
     {
         "title": "Toy Story 5",
-        "rating": 7.43,
+        "rating": 7.417,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QftAW9TTmuQ",
@@ -1285,7 +1309,7 @@
     },
     {
         "title": "Backrooms",
-        "rating": 6.886,
+        "rating": 6.877,
         "genre": "Horreur / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
         "trailer": "https://www.youtube.com/watch?v=0HjdiohVOik",
@@ -1369,7 +1393,7 @@
     },
     {
         "title": "La Bataille de Gaulle : L’âge de fer",
-        "rating": 7.824,
+        "rating": 7.821,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zWuZWFKyga6GF3agrhJn8UtdMSu.jpg",
         "trailer": "https://www.youtube.com/watch?v=dKUArYoZ_0U",
@@ -1669,7 +1693,7 @@
     },
     {
         "title": "The Christophers",
-        "rating": 6.8,
+        "rating": 6.905,
         "genre": "Crime / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/bZvRuU5OaDd7toBVMuPrsYVl2dN.jpg",
         "trailer": "https://www.youtube.com/watch?v=42GkXhRVLUQ",
@@ -1681,7 +1705,7 @@
     },
     {
         "title": "The Furious",
-        "rating": 8,
+        "rating": 7.721,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
         "trailer": "https://www.youtube.com/watch?v=Avky8dVaqAI",
@@ -1693,7 +1717,7 @@
     },
     {
         "title": "Disclosure Day",
-        "rating": 6.73,
+        "rating": 6.707,
         "genre": "Mystère / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/n3eMT3X0dbaqPMYbDP9unIB33pY.jpg",
         "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w",
@@ -1993,7 +2017,7 @@
     },
     {
         "title": "En Nous",
-        "rating": 6,
+        "rating": 6.75,
         "genre": "Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/z9jHEg0tit56FWFeObU3AB9VKeQ.jpg",
         "trailer": "https://www.youtube.com/watch?v=mSkuzxi8hG4",
@@ -2005,7 +2029,7 @@
     },
     {
         "title": "Le Garçon qui faisait danser les collines",
-        "rating": 6.9,
+        "rating": 6.969,
         "genre": "Drame / Musique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/9uWxZFfe4Xv7NMXn70sFU6nwZp3.jpg",
         "trailer": "https://www.youtube.com/watch?v=GHBATVjjLWY",
@@ -2077,7 +2101,7 @@
     },
     {
         "title": "WHO",
-        "rating": 4.69,
+        "rating": 4.7,
         "genre": "Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/rO9L4pXE0ykAKGHOTPNGXcvh450.jpg",
         "trailer": null,
@@ -2113,7 +2137,7 @@
     },
     {
         "title": "Saccharine",
-        "rating": 6.212,
+        "rating": 6,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/73xAtmZh1oOMKoGtGdzsvPNswmD.jpg",
         "trailer": "https://www.youtube.com/watch?v=uIY13LD3RUY",
@@ -2137,7 +2161,7 @@
     },
     {
         "title": "Scary Movie",
-        "rating": 5.514,
+        "rating": 5.515,
         "genre": "Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/aAZdZIwbMgSqCeybsooOa5stPwG.jpg",
         "trailer": "https://www.youtube.com/watch?v=cGgWAHXuTKc",
@@ -2161,7 +2185,7 @@
     },
     {
         "title": "The Mandalorian and Grogu",
-        "rating": 6.7,
+        "rating": 6.736,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/iQoIGnmrt8rzDDRC6el8HLvHvKf.jpg",
         "trailer": "https://www.youtube.com/watch?v=uwild1rw7Aw",
@@ -2173,7 +2197,7 @@
     },
     {
         "title": "Obsession",
-        "rating": 7.914,
+        "rating": 7.9,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/s8F6DCIX9gOMM6rv6WCGyGp6oSB.jpg",
         "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ",
@@ -2425,7 +2449,7 @@
     },
     {
         "title": "Le Virtuose",
-        "rating": 6.976,
+        "rating": 7,
         "genre": "Crime / Thriller / Comédie / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/sQvdQNlQjuTqNRhicV5RUlhOIpT.jpg",
         "trailer": "https://www.youtube.com/watch?v=rdlOZhl-nSA",
@@ -2437,7 +2461,7 @@
     },
     {
         "title": "Colony",
-        "rating": 6.9,
+        "rating": 6.891,
         "genre": "Action / Thriller / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
         "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8",
@@ -2557,7 +2581,7 @@
     },
     {
         "title": "Histoires parallèles",
-        "rating": 5.544,
+        "rating": 5.598,
         "genre": "Drame / Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/amQZiDsJ8SXCN6w073UxBBnYBmi.jpg",
         "trailer": "https://www.youtube.com/watch?v=y3BV9KeJzGM",
@@ -2593,7 +2617,7 @@
     },
     {
         "title": "ALL YOU NEED IS KILL",
-        "rating": 6.4,
+        "rating": 6.304,
         "genre": "Animation / Action / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/nP3Dmepb5XENLPAWzpYFOUmL8j8.jpg",
         "trailer": "https://www.youtube.com/watch?v=0YpXN40vIxM",
@@ -2629,7 +2653,7 @@
     },
     {
         "title": "L'abandon",
-        "rating": 7.767,
+        "rating": 7.815,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kfUKP5IgzgLQyQD1MDt99yq9Af0.jpg",
         "trailer": null,
