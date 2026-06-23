@@ -1,5 +1,41 @@
 [
     {
+        "title": "Barth à La Cigale",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500/wK2XNrIrXKOgq7MBhhQE3rNxZb1.jpg",
+        "trailer": null,
+        "release_date": "2026-06-17",
+        "overview": "Inspiré par les cultures de son île, ainsi que par les musiques africaines, antillaises et américaines, Barth continue de casser les codes pour créer une sonorité unique. Il consolide depuis quelques années son rayonnement à une plus grande échelle, rassemblant les coeurs et les cultures autour de la musique. Le 27 février 2026, il se produira pour la première fois en concert à la Cigale, salle mythique à Paris. Avec sa fraîcheur et son grain de voix unique, Barth sait faire vibrer les foules. Ses sonorités solaires, empreintes d’une énergie contagieuse, traduisent son ambition de toujours créer de la nouveauté.",
+        "tagline": "",
+        "runtime": 1,
+        "backdrop": null
+    },
+    {
+        "title": "Plasmoids",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500/eOsGDgw9o58SUgydtCbcrq7ghNI.jpg",
+        "trailer": null,
+        "release_date": "2026-06-17",
+        "overview": "",
+        "tagline": "",
+        "runtime": 0,
+        "backdrop": null
+    },
+    {
+        "title": "Febbraio",
+        "rating": 0,
+        "genre": "Animation",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": null,
+        "release_date": "2026-06-17",
+        "overview": "",
+        "tagline": "",
+        "runtime": 0,
+        "backdrop": null
+    },
+    {
         "title": "Hellebore",
         "rating": 0,
         "genre": "Horreur / Drame",
@@ -25,7 +61,7 @@
     },
     {
         "title": "Jim Queen",
-        "rating": 8.3,
+        "rating": 8.472,
         "genre": "Animation / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
         "trailer": null,
@@ -94,18 +130,6 @@
         "tagline": "",
         "runtime": 91,
         "backdrop": "https://image.tmdb.org/t/p/w1280/3iZwXeZmitP4fvwn3qXmb5ofjbl.jpg"
-    },
-    {
-        "title": "SWEET DREAMS",
-        "rating": 0,
-        "genre": "",
-        "poster": "https://image.tmdb.org/t/p/w500/n8Gpix2MTGmZcGTvW6OYZV4Kotm.jpg",
-        "trailer": null,
-        "release_date": "2026-06-18",
-        "overview": "Camille, une jeune fille de 17 ans se rend chaque matin dans un café, parfois avec son meilleur ami. Un jour elle rencontre une serveuse de son âge avec qui elle va se rapprocher. La jeune femme extravertie va l’aider à s’ouvrir. Pour Camille c’est une nouvelle page blanche et le début d’une aventure.",
-        "tagline": "",
-        "runtime": 8,
-        "backdrop": null
     },
     {
         "title": "Flamenco",
@@ -745,7 +769,7 @@
     },
     {
         "title": "Des Minions et des monstres",
-        "rating": 9.5,
+        "rating": 7.2,
         "genre": "Aventure / Animation / Comédie / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/igD0dUmeaJfWME9j3OoqeN2dHvp.jpg",
         "trailer": "https://www.youtube.com/watch?v=V-O-uBaHk3c",
@@ -1129,7 +1153,7 @@
     },
     {
         "title": "Ulysse",
-        "rating": 8,
+        "rating": 7.5,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/tS0Xwa7Uqd8nlT41Y1KrumHtLeU.jpg",
         "trailer": null,
@@ -1249,7 +1273,7 @@
     },
     {
         "title": "Shana",
-        "rating": 6.333,
+        "rating": 5.75,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zPikE6yXfc6DVGxyYmuJOsgK2n.jpg",
         "trailer": "https://www.youtube.com/watch?v=kClDa_QGp8M",
@@ -1297,7 +1321,7 @@
     },
     {
         "title": "Toy Story 5",
-        "rating": 7.417,
+        "rating": 7.5,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QftAW9TTmuQ",
@@ -1309,7 +1333,7 @@
     },
     {
         "title": "Backrooms",
-        "rating": 6.877,
+        "rating": 6.9,
         "genre": "Horreur / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
         "trailer": "https://www.youtube.com/watch?v=0HjdiohVOik",
@@ -1393,7 +1417,7 @@
     },
     {
         "title": "La Bataille de Gaulle : L’âge de fer",
-        "rating": 7.821,
+        "rating": 7.814,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zWuZWFKyga6GF3agrhJn8UtdMSu.jpg",
         "trailer": "https://www.youtube.com/watch?v=dKUArYoZ_0U",
@@ -1681,7 +1705,7 @@
     },
     {
         "title": "The Giaccomo",
-        "rating": 7,
+        "rating": 6.667,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/31DK5LclGlYLyO6FFkwBLY5Q39V.jpg",
         "trailer": null,
@@ -1693,7 +1717,7 @@
     },
     {
         "title": "The Christophers",
-        "rating": 6.905,
+        "rating": 6.93,
         "genre": "Crime / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/bZvRuU5OaDd7toBVMuPrsYVl2dN.jpg",
         "trailer": "https://www.youtube.com/watch?v=42GkXhRVLUQ",
@@ -1705,7 +1729,7 @@
     },
     {
         "title": "The Furious",
-        "rating": 7.721,
+        "rating": 7.6,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
         "trailer": "https://www.youtube.com/watch?v=Avky8dVaqAI",
@@ -1717,7 +1741,7 @@
     },
     {
         "title": "Disclosure Day",
-        "rating": 6.707,
+        "rating": 6.719,
         "genre": "Mystère / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/n3eMT3X0dbaqPMYbDP9unIB33pY.jpg",
         "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w",
@@ -2017,7 +2041,7 @@
     },
     {
         "title": "En Nous",
-        "rating": 6.75,
+        "rating": 6.8,
         "genre": "Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/z9jHEg0tit56FWFeObU3AB9VKeQ.jpg",
         "trailer": "https://www.youtube.com/watch?v=mSkuzxi8hG4",
@@ -2113,7 +2137,7 @@
     },
     {
         "title": "L'Affaire Zanetti",
-        "rating": 6.2,
+        "rating": 6.192,
         "genre": "Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/cWxb9pIW8zyQjntIKtxRvHkbweO.jpg",
         "trailer": null,
@@ -2137,7 +2161,7 @@
     },
     {
         "title": "Saccharine",
-        "rating": 6,
+        "rating": 6.017,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/73xAtmZh1oOMKoGtGdzsvPNswmD.jpg",
         "trailer": "https://www.youtube.com/watch?v=uIY13LD3RUY",
@@ -2161,7 +2185,7 @@
     },
     {
         "title": "Scary Movie",
-        "rating": 5.515,
+        "rating": 5.519,
         "genre": "Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/aAZdZIwbMgSqCeybsooOa5stPwG.jpg",
         "trailer": "https://www.youtube.com/watch?v=cGgWAHXuTKc",
@@ -2185,7 +2209,7 @@
     },
     {
         "title": "The Mandalorian and Grogu",
-        "rating": 6.736,
+        "rating": 6.7,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/iQoIGnmrt8rzDDRC6el8HLvHvKf.jpg",
         "trailer": "https://www.youtube.com/watch?v=uwild1rw7Aw",
@@ -2449,7 +2473,7 @@
     },
     {
         "title": "Le Virtuose",
-        "rating": 7,
+        "rating": 6.931,
         "genre": "Crime / Thriller / Comédie / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/sQvdQNlQjuTqNRhicV5RUlhOIpT.jpg",
         "trailer": "https://www.youtube.com/watch?v=rdlOZhl-nSA",
@@ -2461,7 +2485,7 @@
     },
     {
         "title": "Colony",
-        "rating": 6.891,
+        "rating": 6.909,
         "genre": "Action / Thriller / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
         "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8",
@@ -2557,7 +2581,7 @@
     },
     {
         "title": "L'Être Aimé",
-        "rating": 7.028,
+        "rating": 7.041,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/guyRccNh9py85OYQO7Y7pLblxGQ.jpg",
         "trailer": null,
@@ -2569,7 +2593,7 @@
     },
     {
         "title": "Les Goûteuses d'Hitler",
-        "rating": 6.6,
+        "rating": 6.612,
         "genre": "Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/ruP7m8O2gXlQ2jnVSUq1vfA2hd4.jpg",
         "trailer": "https://www.youtube.com/watch?v=DasVReZy2N8",
@@ -2629,7 +2653,7 @@
     },
     {
         "title": "Ella McCay",
-        "rating": 5.566,
+        "rating": 5.541,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/l7Ywl6GKDNfjym63TLHKsxr3ffo.jpg",
         "trailer": "https://www.youtube.com/watch?v=vRE6Iobir8k",
@@ -2641,7 +2665,7 @@
     },
     {
         "title": "Passenger",
-        "rating": 6.271,
+        "rating": 6.211,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/6BDQJoZpzhFJCTop59BRR51k9yp.jpg",
         "trailer": "https://www.youtube.com/watch?v=eNIn8kW1kyE",
