@@ -1,5 +1,29 @@
 [
     {
+        "title": "Tara Polar Station : mission au coeur de l'Arctique",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/4AQUv6JO7jyKvfkFDKrEFlhPP8T.jpg",
+        "trailer": null,
+        "release_date": "2026-06-08",
+        "overview": "L'Arctique se réchauffe trois à quatre fois plus vite que le reste de la planète. Ce qui se joue ici détermine l'avenir climatique de la Terre entière. Pour percer les secrets de cet écosystème extrême, la fondation Tara Océan a relevé un défi sans précédent : concevoir la première station scientifique au monde capable de dériver au cœur de la banquise pendant vingt ans, à travers les saisons.",
+        "tagline": "",
+        "runtime": 58,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3E5L7y0cvtorrCz4fYVTULQ8ziP.jpg"
+    },
+    {
+        "title": "L'Amour dicte sa loi",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500/q6cg880wGD3luWAHf71GiYavfKH.jpg",
+        "trailer": null,
+        "release_date": "2026-06-05",
+        "overview": "Laura et Jonathan étudient le droit à la Sorbonne. Eva et Adam sont élèves au conservatoire. Tous les 4, ils forment un groupe d'amis que rien ne semble pouvoir séparer. Sauf peut être l'amour...",
+        "tagline": "",
+        "runtime": 31,
+        "backdrop": null
+    },
+    {
         "title": "Dernière Chance",
         "rating": 0,
         "genre": "Science-fiction / Drame",
@@ -148,7 +172,7 @@
         "rating": 6.9,
         "genre": "Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/zDSBxNZB3O6JStsATmQzaDwuCgv.jpg",
-        "trailer": null,
+        "trailer": "https://www.youtube.com/watch?v=sHp54M3xnzo",
         "release_date": "2026-05-27",
         "overview": "Emma, 15 ans, enceinte après avoir été violée, défie sa communauté protestante rurale répressive pour se forger un chemin vers l'autodétermination, transformant son traumatisme en catalyseur d'émancipation tout en affrontant l'hypocrisie morale du village et le spectre de la Seconde Guerre mondiale qui l'entoure.",
         "tagline": "",
@@ -244,7 +268,7 @@
         "rating": 1,
         "genre": "Drame / Musique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/kiqvv9symRbVvNQl9Zi5QdsEgr1.jpg",
-        "trailer": "https://www.youtube.com/watch?v=p99B0WMNcF8",
+        "trailer": "https://www.youtube.com/watch?v=IOl2qGuSXJs",
         "release_date": "2026-07-01",
         "overview": "Le Caire, 1967. Ahmed, pianiste obstiné dans une famille qui ne jure que par le football, reçoit une lettre en provenance d’Autriche : Liz a répondu à son annonce pour devenir sa correspondante. De la guerre des Six Jours à l’ère Sadate, leur destin va s’écrire en même temps que celui de l’Égypte : entre rêves contrariés, conflits, chaos familial, et petites victoires arrachées au destin.",
         "tagline": "",
@@ -313,7 +337,7 @@
     },
     {
         "title": "On l'appelait Robin des Bois",
-        "rating": 6.44,
+        "rating": 6.5,
         "genre": "Drame / Thriller / Action",
         "poster": "https://image.tmdb.org/t/p/w500/bYaznBVPlQ4C0uTu6wXn68NZFoB.jpg",
         "trailer": "https://www.youtube.com/watch?v=tlSDDuWxO_0",
@@ -325,7 +349,7 @@
     },
     {
         "title": "Supergirl",
-        "rating": 6.425,
+        "rating": 6.2,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/ptyTrUvaQYkRTj42t6IMeGc0rZy.jpg",
         "trailer": "https://www.youtube.com/watch?v=tzlY8XD1CGg",
@@ -397,7 +421,7 @@
     },
     {
         "title": "Jim Queen",
-        "rating": 8.295,
+        "rating": 8.354,
         "genre": "Animation / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
         "trailer": null,
@@ -721,7 +745,7 @@
     },
     {
         "title": "Les caprices de l’enfant Roi",
-        "rating": 0,
+        "rating": 6,
         "genre": "Comédie / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/yQ5ZTigq3buO4qe1cx2VHsrEaT1.jpg",
         "trailer": null,
@@ -1033,7 +1057,7 @@
     },
     {
         "title": "Des Minions et des monstres",
-        "rating": 7.6,
+        "rating": 6.071,
         "genre": "Aventure / Animation / Comédie / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/igD0dUmeaJfWME9j3OoqeN2dHvp.jpg",
         "trailer": "https://www.youtube.com/watch?v=V-O-uBaHk3c",
@@ -1393,7 +1417,7 @@
     },
     {
         "title": "Ulysse",
-        "rating": 7.5,
+        "rating": 7.6,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/tS0Xwa7Uqd8nlT41Y1KrumHtLeU.jpg",
         "trailer": null,
@@ -1501,7 +1525,7 @@
     },
     {
         "title": "Shana",
-        "rating": 5.75,
+        "rating": 6.2,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zPikE6yXfc6DVGxyYmuJOsgK2n.jpg",
         "trailer": "https://www.youtube.com/watch?v=kClDa_QGp8M",
@@ -1537,7 +1561,7 @@
     },
     {
         "title": "Eruption",
-        "rating": 6.3,
+        "rating": 6.083,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/1OMiyrpkZvu5YmWbPBtwDQHZsu1.jpg",
         "trailer": "https://www.youtube.com/watch?v=v5D_0BJD6CU",
@@ -1549,7 +1573,7 @@
     },
     {
         "title": "Toy Story 5",
-        "rating": 7.408,
+        "rating": 7.4,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QftAW9TTmuQ",
@@ -1621,7 +1645,7 @@
     },
     {
         "title": "La Bataille de Gaulle : L’âge de fer",
-        "rating": 7.8,
+        "rating": 7.831,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zWuZWFKyga6GF3agrhJn8UtdMSu.jpg",
         "trailer": "https://www.youtube.com/watch?v=dKUArYoZ_0U",
@@ -1837,7 +1861,7 @@
     },
     {
         "title": "Le Vertige",
-        "rating": 6,
+        "rating": 5.979,
         "genre": "Animation",
         "poster": "https://image.tmdb.org/t/p/w500/3UgSYWJBhtuFVUY5wWj0LUOa3pH.jpg",
         "trailer": "https://www.youtube.com/watch?v=e_VdQd0rhyk",
@@ -1885,7 +1909,7 @@
     },
     {
         "title": "The Furious",
-        "rating": 7.6,
+        "rating": 7.7,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
         "trailer": "https://www.youtube.com/watch?v=Avky8dVaqAI",
@@ -1897,7 +1921,7 @@
     },
     {
         "title": "Disclosure Day",
-        "rating": 6.705,
+        "rating": 6.7,
         "genre": "Mystère / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/n3eMT3X0dbaqPMYbDP9unIB33pY.jpg",
         "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w",
@@ -2317,7 +2341,7 @@
     },
     {
         "title": "The Mandalorian and Grogu",
-        "rating": 6.708,
+        "rating": 6.7,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/iQoIGnmrt8rzDDRC6el8HLvHvKf.jpg",
         "trailer": "https://www.youtube.com/watch?v=uwild1rw7Aw",
@@ -2437,7 +2461,7 @@
     },
     {
         "title": "Mata",
-        "rating": 6.286,
+        "rating": 6.3,
         "genre": "Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/7LBB26Bt98NVu5zLnwBYM68rWtB.jpg",
         "trailer": null,
@@ -2545,7 +2569,7 @@
     },
     {
         "title": "Le Virtuose",
-        "rating": 7.055,
+        "rating": 7.2,
         "genre": "Crime / Thriller / Comédie / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/sQvdQNlQjuTqNRhicV5RUlhOIpT.jpg",
         "trailer": "https://www.youtube.com/watch?v=HYxzyLVJORA",
@@ -2557,7 +2581,7 @@
     },
     {
         "title": "Colony",
-        "rating": 6.951,
+        "rating": 7,
         "genre": "Action / Thriller / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
         "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8",
