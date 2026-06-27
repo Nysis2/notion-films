@@ -1,5 +1,17 @@
 [
     {
+        "title": "De Bramenplukker",
+        "rating": 0,
+        "genre": "Animation / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": null,
+        "release_date": "2026-06-23",
+        "overview": "",
+        "tagline": "",
+        "runtime": 38,
+        "backdrop": null
+    },
+    {
         "title": "Tara Polar Station : mission au coeur de l'Arctique",
         "rating": 0,
         "genre": "Documentaire",
@@ -181,7 +193,7 @@
     },
     {
         "title": "Permis de détruire",
-        "rating": 0,
+        "rating": 5.333,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/gZQmPbQ9jo44jj9h4OSb61j14RD.jpg",
         "trailer": null,
@@ -301,7 +313,7 @@
     },
     {
         "title": "Eega, la mouche vengeresse",
-        "rating": 7.088,
+        "rating": 7.1,
         "genre": "Fantastique / Action",
         "poster": "https://image.tmdb.org/t/p/w500/9kaIqDdij2GLVcwbll2ZqSQPuEO.jpg",
         "trailer": "https://www.youtube.com/watch?v=b-XZtmVhN4U",
@@ -337,7 +349,7 @@
     },
     {
         "title": "On l'appelait Robin des Bois",
-        "rating": 6.5,
+        "rating": 6.4,
         "genre": "Drame / Thriller / Action",
         "poster": "https://image.tmdb.org/t/p/w500/bYaznBVPlQ4C0uTu6wXn68NZFoB.jpg",
         "trailer": "https://www.youtube.com/watch?v=tlSDDuWxO_0",
@@ -349,7 +361,7 @@
     },
     {
         "title": "Supergirl",
-        "rating": 6.2,
+        "rating": 6.258,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/ptyTrUvaQYkRTj42t6IMeGc0rZy.jpg",
         "trailer": "https://www.youtube.com/watch?v=tzlY8XD1CGg",
@@ -421,7 +433,7 @@
     },
     {
         "title": "Jim Queen",
-        "rating": 8.354,
+        "rating": 8.26,
         "genre": "Animation / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
         "trailer": null,
@@ -745,7 +757,7 @@
     },
     {
         "title": "Les caprices de l’enfant Roi",
-        "rating": 6,
+        "rating": 5.333,
         "genre": "Comédie / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/yQ5ZTigq3buO4qe1cx2VHsrEaT1.jpg",
         "trailer": null,
@@ -1057,7 +1069,7 @@
     },
     {
         "title": "Des Minions et des monstres",
-        "rating": 6.071,
+        "rating": 6.9,
         "genre": "Aventure / Animation / Comédie / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/igD0dUmeaJfWME9j3OoqeN2dHvp.jpg",
         "trailer": "https://www.youtube.com/watch?v=V-O-uBaHk3c",
@@ -1210,18 +1222,6 @@
         "tagline": "",
         "runtime": 142,
         "backdrop": "https://image.tmdb.org/t/p/w1280/b21xN1TVcFeuEKdSGxEjGKfOYhE.jpg"
-    },
-    {
-        "title": "Au bord du monde",
-        "rating": 6.75,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/6WUwTJDQ2UKqBGRRIa2FXIcshnG.jpg",
-        "trailer": null,
-        "release_date": "2026-06-10",
-        "overview": "Alexia, une jeune femme volontaire et idéaliste, arrive comme infirmière stagiaire dans le service fermé d’un hôpital psychiatrique, et rencontre Joëlle, l’infirmière en chef, qui lui apprend le métier. Alexia va être touchée par la colère de Beline, une patiente de 20 ans, qui pense qu’elle n’a rien à faire là. Malgré les avertissements de Joëlle sur la distance à garder avec les patients, Alexia va se rapprocher de Beline et s’investir à fond pour essayer de la faire sortir.",
-        "tagline": "",
-        "runtime": 104,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/2Mk7DSrATGf63sub8OSKQpUS3K4.jpg"
     },
     {
         "title": "Les Yeux Grands Ouverts",
@@ -1417,7 +1417,7 @@
     },
     {
         "title": "Ulysse",
-        "rating": 7.6,
+        "rating": 7.333,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/tS0Xwa7Uqd8nlT41Y1KrumHtLeU.jpg",
         "trailer": null,
@@ -1513,7 +1513,7 @@
     },
     {
         "title": "La Baleine et le musicien",
-        "rating": 7,
+        "rating": 6.5,
         "genre": "Documentaire / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/5cyvHgqULA0Erfm1u32GGz7xaEu.jpg",
         "trailer": null,
@@ -1573,7 +1573,7 @@
     },
     {
         "title": "Toy Story 5",
-        "rating": 7.4,
+        "rating": 7.45,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QftAW9TTmuQ",
@@ -1585,7 +1585,7 @@
     },
     {
         "title": "Backrooms",
-        "rating": 6.9,
+        "rating": 6.885,
         "genre": "Horreur / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
         "trailer": "https://www.youtube.com/watch?v=0HjdiohVOik",
@@ -1645,7 +1645,7 @@
     },
     {
         "title": "La Bataille de Gaulle : L’âge de fer",
-        "rating": 7.831,
+        "rating": 7.833,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zWuZWFKyga6GF3agrhJn8UtdMSu.jpg",
         "trailer": "https://www.youtube.com/watch?v=dKUArYoZ_0U",
@@ -1921,7 +1921,7 @@
     },
     {
         "title": "Disclosure Day",
-        "rating": 6.7,
+        "rating": 6.698,
         "genre": "Mystère / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/n3eMT3X0dbaqPMYbDP9unIB33pY.jpg",
         "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w",
@@ -2293,7 +2293,7 @@
     },
     {
         "title": "Saccharine",
-        "rating": 6,
+        "rating": 6.1,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/73xAtmZh1oOMKoGtGdzsvPNswmD.jpg",
         "trailer": "https://www.youtube.com/watch?v=uIY13LD3RUY",
@@ -2317,7 +2317,7 @@
     },
     {
         "title": "Scary Movie",
-        "rating": 5.5,
+        "rating": 5.527,
         "genre": "Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/aAZdZIwbMgSqCeybsooOa5stPwG.jpg",
         "trailer": "https://www.youtube.com/watch?v=cGgWAHXuTKc",
@@ -2569,7 +2569,7 @@
     },
     {
         "title": "Le Virtuose",
-        "rating": 7.2,
+        "rating": 7.104,
         "genre": "Crime / Thriller / Comédie / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/sQvdQNlQjuTqNRhicV5RUlhOIpT.jpg",
         "trailer": "https://www.youtube.com/watch?v=HYxzyLVJORA",
@@ -2641,7 +2641,7 @@
     },
     {
         "title": "Autofiction",
-        "rating": 6.488,
+        "rating": 6.483,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/Aqp47ZQiPcOgX1WHLkxmSYoMc4w.jpg",
         "trailer": null,
