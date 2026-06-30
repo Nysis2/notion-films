@@ -1,5 +1,53 @@
 [
     {
+        "title": "somniaque",
+        "rating": 10,
+        "genre": "Mystère / Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/ynAcZr60z2oVheuIeNZGsYbNCL6.jpg",
+        "trailer": null,
+        "release_date": "2026-06-26",
+        "overview": "je fais souvent ce rêve étrange et pénétrant",
+        "tagline": "",
+        "runtime": 4,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ffRxOfwhCTEGaklSE6uH5J2f6mr.jpg"
+    },
+    {
+        "title": "L'Incendie du Cinq Sept",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": null,
+        "release_date": "2026-06-29",
+        "overview": "",
+        "tagline": "",
+        "runtime": 27,
+        "backdrop": null
+    },
+    {
+        "title": "Parce Que Les Roses Ont Des Épines",
+        "rating": 0,
+        "genre": "Comédie / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/aSOxxV5VWgnMEdDubATxT1FylIK.jpg",
+        "trailer": null,
+        "release_date": "2026-06-25",
+        "overview": "Lors d’une après-midi avec Solange, sa mamie, Noah, la  vingtaine, reçoit un appel de son petit copain Théo. Celui-ci  évoque leur rupture car il reproche à Noah de ne pas assumer  sa sexualité et donc leur relation.  Noah décide de rejoindre Théo pour essayer de sauver leur  couple. Lorsqu’il annonce son départ de chez elle à Solange,  elle décide de l’accompagner, afin qu’elle rencontre enfin  cette « copine » dont Noah ne parle pas beaucoup.",
+        "tagline": "",
+        "runtime": 16,
+        "backdrop": null
+    },
+    {
+        "title": "Angle Mort",
+        "rating": 5,
+        "genre": "Fantastique / Horreur / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/coLCdMQPutNyZzmbd2G7wb4Ij1P.jpg",
+        "trailer": null,
+        "release_date": "2026-06-18",
+        "overview": "Après avoir commis l'irréparable, un jeune homme sourd cherche à se faire oublier en s'isolant dans une maison de campagne. Alors qu'il reprend le cours de sa vie normale, des phénomènes paranormaux commencent à hanter son quotidien.",
+        "tagline": "Le châtiment marche en rampant, mais il arrive.",
+        "runtime": 10,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/e32OEBw1bFsRZEc8TQ8qzhQxarU.jpg"
+    },
+    {
         "title": "De Bramenplukker",
         "rating": 0,
         "genre": "Animation / Drame",
@@ -313,7 +361,7 @@
     },
     {
         "title": "Eega, la mouche vengeresse",
-        "rating": 7.091,
+        "rating": 7.088,
         "genre": "Fantastique / Action",
         "poster": "https://image.tmdb.org/t/p/w500/9kaIqDdij2GLVcwbll2ZqSQPuEO.jpg",
         "trailer": "https://www.youtube.com/watch?v=b-XZtmVhN4U",
@@ -337,7 +385,7 @@
     },
     {
         "title": "La Bataille de Gaulle : J’écris ton nom",
-        "rating": 8.2,
+        "rating": 8.214,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/sfnKVuXQq2wHuAlOqs60FrtJmiz.jpg",
         "trailer": "https://www.youtube.com/watch?v=J6MRNchmZkY",
@@ -361,7 +409,7 @@
     },
     {
         "title": "Supergirl",
-        "rating": 6.18,
+        "rating": 6.224,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/ptyTrUvaQYkRTj42t6IMeGc0rZy.jpg",
         "trailer": "https://www.youtube.com/watch?v=tzlY8XD1CGg",
@@ -433,7 +481,7 @@
     },
     {
         "title": "Jim Queen",
-        "rating": 8.274,
+        "rating": 8,
         "genre": "Animation / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
         "trailer": null,
@@ -745,7 +793,7 @@
     },
     {
         "title": "Les caprices de l’enfant Roi",
-        "rating": 5.6,
+        "rating": 6,
         "genre": "Comédie / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/yQ5ZTigq3buO4qe1cx2VHsrEaT1.jpg",
         "trailer": null,
@@ -757,7 +805,7 @@
     },
     {
         "title": "Blue Heron",
-        "rating": 7.214,
+        "rating": 7.1,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/972gqjsBAqfHTa4BqRnpPpPoOXS.jpg",
         "trailer": "https://www.youtube.com/watch?v=JeWg8wUlQVo",
@@ -1057,7 +1105,7 @@
     },
     {
         "title": "Des Minions et des monstres",
-        "rating": 6.946,
+        "rating": 6.9,
         "genre": "Aventure / Animation / Comédie / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/igD0dUmeaJfWME9j3OoqeN2dHvp.jpg",
         "trailer": "https://www.youtube.com/watch?v=V-O-uBaHk3c",
@@ -1561,7 +1609,7 @@
     },
     {
         "title": "Toy Story 5",
-        "rating": 7.472,
+        "rating": 7.5,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QftAW9TTmuQ",
@@ -1573,7 +1621,7 @@
     },
     {
         "title": "Backrooms",
-        "rating": 6.884,
+        "rating": 6.9,
         "genre": "Horreur / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
         "trailer": "https://www.youtube.com/watch?v=0HjdiohVOik",
@@ -1633,7 +1681,7 @@
     },
     {
         "title": "La Bataille de Gaulle : L’âge de fer",
-        "rating": 7.8,
+        "rating": 7.853,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zWuZWFKyga6GF3agrhJn8UtdMSu.jpg",
         "trailer": "https://www.youtube.com/watch?v=dKUArYoZ_0U",
@@ -1849,7 +1897,7 @@
     },
     {
         "title": "Le Vertige",
-        "rating": 5.962,
+        "rating": 5.963,
         "genre": "Animation",
         "poster": "https://image.tmdb.org/t/p/w500/3UgSYWJBhtuFVUY5wWj0LUOa3pH.jpg",
         "trailer": "https://www.youtube.com/watch?v=e_VdQd0rhyk",
@@ -1861,7 +1909,7 @@
     },
     {
         "title": "Le Dernier vrai samouraï",
-        "rating": 7.6,
+        "rating": 7.364,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/z5rBx89EKLiInCGWUoCuCEAusx.jpg",
         "trailer": "https://www.youtube.com/watch?v=-6zf5xmhq2g",
@@ -1885,7 +1933,7 @@
     },
     {
         "title": "The Christophers",
-        "rating": 6.755,
+        "rating": 6.8,
         "genre": "Crime / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/bZvRuU5OaDd7toBVMuPrsYVl2dN.jpg",
         "trailer": "https://www.youtube.com/watch?v=42GkXhRVLUQ",
@@ -1897,7 +1945,7 @@
     },
     {
         "title": "The Furious",
-        "rating": 7.739,
+        "rating": 7.7,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
         "trailer": "https://www.youtube.com/watch?v=Avky8dVaqAI",
@@ -1909,7 +1957,7 @@
     },
     {
         "title": "Disclosure Day",
-        "rating": 6.688,
+        "rating": 6.694,
         "genre": "Mystère / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/n3eMT3X0dbaqPMYbDP9unIB33pY.jpg",
         "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w",
@@ -2305,7 +2353,7 @@
     },
     {
         "title": "Scary Movie",
-        "rating": 5.5,
+        "rating": 5.525,
         "genre": "Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/aAZdZIwbMgSqCeybsooOa5stPwG.jpg",
         "trailer": "https://www.youtube.com/watch?v=cGgWAHXuTKc",
@@ -2329,7 +2377,7 @@
     },
     {
         "title": "The Mandalorian and Grogu",
-        "rating": 6.686,
+        "rating": 6.687,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/iQoIGnmrt8rzDDRC6el8HLvHvKf.jpg",
         "trailer": "https://www.youtube.com/watch?v=uwild1rw7Aw",
@@ -2557,7 +2605,7 @@
     },
     {
         "title": "Le Virtuose",
-        "rating": 7.17,
+        "rating": 7.173,
         "genre": "Crime / Thriller / Comédie / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/sQvdQNlQjuTqNRhicV5RUlhOIpT.jpg",
         "trailer": "https://www.youtube.com/watch?v=HYxzyLVJORA",
@@ -2569,7 +2617,7 @@
     },
     {
         "title": "Colony",
-        "rating": 6.966,
+        "rating": 7,
         "genre": "Action / Thriller / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
         "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8",
@@ -2617,7 +2665,7 @@
     },
     {
         "title": "Les Goûteuses d'Hitler",
-        "rating": 6.611,
+        "rating": 6.608,
         "genre": "Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/ruP7m8O2gXlQ2jnVSUq1vfA2hd4.jpg",
         "trailer": "https://www.youtube.com/watch?v=DasVReZy2N8",
@@ -2629,7 +2677,7 @@
     },
     {
         "title": "Autofiction",
-        "rating": 6.466,
+        "rating": 6.5,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/Aqp47ZQiPcOgX1WHLkxmSYoMc4w.jpg",
         "trailer": null,
