@@ -1,5 +1,41 @@
 [
     {
+        "title": "Kill Bill : The Whole Bloody Affair",
+        "rating": 8.096,
+        "genre": "Action / Crime",
+        "poster": "https://image.tmdb.org/t/p/w500/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg",
+        "trailer": "https://www.youtube.com/watch?v=qbUz68h9BFo",
+        "release_date": "2026-07-08",
+        "overview": "Kill Bill : The Whole Bloody Affair est une édition complète des deux films d'action d'arts martiaux Kill Bill : Volume 1 et Kill Bill : Volume 2. Le film était à l'origine prévu pour être publié comme une seule partie. Toutefois, en raison de la durée du film plus de 4 heures, il a été divisé en deux parties.",
+        "tagline": "",
+        "runtime": 275,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/qe4Tp0hURXqiih5AV1kHimXIt3u.jpg"
+    },
+    {
+        "title": "Evil Dead Burn",
+        "rating": 0,
+        "genre": "Horreur / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/ttqtnATOMrhpYQeJM548oviS7m6.jpg",
+        "trailer": "https://www.youtube.com/watch?v=RddZObTlmA8",
+        "release_date": "2026-07-08",
+        "overview": "Après la mort de son mari, une femme trouve du réconfort auprès de ses beaux-parents dans leur maison familiale isolée. Alors qu'un à un ils se transforment en Deadites – faisant de cette réunion un véritable enfer familial –, elle découvre que les vœux qu'elle a prononcés de son vivant perdurent… même après la mort.",
+        "tagline": "Chaque famille a ses démons.",
+        "runtime": 110,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg"
+    },
+    {
+        "title": "Vaiana, la légende du bout du monde",
+        "rating": 0,
+        "genre": "Famille / Fantastique / Comédie / Aventure",
+        "poster": "https://image.tmdb.org/t/p/w500/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
+        "trailer": "https://www.youtube.com/watch?v=EEz5xbzYPKI",
+        "release_date": "2026-07-08",
+        "overview": "Dans l'ancienne Polynésie, lorsqu'une terrible malédiction lancée par Maui atteint l'île d'un chef impétueux, sa fille obstinée répond à l'appel de l'océan et part à la recherche du demi-dieu pour rétablir la situation. Live-Action du film Vaiana, la Légende du bout du monde de Disney en 2016.",
+        "tagline": "",
+        "runtime": 115,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg"
+    },
+    {
         "title": "Marilyn Monroe, I Am So Many People",
         "rating": 0,
         "genre": "Documentaire",
@@ -193,7 +229,7 @@
     },
     {
         "title": "Girl",
-        "rating": 7.2,
+        "rating": 7.222,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/cCVhkI6FweXQUmcScyLZqdsAeXh.jpg",
         "trailer": "https://www.youtube.com/watch?v=FpgbgEK_62U",
@@ -336,18 +372,6 @@
         "backdrop": null
     },
     {
-        "title": "Pièce manquante",
-        "rating": 0,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/3uaOHNqrAXYpM12ry3bcn6iJohk.jpg",
-        "trailer": null,
-        "release_date": "2026-05-22",
-        "overview": "Après un traumatisme, une jeune femme explore ses rêves pour retrouver la mémoire.",
-        "tagline": "",
-        "runtime": 7,
-        "backdrop": null
-    },
-    {
         "title": "PASTIS",
         "rating": 0,
         "genre": "Comédie / Drame / Romance",
@@ -382,18 +406,6 @@
         "tagline": "",
         "runtime": 6,
         "backdrop": null
-    },
-    {
-        "title": "Le jour porte conseil",
-        "rating": 0,
-        "genre": "Drame / Romance",
-        "poster": "https://image.tmdb.org/t/p/w500/cdyIfYhFHjraAgcaiN4KfOttwLe.jpg",
-        "trailer": null,
-        "release_date": "2026-06-25",
-        "overview": "Chaque nuit, un jeune homme oublie la femme qu’il aime. Chaque matin, elle doit lui  réapprendre leur histoire. Le temps d’une journée, ils vivent un amour aussi intense  qu’éphémère, jusqu’à ce que même les souvenirs écrits commencent à disparaître. Ne subsiste  alors qu’un amour qui continue d’exister, malgré l’oubli.",
-        "tagline": "L'histoire d'un amour aussi intense qu’éphémère.",
-        "runtime": 12,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/q4ZXaeGnkDw9ic92nvOGBe3e2E0.jpg"
     },
     {
         "title": "Entroncamento",
@@ -457,7 +469,7 @@
     },
     {
         "title": "Permis de détruire",
-        "rating": 5.333,
+        "rating": 5.3,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/gZQmPbQ9jo44jj9h4OSb61j14RD.jpg",
         "trailer": null,
@@ -601,7 +613,7 @@
     },
     {
         "title": "La Bataille de Gaulle : J’écris ton nom",
-        "rating": 8.156,
+        "rating": 8.175,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/sfnKVuXQq2wHuAlOqs60FrtJmiz.jpg",
         "trailer": "https://www.youtube.com/watch?v=J6MRNchmZkY",
@@ -613,7 +625,7 @@
     },
     {
         "title": "On l'appelait Robin des Bois",
-        "rating": 6.9,
+        "rating": 6.732,
         "genre": "Drame / Thriller / Action",
         "poster": "https://image.tmdb.org/t/p/w500/bYaznBVPlQ4C0uTu6wXn68NZFoB.jpg",
         "trailer": "https://www.youtube.com/watch?v=tlSDDuWxO_0",
@@ -625,7 +637,7 @@
     },
     {
         "title": "Supergirl",
-        "rating": 6.213,
+        "rating": 6.216,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/ptyTrUvaQYkRTj42t6IMeGc0rZy.jpg",
         "trailer": "https://www.youtube.com/watch?v=tzlY8XD1CGg",
@@ -697,7 +709,7 @@
     },
     {
         "title": "Jim Queen",
-        "rating": 8,
+        "rating": 8.061,
         "genre": "Animation / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
         "trailer": null,
@@ -948,18 +960,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/qCUS4w6Ut2259xVy73p9VrwJRnw.jpg"
     },
     {
-        "title": "Parfum d'un sortilège",
-        "rating": 0,
-        "genre": "Drame / Mystère",
-        "poster": "https://image.tmdb.org/t/p/w500/1jBOKyBfTgA6Zuzi6KwUgWMxfyZ.jpg",
-        "trailer": null,
-        "release_date": "2026-06-22",
-        "overview": "Alors qu’un jeune homme rentre chez lui, sous une pluie torrentielle, après avoir passé la soirée dans un bar, il tombe sur une femme qui tente de se suicider en sautant d’un pont. Sans réfléchir, il plonge pour la sauver de la noyade. Après l’avoir emmenée chez lui, il apprend qu’elle s’est enfuie pour échapper à un mari violent et décide de la protéger. Il commence à tomber amoureux d’elle, mais découvre que son histoire est plus complexe qu’elle ne veut bien le dire au premier abord…",
-        "tagline": "",
-        "runtime": 90,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/rINckDIUBDemsq2OHOwJVXRHgiR.jpg"
-    },
-    {
         "title": "Maspalomas",
         "rating": 6.7,
         "genre": "Drame",
@@ -985,7 +985,7 @@
     },
     {
         "title": "Les Parfait(s) : Arnaques en Famille",
-        "rating": 7.125,
+        "rating": 7.1,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/6vnFSM696DNcWUmRY68Eal1BVk5.jpg",
         "trailer": null,
@@ -1126,18 +1126,6 @@
         "tagline": "",
         "runtime": 22,
         "backdrop": "https://image.tmdb.org/t/p/w1280/zqXUPqkKz61UtplrPE1xtMAgJTL.jpg"
-    },
-    {
-        "title": "The Orbit of Minor Satellites",
-        "rating": 0,
-        "genre": "Animation",
-        "poster": "https://image.tmdb.org/t/p/w500None",
-        "trailer": null,
-        "release_date": "2026-06-21",
-        "overview": "",
-        "tagline": "",
-        "runtime": 118,
-        "backdrop": null
     },
     {
         "title": "Jésus est une voiture",
@@ -1297,7 +1285,7 @@
     },
     {
         "title": "Noise",
-        "rating": 6.778,
+        "rating": 6.77,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/R7MVc6TMjInJwkjrgAob7VA2MM.jpg",
         "trailer": "https://www.youtube.com/watch?v=lptFuq1LG7g",
@@ -1309,10 +1297,10 @@
     },
     {
         "title": "Des Minions et des monstres",
-        "rating": 6.9,
+        "rating": 6.7,
         "genre": "Aventure / Animation / Comédie / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/igD0dUmeaJfWME9j3OoqeN2dHvp.jpg",
-        "trailer": "https://www.youtube.com/watch?v=V-O-uBaHk3c",
+        "trailer": "https://www.youtube.com/watch?v=ihGBTI3nfCU",
         "release_date": "2026-06-24",
         "overview": "L’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont tenté de sauver la planète du chaos qu’ils avaient créé.",
         "tagline": "",
@@ -1777,7 +1765,7 @@
     },
     {
         "title": "Toy Story 5",
-        "rating": 7.465,
+        "rating": 7.433,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QftAW9TTmuQ",
@@ -1789,7 +1777,7 @@
     },
     {
         "title": "Backrooms",
-        "rating": 6.8,
+        "rating": 6.842,
         "genre": "Horreur / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
         "trailer": "https://www.youtube.com/watch?v=0HjdiohVOik",
@@ -1849,7 +1837,7 @@
     },
     {
         "title": "La Bataille de Gaulle : L’âge de fer",
-        "rating": 7.851,
+        "rating": 7.828,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zWuZWFKyga6GF3agrhJn8UtdMSu.jpg",
         "trailer": "https://www.youtube.com/watch?v=dKUArYoZ_0U",
@@ -2041,7 +2029,7 @@
     },
     {
         "title": "Le Vertige",
-        "rating": 5.897,
+        "rating": 5.839,
         "genre": "Animation",
         "poster": "https://image.tmdb.org/t/p/w500/3UgSYWJBhtuFVUY5wWj0LUOa3pH.jpg",
         "trailer": "https://www.youtube.com/watch?v=e_VdQd0rhyk",
@@ -2101,7 +2089,7 @@
     },
     {
         "title": "Disclosure Day",
-        "rating": 6.683,
+        "rating": 6.7,
         "genre": "Mystère / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/n3eMT3X0dbaqPMYbDP9unIB33pY.jpg",
         "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w",
@@ -2217,18 +2205,6 @@
         "overview": "Après une agression, Maxine tente de continuer à vivre comme avant. Entre silences, crises et regards, elle comprend peu a peu la violence de ce qu'elle a subi. Elle trouve, grâce aux autres femmes, la force d'un geste pour se réapproprier son corps et sa liberté.",
         "tagline": "Drame",
         "runtime": 17,
-        "backdrop": null
-    },
-    {
-        "title": "a",
-        "rating": 0,
-        "genre": "Musique",
-        "poster": "https://image.tmdb.org/t/p/w500/mRsFC9GwJmxdbFwhMOCCRs6wR12.jpg",
-        "trailer": null,
-        "release_date": "2026-05-26",
-        "overview": "",
-        "tagline": "",
-        "runtime": 3,
         "backdrop": null
     },
     {
@@ -2461,7 +2437,7 @@
     },
     {
         "title": "Saccharine",
-        "rating": 6.147,
+        "rating": 6.1,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/73xAtmZh1oOMKoGtGdzsvPNswmD.jpg",
         "trailer": "https://www.youtube.com/watch?v=uIY13LD3RUY",
@@ -2485,7 +2461,7 @@
     },
     {
         "title": "Scary Movie",
-        "rating": 5.495,
+        "rating": 5.439,
         "genre": "Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/aAZdZIwbMgSqCeybsooOa5stPwG.jpg",
         "trailer": "https://www.youtube.com/watch?v=cGgWAHXuTKc",
@@ -2505,18 +2481,6 @@
         "overview": "Un jeune homme sombre dans une dangereuse paranoïa après avoir échappé à un tueur dans les bois, déclenchant malgré lui une tragédie dont il deviendra le coupable idéal.",
         "tagline": "short-movie",
         "runtime": 6,
-        "backdrop": null
-    },
-    {
-        "title": "THE ANGUISHED GIRL",
-        "rating": 0,
-        "genre": "",
-        "poster": "https://image.tmdb.org/t/p/w500/lX7H0U1WjTo8V9c5evYH4WNPQck.jpg",
-        "trailer": null,
-        "release_date": "2026-05-22",
-        "overview": "Dans les années 50, une peintre tente de réaliser une toile capable de contenir son âme.",
-        "tagline": "",
-        "runtime": 7,
         "backdrop": null
     },
     {
@@ -2568,18 +2532,6 @@
         "backdrop": null
     },
     {
-        "title": "Josiane",
-        "rating": 5,
-        "genre": "Horreur / Animation",
-        "poster": "https://image.tmdb.org/t/p/w500/cQlpDLL40uI51bWc3cslAzgq6AN.jpg",
-        "trailer": null,
-        "release_date": "2026-05-22",
-        "overview": "",
-        "tagline": "",
-        "runtime": 1,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/Al6OO97718ppuYisSp9aEAeWUGD.jpg"
-    },
-    {
         "title": "Eve",
         "rating": 0,
         "genre": "Drame",
@@ -2589,18 +2541,6 @@
         "overview": "Eve, une lycéenne complexée et en comparaison avec ses pairs, tente de maîtriser les codes sociaux qui lui sont étrangers, mais sans succès, elle finira par se détruire elle-même.",
         "tagline": "",
         "runtime": 12,
-        "backdrop": null
-    },
-    {
-        "title": "Bleu nuit",
-        "rating": 0,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/xYRuFoIrtkYuwi5HlatnpcdFoku.jpg",
-        "trailer": null,
-        "release_date": "2026-05-21",
-        "overview": "Une jeune femme aide son entourage en prenant leur tristesse.",
-        "tagline": "",
-        "runtime": 15,
         "backdrop": null
     },
     {
@@ -2641,7 +2581,7 @@
     },
     {
         "title": "Le Virtuose",
-        "rating": 7.167,
+        "rating": 7.2,
         "genre": "Crime / Thriller / Comédie / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/sQvdQNlQjuTqNRhicV5RUlhOIpT.jpg",
         "trailer": "https://www.youtube.com/watch?v=HYxzyLVJORA",
@@ -2653,7 +2593,7 @@
     },
     {
         "title": "Colony",
-        "rating": 6.98,
+        "rating": 7,
         "genre": "Action / Thriller / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
         "trailer": "https://www.youtube.com/watch?v=XeurGlQMJxw",
