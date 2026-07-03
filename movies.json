@@ -1,7 +1,175 @@
 [
     {
+        "title": "L'Europe en train de nuit, d'est en ouest",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/ylG94WQZWr3xPuQze4aCh3gKQ3R.jpg",
+        "trailer": null,
+        "release_date": "2026-06-15",
+        "overview": "À bord du Canopus, le train de nuit reliant Prague à Zurich, le jeune agent Michal Jaros veille sur les voyageurs pendant leur traversée de l’Europe endormie. Entre les compartiments couchettes, les gares silencieuses et les paysages nocturnes, le documentaire explore le renouveau des trains de nuit européens : un mode de transport à la fois écologique, nostalgique et humain.  À travers le quotidien du personnel et des passagers, ARTE dresse le portrait d’un voyage lent et moderne, symbole d’une Europe qui redécouvre le charme du rail sous les étoiles.",
+        "tagline": "",
+        "runtime": 31,
+        "backdrop": null
+    },
+    {
+        "title": "LE DERNIER JOUR D'UN FOU",
+        "rating": 0,
+        "genre": "Fantastique / Drame / Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/xbg0u69or2HE1JRpByrojOCo4U.jpg",
+        "trailer": null,
+        "release_date": "2026-07-01",
+        "overview": "Alexi, un jeune homme en dérive émotionnelle, traverse ses journées comme un étranger à lui-même. Entre anxiété, solitude et deuil non résolu, il lutte contre une colère sourde et un sentiment d’incompréhension qui l’isolent peu à peu du monde. Lors d’une soirée où il se sent déplacé, il croise Thymie, une jeune femme blessée par une rupture récente. Tous deux portent des fêlures différentes, mais reconnaissent chez l’autre un miroir de leurs propres douleurs. Leur rencontre devient un espace suspendu où la parole se libère. Dans la nuit parisienne, ils partagent leurs peurs, leurs regrets et leurs espoirs, révélant la fragilité de deux âmes en quête de sens. À travers cette connexion inattendue, Alexi affronte enfin le poids de son passé et comprend que parler est peut-être le premier pas vers la guérison.",
+        "tagline": "",
+        "runtime": 47,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/5hCYMx5PzoLkDrrUF7AaumZtEVn.jpg"
+    },
+    {
+        "title": "Mouton",
+        "rating": 10,
+        "genre": "Fantastique / Comédie / Drame / Action / Aventure",
+        "poster": "https://image.tmdb.org/t/p/w500/sPbYz1PtG8CQstOrmdNy2sybZGK.jpg",
+        "trailer": null,
+        "release_date": "2026-06-30",
+        "overview": "Quand une lecture éveille son désir d'évasion, Mouton, las de son quotidien, se confronte à son berger.",
+        "tagline": "BÊÊÊÊÊÊÊÊÊÊH !",
+        "runtime": 5,
+        "backdrop": null
+    },
+    {
+        "title": "Tar",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500/uaGQv8iJFbw0xySwTT4MUqy0tML.jpg",
+        "trailer": null,
+        "release_date": "2026-06-21",
+        "overview": "Créé à partir de vrais cheveux. Le mot perse \"tar\" désigne à la fois une mèche de cheveux et un instrument à cordes traditionnel iranien, ce qui ajoute de la profondeur à sa symbolique. Un mille-pattes perturbe l'univers d'une jeune fille, semant le chaos et faisant naître la musique.",
+        "tagline": "",
+        "runtime": 5,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/w46MofQlHITPWvAaVsilWDzjLdu.jpg"
+    },
+    {
+        "title": "Aïcha Kandicha",
+        "rating": 0,
+        "genre": "Drame / Fantastique",
+        "poster": "https://image.tmdb.org/t/p/w500/vA9uThyOCQljprP9JgHEGx18nN7.jpg",
+        "trailer": null,
+        "release_date": "2026-06-21",
+        "overview": "Au Maroc, on terrorise les enfants avec la légende d’une sorcière nommée Aïcha Kandicha. Mais Aïcha aurait réellement existé pendant la colonisation portugaise au Maroc. Ce conte animé tente de restituer son histoire.",
+        "tagline": "",
+        "runtime": 11,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/62mRqxQNvA7uQtgQQRsoJtGecaR.jpg"
+    },
+    {
+        "title": "Salle de soins",
+        "rating": 0,
+        "genre": "Fantastique",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": null,
+        "release_date": "2026-06-21",
+        "overview": "Une exploration du sacrifice maternel et de la réincarnation féminine à travers un médium mixte expérimental, créant un visuel à la fois tendre et grotesque qui redéfinit la maternité.",
+        "tagline": "",
+        "runtime": 5,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bGojNBCxk3NSAkTNe3cxhr6i9dt.jpg"
+    },
+    {
+        "title": "Builder",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/lVfB9tx4rGuuKxzsUIYRREbYtOQ.jpg",
+        "trailer": null,
+        "release_date": "2026-06-21",
+        "overview": "Un homme-lapin erre à travers une ville battue par les vents. Il pleut des papiers à verse. L'homme-lapin progresse le long de la rue principale, irrité par sa situation. C'est alors qu'un type, le chauffeur d'une voiture, l'emmène dans un hôtel.",
+        "tagline": "",
+        "runtime": 5,
+        "backdrop": null
+    },
+    {
+        "title": "Slap",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500/nhzHVHdujMrIg6j2szfhmamxIZx.jpg",
+        "trailer": null,
+        "release_date": "2026-06-21",
+        "overview": "Trois gifles illustrent la divergence des valeurs entre un père et sa fille, ainsi que les contradictions de la société qui se reflètent dans leur relation.",
+        "tagline": "",
+        "runtime": 4,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/pl1sJKNOpIKhYKLE0JbwNGoUCsq.jpg"
+    },
+    {
+        "title": "La Voix de la mère",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/nXabAfSMNkSCDhQD3tfG3RyXjub.jpg",
+        "trailer": null,
+        "release_date": "2026-06-21",
+        "overview": "Un jeune livreur passe une dure journée pleine de problèmes en ville, mais il s'en sort grâce au soutien de sa mère.",
+        "tagline": "",
+        "runtime": 4,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zO0WF0HNTjmSljvAbQ3tqFfWIJa.jpg"
+    },
+    {
+        "title": "La Mer au printemps",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500/rCeSsBOwSL9Zz6SVWpqDgE3AP7I.jpg",
+        "trailer": null,
+        "release_date": "2026-06-21",
+        "overview": "Une scène inspirée de la mer intérieure de Seto est illustrée dans le style du sumi-e, une technique de peinture à l'encre japonaise. Elle est accompagnée d'une version au violon de l'œuvre pour koto Haru no Umi (La Mer au printemps) écrite par le musicien de koto et compositeur Miyagi Michio en 1929.",
+        "tagline": "",
+        "runtime": 7,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/g3VOSqJYd1WAHsnKmnGr9Jq3iWf.jpg"
+    },
+    {
+        "title": "Faim",
+        "rating": 0,
+        "genre": "Drame / Horreur",
+        "poster": "https://image.tmdb.org/t/p/w500/ittM8SkzPRh9khJtdNA9vkamhWw.jpg",
+        "trailer": null,
+        "release_date": "2026-06-21",
+        "overview": "Quand un bébé pleure, il devrait être nourri. Une bonne mère ne laisserait pas son enfant mourir de faim. Un bon père ne souhaiterait pas le tuer.",
+        "tagline": "",
+        "runtime": 10,
+        "backdrop": null
+    },
+    {
+        "title": "Et il y avait deux poules au fond du jardin",
+        "rating": 0,
+        "genre": "Action / Comédie / Science-fiction",
+        "poster": "https://image.tmdb.org/t/p/w500/jOkJosMNgv4VHdXf6t1RD6qiYPa.jpg",
+        "trailer": null,
+        "release_date": "2026-06-21",
+        "overview": "2019. Les extraterrestres ont quasiment éradiqué l'espèce humaine. Tandis que l'humanité fait face à l'extinction, les aliens s'installent sur Terre et vivent comme les humains d'autrefois. Yohei, un étudiant alien, nourrit les deux poulets de son école, mais ils dissimulent un secret surprenant.",
+        "tagline": "",
+        "runtime": 19,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/9a3aCKmmr4qDIeRr0jg5A7Wg8Q8.jpg"
+    },
+    {
+        "title": "Le jour porte conseil",
+        "rating": 0,
+        "genre": "Drame / Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/cdyIfYhFHjraAgcaiN4KfOttwLe.jpg",
+        "trailer": null,
+        "release_date": "2026-06-25",
+        "overview": "Chaque nuit, un jeune homme oublie la femme qu’il aime. Chaque matin, elle doit lui  réapprendre leur histoire. Le temps d’une journée, ils vivent un amour aussi intense  qu’éphémère, jusqu’à ce que même les souvenirs écrits commencent à disparaître. Ne subsiste  alors qu’un amour qui continue d’exister, malgré l’oubli.",
+        "tagline": "L'histoire d'un amour aussi intense qu’éphémère.",
+        "runtime": 12,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/q4ZXaeGnkDw9ic92nvOGBe3e2E0.jpg"
+    },
+    {
+        "title": "The Orbit of Minor Satellites",
+        "rating": 0,
+        "genre": "Animation",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": null,
+        "release_date": "2026-06-21",
+        "overview": "",
+        "tagline": "",
+        "runtime": 118,
+        "backdrop": null
+    },
+    {
         "title": "Kill Bill : The Whole Bloody Affair",
-        "rating": 8.096,
+        "rating": 8.098,
         "genre": "Action / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg",
         "trailer": "https://www.youtube.com/watch?v=qbUz68h9BFo",
@@ -13,7 +181,7 @@
     },
     {
         "title": "Evil Dead Burn",
-        "rating": 0,
+        "rating": 6,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/ttqtnATOMrhpYQeJM548oviS7m6.jpg",
         "trailer": "https://www.youtube.com/watch?v=RddZObTlmA8",
@@ -193,7 +361,7 @@
     },
     {
         "title": "Julien Doré - Le Dernier Pestacle",
-        "rating": 0,
+        "rating": 6,
         "genre": "Musique",
         "poster": "https://image.tmdb.org/t/p/w500/tHdKcObNWhX3qOWfNbjYQ3wDf1Q.jpg",
         "trailer": null,
@@ -226,18 +394,6 @@
         "tagline": "",
         "runtime": 186,
         "backdrop": "https://image.tmdb.org/t/p/w1280/pXmrvH0CUHLFEvEbDodiJ57RLTd.jpg"
-    },
-    {
-        "title": "Girl",
-        "rating": 7.222,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/cCVhkI6FweXQUmcScyLZqdsAeXh.jpg",
-        "trailer": "https://www.youtube.com/watch?v=FpgbgEK_62U",
-        "release_date": "2026-07-08",
-        "overview": "Taïwan, 1988. Hsiao-lee, une jeune adolescente timide, peine à trouver sa place au sein de sa famille dysfonctionnelle. Elle voit sa vie bouleversée par sa rencontre avec Li-li, une jeune fille vive et insouciante qui lui permet de s’évader de son quotidien. Mais lorsque le passé douloureux de sa mère ressurgit, d’anciennes blessures refont surface. Partagée entre un lourd héritage familial et son ardent désir de liberté, Hsiao-lee doit trouver sa propre voie.",
-        "tagline": "",
-        "runtime": 125,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/3r2CNASRlOvK2QqqpqVUsixN4aq.jpg"
     },
     {
         "title": "Le Passage",
@@ -469,7 +625,7 @@
     },
     {
         "title": "Permis de détruire",
-        "rating": 5.3,
+        "rating": 5.5,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/gZQmPbQ9jo44jj9h4OSb61j14RD.jpg",
         "trailer": null,
@@ -565,7 +721,7 @@
     },
     {
         "title": "In Waves",
-        "rating": 0,
+        "rating": 8,
         "genre": "Animation / Romance / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/3Tv7InnAULXTS76B7apoZ5oYJXD.jpg",
         "trailer": null,
@@ -577,10 +733,10 @@
     },
     {
         "title": "Yön lapsi",
-        "rating": 0,
+        "rating": 10,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/bLSrV2Him731C9tDCRuHq2drit5.jpg",
-        "trailer": null,
+        "trailer": "https://www.youtube.com/watch?v=lBvgrGPnf2w",
         "release_date": "2026-07-01",
         "overview": "",
         "tagline": "",
@@ -613,7 +769,7 @@
     },
     {
         "title": "La Bataille de Gaulle : J’écris ton nom",
-        "rating": 8.175,
+        "rating": 8.2,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/sfnKVuXQq2wHuAlOqs60FrtJmiz.jpg",
         "trailer": "https://www.youtube.com/watch?v=J6MRNchmZkY",
@@ -625,7 +781,7 @@
     },
     {
         "title": "On l'appelait Robin des Bois",
-        "rating": 6.732,
+        "rating": 6.7,
         "genre": "Drame / Thriller / Action",
         "poster": "https://image.tmdb.org/t/p/w500/bYaznBVPlQ4C0uTu6wXn68NZFoB.jpg",
         "trailer": "https://www.youtube.com/watch?v=tlSDDuWxO_0",
@@ -637,7 +793,7 @@
     },
     {
         "title": "Supergirl",
-        "rating": 6.216,
+        "rating": 6.248,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/ptyTrUvaQYkRTj42t6IMeGc0rZy.jpg",
         "trailer": "https://www.youtube.com/watch?v=tzlY8XD1CGg",
@@ -709,7 +865,7 @@
     },
     {
         "title": "Jim Queen",
-        "rating": 8.061,
+        "rating": 8.044,
         "genre": "Animation / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
         "trailer": null,
@@ -1260,18 +1416,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/uPywOKgsftgzoipXhamDp9JcLXR.jpg"
     },
     {
-        "title": "Sweden Porno: Blonde Animal",
-        "rating": 0,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/riWPvoyoMgGMZOCP6oqWf4xnhBk.jpg",
-        "trailer": null,
-        "release_date": "2026-06-21",
-        "overview": "L'échange de partenaires et la corruption de l'innocence et de l'amour adolescent sont au cœur de cette approche typiquement japonaise du phénomène « Swedish Sin ». Blonde Animal est un portrait curieux et longtemps oublié de la Stockholm des années 70, sorti dans le cadre de la célèbre série érotique Roman Porno de Nikkatsu.",
-        "tagline": "",
-        "runtime": 63,
-        "backdrop": null
-    },
-    {
         "title": "Angel Guts - Red classroom",
         "rating": 6.4,
         "genre": "Drame",
@@ -1297,10 +1441,10 @@
     },
     {
         "title": "Des Minions et des monstres",
-        "rating": 6.7,
+        "rating": 6.695,
         "genre": "Aventure / Animation / Comédie / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/igD0dUmeaJfWME9j3OoqeN2dHvp.jpg",
-        "trailer": "https://www.youtube.com/watch?v=ihGBTI3nfCU",
+        "trailer": "https://www.youtube.com/watch?v=V-O-uBaHk3c",
         "release_date": "2026-06-24",
         "overview": "L’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont tenté de sauver la planète du chaos qu’ils avaient créé.",
         "tagline": "",
@@ -1597,7 +1741,7 @@
     },
     {
         "title": "L’Étrangère",
-        "rating": 6,
+        "rating": 7.167,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/joEFUQTF4ZDdacGrDQmZqrgl948.jpg",
         "trailer": null,
@@ -1765,7 +1909,7 @@
     },
     {
         "title": "Toy Story 5",
-        "rating": 7.433,
+        "rating": 7.4,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QftAW9TTmuQ",
@@ -1777,7 +1921,7 @@
     },
     {
         "title": "Backrooms",
-        "rating": 6.842,
+        "rating": 6.9,
         "genre": "Horreur / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
         "trailer": "https://www.youtube.com/watch?v=0HjdiohVOik",
@@ -1837,7 +1981,7 @@
     },
     {
         "title": "La Bataille de Gaulle : L’âge de fer",
-        "rating": 7.828,
+        "rating": 7.851,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zWuZWFKyga6GF3agrhJn8UtdMSu.jpg",
         "trailer": "https://www.youtube.com/watch?v=dKUArYoZ_0U",
@@ -2065,7 +2209,7 @@
     },
     {
         "title": "The Christophers",
-        "rating": 6.8,
+        "rating": 6.85,
         "genre": "Crime / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/bZvRuU5OaDd7toBVMuPrsYVl2dN.jpg",
         "trailer": "https://www.youtube.com/watch?v=42GkXhRVLUQ",
@@ -2077,7 +2221,7 @@
     },
     {
         "title": "The Furious",
-        "rating": 7.7,
+        "rating": 7.721,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
         "trailer": "https://www.youtube.com/watch?v=Avky8dVaqAI",
@@ -2089,7 +2233,7 @@
     },
     {
         "title": "Disclosure Day",
-        "rating": 6.7,
+        "rating": 6.67,
         "genre": "Mystère / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/n3eMT3X0dbaqPMYbDP9unIB33pY.jpg",
         "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w",
@@ -2461,7 +2605,7 @@
     },
     {
         "title": "Scary Movie",
-        "rating": 5.439,
+        "rating": 5.4,
         "genre": "Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/aAZdZIwbMgSqCeybsooOa5stPwG.jpg",
         "trailer": "https://www.youtube.com/watch?v=cGgWAHXuTKc",
@@ -2581,7 +2725,7 @@
     },
     {
         "title": "Le Virtuose",
-        "rating": 7.2,
+        "rating": 7.157,
         "genre": "Crime / Thriller / Comédie / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/sQvdQNlQjuTqNRhicV5RUlhOIpT.jpg",
         "trailer": "https://www.youtube.com/watch?v=HYxzyLVJORA",
@@ -2593,7 +2737,7 @@
     },
     {
         "title": "Colony",
-        "rating": 7,
+        "rating": 7.058,
         "genre": "Action / Thriller / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
         "trailer": "https://www.youtube.com/watch?v=XeurGlQMJxw",
