@@ -1,5 +1,29 @@
 [
     {
+        "title": "Allumés",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500/b038ZfisEjL40PZHtVN5ZfuxnkL.jpg",
+        "trailer": null,
+        "release_date": "2026-06-30",
+        "overview": "Persuadés que leur existence n’est qu’un décor, une simulation orchestrée, Jules et Hugo n’ont qu’une idée en tête : fabriquer une bombe pour faire exploser la matrice et enfin se libérer.  Problème : ils n’ont aucune idée de comment concevoir cette bombe. Heureusement, ChatGPT est là pour les aider.",
+        "tagline": "",
+        "runtime": 7,
+        "backdrop": null
+    },
+    {
+        "title": "Le Dernier Vrai Samouraï",
+        "rating": 7.4,
+        "genre": "Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/z5rBx89EKLiInCGWUoCuCEAusx.jpg",
+        "trailer": "https://www.youtube.com/watch?v=-6zf5xmhq2g",
+        "release_date": "2026-06-10",
+        "overview": "Kyoto, à la fin de l’époque d’Edo. Deux samouraïs de clans ennemis luttent dans un combat sans merci jusqu’à ce qu’une pluie torrentielle s’abatte sur eux et qu’un éclair les éblouisse. À sa grande surprise, Shinzaemon Kosaka du clan Aizu se réveille dans le Japon contemporain, sur le plateau d’une série historique spécialisée dans le genre jidaigeki. Pris pour un figurant à cause de son apparence et de son comportement, le samouraï devient vite la coqueluche des tournages, avant d’être engagé comme cascadeur professionnel…",
+        "tagline": "",
+        "runtime": 131,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/tTUr3JaMRhA7Jt64lmrskF7xNRO.jpg"
+    },
+    {
         "title": "L'Europe en train de nuit, d'est en ouest",
         "rating": 0,
         "genre": "Documentaire",
@@ -120,18 +144,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/g3VOSqJYd1WAHsnKmnGr9Jq3iWf.jpg"
     },
     {
-        "title": "Faim",
-        "rating": 0,
-        "genre": "Drame / Horreur",
-        "poster": "https://image.tmdb.org/t/p/w500/ittM8SkzPRh9khJtdNA9vkamhWw.jpg",
-        "trailer": null,
-        "release_date": "2026-06-21",
-        "overview": "Quand un bébé pleure, il devrait être nourri. Une bonne mère ne laisserait pas son enfant mourir de faim. Un bon père ne souhaiterait pas le tuer.",
-        "tagline": "",
-        "runtime": 10,
-        "backdrop": null
-    },
-    {
         "title": "Et il y avait deux poules au fond du jardin",
         "rating": 0,
         "genre": "Action / Comédie / Science-fiction",
@@ -169,7 +181,7 @@
     },
     {
         "title": "Kill Bill : The Whole Bloody Affair",
-        "rating": 8.098,
+        "rating": 8.1,
         "genre": "Action / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg",
         "trailer": "https://www.youtube.com/watch?v=qbUz68h9BFo",
@@ -181,7 +193,7 @@
     },
     {
         "title": "Evil Dead Burn",
-        "rating": 6,
+        "rating": 8,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/ttqtnATOMrhpYQeJM548oviS7m6.jpg",
         "trailer": "https://www.youtube.com/watch?v=RddZObTlmA8",
@@ -193,7 +205,7 @@
     },
     {
         "title": "Vaiana, la légende du bout du monde",
-        "rating": 0,
+        "rating": 7.5,
         "genre": "Famille / Fantastique / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
         "trailer": "https://www.youtube.com/watch?v=EEz5xbzYPKI",
@@ -601,7 +613,7 @@
     },
     {
         "title": "Miss Mermaid",
-        "rating": 0,
+        "rating": 6,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/mHOdJ7cKrASZvGli7GaXbDUSOdd.jpg",
         "trailer": "https://www.youtube.com/watch?v=TzQUfbyUy9M",
@@ -709,7 +721,7 @@
     },
     {
         "title": "Notre Histoire - Chronique du Caire",
-        "rating": 5.5,
+        "rating": 5.667,
         "genre": "Drame / Musique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/kiqvv9symRbVvNQl9Zi5QdsEgr1.jpg",
         "trailer": "https://www.youtube.com/watch?v=IOl2qGuSXJs",
@@ -745,7 +757,7 @@
     },
     {
         "title": "Eega, la mouche vengeresse",
-        "rating": 7.088,
+        "rating": 7.1,
         "genre": "Fantastique / Action",
         "poster": "https://image.tmdb.org/t/p/w500/9kaIqDdij2GLVcwbll2ZqSQPuEO.jpg",
         "trailer": "https://www.youtube.com/watch?v=b-XZtmVhN4U",
@@ -769,7 +781,7 @@
     },
     {
         "title": "La Bataille de Gaulle : J’écris ton nom",
-        "rating": 8.2,
+        "rating": 8.213,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/sfnKVuXQq2wHuAlOqs60FrtJmiz.jpg",
         "trailer": "https://www.youtube.com/watch?v=J6MRNchmZkY",
@@ -793,7 +805,7 @@
     },
     {
         "title": "Supergirl",
-        "rating": 6.248,
+        "rating": 6.266,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/ptyTrUvaQYkRTj42t6IMeGc0rZy.jpg",
         "trailer": "https://www.youtube.com/watch?v=tzlY8XD1CGg",
@@ -865,7 +877,7 @@
     },
     {
         "title": "Jim Queen",
-        "rating": 8.044,
+        "rating": 8.043,
         "genre": "Animation / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
         "trailer": null,
@@ -1153,7 +1165,7 @@
     },
     {
         "title": "Les caprices de l’enfant Roi",
-        "rating": 6,
+        "rating": 5.75,
         "genre": "Comédie / Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/yQ5ZTigq3buO4qe1cx2VHsrEaT1.jpg",
         "trailer": null,
@@ -1165,7 +1177,7 @@
     },
     {
         "title": "Blue Heron",
-        "rating": 7.1,
+        "rating": 7.188,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/972gqjsBAqfHTa4BqRnpPpPoOXS.jpg",
         "trailer": "https://www.youtube.com/watch?v=JeWg8wUlQVo",
@@ -1441,7 +1453,7 @@
     },
     {
         "title": "Des Minions et des monstres",
-        "rating": 6.695,
+        "rating": 6.7,
         "genre": "Aventure / Animation / Comédie / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/igD0dUmeaJfWME9j3OoqeN2dHvp.jpg",
         "trailer": "https://www.youtube.com/watch?v=V-O-uBaHk3c",
@@ -1873,7 +1885,7 @@
     },
     {
         "title": "Un champ de fraises pour l’éternité",
-        "rating": 0,
+        "rating": 6,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/mbGLiN85NAhNwFkiafaWbglhixb.jpg",
         "trailer": null,
@@ -1897,7 +1909,7 @@
     },
     {
         "title": "Eruption",
-        "rating": 6.077,
+        "rating": 6,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/1OMiyrpkZvu5YmWbPBtwDQHZsu1.jpg",
         "trailer": "https://www.youtube.com/watch?v=v5D_0BJD6CU",
@@ -1981,7 +1993,7 @@
     },
     {
         "title": "La Bataille de Gaulle : L’âge de fer",
-        "rating": 7.851,
+        "rating": 7.876,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zWuZWFKyga6GF3agrhJn8UtdMSu.jpg",
         "trailer": "https://www.youtube.com/watch?v=dKUArYoZ_0U",
@@ -2184,18 +2196,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/hMKAPLiacrrqRXlHGMyyIosfjzr.jpg"
     },
     {
-        "title": "Le Dernier vrai samouraï",
-        "rating": 7.364,
-        "genre": "Comédie",
-        "poster": "https://image.tmdb.org/t/p/w500/z5rBx89EKLiInCGWUoCuCEAusx.jpg",
-        "trailer": "https://www.youtube.com/watch?v=-6zf5xmhq2g",
-        "release_date": "2026-06-10",
-        "overview": "Un samouraï de l’époque Edo frappé par la foudre se réveille dans le Japon contemporain. Pris à tort pour un figurant, il se retrouve propulsé sur le plateau d’un drame historique. Sa diction archaïque et sa démarche authentique fascinent, jusqu’à faire de lui un cascadeur vedette.",
-        "tagline": "",
-        "runtime": 131,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/tTUr3JaMRhA7Jt64lmrskF7xNRO.jpg"
-    },
-    {
         "title": "The Giaccomo",
         "rating": 6.7,
         "genre": "Comédie",
@@ -2221,7 +2221,7 @@
     },
     {
         "title": "The Furious",
-        "rating": 7.721,
+        "rating": 7.7,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
         "trailer": "https://www.youtube.com/watch?v=Avky8dVaqAI",
@@ -2233,7 +2233,7 @@
     },
     {
         "title": "Disclosure Day",
-        "rating": 6.67,
+        "rating": 6.666,
         "genre": "Mystère / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/n3eMT3X0dbaqPMYbDP9unIB33pY.jpg",
         "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w",
@@ -2305,7 +2305,7 @@
     },
     {
         "title": "Une année italienne",
-        "rating": 7.156,
+        "rating": 7.028,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/8kGEfpIabMiaWpdMkTcNFclld5W.jpg",
         "trailer": null,
@@ -2581,7 +2581,7 @@
     },
     {
         "title": "Saccharine",
-        "rating": 6.1,
+        "rating": 6.147,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/73xAtmZh1oOMKoGtGdzsvPNswmD.jpg",
         "trailer": "https://www.youtube.com/watch?v=uIY13LD3RUY",
@@ -2605,7 +2605,7 @@
     },
     {
         "title": "Scary Movie",
-        "rating": 5.4,
+        "rating": 5.445,
         "genre": "Comédie / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/aAZdZIwbMgSqCeybsooOa5stPwG.jpg",
         "trailer": "https://www.youtube.com/watch?v=cGgWAHXuTKc",
@@ -2725,7 +2725,7 @@
     },
     {
         "title": "Le Virtuose",
-        "rating": 7.157,
+        "rating": 7.2,
         "genre": "Crime / Thriller / Comédie / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/sQvdQNlQjuTqNRhicV5RUlhOIpT.jpg",
         "trailer": "https://www.youtube.com/watch?v=HYxzyLVJORA",
@@ -2737,7 +2737,7 @@
     },
     {
         "title": "Colony",
-        "rating": 7.058,
+        "rating": 7.1,
         "genre": "Action / Thriller / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
         "trailer": "https://www.youtube.com/watch?v=XeurGlQMJxw",
