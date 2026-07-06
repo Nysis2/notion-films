@@ -1,5 +1,29 @@
 [
     {
+        "title": "Sous le béton",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": null,
+        "release_date": "2026-06-28",
+        "overview": "",
+        "tagline": "",
+        "runtime": 27,
+        "backdrop": null
+    },
+    {
+        "title": "Please",
+        "rating": 0,
+        "genre": "Animation / Comédie / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/mMRcdKMQaHyiqF6vY0DewhfEGRD.jpg",
+        "trailer": "https://www.youtube.com/watch?v=hlxSBtzmcQ8",
+        "release_date": "2026-06-22",
+        "overview": "",
+        "tagline": "",
+        "runtime": 9,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/g9y7aCq7gOA2TWF2GmgCcZtVBJO.jpg"
+    },
+    {
         "title": "Her Requiem",
         "rating": 0,
         "genre": "Horreur",
@@ -217,7 +241,7 @@
     },
     {
         "title": "Vaiana, la légende du bout du monde",
-        "rating": 7.917,
+        "rating": 7.9,
         "genre": "Famille / Fantastique / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
         "trailer": "https://www.youtube.com/watch?v=EEz5xbzYPKI",
@@ -589,7 +613,7 @@
     },
     {
         "title": "Entroncamento",
-        "rating": 0,
+        "rating": 5,
         "genre": "Crime / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/4nHKvx3O1hcPCjzpF61ZVYtn64X.jpg",
         "trailer": null,
@@ -781,7 +805,7 @@
     },
     {
         "title": "André Is an Idiot",
-        "rating": 6.667,
+        "rating": 6.5,
         "genre": "Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/lUDoDeCyobKik81PWUrBWOEV0qt.jpg",
         "trailer": "https://www.youtube.com/watch?v=M1XnsyjsnC8",
@@ -793,7 +817,7 @@
     },
     {
         "title": "La Bataille de Gaulle : J’écris ton nom",
-        "rating": 8.22,
+        "rating": 7.9,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/sfnKVuXQq2wHuAlOqs60FrtJmiz.jpg",
         "trailer": "https://www.youtube.com/watch?v=J6MRNchmZkY",
@@ -805,7 +829,7 @@
     },
     {
         "title": "On l'appelait Robin des Bois",
-        "rating": 6.5,
+        "rating": 6.52,
         "genre": "Drame / Thriller / Action",
         "poster": "https://image.tmdb.org/t/p/w500/bYaznBVPlQ4C0uTu6wXn68NZFoB.jpg",
         "trailer": "https://www.youtube.com/watch?v=tlSDDuWxO_0",
@@ -817,7 +841,7 @@
     },
     {
         "title": "Supergirl",
-        "rating": 6.261,
+        "rating": 6.268,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/ptyTrUvaQYkRTj42t6IMeGc0rZy.jpg",
         "trailer": "https://www.youtube.com/watch?v=tzlY8XD1CGg",
@@ -889,7 +913,7 @@
     },
     {
         "title": "Jim Queen",
-        "rating": 8.043,
+        "rating": 8,
         "genre": "Animation / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
         "trailer": null,
@@ -1344,18 +1368,6 @@
         "backdrop": null
     },
     {
-        "title": "PLEASE",
-        "rating": 0,
-        "genre": "Animation / Comédie / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/mMRcdKMQaHyiqF6vY0DewhfEGRD.jpg",
-        "trailer": "https://www.youtube.com/watch?v=hlxSBtzmcQ8",
-        "release_date": "2026-06-22",
-        "overview": "",
-        "tagline": "",
-        "runtime": 9,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/g9y7aCq7gOA2TWF2GmgCcZtVBJO.jpg"
-    },
-    {
         "title": "Spacetime Chronicles",
         "rating": 0,
         "genre": "Animation",
@@ -1465,7 +1477,7 @@
     },
     {
         "title": "Des Minions et des monstres",
-        "rating": 6.7,
+        "rating": 6.4,
         "genre": "Aventure / Animation / Comédie / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/igD0dUmeaJfWME9j3OoqeN2dHvp.jpg",
         "trailer": "https://www.youtube.com/watch?v=V-O-uBaHk3c",
@@ -1933,7 +1945,7 @@
     },
     {
         "title": "Toy Story 5",
-        "rating": 7.414,
+        "rating": 7.419,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QftAW9TTmuQ",
@@ -1945,7 +1957,7 @@
     },
     {
         "title": "Backrooms",
-        "rating": 6.846,
+        "rating": 6.841,
         "genre": "Horreur / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
         "trailer": "https://www.youtube.com/watch?v=0HjdiohVOik",
@@ -2005,7 +2017,7 @@
     },
     {
         "title": "La Bataille de Gaulle : L’âge de fer",
-        "rating": 7.867,
+        "rating": 7.817,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zWuZWFKyga6GF3agrhJn8UtdMSu.jpg",
         "trailer": "https://www.youtube.com/watch?v=dKUArYoZ_0U",
@@ -2197,7 +2209,7 @@
     },
     {
         "title": "Le Vertige",
-        "rating": 5.839,
+        "rating": 5.813,
         "genre": "Animation",
         "poster": "https://image.tmdb.org/t/p/w500/3UgSYWJBhtuFVUY5wWj0LUOa3pH.jpg",
         "trailer": "https://www.youtube.com/watch?v=e_VdQd0rhyk",
@@ -2233,7 +2245,7 @@
     },
     {
         "title": "The Furious",
-        "rating": 7.7,
+        "rating": 7.76,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
         "trailer": "https://www.youtube.com/watch?v=Avky8dVaqAI",
@@ -2245,7 +2257,7 @@
     },
     {
         "title": "Disclosure Day",
-        "rating": 6.67,
+        "rating": 6.669,
         "genre": "Mystère / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/n3eMT3X0dbaqPMYbDP9unIB33pY.jpg",
         "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w",
@@ -2485,7 +2497,7 @@
     },
     {
         "title": "Le Garçon qui faisait danser les collines",
-        "rating": 7,
+        "rating": 7.029,
         "genre": "Drame / Musique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/9uWxZFfe4Xv7NMXn70sFU6nwZp3.jpg",
         "trailer": "https://www.youtube.com/watch?v=GHBATVjjLWY",
@@ -2737,7 +2749,7 @@
     },
     {
         "title": "Le Virtuose",
-        "rating": 7.145,
+        "rating": 7.149,
         "genre": "Crime / Thriller / Comédie / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/sQvdQNlQjuTqNRhicV5RUlhOIpT.jpg",
         "trailer": "https://www.youtube.com/watch?v=HYxzyLVJORA",
@@ -2749,7 +2761,7 @@
     },
     {
         "title": "Colony",
-        "rating": 7.099,
+        "rating": 7.134,
         "genre": "Action / Thriller / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/thK6glS5pklrlijsgSN6Hw9GLQK.jpg",
         "trailer": "https://www.youtube.com/watch?v=XeurGlQMJxw",
