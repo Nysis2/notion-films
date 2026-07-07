@@ -1,5 +1,29 @@
 [
     {
+        "title": "Panier Piano",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/k4xV0l4G7zSacH3nsA4xuqwv1iD.jpg",
+        "trailer": null,
+        "release_date": "2026-06-25",
+        "overview": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+        "tagline": "",
+        "runtime": 18,
+        "backdrop": null
+    },
+    {
+        "title": "Maryada Ramanna",
+        "rating": 7.1,
+        "genre": "Comédie / Action / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/mdhZF0tSHkdh0GSuyOLQZLS22wm.jpg",
+        "trailer": "https://www.youtube.com/watch?v=RE4mdgbFahk",
+        "release_date": "2026-07-03",
+        "overview": "En route vers son village natal, où il revient pour vendre le terrain qu'il a hérité, Ramu fait la connaissance d'une jeune femme dont il tombe peu à peu amoureux. À son arrivée, il découvre que sa famille est liée à une ancienne vendetta opposant leurs deux clans et que ses parents souhaitent sa mort. Mais une loi ancestrale de l'hospitalité leur interdit de s'en prendre à lui tant qu'il demeure sous leur toit.",
+        "tagline": "",
+        "runtime": 125,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sEW9ig6s7QuodAjCwElLayy2OzP.jpg"
+    },
+    {
         "title": "Sous le béton",
         "rating": 0,
         "genre": "",
@@ -94,18 +118,6 @@
         "tagline": "BÊÊÊÊÊÊÊÊÊÊH !",
         "runtime": 5,
         "backdrop": null
-    },
-    {
-        "title": "Tar",
-        "rating": 0,
-        "genre": "",
-        "poster": "https://image.tmdb.org/t/p/w500/uaGQv8iJFbw0xySwTT4MUqy0tML.jpg",
-        "trailer": null,
-        "release_date": "2026-06-21",
-        "overview": "Créé à partir de vrais cheveux. Le mot perse \"tar\" désigne à la fois une mèche de cheveux et un instrument à cordes traditionnel iranien, ce qui ajoute de la profondeur à sa symbolique. Un mille-pattes perturbe l'univers d'une jeune fille, semant le chaos et faisant naître la musique.",
-        "tagline": "",
-        "runtime": 5,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/w46MofQlHITPWvAaVsilWDzjLdu.jpg"
     },
     {
         "title": "Aïcha Kandicha",
@@ -229,7 +241,7 @@
     },
     {
         "title": "Evil Dead Burn",
-        "rating": 8,
+        "rating": 7.7,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/ttqtnATOMrhpYQeJM548oviS7m6.jpg",
         "trailer": "https://www.youtube.com/watch?v=RddZObTlmA8",
@@ -241,7 +253,7 @@
     },
     {
         "title": "Vaiana, la légende du bout du monde",
-        "rating": 7.9,
+        "rating": 0,
         "genre": "Famille / Fantastique / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
         "trailer": "https://www.youtube.com/watch?v=EEz5xbzYPKI",
@@ -784,7 +796,7 @@
         "rating": 8,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/bLSrV2Him731C9tDCRuHq2drit5.jpg",
-        "trailer": "https://www.youtube.com/watch?v=lBvgrGPnf2w",
+        "trailer": "https://www.youtube.com/watch?v=dWePsu_Kd9c",
         "release_date": "2026-07-01",
         "overview": "",
         "tagline": "",
@@ -817,7 +829,7 @@
     },
     {
         "title": "La Bataille de Gaulle : J’écris ton nom",
-        "rating": 7.9,
+        "rating": 7.765,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/sfnKVuXQq2wHuAlOqs60FrtJmiz.jpg",
         "trailer": "https://www.youtube.com/watch?v=J6MRNchmZkY",
@@ -829,7 +841,7 @@
     },
     {
         "title": "On l'appelait Robin des Bois",
-        "rating": 6.52,
+        "rating": 6.6,
         "genre": "Drame / Thriller / Action",
         "poster": "https://image.tmdb.org/t/p/w500/bYaznBVPlQ4C0uTu6wXn68NZFoB.jpg",
         "trailer": "https://www.youtube.com/watch?v=tlSDDuWxO_0",
@@ -841,7 +853,7 @@
     },
     {
         "title": "Supergirl",
-        "rating": 6.268,
+        "rating": 6.3,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/ptyTrUvaQYkRTj42t6IMeGc0rZy.jpg",
         "trailer": "https://www.youtube.com/watch?v=tzlY8XD1CGg",
@@ -913,7 +925,7 @@
     },
     {
         "title": "Jim Queen",
-        "rating": 8,
+        "rating": 7.99,
         "genre": "Animation / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
         "trailer": null,
@@ -1041,18 +1053,6 @@
         "overview": "Un enfant, un poulailler, des feuilles mortes, un gâteau et une mère qui se débat avec l'existence.",
         "tagline": "",
         "runtime": 18,
-        "backdrop": null
-    },
-    {
-        "title": "Raconte moi une histoire",
-        "rating": 0,
-        "genre": "Animation / Famille",
-        "poster": "https://image.tmdb.org/t/p/w500None",
-        "trailer": null,
-        "release_date": "2026-05-27",
-        "overview": "Jinsei une petite fille de 9ans attend sagement l'arrivée de l'infirmière pendant que son grand frère Kouhei lui raconte une histoire",
-        "tagline": "27 Mai 2026",
-        "runtime": 5,
         "backdrop": null
     },
     {
@@ -1249,7 +1249,7 @@
     },
     {
         "title": "Deviens génial",
-        "rating": 7,
+        "rating": 6.833,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/jVtLhDdP4tSuKXVjLohF9j08oaW.jpg",
         "trailer": null,
@@ -1258,18 +1258,6 @@
         "tagline": "",
         "runtime": 92,
         "backdrop": "https://image.tmdb.org/t/p/w1280/j2nIHX1vppKG6omTE2am2cP0qSB.jpg"
-    },
-    {
-        "title": "Little Nightmares - Broken Promises",
-        "rating": 0,
-        "genre": "Drame / Horreur",
-        "poster": "https://image.tmdb.org/t/p/w500/uErVDkCtGOGiowk5aRxoYMXNFPf.jpg",
-        "trailer": null,
-        "release_date": "2026-06-21",
-        "overview": "",
-        "tagline": "",
-        "runtime": 13,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/wKkJt7YhhC54qAnvzyGK7hhtzIQ.jpg"
     },
     {
         "title": "Anesthesia",
@@ -1477,7 +1465,7 @@
     },
     {
         "title": "Des Minions et des monstres",
-        "rating": 6.4,
+        "rating": 6.382,
         "genre": "Aventure / Animation / Comédie / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/igD0dUmeaJfWME9j3OoqeN2dHvp.jpg",
         "trailer": "https://www.youtube.com/watch?v=V-O-uBaHk3c",
@@ -1945,7 +1933,7 @@
     },
     {
         "title": "Toy Story 5",
-        "rating": 7.419,
+        "rating": 7.404,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QftAW9TTmuQ",
@@ -1957,7 +1945,7 @@
     },
     {
         "title": "Backrooms",
-        "rating": 6.841,
+        "rating": 6.8,
         "genre": "Horreur / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
         "trailer": "https://www.youtube.com/watch?v=0HjdiohVOik",
@@ -2017,7 +2005,7 @@
     },
     {
         "title": "La Bataille de Gaulle : L’âge de fer",
-        "rating": 7.817,
+        "rating": 7.8,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zWuZWFKyga6GF3agrhJn8UtdMSu.jpg",
         "trailer": "https://www.youtube.com/watch?v=dKUArYoZ_0U",
@@ -2245,7 +2233,7 @@
     },
     {
         "title": "The Furious",
-        "rating": 7.76,
+        "rating": 7.747,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
         "trailer": "https://www.youtube.com/watch?v=Avky8dVaqAI",
@@ -2257,7 +2245,7 @@
     },
     {
         "title": "Disclosure Day",
-        "rating": 6.669,
+        "rating": 6.665,
         "genre": "Mystère / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/n3eMT3X0dbaqPMYbDP9unIB33pY.jpg",
         "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w",
@@ -2497,7 +2485,7 @@
     },
     {
         "title": "Le Garçon qui faisait danser les collines",
-        "rating": 7.029,
+        "rating": 6.986,
         "genre": "Drame / Musique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/9uWxZFfe4Xv7NMXn70sFU6nwZp3.jpg",
         "trailer": "https://www.youtube.com/watch?v=GHBATVjjLWY",
@@ -2605,7 +2593,7 @@
     },
     {
         "title": "Saccharine",
-        "rating": 6.25,
+        "rating": 6.079,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/73xAtmZh1oOMKoGtGdzsvPNswmD.jpg",
         "trailer": "https://www.youtube.com/watch?v=uIY13LD3RUY",
@@ -2749,7 +2737,7 @@
     },
     {
         "title": "Le Virtuose",
-        "rating": 7.149,
+        "rating": 7.2,
         "genre": "Crime / Thriller / Comédie / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/sQvdQNlQjuTqNRhicV5RUlhOIpT.jpg",
         "trailer": "https://www.youtube.com/watch?v=HYxzyLVJORA",
