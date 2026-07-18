@@ -1,5 +1,29 @@
 [
     {
+        "title": "RELATIONS RÊVÉES",
+        "rating": 10,
+        "genre": "Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/tV47tOMFnkscLuSZiQwlP9pAtkR.jpg",
+        "trailer": null,
+        "release_date": "2026-07-17",
+        "overview": "discours autour de l'amour",
+        "tagline": "L'amour rêvera",
+        "runtime": 3,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/325IdWs4LxN7xzpt80m9vg92PkI.jpg"
+    },
+    {
+        "title": "L’aventure rêvée",
+        "rating": 4,
+        "genre": "Drame / Aventure / Thriller / Crime / Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/l22BcWjey9c6KVuB3aegtaWl7hR.jpg",
+        "trailer": null,
+        "release_date": "2026-07-15",
+        "overview": "À Svilengrad, une petite ville à la frontière bulgare, aux confins d’une Europe délaissée, Veska, archéologue, renoue avec Said, un ami d’enfance, dont la voiture vient d’être volée. En voulant l’aider, Veska glisse progressivement au cœur d’une société criminelle dont l’emprise règne sur la ville. Veska va devoir affronter ce monde à la fois trouble et dangereux.",
+        "tagline": "",
+        "runtime": 164,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/pyyLuwfGtpO3Ki0KOBx44nK538n.jpg"
+    },
+    {
         "title": "FÉLIN POUR L'AUTRE",
         "rating": 10,
         "genre": "Romance",
@@ -22,18 +46,6 @@
         "tagline": "",
         "runtime": 4,
         "backdrop": "https://image.tmdb.org/t/p/w1280/kMIlYVVoVmNOmdtqtrw9jtKdG9K.jpg"
-    },
-    {
-        "title": "La Légende de Baahubali : 2ème Partie",
-        "rating": 7.479,
-        "genre": "Action / Aventure / Fantastique",
-        "poster": "https://image.tmdb.org/t/p/w500/7OGrP2nUK6n55tmtclxb1RHRKQq.jpg",
-        "trailer": "https://www.youtube.com/watch?v=qD-6d8Wo3do",
-        "release_date": "2026-06-27",
-        "overview": "Shivudu, un jeune villageois découvre sa vraie identité, de descendance royale. Il sauvera la Reine Devasena asservie par le terrible Bhalladeva dont le seul et unique objectif est de garder son trône et, de tuer le fils de son ennemi : le Roi BAAHUBALI.",
-        "tagline": "",
-        "runtime": 167,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/whNjsTOUVg2lZLCKgGhnACnmV8E.jpg"
     },
     {
         "title": "LONELINESS AQUARIUM",
@@ -696,18 +708,6 @@
         "backdrop": null
     },
     {
-        "title": "Le Jour où la Terre s'arrêta",
-        "rating": 7.453,
-        "genre": "Science-fiction / Thriller / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/yxV81BSQlrJeNngQlfa2OjmEQdQ.jpg",
-        "trailer": "https://www.youtube.com/watch?v=sU_wBld7FPo",
-        "release_date": "2026-06-06",
-        "overview": "Une soucoupe volante atterrit en plein centre de Washington D.C. Deux créatures en sortent. Alors qu'on les croyait hostiles, les extraterrestres sont en fait porteurs d'un message de paix pour l'humanité.",
-        "tagline": "Depuis l'espace... Un avertissement et un ultimatum",
-        "runtime": 94,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/qwZRvb0DJ5IwDoRuKDRCBuHWzkw.jpg"
-    },
-    {
         "title": "El Charro Negro",
         "rating": 0,
         "genre": "Western / Fantastique",
@@ -889,7 +889,7 @@
     },
     {
         "title": "L'Odyssée",
-        "rating": 6.6,
+        "rating": 7.47,
         "genre": "Aventure / Action / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/xJ97RenWOB8DBBwZryjUQTDdH73.jpg",
         "trailer": "https://www.youtube.com/watch?v=AyIZ9tiiN8I",
@@ -949,7 +949,7 @@
     },
     {
         "title": "Le Héros de Berlin",
-        "rating": 6.615,
+        "rating": 6.643,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/gmPute26B4JnsQNMZdgyWAfYfYj.jpg",
         "trailer": null,
@@ -960,20 +960,8 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/fLe2B91439XfKNqbNchQklDvhju.jpg"
     },
     {
-        "title": "L'aventure rêvée",
-        "rating": 4,
-        "genre": "Drame / Aventure / Thriller / Crime / Romance",
-        "poster": "https://image.tmdb.org/t/p/w500/xqZhsBsgw6RuLoOTFI7WvUdLP7R.jpg",
-        "trailer": null,
-        "release_date": "2026-07-15",
-        "overview": "À Svilengrad, une petite ville à la frontière bulgare, aux confins d'une Europe délaissée, Veska, archéologue, renoue avec Said, un ami d'enfance, dont la voiture vient d’être volée. En voulant l’aider, Veska glisse progressivement au coeur d'une société criminelle dont l’emprise règne sur la ville. Veska va devoir affronter ce monde à la fois trouble et dangereux.",
-        "tagline": "",
-        "runtime": 161,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/pyyLuwfGtpO3Ki0KOBx44nK538n.jpg"
-    },
-    {
         "title": "Comète",
-        "rating": 0,
+        "rating": 6,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/m2svEhNj7RRJA3Fe3MwKIB7jRVO.jpg",
         "trailer": null,
@@ -1129,7 +1117,7 @@
     },
     {
         "title": "Evil Dead Burn",
-        "rating": 6.8,
+        "rating": 6.745,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/ttqtnATOMrhpYQeJM548oviS7m6.jpg",
         "trailer": "https://www.youtube.com/watch?v=RddZObTlmA8",
@@ -1141,7 +1129,7 @@
     },
     {
         "title": "Vaiana, la légende du bout du monde",
-        "rating": 5.7,
+        "rating": 5.8,
         "genre": "Famille / Fantastique / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
         "trailer": "https://www.youtube.com/watch?v=EEz5xbzYPKI",
@@ -1213,7 +1201,7 @@
     },
     {
         "title": "Hanami",
-        "rating": 7.714,
+        "rating": 7.75,
         "genre": "Drame / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/s9mpHQe4RNCbjp4KgU4K1WorfB.jpg",
         "trailer": "https://www.youtube.com/watch?v=vAp42gdjKzs",
@@ -1273,7 +1261,7 @@
     },
     {
         "title": "La chaleur",
-        "rating": 6.714,
+        "rating": 6.625,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/8IcgFgUKHWnVamGPSXQQ8cLHjew.jpg",
         "trailer": null,
@@ -1501,7 +1489,7 @@
     },
     {
         "title": "La Bataille de Gaulle : J’écris ton nom",
-        "rating": 7.821,
+        "rating": 7.819,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/sfnKVuXQq2wHuAlOqs60FrtJmiz.jpg",
         "trailer": "https://www.youtube.com/watch?v=J6MRNchmZkY",
@@ -1513,7 +1501,7 @@
     },
     {
         "title": "On l'appelait Robin des Bois",
-        "rating": 6.763,
+        "rating": 6.76,
         "genre": "Drame / Thriller / Action",
         "poster": "https://image.tmdb.org/t/p/w500/bYaznBVPlQ4C0uTu6wXn68NZFoB.jpg",
         "trailer": "https://www.youtube.com/watch?v=tlSDDuWxO_0",
@@ -1525,7 +1513,7 @@
     },
     {
         "title": "Supergirl",
-        "rating": 6.199,
+        "rating": 6.2,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/ptyTrUvaQYkRTj42t6IMeGc0rZy.jpg",
         "trailer": "https://www.youtube.com/watch?v=tzlY8XD1CGg",
@@ -1585,7 +1573,7 @@
     },
     {
         "title": "Jim Queen",
-        "rating": 7.937,
+        "rating": 7.938,
         "genre": "Animation / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
         "trailer": null,
@@ -1933,7 +1921,7 @@
     },
     {
         "title": "Des Minions et des monstres",
-        "rating": 6.4,
+        "rating": 6.361,
         "genre": "Aventure / Animation / Comédie / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/igD0dUmeaJfWME9j3OoqeN2dHvp.jpg",
         "trailer": "https://www.youtube.com/watch?v=V-O-uBaHk3c",
@@ -2136,18 +2124,6 @@
         "backdrop": null
     },
     {
-        "title": "L'aura",
-        "rating": 0,
-        "genre": "Fantastique / Comédie / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/pUdZT9i0aYzCrZv0wgXVDMbjIt0.jpg",
-        "trailer": null,
-        "release_date": "2026-06-06",
-        "overview": "Claudia est une jeune femme un peu malchanceuse et fataliste. Lors d’un événement ésotérique dans une librairie de La Goutte d’Or, une apparition inquiétante sur une photo d'aura va bouleverser sa journée et celle de son amie Antonia.",
-        "tagline": "",
-        "runtime": 21,
-        "backdrop": null
-    },
-    {
         "title": "Roberto Zucco",
         "rating": 0,
         "genre": "",
@@ -2209,7 +2185,7 @@
     },
     {
         "title": "Toy Story 5",
-        "rating": 7.411,
+        "rating": 7.416,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QftAW9TTmuQ",
@@ -2221,7 +2197,7 @@
     },
     {
         "title": "Backrooms",
-        "rating": 6.963,
+        "rating": 7.015,
         "genre": "Horreur / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
         "trailer": "https://www.youtube.com/watch?v=0HjdiohVOik",
@@ -2233,7 +2209,7 @@
     },
     {
         "title": "Le Vertige",
-        "rating": 5.736,
+        "rating": 5.824,
         "genre": "Animation",
         "poster": "https://image.tmdb.org/t/p/w500/3UgSYWJBhtuFVUY5wWj0LUOa3pH.jpg",
         "trailer": "https://www.youtube.com/watch?v=e_VdQd0rhyk",
@@ -2257,7 +2233,7 @@
     },
     {
         "title": "The Furious",
-        "rating": 7.418,
+        "rating": 7.431,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
         "trailer": "https://www.youtube.com/watch?v=Avky8dVaqAI",
@@ -2269,7 +2245,7 @@
     },
     {
         "title": "Disclosure Day",
-        "rating": 6.696,
+        "rating": 6.688,
         "genre": "Mystère / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/n3eMT3X0dbaqPMYbDP9unIB33pY.jpg",
         "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w",
