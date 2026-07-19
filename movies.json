@@ -1,5 +1,17 @@
 [
     {
+        "title": "La Légende de Baahubali : 2ème Partie",
+        "rating": 7.484,
+        "genre": "Action / Aventure / Fantastique",
+        "poster": "https://image.tmdb.org/t/p/w500/7OGrP2nUK6n55tmtclxb1RHRKQq.jpg",
+        "trailer": "https://www.youtube.com/watch?v=qD-6d8Wo3do",
+        "release_date": "2026-06-27",
+        "overview": "Shivudu, un jeune villageois découvre sa vraie identité, de descendance royale. Il sauvera la Reine Devasena asservie par le terrible Bhalladeva dont le seul et unique objectif est de garder son trône et, de tuer le fils de son ennemi : le Roi BAAHUBALI.",
+        "tagline": "",
+        "runtime": 167,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/whNjsTOUVg2lZLCKgGhnACnmV8E.jpg"
+    },
+    {
         "title": "RELATIONS RÊVÉES",
         "rating": 10,
         "genre": "Romance",
@@ -13,7 +25,7 @@
     },
     {
         "title": "L’aventure rêvée",
-        "rating": 4,
+        "rating": 5.167,
         "genre": "Drame / Aventure / Thriller / Crime / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/l22BcWjey9c6KVuB3aegtaWl7hR.jpg",
         "trailer": null,
@@ -469,7 +481,7 @@
     },
     {
         "title": "Sur la route d’Omaha",
-        "rating": 6.9,
+        "rating": 6.868,
         "genre": "Drame / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/s1SNVyTWWmvpWK439bOrRF9xywS.jpg",
         "trailer": "https://www.youtube.com/watch?v=M2OTVoxpetU",
@@ -481,7 +493,7 @@
     },
     {
         "title": "Miss Mermaid",
-        "rating": 6,
+        "rating": 6.5,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/38tZQKwoJwnqPDCL1Z1Mafv3Lkk.jpg",
         "trailer": "https://www.youtube.com/watch?v=TzQUfbyUy9M",
@@ -565,7 +577,7 @@
     },
     {
         "title": "The Black House",
-        "rating": 6,
+        "rating": 6.063,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/s6JLXxlWUH2OVWKTw8XqfXPu4Cw.jpg",
         "trailer": null,
@@ -829,7 +841,7 @@
     },
     {
         "title": "Deviens génial",
-        "rating": 6.833,
+        "rating": 6.857,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/jVtLhDdP4tSuKXVjLohF9j08oaW.jpg",
         "trailer": null,
@@ -877,7 +889,7 @@
     },
     {
         "title": "The Last Viking",
-        "rating": 7.301,
+        "rating": 7.32,
         "genre": "Comédie / Crime / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/fFSKEBs290DW26mrKckObHwU5Sm.jpg",
         "trailer": "https://www.youtube.com/watch?v=YdFbqryfdxg",
@@ -889,7 +901,7 @@
     },
     {
         "title": "L'Odyssée",
-        "rating": 7.47,
+        "rating": 7.672,
         "genre": "Aventure / Action / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/xJ97RenWOB8DBBwZryjUQTDdH73.jpg",
         "trailer": "https://www.youtube.com/watch?v=AyIZ9tiiN8I",
@@ -949,7 +961,7 @@
     },
     {
         "title": "Le Héros de Berlin",
-        "rating": 6.643,
+        "rating": 6.6,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/gmPute26B4JnsQNMZdgyWAfYfYj.jpg",
         "trailer": null,
@@ -1117,7 +1129,7 @@
     },
     {
         "title": "Evil Dead Burn",
-        "rating": 6.745,
+        "rating": 6.794,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/ttqtnATOMrhpYQeJM548oviS7m6.jpg",
         "trailer": "https://www.youtube.com/watch?v=RddZObTlmA8",
@@ -1129,7 +1141,7 @@
     },
     {
         "title": "Vaiana, la légende du bout du monde",
-        "rating": 5.8,
+        "rating": 5.792,
         "genre": "Famille / Fantastique / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
         "trailer": "https://www.youtube.com/watch?v=EEz5xbzYPKI",
@@ -1225,7 +1237,7 @@
     },
     {
         "title": "L'écologie des sentiments",
-        "rating": 5.5,
+        "rating": 6.333,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/91OcZghavkPIHvtbMSlDlHh2HCX.jpg",
         "trailer": null,
@@ -1261,7 +1273,7 @@
     },
     {
         "title": "La chaleur",
-        "rating": 6.625,
+        "rating": 6.727,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/8IcgFgUKHWnVamGPSXQQ8cLHjew.jpg",
         "trailer": null,
@@ -1321,7 +1333,7 @@
     },
     {
         "title": "Le Passage",
-        "rating": 6.817,
+        "rating": 6.694,
         "genre": "Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/wfLLfWPXDi0kw3Iw8zQLCfTOr0r.jpg",
         "trailer": "https://www.youtube.com/watch?v=VvGvWHHjK2o",
@@ -1489,7 +1501,7 @@
     },
     {
         "title": "La Bataille de Gaulle : J’écris ton nom",
-        "rating": 7.819,
+        "rating": 7.817,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/sfnKVuXQq2wHuAlOqs60FrtJmiz.jpg",
         "trailer": "https://www.youtube.com/watch?v=J6MRNchmZkY",
@@ -1501,7 +1513,7 @@
     },
     {
         "title": "On l'appelait Robin des Bois",
-        "rating": 6.76,
+        "rating": 6.7,
         "genre": "Drame / Thriller / Action",
         "poster": "https://image.tmdb.org/t/p/w500/bYaznBVPlQ4C0uTu6wXn68NZFoB.jpg",
         "trailer": "https://www.youtube.com/watch?v=tlSDDuWxO_0",
@@ -1513,7 +1525,7 @@
     },
     {
         "title": "Supergirl",
-        "rating": 6.2,
+        "rating": 6.182,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/ptyTrUvaQYkRTj42t6IMeGc0rZy.jpg",
         "trailer": "https://www.youtube.com/watch?v=tzlY8XD1CGg",
@@ -1657,7 +1669,7 @@
     },
     {
         "title": "Maspalomas",
-        "rating": 6.673,
+        "rating": 6.679,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/2g5UBmSaxqwavsDrUGlf4OX2Aj3.jpg",
         "trailer": "https://www.youtube.com/watch?v=8o6gkyinORg",
@@ -1705,7 +1717,7 @@
     },
     {
         "title": "Blue Heron",
-        "rating": 7,
+        "rating": 7.043,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/972gqjsBAqfHTa4BqRnpPpPoOXS.jpg",
         "trailer": "https://www.youtube.com/watch?v=JeWg8wUlQVo",
@@ -1921,7 +1933,7 @@
     },
     {
         "title": "Des Minions et des monstres",
-        "rating": 6.361,
+        "rating": 6.401,
         "genre": "Aventure / Animation / Comédie / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/igD0dUmeaJfWME9j3OoqeN2dHvp.jpg",
         "trailer": "https://www.youtube.com/watch?v=V-O-uBaHk3c",
@@ -2089,7 +2101,7 @@
     },
     {
         "title": "Ulysse",
-        "rating": 6.364,
+        "rating": 6.417,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/tS0Xwa7Uqd8nlT41Y1KrumHtLeU.jpg",
         "trailer": null,
@@ -2149,7 +2161,7 @@
     },
     {
         "title": "Shana",
-        "rating": 5.857,
+        "rating": 6,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/zPikE6yXfc6DVGxyYmuJOsgK2n.jpg",
         "trailer": "https://www.youtube.com/watch?v=kClDa_QGp8M",
@@ -2161,7 +2173,7 @@
     },
     {
         "title": "Un champ de fraises pour l’éternité",
-        "rating": 6,
+        "rating": 7,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/mbGLiN85NAhNwFkiafaWbglhixb.jpg",
         "trailer": null,
@@ -2185,7 +2197,7 @@
     },
     {
         "title": "Toy Story 5",
-        "rating": 7.416,
+        "rating": 7.422,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QftAW9TTmuQ",
@@ -2197,7 +2209,7 @@
     },
     {
         "title": "Backrooms",
-        "rating": 7.015,
+        "rating": 7.047,
         "genre": "Horreur / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
         "trailer": "https://www.youtube.com/watch?v=0HjdiohVOik",
@@ -2221,7 +2233,7 @@
     },
     {
         "title": "The Christophers",
-        "rating": 6.4,
+        "rating": 6.381,
         "genre": "Crime / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/bZvRuU5OaDd7toBVMuPrsYVl2dN.jpg",
         "trailer": "https://www.youtube.com/watch?v=42GkXhRVLUQ",
@@ -2233,7 +2245,7 @@
     },
     {
         "title": "The Furious",
-        "rating": 7.431,
+        "rating": 7.443,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
         "trailer": "https://www.youtube.com/watch?v=Avky8dVaqAI",
@@ -2245,7 +2257,7 @@
     },
     {
         "title": "Disclosure Day",
-        "rating": 6.688,
+        "rating": 6.7,
         "genre": "Mystère / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/n3eMT3X0dbaqPMYbDP9unIB33pY.jpg",
         "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w",
@@ -2281,7 +2293,7 @@
     },
     {
         "title": "Une année italienne",
-        "rating": 7.143,
+        "rating": 7.114,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/8kGEfpIabMiaWpdMkTcNFclld5W.jpg",
         "trailer": null,
@@ -2293,7 +2305,7 @@
     },
     {
         "title": "Fils de personne",
-        "rating": 6.75,
+        "rating": 6.8,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/AlN6NGHgdyn1ZOIkESOMSm2NCWh.jpg",
         "trailer": null,
