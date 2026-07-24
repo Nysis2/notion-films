@@ -85,7 +85,7 @@
     },
     {
         "title": "The Naked Seven",
-        "rating": 6.3,
+        "rating": 6.333,
         "genre": "Aventure / Action",
         "poster": "https://image.tmdb.org/t/p/w500/395CgLOgHPckYfU8eKmbeeeTt0a.jpg",
         "trailer": null,
@@ -97,7 +97,7 @@
     },
     {
         "title": "Un champ de fraises pour l’éternité",
-        "rating": 7,
+        "rating": 7.167,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/mbGLiN85NAhNwFkiafaWbglhixb.jpg",
         "trailer": null,
@@ -133,7 +133,7 @@
     },
     {
         "title": "Lagoa do Abandono",
-        "rating": 0,
+        "rating": 8,
         "genre": "Animation",
         "poster": "https://image.tmdb.org/t/p/w500/tgt5d3EZSNaeqLs1RXZG7mG1fUo.jpg",
         "trailer": null,
@@ -264,18 +264,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/wduUhYLGaYSD2mSu7YHd09l1N6j.jpg"
     },
     {
-        "title": "La Légende de Baahubali : 2ème Partie",
-        "rating": 7.485,
-        "genre": "Action / Aventure / Fantastique",
-        "poster": "https://image.tmdb.org/t/p/w500/7OGrP2nUK6n55tmtclxb1RHRKQq.jpg",
-        "trailer": "https://www.youtube.com/watch?v=qD-6d8Wo3do",
-        "release_date": "2026-06-27",
-        "overview": "Shivudu, un jeune villageois découvre sa vraie identité, de descendance royale. Il sauvera la Reine Devasena asservie par le terrible Bhalladeva dont le seul et unique objectif est de garder son trône et, de tuer le fils de son ennemi : le Roi BAAHUBALI.",
-        "tagline": "",
-        "runtime": 167,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/whNjsTOUVg2lZLCKgGhnACnmV8E.jpg"
-    },
-    {
         "title": "I Want Your Sex",
         "rating": 0,
         "genre": "Drame / Comédie",
@@ -337,7 +325,7 @@
     },
     {
         "title": "Jana Nayagan",
-        "rating": 0,
+        "rating": 10,
         "genre": "Action / Drame / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/psrVewrAPgwYpBQGQvK07AliUjY.jpg",
         "trailer": null,
@@ -349,7 +337,7 @@
     },
     {
         "title": "Spider-Man: Brand New Day",
-        "rating": 0,
+        "rating": 9.8,
         "genre": "Science-fiction / Action / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yikio8CfJxIA7faZxgvB9FGXy6u.jpg",
         "trailer": "https://www.youtube.com/watch?v=P3uI5sLosKU",
@@ -721,7 +709,7 @@
     },
     {
         "title": "The World of Geisha",
-        "rating": 4.7,
+        "rating": 4.688,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/exvPOW0yBb5mft9NNDhj4UA2HNu.jpg",
         "trailer": null,
@@ -877,10 +865,10 @@
     },
     {
         "title": "De la Comédie-Française",
-        "rating": 7.4,
+        "rating": 7.5,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/3ykToOKrgIlKBOkxpRscXNAkzET.jpg",
-        "trailer": null,
+        "trailer": "https://www.youtube.com/watch?v=vYSoVcuFxNg",
         "release_date": "2026-07-22",
         "overview": "Dans 3 heures, Nina dévoile sa première mise en scène à la Comédie-Française. Mais dans l’agitation des dernières répétitions, rien ne se passe comme prévu : retards, coups de stress, problèmes techniques et problèmes d’égo secouent la troupe. Pourtant, Nina n’a pas d’autre choix que d’aller jusqu’au bout car s’il y a bien une règle d’or à la Comédie-Française, c’est qu’on n’annule pas. Commence alors une course contre la montre pour sauver la représentation.",
         "tagline": "",
@@ -889,7 +877,7 @@
     },
     {
         "title": "Blücher",
-        "rating": 6.654,
+        "rating": 6.7,
         "genre": "Guerre / Action / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/lHyKx8MlxjIGbkgfgeriJM8VPnC.jpg",
         "trailer": null,
@@ -901,7 +889,7 @@
     },
     {
         "title": "Nightborn",
-        "rating": 6.571,
+        "rating": 6.6,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/y0BxJMOZSHiZZlaPyOcQH6cVW4m.jpg",
         "trailer": "https://www.youtube.com/watch?v=dWePsu_Kd9c",
@@ -1093,7 +1081,7 @@
     },
     {
         "title": "The Last Viking",
-        "rating": 7.317,
+        "rating": 7.294,
         "genre": "Comédie / Crime / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/fFSKEBs290DW26mrKckObHwU5Sm.jpg",
         "trailer": "https://www.youtube.com/watch?v=YdFbqryfdxg",
@@ -1105,7 +1093,7 @@
     },
     {
         "title": "L'Odyssée",
-        "rating": 7.932,
+        "rating": 7.9,
         "genre": "Aventure / Action / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/xJ97RenWOB8DBBwZryjUQTDdH73.jpg",
         "trailer": "https://www.youtube.com/watch?v=AyIZ9tiiN8I",
@@ -1153,7 +1141,7 @@
     },
     {
         "title": "Le Berger et les Ours",
-        "rating": 8,
+        "rating": 7,
         "genre": "Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/qoJaGeMaWAOcWKgUyw7YQ3pMoLL.jpg",
         "trailer": "https://www.youtube.com/watch?v=kDOPSjjGL3k",
@@ -1285,7 +1273,7 @@
     },
     {
         "title": "Kill Bill : The Whole Bloody Affair",
-        "rating": 8.1,
+        "rating": 8.102,
         "genre": "Action / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg",
         "trailer": "https://www.youtube.com/watch?v=qbUz68h9BFo",
@@ -1297,7 +1285,7 @@
     },
     {
         "title": "Evil Dead Burn",
-        "rating": 6.808,
+        "rating": 6.823,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/ttqtnATOMrhpYQeJM548oviS7m6.jpg",
         "trailer": "https://www.youtube.com/watch?v=RddZObTlmA8",
@@ -1309,7 +1297,7 @@
     },
     {
         "title": "Vaiana, la légende du bout du monde",
-        "rating": 5.765,
+        "rating": 5.847,
         "genre": "Famille / Fantastique / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
         "trailer": "https://www.youtube.com/watch?v=EEz5xbzYPKI",
@@ -1393,7 +1381,7 @@
     },
     {
         "title": "L'écologie des sentiments",
-        "rating": 6.333,
+        "rating": 6.5,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/91OcZghavkPIHvtbMSlDlHh2HCX.jpg",
         "trailer": null,
@@ -1549,7 +1537,7 @@
     },
     {
         "title": "Permis de détruire",
-        "rating": 5.7,
+        "rating": 5.75,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/gZQmPbQ9jo44jj9h4OSb61j14RD.jpg",
         "trailer": null,
@@ -1609,7 +1597,7 @@
     },
     {
         "title": "La Bataille de Gaulle : J’écris ton nom",
-        "rating": 7.819,
+        "rating": 7.821,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/sfnKVuXQq2wHuAlOqs60FrtJmiz.jpg",
         "trailer": "https://www.youtube.com/watch?v=J6MRNchmZkY",
@@ -1621,7 +1609,7 @@
     },
     {
         "title": "On l'appelait Robin des Bois",
-        "rating": 6.787,
+        "rating": 6.771,
         "genre": "Drame / Thriller / Action",
         "poster": "https://image.tmdb.org/t/p/w500/bYaznBVPlQ4C0uTu6wXn68NZFoB.jpg",
         "trailer": "https://www.youtube.com/watch?v=tlSDDuWxO_0",
@@ -1633,7 +1621,7 @@
     },
     {
         "title": "Supergirl",
-        "rating": 6.148,
+        "rating": 6.14,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/ptyTrUvaQYkRTj42t6IMeGc0rZy.jpg",
         "trailer": "https://www.youtube.com/watch?v=tzlY8XD1CGg",
@@ -1693,10 +1681,10 @@
     },
     {
         "title": "Jim Queen",
-        "rating": 7.9,
+        "rating": 7.929,
         "genre": "Animation / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/jw8vwfyKOf509Zj1cu27waGFZLB.jpg",
-        "trailer": null,
+        "trailer": "https://www.youtube.com/watch?v=CHof1Bc8oeM",
         "release_date": "2026-06-17",
         "overview": "Jim, icône sexy de la scène gay parisienne, voit sa vie basculer lorsqu’il contracte l’Hétérose, un étrange virus qui transforme les hommes gays… en hétérosexuels ! Il voit alors tout le monde lui tourner le dos à l’exception de son dernier follower (et premier admirateur), Lucien, un jeune homme qui peine à s’assumer. Ensemble, ils partiront en quête d’un mystérieux remède capable de guérir Jim et d’empêcher l’extinction de l’homosexualité…",
         "tagline": "Un long métrage d'animation de dur à queer",
@@ -1741,7 +1729,7 @@
     },
     {
         "title": "Maspalomas",
-        "rating": 6.679,
+        "rating": 6.685,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/2g5UBmSaxqwavsDrUGlf4OX2Aj3.jpg",
         "trailer": "https://www.youtube.com/watch?v=8o6gkyinORg",
@@ -1801,7 +1789,7 @@
     },
     {
         "title": "Love Hotel",
-        "rating": 6.8,
+        "rating": 6.767,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/mMf97bnLtEkj3jnwmxjl9yXYNcS.jpg",
         "trailer": "https://www.youtube.com/watch?v=tEAJVY1BQGw",
@@ -1813,7 +1801,7 @@
     },
     {
         "title": "L'Enfer des Jeunes Filles",
-        "rating": 5.5,
+        "rating": 5.538,
         "genre": "Drame / Mystère / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/lrwvGQdEotJgjkmtujDosnHb3v.jpg",
         "trailer": "https://www.youtube.com/watch?v=1z6QhDHv-AQ",
@@ -1909,7 +1897,7 @@
     },
     {
         "title": "白い指の戯れ",
-        "rating": 4.7,
+        "rating": 4.708,
         "genre": "Crime / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/8wdbkGr36H0vydCg6DHDDNqJsl7.jpg",
         "trailer": null,
@@ -1933,7 +1921,7 @@
     },
     {
         "title": "性談 牡丹燈籠",
-        "rating": 4.8,
+        "rating": 4.75,
         "genre": "Horreur / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/iBq9RQRUKbyqRanipsHcX2re9QN.jpg",
         "trailer": null,
@@ -1969,7 +1957,7 @@
     },
     {
         "title": "Angel Guts - Red classroom",
-        "rating": 6.4,
+        "rating": 6.391,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/aC9u3885vo7RYCaaOMKpaAIM4CI.jpg",
         "trailer": "https://www.youtube.com/watch?v=6KRTR4bCJQk",
@@ -1993,7 +1981,7 @@
     },
     {
         "title": "Des Minions et des monstres",
-        "rating": 6.4,
+        "rating": 6.411,
         "genre": "Aventure / Animation / Comédie / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/igD0dUmeaJfWME9j3OoqeN2dHvp.jpg",
         "trailer": "https://www.youtube.com/watch?v=V-O-uBaHk3c",
@@ -2065,7 +2053,7 @@
     },
     {
         "title": "Toy Story 5",
-        "rating": 7.413,
+        "rating": 7.415,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QftAW9TTmuQ",
@@ -2077,7 +2065,7 @@
     },
     {
         "title": "Backrooms",
-        "rating": 7.086,
+        "rating": 7.09,
         "genre": "Horreur / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
         "trailer": "https://www.youtube.com/watch?v=0HjdiohVOik",
