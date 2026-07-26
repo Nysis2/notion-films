@@ -1,15 +1,63 @@
 [
     {
-        "title": "La Légende de Baahubali : 2ème Partie",
-        "rating": 7.485,
-        "genre": "Action / Aventure / Fantastique",
-        "poster": "https://image.tmdb.org/t/p/w500/7OGrP2nUK6n55tmtclxb1RHRKQq.jpg",
-        "trailer": "https://www.youtube.com/watch?v=qD-6d8Wo3do",
-        "release_date": "2026-06-27",
-        "overview": "Shivudu, un jeune villageois découvre sa vraie identité, de descendance royale. Il sauvera la Reine Devasena asservie par le terrible Bhalladeva dont le seul et unique objectif est de garder son trône et, de tuer le fils de son ennemi : le Roi BAAHUBALI.",
+        "title": "Out OF Bounds",
+        "rating": 10,
+        "genre": "Horreur",
+        "poster": "https://image.tmdb.org/t/p/w500/iAKvhyNXMrAHap9GBXzPl1m4JUI.jpg",
+        "trailer": null,
+        "release_date": "2026-07-20",
+        "overview": "Un groupe d'adolescent part filmer une vidéo pour YouTube dans les blockhaus la nuit mais ce qu'il ne savent pas, c'est qu'il ne sont pas seul.",
+        "tagline": "Ils ne devaient pas être ici...",
+        "runtime": 11,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/coIb5ubqdAjGQbgdhpMJpQPJBEg.jpg"
+    },
+    {
+        "title": "Jésus est une voiture",
+        "rating": 0,
+        "genre": "Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": null,
+        "release_date": "2026-06-18",
+        "overview": "Ce kino tourné et monté en 4 heures raconte l'histoire d'Henry, un jeune homme en quête d'amour. Un beau dimanche, une étrange voix sortit de son auto-radio...",
         "tagline": "",
-        "runtime": 167,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/whNjsTOUVg2lZLCKgGhnACnmV8E.jpg"
+        "runtime": 4,
+        "backdrop": null
+    },
+    {
+        "title": "Les Oeufs",
+        "rating": 0,
+        "genre": "Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/fK92JlclcFaovceLBf9JhQcLHLw.jpg",
+        "trailer": null,
+        "release_date": "2026-07-11",
+        "overview": "Caro se prépare des oeufs pour le petit déjeuner...",
+        "tagline": "",
+        "runtime": 4,
+        "backdrop": null
+    },
+    {
+        "title": "L’Étrangère",
+        "rating": 7.2,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/joEFUQTF4ZDdacGrDQmZqrgl948.jpg",
+        "trailer": null,
+        "release_date": "2026-06-24",
+        "overview": "Selma fuit la Syrie en laissant derrière elle un fils de six ans et un mari disparu dans les geôles du régime. Arrivée à Bordeaux, elle fait la connaissance de Jérôme, un avocat qui va l’aider dans ses démarches pour obtenir le droit d’asile et retrouver son fils Rami. Leur histoire d’amour va tout remettre en question.",
+        "tagline": "",
+        "runtime": 101,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/an4PaIJnWhGdBVXS1jGKTdGvgwN.jpg"
+    },
+    {
+        "title": "メイン・テーマ",
+        "rating": 6.4,
+        "genre": "Comédie / Drame / Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/rT8mc772dBm23wYSA8xZ1oQLzPg.jpg",
+        "trailer": "https://www.youtube.com/watch?v=-BYpq_fD3Ao",
+        "release_date": "2026-07-22",
+        "overview": "Renvoyée de son école maternelle, Shibuki part à Osaka retrouver Wataru, le père du fils qui était son élève, et avec lequel elle s’est liée d’amitié. Il la recrute pour s’occuper de son enfant et de sa femme, pendant qu’il entretient une relation adultère avec une chanteuse de jazz.",
+        "tagline": "",
+        "runtime": 101,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/hdg9Ma4YNVq50Yo16o9iUw4iPIw.jpg"
     },
     {
         "title": "Le Poulet des Larcher",
@@ -217,7 +265,7 @@
     },
     {
         "title": "Gorgonà",
-        "rating": 4,
+        "rating": 3.667,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/2gLIvmDa0YPVldyCkxAIxELnGkk.jpg",
         "trailer": null,
@@ -325,7 +373,7 @@
     },
     {
         "title": "Jana Nayagan",
-        "rating": 6.667,
+        "rating": 7.5,
         "genre": "Action / Drame / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/psrVewrAPgwYpBQGQvK07AliUjY.jpg",
         "trailer": null,
@@ -337,7 +385,7 @@
     },
     {
         "title": "Spider-Man: Brand New Day",
-        "rating": 8.8,
+        "rating": 9,
         "genre": "Science-fiction / Action / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yikio8CfJxIA7faZxgvB9FGXy6u.jpg",
         "trailer": "https://www.youtube.com/watch?v=P3uI5sLosKU",
@@ -841,7 +889,7 @@
     },
     {
         "title": "De la Comédie-Française",
-        "rating": 7.438,
+        "rating": 7.125,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/3ykToOKrgIlKBOkxpRscXNAkzET.jpg",
         "trailer": "https://www.youtube.com/watch?v=vYSoVcuFxNg",
@@ -865,7 +913,7 @@
     },
     {
         "title": "Nightborn",
-        "rating": 6.6,
+        "rating": 6.625,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/y0BxJMOZSHiZZlaPyOcQH6cVW4m.jpg",
         "trailer": "https://www.youtube.com/watch?v=dWePsu_Kd9c",
@@ -1045,7 +1093,7 @@
     },
     {
         "title": "The Last Viking",
-        "rating": 7.294,
+        "rating": 7.286,
         "genre": "Comédie / Crime / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/fFSKEBs290DW26mrKckObHwU5Sm.jpg",
         "trailer": "https://www.youtube.com/watch?v=YdFbqryfdxg",
@@ -1057,7 +1105,7 @@
     },
     {
         "title": "L'Odyssée",
-        "rating": 7.956,
+        "rating": 7.953,
         "genre": "Aventure / Action / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/xJ97RenWOB8DBBwZryjUQTDdH73.jpg",
         "trailer": "https://www.youtube.com/watch?v=AyIZ9tiiN8I",
@@ -1237,7 +1285,7 @@
     },
     {
         "title": "Kill Bill : The Whole Bloody Affair",
-        "rating": 8.105,
+        "rating": 8.1,
         "genre": "Action / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg",
         "trailer": "https://www.youtube.com/watch?v=qbUz68h9BFo",
@@ -1249,7 +1297,7 @@
     },
     {
         "title": "Evil Dead Burn",
-        "rating": 6.838,
+        "rating": 6.8,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/ttqtnATOMrhpYQeJM548oviS7m6.jpg",
         "trailer": "https://www.youtube.com/watch?v=RddZObTlmA8",
@@ -1537,7 +1585,7 @@
     },
     {
         "title": "In Waves",
-        "rating": 7.882,
+        "rating": 7.553,
         "genre": "Animation / Romance / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/3Tv7InnAULXTS76B7apoZ5oYJXD.jpg",
         "trailer": null,
@@ -1549,7 +1597,7 @@
     },
     {
         "title": "Eega, la mouche vengeresse",
-        "rating": 7.095,
+        "rating": 7.098,
         "genre": "Fantastique / Action",
         "poster": "https://image.tmdb.org/t/p/w500/9kaIqDdij2GLVcwbll2ZqSQPuEO.jpg",
         "trailer": "https://www.youtube.com/watch?v=b-XZtmVhN4U",
@@ -1561,7 +1609,7 @@
     },
     {
         "title": "La Bataille de Gaulle : J’écris ton nom",
-        "rating": 7.844,
+        "rating": 7.833,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/sfnKVuXQq2wHuAlOqs60FrtJmiz.jpg",
         "trailer": "https://www.youtube.com/watch?v=J6MRNchmZkY",
@@ -1573,7 +1621,7 @@
     },
     {
         "title": "On l'appelait Robin des Bois",
-        "rating": 6.8,
+        "rating": 6.74,
         "genre": "Drame / Thriller / Action",
         "poster": "https://image.tmdb.org/t/p/w500/bYaznBVPlQ4C0uTu6wXn68NZFoB.jpg",
         "trailer": "https://www.youtube.com/watch?v=tlSDDuWxO_0",
@@ -1585,7 +1633,7 @@
     },
     {
         "title": "Supergirl",
-        "rating": 6.151,
+        "rating": 6.1,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/ptyTrUvaQYkRTj42t6IMeGc0rZy.jpg",
         "trailer": "https://www.youtube.com/watch?v=tzlY8XD1CGg",
@@ -1753,7 +1801,7 @@
     },
     {
         "title": "Love Hotel",
-        "rating": 6.767,
+        "rating": 6.742,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/mMf97bnLtEkj3jnwmxjl9yXYNcS.jpg",
         "trailer": "https://www.youtube.com/watch?v=tEAJVY1BQGw",
@@ -1933,7 +1981,7 @@
     },
     {
         "title": "Des Minions et des monstres",
-        "rating": 6.408,
+        "rating": 6.407,
         "genre": "Aventure / Animation / Comédie / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/igD0dUmeaJfWME9j3OoqeN2dHvp.jpg",
         "trailer": "https://www.youtube.com/watch?v=V-O-uBaHk3c",
@@ -2005,7 +2053,7 @@
     },
     {
         "title": "Toy Story 5",
-        "rating": 7.425,
+        "rating": 7.428,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QftAW9TTmuQ",
@@ -2017,7 +2065,7 @@
     },
     {
         "title": "Backrooms",
-        "rating": 7.09,
+        "rating": 7.087,
         "genre": "Horreur / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
         "trailer": "https://www.youtube.com/watch?v=0HjdiohVOik",
