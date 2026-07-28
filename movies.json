@@ -1,15 +1,15 @@
 [
     {
-        "title": "La Légende de Baahubali : 2ème Partie",
-        "rating": 7.485,
-        "genre": "Action / Aventure / Fantastique",
-        "poster": "https://image.tmdb.org/t/p/w500/7OGrP2nUK6n55tmtclxb1RHRKQq.jpg",
-        "trailer": "https://www.youtube.com/watch?v=qD-6d8Wo3do",
-        "release_date": "2026-06-27",
-        "overview": "Shivudu, un jeune villageois découvre sa vraie identité, de descendance royale. Il sauvera la Reine Devasena asservie par le terrible Bhalladeva dont le seul et unique objectif est de garder son trône et, de tuer le fils de son ennemi : le Roi BAAHUBALI.",
-        "tagline": "",
-        "runtime": 167,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/whNjsTOUVg2lZLCKgGhnACnmV8E.jpg"
+        "title": "Spider-Man : Brand New Day",
+        "rating": 9.1,
+        "genre": "Science-fiction / Action / Aventure",
+        "poster": "https://image.tmdb.org/t/p/w500/yikio8CfJxIA7faZxgvB9FGXy6u.jpg",
+        "trailer": "https://www.youtube.com/watch?v=P3uI5sLosKU",
+        "release_date": "2026-07-29",
+        "overview": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre entièrement à la protection de la ville - un Spider-Man à plein temps - mais à mesure que les responsabilités s'intensifient, la pression provoque une transformation physique surprenante qui menace son existence, tandis qu'une étrange nouvelle vague de crimes donne naissance à l'une des menaces les plus redoutables qu'il ait jamais affrontées.",
+        "tagline": "Le monde a peut-être oublié Peter Parker, mais lui, il ne les a pas oubliés.",
+        "runtime": 150,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/kbvNLChuMl2nyAzPZvqkD8hZGZn.jpg"
     },
     {
         "title": "Out OF Bounds",
@@ -205,7 +205,7 @@
     },
     {
         "title": "Cap Farewell",
-        "rating": 0,
+        "rating": 7,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/akwUhEOlZZd0S2D7oTmKZ1FY7MX.jpg",
         "trailer": null,
@@ -394,18 +394,6 @@
         "tagline": "Le flambeau de la démocratie",
         "runtime": 183,
         "backdrop": "https://image.tmdb.org/t/p/w1280/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg"
-    },
-    {
-        "title": "Spider-Man: Brand New Day",
-        "rating": 9.067,
-        "genre": "Science-fiction / Action / Aventure",
-        "poster": "https://image.tmdb.org/t/p/w500/yikio8CfJxIA7faZxgvB9FGXy6u.jpg",
-        "trailer": "https://www.youtube.com/watch?v=P3uI5sLosKU",
-        "release_date": "2026-07-29",
-        "overview": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre entièrement à la protection de la ville - un Spider-Man à plein temps - mais à mesure que les responsabilités s'intensifient, la pression provoque une transformation physique surprenante qui menace son existence, tandis qu'une étrange nouvelle vague de crimes donne naissance à l'une des menaces les plus redoutables qu'il ait jamais affrontées.",
-        "tagline": "",
-        "runtime": 150,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/h0M2JTPUlR64jkfXAhZeD9e7ZWF.jpg"
     },
     {
         "title": "La Fille dans les nuages",
@@ -721,7 +709,7 @@
     },
     {
         "title": "La Dernière séance",
-        "rating": 7.51,
+        "rating": 7.48,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/pirn95cx9enEuxo6w6hGbTqxqu2.jpg",
         "trailer": "https://www.youtube.com/watch?v=xIlYsW6z0iQ",
@@ -769,7 +757,7 @@
     },
     {
         "title": "Notre Histoire - Chronique du Caire",
-        "rating": 6.2,
+        "rating": 6.333,
         "genre": "Drame / Musique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/kiqvv9symRbVvNQl9Zi5QdsEgr1.jpg",
         "trailer": "https://www.youtube.com/watch?v=IOl2qGuSXJs",
@@ -781,7 +769,7 @@
     },
     {
         "title": "Sur la route d’Omaha",
-        "rating": 6.9,
+        "rating": 6.78,
         "genre": "Drame / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/s1SNVyTWWmvpWK439bOrRF9xywS.jpg",
         "trailer": "https://www.youtube.com/watch?v=M2OTVoxpetU",
@@ -901,7 +889,7 @@
     },
     {
         "title": "De la Comédie-Française",
-        "rating": 7.021,
+        "rating": 6.9,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/3ykToOKrgIlKBOkxpRscXNAkzET.jpg",
         "trailer": "https://www.youtube.com/watch?v=vYSoVcuFxNg",
@@ -1105,7 +1093,7 @@
     },
     {
         "title": "The Last Viking",
-        "rating": 7.294,
+        "rating": 7.292,
         "genre": "Comédie / Crime / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/fFSKEBs290DW26mrKckObHwU5Sm.jpg",
         "trailer": "https://www.youtube.com/watch?v=YdFbqryfdxg",
@@ -1117,7 +1105,7 @@
     },
     {
         "title": "L'Odyssée",
-        "rating": 7.966,
+        "rating": 8,
         "genre": "Aventure / Action / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/xJ97RenWOB8DBBwZryjUQTDdH73.jpg",
         "trailer": "https://www.youtube.com/watch?v=AyIZ9tiiN8I",
@@ -1309,7 +1297,7 @@
     },
     {
         "title": "Evil Dead Burn",
-        "rating": 6.829,
+        "rating": 6.8,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/ttqtnATOMrhpYQeJM548oviS7m6.jpg",
         "trailer": "https://www.youtube.com/watch?v=RddZObTlmA8",
@@ -1429,7 +1417,7 @@
     },
     {
         "title": "La chaleur",
-        "rating": 6.4,
+        "rating": 6.389,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/8IcgFgUKHWnVamGPSXQQ8cLHjew.jpg",
         "trailer": null,
@@ -1465,7 +1453,7 @@
     },
     {
         "title": "Dry Leaf",
-        "rating": 6,
+        "rating": 7,
         "genre": "Drame / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/fCbXztJ5vAmVB6gXue2aN1cOLhz.jpg",
         "trailer": "https://www.youtube.com/watch?v=nx1D3hVbMgc",
@@ -1477,7 +1465,7 @@
     },
     {
         "title": "Le Passage",
-        "rating": 6.7,
+        "rating": 6.672,
         "genre": "Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/wfLLfWPXDi0kw3Iw8zQLCfTOr0r.jpg",
         "trailer": "https://www.youtube.com/watch?v=VvGvWHHjK2o",
@@ -1597,7 +1585,7 @@
     },
     {
         "title": "In Waves",
-        "rating": 7.553,
+        "rating": 7.475,
         "genre": "Animation / Romance / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/3Tv7InnAULXTS76B7apoZ5oYJXD.jpg",
         "trailer": null,
@@ -1621,7 +1609,7 @@
     },
     {
         "title": "La Bataille de Gaulle : J’écris ton nom",
-        "rating": 7.843,
+        "rating": 7.9,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/sfnKVuXQq2wHuAlOqs60FrtJmiz.jpg",
         "trailer": "https://www.youtube.com/watch?v=J6MRNchmZkY",
@@ -1633,7 +1621,7 @@
     },
     {
         "title": "On l'appelait Robin des Bois",
-        "rating": 6.7,
+        "rating": 6.665,
         "genre": "Drame / Thriller / Action",
         "poster": "https://image.tmdb.org/t/p/w500/bYaznBVPlQ4C0uTu6wXn68NZFoB.jpg",
         "trailer": "https://www.youtube.com/watch?v=tlSDDuWxO_0",
@@ -1645,7 +1633,7 @@
     },
     {
         "title": "Supergirl",
-        "rating": 6.153,
+        "rating": 6.382,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/ptyTrUvaQYkRTj42t6IMeGc0rZy.jpg",
         "trailer": "https://www.youtube.com/watch?v=tzlY8XD1CGg",
@@ -1924,7 +1912,7 @@
         "rating": 5.5,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kL5DYPcaAaj9nsIrpLgZDwIhyuc.jpg",
-        "trailer": "https://www.youtube.com/watch?v=l2t-Cr7xiCM",
+        "trailer": "https://www.youtube.com/watch?v=uMOxsv239HA",
         "release_date": "2026-06-18",
         "overview": "Masako est une prostituée qui travaille dans des bains du quartier de Shinjuku. Son quotidien est rythmé par ses sorties entre amies et son travail. La jeune femme entame une relation avec son voisin Makoto. Le jeune bisexuel s'est entiché d'une jeune femme, qu'il tente par tous les moyens de conquérir. Le trio s'embarque alors dans une relation dangereuse et sensuelle...",
         "tagline": "",
@@ -1993,7 +1981,7 @@
     },
     {
         "title": "Des Minions et des monstres",
-        "rating": 6.425,
+        "rating": 6.4,
         "genre": "Aventure / Animation / Comédie / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/igD0dUmeaJfWME9j3OoqeN2dHvp.jpg",
         "trailer": "https://www.youtube.com/watch?v=V-O-uBaHk3c",
@@ -2065,7 +2053,7 @@
     },
     {
         "title": "Toy Story 5",
-        "rating": 7.42,
+        "rating": 7.421,
         "genre": "Animation / Famille / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
         "trailer": "https://www.youtube.com/watch?v=QftAW9TTmuQ",
@@ -2077,7 +2065,7 @@
     },
     {
         "title": "Backrooms",
-        "rating": 7.084,
+        "rating": 7.069,
         "genre": "Horreur / Mystère / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
         "trailer": "https://www.youtube.com/watch?v=0HjdiohVOik",
