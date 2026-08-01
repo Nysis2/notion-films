@@ -12,18 +12,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/1XDqX2HLD1SLKU7pNeDiNNMto4U.jpg"
     },
     {
-        "title": "La Légende de Baahubali : 2ème Partie",
-        "rating": 7.486,
-        "genre": "Action / Aventure / Fantastique",
-        "poster": "https://image.tmdb.org/t/p/w500/7OGrP2nUK6n55tmtclxb1RHRKQq.jpg",
-        "trailer": "https://www.youtube.com/watch?v=qD-6d8Wo3do",
-        "release_date": "2026-06-27",
-        "overview": "Shivudu, un jeune villageois découvre sa vraie identité, de descendance royale. Il sauvera la Reine Devasena asservie par le terrible Bhalladeva dont le seul et unique objectif est de garder son trône et, de tuer le fils de son ennemi : le Roi BAAHUBALI.",
-        "tagline": "",
-        "runtime": 167,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/whNjsTOUVg2lZLCKgGhnACnmV8E.jpg"
-    },
-    {
         "title": "Impermanence, vacuité",
         "rating": 0,
         "genre": "",
@@ -433,7 +421,7 @@
     },
     {
         "title": "L’aventure rêvée",
-        "rating": 6.2,
+        "rating": 5.944,
         "genre": "Drame / Aventure / Thriller / Crime / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/l22BcWjey9c6KVuB3aegtaWl7hR.jpg",
         "trailer": null,
@@ -553,7 +541,7 @@
     },
     {
         "title": "Spider-Man : Brand New Day",
-        "rating": 8.002,
+        "rating": 8,
         "genre": "Science-fiction / Action / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yikio8CfJxIA7faZxgvB9FGXy6u.jpg",
         "trailer": "https://www.youtube.com/watch?v=P3uI5sLosKU",
@@ -721,10 +709,10 @@
     },
     {
         "title": "I Want Your Sex",
-        "rating": 6.8,
+        "rating": 6.3,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/oeAFYZ56LDqucUkm5bZmBi2qRtl.jpg",
-        "trailer": "https://www.youtube.com/watch?v=kjkTmTmC1iA",
+        "trailer": "https://www.youtube.com/watch?v=q5oWCPS3akw",
         "release_date": "2026-07-29",
         "overview": "Lorsque le jeune et innocent Elliot décroche un emploi de rêve auprès d'Erika Tracy, artiste de renom, icône et provocatrice, ses fantasmes deviennent réalité : Erika fait de lui sa muse. Mais Elliot se retrouve vite dépassé par les événements, entraîné par Erika dans un voyage bien plus profond qu'il n'aurait jamais pu l'imaginer, un monde de sexe, d'obsession, de pouvoir, de trahison et de meurtre.",
         "tagline": "",
@@ -745,7 +733,7 @@
     },
     {
         "title": "Le Triangle d'or",
-        "rating": 6,
+        "rating": 6.75,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/gKuRnWDee2OvvzdQf1kI4vqcnhq.jpg",
         "trailer": null,
@@ -949,7 +937,7 @@
     },
     {
         "title": "Charlie et les Kangourous",
-        "rating": 6.431,
+        "rating": 6.4,
         "genre": "Famille / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/cg7gDoDyxEEaQyo7kZbP7fi0jjp.jpg",
         "trailer": "https://www.youtube.com/watch?v=RvmaXOvLJNc",
@@ -973,7 +961,7 @@
     },
     {
         "title": "De la Comédie-Française",
-        "rating": 6.956,
+        "rating": 7.014,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/3ykToOKrgIlKBOkxpRscXNAkzET.jpg",
         "trailer": "https://www.youtube.com/watch?v=vYSoVcuFxNg",
@@ -1093,7 +1081,7 @@
     },
     {
         "title": "L'Odyssée",
-        "rating": 7.946,
+        "rating": 7.94,
         "genre": "Aventure / Action / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/xJ97RenWOB8DBBwZryjUQTDdH73.jpg",
         "trailer": "https://www.youtube.com/watch?v=AyIZ9tiiN8I",
@@ -1129,7 +1117,7 @@
     },
     {
         "title": "Le Héros de Berlin",
-        "rating": 6.647,
+        "rating": 6.6,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/gmPute26B4JnsQNMZdgyWAfYfYj.jpg",
         "trailer": null,
@@ -1165,7 +1153,7 @@
     },
     {
         "title": "Kill Bill : The Whole Bloody Affair",
-        "rating": 8.109,
+        "rating": 8.1,
         "genre": "Action / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/nSOJfWJCdVFZQwXQA7RXn7FIIiY.jpg",
         "trailer": "https://www.youtube.com/watch?v=qbUz68h9BFo",
@@ -1189,7 +1177,7 @@
     },
     {
         "title": "Vaiana, la légende du bout du monde",
-        "rating": 5.887,
+        "rating": 5.888,
         "genre": "Famille / Fantastique / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
         "trailer": "https://www.youtube.com/watch?v=EEz5xbzYPKI",
@@ -1285,7 +1273,7 @@
     },
     {
         "title": "Le Passage",
-        "rating": 6.672,
+        "rating": 6.773,
         "genre": "Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/wfLLfWPXDi0kw3Iw8zQLCfTOr0r.jpg",
         "trailer": "https://www.youtube.com/watch?v=VvGvWHHjK2o",
@@ -1369,7 +1357,7 @@
     },
     {
         "title": "La Bataille de Gaulle : J’écris ton nom",
-        "rating": 7.796,
+        "rating": 7.813,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/sfnKVuXQq2wHuAlOqs60FrtJmiz.jpg",
         "trailer": "https://www.youtube.com/watch?v=J6MRNchmZkY",
@@ -1381,7 +1369,7 @@
     },
     {
         "title": "On l'appelait Robin des Bois",
-        "rating": 6.646,
+        "rating": 6.6,
         "genre": "Drame / Thriller / Action",
         "poster": "https://image.tmdb.org/t/p/w500/bYaznBVPlQ4C0uTu6wXn68NZFoB.jpg",
         "trailer": "https://www.youtube.com/watch?v=tlSDDuWxO_0",
@@ -1393,7 +1381,7 @@
     },
     {
         "title": "Supergirl",
-        "rating": 6.746,
+        "rating": 6.74,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/ptyTrUvaQYkRTj42t6IMeGc0rZy.jpg",
         "trailer": "https://www.youtube.com/watch?v=tzlY8XD1CGg",
@@ -1465,7 +1453,7 @@
     },
     {
         "title": "Noise",
-        "rating": 6.679,
+        "rating": 6.714,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/R7MVc6TMjInJwkjrgAob7VA2MM.jpg",
         "trailer": "https://www.youtube.com/watch?v=lptFuq1LG7g",
@@ -1477,7 +1465,7 @@
     },
     {
         "title": "Des Minions et des monstres",
-        "rating": 6.445,
+        "rating": 6.447,
         "genre": "Aventure / Animation / Comédie / Famille / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/igD0dUmeaJfWME9j3OoqeN2dHvp.jpg",
         "trailer": "https://www.youtube.com/watch?v=V-O-uBaHk3c",
