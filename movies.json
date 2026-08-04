@@ -1,5 +1,17 @@
 [
     {
+        "title": "La Légende de Baahubali : 2ème Partie",
+        "rating": 7.49,
+        "genre": "Action / Aventure / Fantastique",
+        "poster": "https://image.tmdb.org/t/p/w500/7OGrP2nUK6n55tmtclxb1RHRKQq.jpg",
+        "trailer": "https://www.youtube.com/watch?v=qD-6d8Wo3do",
+        "release_date": "2026-06-27",
+        "overview": "Shivudu, un jeune villageois découvre sa vraie identité, de descendance royale. Il sauvera la Reine Devasena asservie par le terrible Bhalladeva dont le seul et unique objectif est de garder son trône et, de tuer le fils de son ennemi : le Roi BAAHUBALI.",
+        "tagline": "",
+        "runtime": 167,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/whNjsTOUVg2lZLCKgGhnACnmV8E.jpg"
+    },
+    {
         "title": "கட்டா குஸ்தி 2",
         "rating": 2.8,
         "genre": "Comédie / Drame",
@@ -433,7 +445,7 @@
     },
     {
         "title": "L’aventure rêvée",
-        "rating": 5.944,
+        "rating": 5.9,
         "genre": "Drame / Aventure / Thriller / Crime / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/l22BcWjey9c6KVuB3aegtaWl7hR.jpg",
         "trailer": null,
@@ -505,7 +517,7 @@
     },
     {
         "title": "La Pat’ Patrouille : Le film mission Dino",
-        "rating": 7.833,
+        "rating": 7,
         "genre": "Aventure / Animation / Comédie / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg",
         "trailer": "https://www.youtube.com/watch?v=xgI5iYmOf5Q",
@@ -553,7 +565,7 @@
     },
     {
         "title": "Spider-Man : Brand New Day",
-        "rating": 8,
+        "rating": 7.993,
         "genre": "Science-fiction / Action / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yikio8CfJxIA7faZxgvB9FGXy6u.jpg",
         "trailer": "https://www.youtube.com/watch?v=P3uI5sLosKU",
@@ -697,7 +709,7 @@
     },
     {
         "title": "Home stories",
-        "rating": 5.5,
+        "rating": 6.25,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/npnZjwthS290bjcC0SAISNgVpEH.jpg",
         "trailer": null,
@@ -709,7 +721,7 @@
     },
     {
         "title": "The ugly",
-        "rating": 7.141,
+        "rating": 7.106,
         "genre": "Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/hrZxMi0QbXZBXPzQagLuV9szzb.jpg",
         "trailer": "https://www.youtube.com/watch?v=6PQosjn-bnQ",
@@ -721,7 +733,7 @@
     },
     {
         "title": "I Want Your Sex",
-        "rating": 5.6,
+        "rating": 5.8,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/oeAFYZ56LDqucUkm5bZmBi2qRtl.jpg",
         "trailer": "https://www.youtube.com/watch?v=q5oWCPS3akw",
@@ -745,7 +757,7 @@
     },
     {
         "title": "Le Triangle d'or",
-        "rating": 6.6,
+        "rating": 6.9,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/gKuRnWDee2OvvzdQf1kI4vqcnhq.jpg",
         "trailer": null,
@@ -973,7 +985,7 @@
     },
     {
         "title": "De la Comédie-Française",
-        "rating": 6.9,
+        "rating": 6.905,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/3ykToOKrgIlKBOkxpRscXNAkzET.jpg",
         "trailer": "https://www.youtube.com/watch?v=vYSoVcuFxNg",
@@ -997,7 +1009,7 @@
     },
     {
         "title": "Nightborn",
-        "rating": 6.7,
+        "rating": 6.55,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/y0BxJMOZSHiZZlaPyOcQH6cVW4m.jpg",
         "trailer": "https://www.youtube.com/watch?v=dWePsu_Kd9c",
@@ -1081,7 +1093,7 @@
     },
     {
         "title": "The Last Viking",
-        "rating": 7.276,
+        "rating": 7.28,
         "genre": "Comédie / Crime / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/fFSKEBs290DW26mrKckObHwU5Sm.jpg",
         "trailer": "https://www.youtube.com/watch?v=YdFbqryfdxg",
@@ -1093,7 +1105,7 @@
     },
     {
         "title": "L'Odyssée",
-        "rating": 7.947,
+        "rating": 7.951,
         "genre": "Aventure / Action / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/xJ97RenWOB8DBBwZryjUQTDdH73.jpg",
         "trailer": "https://www.youtube.com/watch?v=AyIZ9tiiN8I",
@@ -1177,7 +1189,7 @@
     },
     {
         "title": "Evil Dead Burn",
-        "rating": 6.8,
+        "rating": 6.834,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/ttqtnATOMrhpYQeJM548oviS7m6.jpg",
         "trailer": "https://www.youtube.com/watch?v=RddZObTlmA8",
@@ -1189,7 +1201,7 @@
     },
     {
         "title": "Vaiana, la légende du bout du monde",
-        "rating": 5.8,
+        "rating": 5.83,
         "genre": "Famille / Fantastique / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
         "trailer": "https://www.youtube.com/watch?v=EEz5xbzYPKI",
@@ -1357,7 +1369,7 @@
     },
     {
         "title": "In Waves",
-        "rating": 7.37,
+        "rating": 7.231,
         "genre": "Animation / Romance / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/3Tv7InnAULXTS76B7apoZ5oYJXD.jpg",
         "trailer": null,
@@ -1369,7 +1381,7 @@
     },
     {
         "title": "La Bataille de Gaulle : J’écris ton nom",
-        "rating": 7.832,
+        "rating": 7.8,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/sfnKVuXQq2wHuAlOqs60FrtJmiz.jpg",
         "trailer": "https://www.youtube.com/watch?v=J6MRNchmZkY",
@@ -1381,7 +1393,7 @@
     },
     {
         "title": "On l'appelait Robin des Bois",
-        "rating": 6.5,
+        "rating": 6.513,
         "genre": "Drame / Thriller / Action",
         "poster": "https://image.tmdb.org/t/p/w500/bYaznBVPlQ4C0uTu6wXn68NZFoB.jpg",
         "trailer": "https://www.youtube.com/watch?v=tlSDDuWxO_0",
@@ -1393,7 +1405,7 @@
     },
     {
         "title": "Supergirl",
-        "rating": 6.758,
+        "rating": 6.739,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/ptyTrUvaQYkRTj42t6IMeGc0rZy.jpg",
         "trailer": "https://www.youtube.com/watch?v=tzlY8XD1CGg",
