@@ -1,5 +1,17 @@
 [
     {
+        "title": "Love and the End of Romance in Czechoslovakia",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/zhpUjxwJt0kFecB37DkDbkxQ2g6.jpg",
+        "trailer": null,
+        "release_date": "2026-07-08",
+        "overview": "",
+        "tagline": "",
+        "runtime": 36,
+        "backdrop": null
+    },
+    {
         "title": "The Odyssey of N",
         "rating": 0,
         "genre": "Documentaire",
@@ -337,7 +349,7 @@
     },
     {
         "title": "Toi, Moi et la Toscane",
-        "rating": 7.395,
+        "rating": 7.4,
         "genre": "Romance / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/bhtutm5FfZNB8opuO9ttF7ueekn.jpg",
         "trailer": "https://www.youtube.com/watch?v=uYTMroh8pjI",
@@ -349,7 +361,7 @@
     },
     {
         "title": "DC",
-        "rating": 9,
+        "rating": 8.8,
         "genre": "Romance / Action / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/7IqDtlkUNDnnR3wsXScEGSDV4RM.jpg",
         "trailer": null,
@@ -409,7 +421,7 @@
     },
     {
         "title": "Juste pour une Nuit",
-        "rating": 7.176,
+        "rating": 7.3,
         "genre": "Comédie / Romance / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/ynL7Ng0bLYJ3RZuxAqkE95QBVOL.jpg",
         "trailer": "https://www.youtube.com/watch?v=lDsAVq9lo9g",
@@ -421,7 +433,7 @@
     },
     {
         "title": "undertone",
-        "rating": 6.087,
+        "rating": 6.08,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/yEuZLk7pJF2H17YawE2ILOg9HB3.jpg",
         "trailer": "https://www.youtube.com/watch?v=1fCZhJMkBaY",
@@ -433,7 +445,7 @@
     },
     {
         "title": "La fin d’Oak Street",
-        "rating": 7.6,
+        "rating": 0,
         "genre": "Science-fiction / Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg",
         "trailer": "https://www.youtube.com/watch?v=u4tgctWuHc0",
@@ -601,7 +613,7 @@
     },
     {
         "title": "Kyma, l'onde mystérieuse",
-        "rating": 4,
+        "rating": 5,
         "genre": "Fantastique / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/eobPUpe5Yjn0yA5JhVCzZTR88w1.jpg",
         "trailer": null,
@@ -613,7 +625,7 @@
     },
     {
         "title": "Les Silences de Riyad",
-        "rating": 7.333,
+        "rating": 7.3,
         "genre": "Crime / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/pz5Ma2Xpl58Py202cVgEtyPhizP.jpg",
         "trailer": "https://www.youtube.com/watch?v=53f9ciNWxFA",
@@ -637,7 +649,7 @@
     },
     {
         "title": "La Pat’ Patrouille : Le film mission Dino",
-        "rating": 7.579,
+        "rating": 7.5,
         "genre": "Aventure / Animation / Comédie / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg",
         "trailer": "https://www.youtube.com/watch?v=xgI5iYmOf5Q",
@@ -672,20 +684,8 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/lIq0JaqCyjsl643hoT8yZWSDXJt.jpg"
     },
     {
-        "title": "Bombonera",
-        "rating": 0,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500None",
-        "trailer": null,
-        "release_date": "2026-08-05",
-        "overview": "Enzo, sans domicile, enchaîne les arnaques sur le dos de jeunes prodiges du ballon. Lors de la sélection des joueurs en vue d’un important tournoi de streetfoot dans son stade, il entrevoit un très grand potentiel en la personne de Lisa, 14 ans, jeune fille déterminée à devenir la première femme à jouer parmi des garçons…",
-        "tagline": "",
-        "runtime": 87,
-        "backdrop": null
-    },
-    {
         "title": "Spider-Man : Brand New Day",
-        "rating": 7.9,
+        "rating": 7.878,
         "genre": "Science-fiction / Action / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yikio8CfJxIA7faZxgvB9FGXy6u.jpg",
         "trailer": "https://www.youtube.com/watch?v=P3uI5sLosKU",
@@ -889,7 +889,7 @@
     },
     {
         "title": "Sous le ciel de Kyoto",
-        "rating": 6.227,
+        "rating": 6.458,
         "genre": "Romance / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/ukr6oEsxoFP23lrLyDhyT0CVgIP.jpg",
         "trailer": null,
@@ -961,7 +961,7 @@
     },
     {
         "title": "Charlie et les Kangourous",
-        "rating": 6.4,
+        "rating": 6.371,
         "genre": "Famille / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/cg7gDoDyxEEaQyo7kZbP7fi0jjp.jpg",
         "trailer": "https://www.youtube.com/watch?v=RvmaXOvLJNc",
@@ -985,7 +985,7 @@
     },
     {
         "title": "De la Comédie-Française",
-        "rating": 6.927,
+        "rating": 6.911,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/3ykToOKrgIlKBOkxpRscXNAkzET.jpg",
         "trailer": "https://www.youtube.com/watch?v=vYSoVcuFxNg",
@@ -1009,7 +1009,7 @@
     },
     {
         "title": "Nightborn",
-        "rating": 6.385,
+        "rating": 6.444,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/y0BxJMOZSHiZZlaPyOcQH6cVW4m.jpg",
         "trailer": "https://www.youtube.com/watch?v=dWePsu_Kd9c",
@@ -1081,7 +1081,7 @@
     },
     {
         "title": "The Last Viking",
-        "rating": 7.2,
+        "rating": 7.245,
         "genre": "Comédie / Crime / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/fFSKEBs290DW26mrKckObHwU5Sm.jpg",
         "trailer": "https://www.youtube.com/watch?v=YdFbqryfdxg",
@@ -1093,7 +1093,7 @@
     },
     {
         "title": "L'Odyssée",
-        "rating": 7.975,
+        "rating": 7.981,
         "genre": "Aventure / Action / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/xJ97RenWOB8DBBwZryjUQTDdH73.jpg",
         "trailer": "https://www.youtube.com/watch?v=AyIZ9tiiN8I",
@@ -1153,7 +1153,7 @@
     },
     {
         "title": "Evil Dead Burn",
-        "rating": 7.87,
+        "rating": 7.867,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/ttqtnATOMrhpYQeJM548oviS7m6.jpg",
         "trailer": "https://www.youtube.com/watch?v=RddZObTlmA8",
@@ -1165,7 +1165,7 @@
     },
     {
         "title": "Vaiana, la légende du bout du monde",
-        "rating": 6.035,
+        "rating": 6.029,
         "genre": "Famille / Fantastique / Comédie / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/fN4YJFr6d1Zx2fNBlzGLyShO6sc.jpg",
         "trailer": "https://www.youtube.com/watch?v=EEz5xbzYPKI",
@@ -1249,7 +1249,7 @@
     },
     {
         "title": "Dry Leaf",
-        "rating": 7,
+        "rating": 7.3,
         "genre": "Drame / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/fCbXztJ5vAmVB6gXue2aN1cOLhz.jpg",
         "trailer": "https://www.youtube.com/watch?v=nx1D3hVbMgc",
@@ -1309,7 +1309,7 @@
     },
     {
         "title": "On l'appelait Robin des Bois",
-        "rating": 6.374,
+        "rating": 6.364,
         "genre": "Drame / Thriller / Action",
         "poster": "https://image.tmdb.org/t/p/w500/bYaznBVPlQ4C0uTu6wXn68NZFoB.jpg",
         "trailer": "https://www.youtube.com/watch?v=tlSDDuWxO_0",
@@ -1321,7 +1321,7 @@
     },
     {
         "title": "Supergirl",
-        "rating": 6.745,
+        "rating": 6.741,
         "genre": "Action / Aventure / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/ptyTrUvaQYkRTj42t6IMeGc0rZy.jpg",
         "trailer": "https://www.youtube.com/watch?v=tzlY8XD1CGg",
