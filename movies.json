@@ -1,15 +1,15 @@
 [
     {
-        "title": "Paradise",
-        "rating": 7,
-        "genre": "Drame / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/gK8iL8cYr9wVRvN6l4V7OKio32n.jpg",
+        "title": "Baekdu Daegan : Le cycle du bonheur",
+        "rating": 4,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500/4IW5DViG46ch4DHF71eUSXKc99E.jpg",
         "trailer": null,
-        "release_date": "2026-08-19",
-        "overview": "Au Ghana, Kojo, adolescent marqué par la disparition de son père en mer, se rapproche des gangs de rue sans parvenir à combler le vide qu’il ressent. Pendant ce temps, au Québec, Tony, en quête de repères, s’interroge sur l’homme que fréquente sa mère, et se demande s’il pourrait être le père qu'il n'a jamais connu… Entre la lente déchéance de l'un et la recherche d'identité de l'autre, un lien insoupçonné se tisse, unissant les destins croisés de ces deux jeunes hommes que tout semble séparer.",
-        "tagline": "Une vie peut en changer une autre.",
-        "runtime": 90,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/b8p6WOiGWGIFYhoi7akznASHtfr.jpg"
+        "release_date": "2026-08-22",
+        "overview": "",
+        "tagline": "",
+        "runtime": 93,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/u8kAvTlTVlxTAnr6OsjX1Agt20n.jpg"
     },
     {
         "title": "A Trip Towards the Temenos",
@@ -181,7 +181,7 @@
     },
     {
         "title": "メイン・テーマ",
-        "rating": 6.4,
+        "rating": 6.357,
         "genre": "Comédie / Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/rT8mc772dBm23wYSA8xZ1oQLzPg.jpg",
         "trailer": "https://www.youtube.com/watch?v=-BYpq_fD3Ao",
@@ -241,7 +241,7 @@
     },
     {
         "title": "De la Comédie-Française",
-        "rating": 7.051,
+        "rating": 7.038,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/bfjG4eH78KOnpVNlEH8wneMHXLv.jpg",
         "trailer": "https://www.youtube.com/watch?v=vYSoVcuFxNg",
@@ -265,7 +265,7 @@
     },
     {
         "title": "Fjord",
-        "rating": 7,
+        "rating": 6.727,
         "genre": "Famille / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/3btHoXx6lJtDJEybsCLhkqhNCb9.jpg",
         "trailer": "https://www.youtube.com/watch?v=0gdRZZVoinM",
@@ -301,7 +301,7 @@
     },
     {
         "title": "The Dog Stars",
-        "rating": 6,
+        "rating": 7.3,
         "genre": "Aventure / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/w7c49Qgp3TAUC4hlo0mtgRpLOGG.jpg",
         "trailer": "https://www.youtube.com/watch?v=-xSxaE1ClEE",
@@ -361,7 +361,7 @@
     },
     {
         "title": "ఇరుముడి",
-        "rating": 4,
+        "rating": 3,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/dVFtTKMWW1aq7aWq30wjwOP6W3J.jpg",
         "trailer": null,
@@ -373,7 +373,7 @@
     },
     {
         "title": "Decorado",
-        "rating": 6.667,
+        "rating": 6.6,
         "genre": "Animation / Comédie / Fantastique / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/sovYYZk4mWl5KkapkrozU6l85ze.jpg",
         "trailer": "https://www.youtube.com/watch?v=HYUvmbjRmWk",
@@ -409,7 +409,7 @@
     },
     {
         "title": "La Fin d'Oak Street",
-        "rating": 6.394,
+        "rating": 6.386,
         "genre": "Science-fiction / Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg",
         "trailer": "https://www.youtube.com/watch?v=u4tgctWuHc0",
@@ -469,7 +469,7 @@
     },
     {
         "title": "Oklahoma Honey",
-        "rating": 7.75,
+        "rating": 7.3,
         "genre": "Crime / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/6YCH9yUVO9Fh23WIOORl6JmCpOo.jpg",
         "trailer": "https://www.youtube.com/watch?v=GwSvAyaMGMo",
@@ -493,7 +493,7 @@
     },
     {
         "title": "‎La Bataille d’Oslo",
-        "rating": 6.8,
+        "rating": 6.721,
         "genre": "Guerre / Action / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/wiLkiPbbm66r4CSYSl40ei5Y6Ny.jpg",
         "trailer": null,
@@ -505,7 +505,7 @@
     },
     {
         "title": "Mutiny",
-        "rating": 6.7,
+        "rating": 6.6,
         "genre": "Action / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg",
         "trailer": "https://www.youtube.com/watch?v=2Iqvbe98Gb4",
@@ -517,7 +517,7 @@
     },
     {
         "title": "Insidious : L'Invasion du Lointain",
-        "rating": 6.652,
+        "rating": 6.67,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/bW8uJOLrtdBnQcQbG9BUQjDgUaT.jpg",
         "trailer": "https://www.youtube.com/watch?v=gXjurDkYnEM",
@@ -613,7 +613,7 @@
     },
     {
         "title": "Tombé du ciel",
-        "rating": 6.231,
+        "rating": 6.233,
         "genre": "Comédie / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/gOnDCEcVrLGXZQPmJGZvCPDHPc0.jpg",
         "trailer": null,
@@ -637,7 +637,7 @@
     },
     {
         "title": "Soudain",
-        "rating": 8.417,
+        "rating": 8.289,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/6g9mHfhUm3D47Z5F1qTw1q13H98.jpg",
         "trailer": "https://www.youtube.com/watch?v=qJ2vZOJPf1I",
@@ -733,7 +733,7 @@
     },
     {
         "title": "Juste pour une Nuit",
-        "rating": 6.8,
+        "rating": 6.855,
         "genre": "Comédie / Romance / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/ynL7Ng0bLYJ3RZuxAqkE95QBVOL.jpg",
         "trailer": "https://www.youtube.com/watch?v=lDsAVq9lo9g",
@@ -745,7 +745,7 @@
     },
     {
         "title": "undertone",
-        "rating": 6.049,
+        "rating": 6.042,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/yEuZLk7pJF2H17YawE2ILOg9HB3.jpg",
         "trailer": "https://www.youtube.com/watch?v=1fCZhJMkBaY",
@@ -841,7 +841,7 @@
     },
     {
         "title": "La Pat’ Patrouille : Le film mission Dino",
-        "rating": 7.114,
+        "rating": 7.197,
         "genre": "Aventure / Animation / Comédie / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg",
         "trailer": "https://www.youtube.com/watch?v=xgI5iYmOf5Q",
@@ -877,7 +877,7 @@
     },
     {
         "title": "Spider-Man : Brand New Day",
-        "rating": 7.897,
+        "rating": 7.902,
         "genre": "Science-fiction / Action / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yikio8CfJxIA7faZxgvB9FGXy6u.jpg",
         "trailer": "https://www.youtube.com/watch?v=P3uI5sLosKU",
@@ -1081,7 +1081,7 @@
     },
     {
         "title": "L'Odyssée",
-        "rating": 7.992,
+        "rating": 7.999,
         "genre": "Aventure / Action / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/xJ97RenWOB8DBBwZryjUQTDdH73.jpg",
         "trailer": "https://www.youtube.com/watch?v=AyIZ9tiiN8I",
