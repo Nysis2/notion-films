@@ -1,5 +1,41 @@
 [
     {
+        "title": "Mãos Rapper: A Harmonia Sinalizada do Hip Hop Surdo",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/6PC3keIKYAYhKA6fWJkfnz8KJQE.jpg",
+        "trailer": null,
+        "release_date": "2026-08-15",
+        "overview": "Dans une société où domine les bruits et l'oralité, les gestes des mains constituent une résistance. Diegho Silva, de son nom de scène Didi Boy, est l'un des personnages de cette histoire qui fait intervenir le rap en Libras, la Langue des Signes Brésilienne et la culture du hip hop dans la communauté des sourd·es.",
+        "tagline": "",
+        "runtime": 17,
+        "backdrop": null
+    },
+    {
+        "title": "Comme les autres",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/hy1DH1zistdmMmPbp6pqpictgP2.jpg",
+        "trailer": null,
+        "release_date": "2026-08-15",
+        "overview": "Lucia, entendante de parents sourds, arrive en Corse pour ses études. Elle s'interroge sur la communauté sourde en Corse, très peu représentée. Elle questionne son identité et ses liens familiaux à travers ses rencontres.",
+        "tagline": "",
+        "runtime": 26,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/sQAura94WsOqegADTdG4zLoaInK.jpg"
+    },
+    {
+        "title": "The Way We Move - Chansigne : quand le corps devient musique",
+        "rating": 0,
+        "genre": "Documentaire / Musique",
+        "poster": "https://image.tmdb.org/t/p/w500/oPsUQVjj82M2MypGk9zXpapSeCC.jpg",
+        "trailer": null,
+        "release_date": "2026-08-16",
+        "overview": "Pionnière de l’interprétation musicale en langue des signes, Amber Galloway révèle le lien profond et méconnu entre le monde sourd et la musique. Le film la suit alors qu’elle transmet sa méthode de chansigne à de nouveaux interprètes, jusqu’à un objectif : les conduire, aux côtés de stars internationales, sur les scènes du mythique festival ACL à Austin (Texas, USA).",
+        "tagline": "",
+        "runtime": 95,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ei8lhIyI8WamLDY7YetXRVCERqK.jpg"
+    },
+    {
         "title": "Mone n'djon, une route du grand sud",
         "rating": 0,
         "genre": "Documentaire",
@@ -205,7 +241,7 @@
     },
     {
         "title": "Lettres d’amour de ma grand-mère",
-        "rating": 9.207,
+        "rating": 9.2,
         "genre": "Drame / Famille / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/A1sistnRovhZ4nBiph2X5sr7Y9N.jpg",
         "trailer": "https://www.youtube.com/watch?v=abeSQSbNXSk",
@@ -325,7 +361,7 @@
     },
     {
         "title": "Toxic",
-        "rating": 2.7,
+        "rating": 6,
         "genre": "Action / Crime / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/bhpSB2g6yCKyxRgvgZ27KUgBHg6.jpg",
         "trailer": "https://www.youtube.com/watch?v=EfluEyQ5QIA",
@@ -577,10 +613,10 @@
     },
     {
         "title": "Fjord",
-        "rating": 6.935,
+        "rating": 7,
         "genre": "Famille / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/3btHoXx6lJtDJEybsCLhkqhNCb9.jpg",
-        "trailer": "https://www.youtube.com/watch?v=0gdRZZVoinM",
+        "trailer": "https://www.youtube.com/watch?v=frg59VOungA",
         "release_date": "2026-08-19",
         "overview": "Les Gheorghiu, un couple roumano-norvégien très pieux, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins, les Halberg. Les enfants des deux familles deviennent très proches, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia, l’aînée des enfants Gheorghiu, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.",
         "tagline": "",
@@ -601,7 +637,7 @@
     },
     {
         "title": "The Dog Stars",
-        "rating": 7.519,
+        "rating": 7.24,
         "genre": "Aventure / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/w7c49Qgp3TAUC4hlo0mtgRpLOGG.jpg",
         "trailer": "https://www.youtube.com/watch?v=-xSxaE1ClEE",
@@ -637,7 +673,7 @@
     },
     {
         "title": "L’inconnue",
-        "rating": 8,
+        "rating": 7,
         "genre": "Fantastique / Drame / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/qgdjIXMerOn9pQHqBTVucobj2Zu.jpg",
         "trailer": "https://www.youtube.com/watch?v=mU0T6uD3yC8",
@@ -661,7 +697,7 @@
     },
     {
         "title": "ఇరుముడి",
-        "rating": 6.125,
+        "rating": 6.556,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/dVFtTKMWW1aq7aWq30wjwOP6W3J.jpg",
         "trailer": null,
@@ -685,7 +721,7 @@
     },
     {
         "title": "La Fin d'Oak Street",
-        "rating": 6.4,
+        "rating": 6.356,
         "genre": "Science-fiction / Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg",
         "trailer": "https://www.youtube.com/watch?v=u4tgctWuHc0",
@@ -721,7 +757,7 @@
     },
     {
         "title": "Oklahoma Honey",
-        "rating": 7.217,
+        "rating": 7,
         "genre": "Crime / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/6YCH9yUVO9Fh23WIOORl6JmCpOo.jpg",
         "trailer": "https://www.youtube.com/watch?v=GwSvAyaMGMo",
@@ -745,7 +781,7 @@
     },
     {
         "title": "Mutiny",
-        "rating": 6.537,
+        "rating": 6.453,
         "genre": "Action / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg",
         "trailer": "https://www.youtube.com/watch?v=2Iqvbe98Gb4",
@@ -757,7 +793,7 @@
     },
     {
         "title": "Insidious : L'Invasion du Lointain",
-        "rating": 6.6,
+        "rating": 6.538,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/bW8uJOLrtdBnQcQbG9BUQjDgUaT.jpg",
         "trailer": "https://www.youtube.com/watch?v=gXjurDkYnEM",
@@ -817,7 +853,7 @@
     },
     {
         "title": "Tombé du ciel",
-        "rating": 6.344,
+        "rating": 6.324,
         "genre": "Comédie / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/gOnDCEcVrLGXZQPmJGZvCPDHPc0.jpg",
         "trailer": null,
@@ -841,7 +877,7 @@
     },
     {
         "title": "Soudain",
-        "rating": 8.271,
+        "rating": 8.3,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/6g9mHfhUm3D47Z5F1qTw1q13H98.jpg",
         "trailer": "https://www.youtube.com/watch?v=qJ2vZOJPf1I",
@@ -853,7 +889,7 @@
     },
     {
         "title": "Chicas tristes",
-        "rating": 6.8,
+        "rating": 7.25,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/tBmuURPrzxck9wAe6sRbuGe7kPn.jpg",
         "trailer": null,
@@ -937,7 +973,7 @@
     },
     {
         "title": "Juste pour une Nuit",
-        "rating": 6.845,
+        "rating": 6.8,
         "genre": "Comédie / Romance / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/ynL7Ng0bLYJ3RZuxAqkE95QBVOL.jpg",
         "trailer": "https://www.youtube.com/watch?v=lDsAVq9lo9g",
@@ -949,7 +985,7 @@
     },
     {
         "title": "undertone",
-        "rating": 6.042,
+        "rating": 6.04,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/yEuZLk7pJF2H17YawE2ILOg9HB3.jpg",
         "trailer": "https://www.youtube.com/watch?v=1fCZhJMkBaY",
@@ -997,7 +1033,7 @@
     },
     {
         "title": "La Pat’ Patrouille : Le film mission Dino",
-        "rating": 7.1,
+        "rating": 7.061,
         "genre": "Aventure / Animation / Comédie / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg",
         "trailer": "https://www.youtube.com/watch?v=xgI5iYmOf5Q",
@@ -1033,7 +1069,7 @@
     },
     {
         "title": "Spider-Man : Brand New Day",
-        "rating": 7.893,
+        "rating": 7.886,
         "genre": "Science-fiction / Action / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/yikio8CfJxIA7faZxgvB9FGXy6u.jpg",
         "trailer": "https://www.youtube.com/watch?v=P3uI5sLosKU",
@@ -1081,7 +1117,7 @@
     },
     {
         "title": "I Want Your Sex",
-        "rating": 5.842,
+        "rating": 5.8,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/oeAFYZ56LDqucUkm5bZmBi2qRtl.jpg",
         "trailer": "https://www.youtube.com/watch?v=q5oWCPS3akw",
@@ -1093,7 +1129,7 @@
     },
     {
         "title": "Jana Nayagan",
-        "rating": 5.563,
+        "rating": 5.353,
         "genre": "Action / Drame / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/psrVewrAPgwYpBQGQvK07AliUjY.jpg",
         "trailer": null,
@@ -1153,7 +1189,7 @@
     },
     {
         "title": "失楽園",
-        "rating": 6.019,
+        "rating": 6.018,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/qo3DZlPYqBxAZf5SemgvxmtbZ5J.jpg",
         "trailer": null,
@@ -1165,7 +1201,7 @@
     },
     {
         "title": "Nightborn",
-        "rating": 6.368,
+        "rating": 6.125,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/y0BxJMOZSHiZZlaPyOcQH6cVW4m.jpg",
         "trailer": "https://www.youtube.com/watch?v=dWePsu_Kd9c",
