@@ -1,15 +1,27 @@
 [
     {
-        "title": "Prison On Fire",
-        "rating": 7,
-        "genre": "Crime / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/ywFyD2t6QylShE8ARjVuftS9iD4.jpg",
-        "trailer": "https://www.youtube.com/watch?v=ITHfxjHb8rQ",
-        "release_date": "2026-09-01",
-        "overview": "Deux amis enfermés en prison vont devenir des frères ennemis, et se lancer dans un combat sans limites...",
+        "title": "Accueil du grand âge, la méthode Montessori",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": null,
+        "release_date": "2026-09-14",
+        "overview": "A l’heure où la population occidentale vieillit, où les troubles cognitifs comme Alzheimer augmentent, comment repenser l’accueil du grand âge ? Plus généralement, comment appréhender notre rapport à la vieillesse ? La méthode Montessori, initialement reconnue pour favoriser l’épanouissement des enfants à l’école, se révèle particulièrement adaptée aux personnes âgées. Plus qu’un simple outil, c’est un véritable changement de perspective sur le vieillissement provoquant aussi une révolution des pratiques de soin.",
         "tagline": "",
-        "runtime": 101,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/znCviSD3g65irVaIQjxmavpiiZE.jpg"
+        "runtime": 52,
+        "backdrop": null
+    },
+    {
+        "title": "Prison on Fire II",
+        "rating": 6.8,
+        "genre": "Crime / Drame / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/ybMjmFC1oY51i2MZ3XD3o9HaOfg.jpg",
+        "trailer": "https://www.youtube.com/watch?v=8KpdS8O-a4s",
+        "release_date": "2026-09-02",
+        "overview": "En Chine, Ching, un prisonnier s'échappe pour voir son jeune fils, abandonné dans un orphelinat. Mais le chef de la prison est au courant : il s'arrange pour que ching devienne à son insu un agent infiltré dans un terrible clan, dirigé par le noble Dragon...",
+        "tagline": "",
+        "runtime": 113,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/fUm9IwC7aBOEiAqbOYZZipBH5kO.jpg"
     },
     {
         "title": "فوق التل",
@@ -169,7 +181,7 @@
     },
     {
         "title": "Fjord",
-        "rating": 7.1,
+        "rating": 7.111,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/3btHoXx6lJtDJEybsCLhkqhNCb9.jpg",
         "trailer": "https://www.youtube.com/watch?v=frg59VOungA",
@@ -193,7 +205,7 @@
     },
     {
         "title": "L'Invitation",
-        "rating": 7.274,
+        "rating": 7.266,
         "genre": "Comédie / Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/vpMsWT25ITYeYLiUb2HFU9rfzy4.jpg",
         "trailer": "https://www.youtube.com/watch?v=nelkiuezJxg",
@@ -349,7 +361,7 @@
     },
     {
         "title": "Undertone",
-        "rating": 6.024,
+        "rating": 6.033,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/yEuZLk7pJF2H17YawE2ILOg9HB3.jpg",
         "trailer": "https://www.youtube.com/watch?v=1fCZhJMkBaY",
@@ -361,7 +373,7 @@
     },
     {
         "title": "DC",
-        "rating": 7.778,
+        "rating": 7.8,
         "genre": "Romance / Action / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/cm1uBPBUDfSIZXhWxsp1zzlKnf.jpg",
         "trailer": "https://www.youtube.com/watch?v=4WuvS-w3J10",
@@ -397,7 +409,7 @@
     },
     {
         "title": "Billie Melody",
-        "rating": 0,
+        "rating": 6,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/d5wzSNuXcYqmnukQrIFpl77ayN6.jpg",
         "trailer": null,
@@ -409,7 +421,7 @@
     },
     {
         "title": "Adieu Monde Cruel",
-        "rating": 6.5,
+        "rating": 6.333,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/xH1qX01mmzkuS3kkRrV7zRHanbU.jpg",
         "trailer": "https://www.youtube.com/watch?v=EDARroiX1Us",
@@ -433,7 +445,7 @@
     },
     {
         "title": "הים البحر",
-        "rating": 8.3,
+        "rating": 8.25,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/yuTnJPKjJ65LGQHsKEmOvTM5BZz.jpg",
         "trailer": null,
@@ -469,7 +481,7 @@
     },
     {
         "title": "Les Héros du Louvre",
-        "rating": 6.25,
+        "rating": 5.8,
         "genre": "Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/lGi41Nho5Gz7dVo3jIEODGqdnZG.jpg",
         "trailer": null,
@@ -589,7 +601,7 @@
     },
     {
         "title": "Oasis: Don't Look Back in Anger",
-        "rating": 7.25,
+        "rating": 7.077,
         "genre": "Documentaire / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
         "trailer": "https://www.youtube.com/watch?v=X9sIYLtgc_s",
@@ -613,7 +625,7 @@
     },
     {
         "title": "Pressure",
-        "rating": 7.7,
+        "rating": 7.711,
         "genre": "Thriller / Histoire / Guerre",
         "poster": "https://image.tmdb.org/t/p/w500/3Dp1V6QHzrlSYlTlGZwHx7uPrR7.jpg",
         "trailer": "https://www.youtube.com/watch?v=jjdOSchcobk",
@@ -625,7 +637,7 @@
     },
     {
         "title": "Buddy",
-        "rating": 8.12,
+        "rating": 8.098,
         "genre": "Horreur / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg",
         "trailer": "https://www.youtube.com/watch?v=O1fNEHX9tSM",
@@ -901,7 +913,7 @@
     },
     {
         "title": "La Dernière Patiente",
-        "rating": 6.556,
+        "rating": 6.5,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/qnupAunP3yOuhLN6qPJ6uh5K3Zi.jpg",
         "trailer": "https://www.youtube.com/watch?v=kOR-L4GCIHA",
@@ -1057,7 +1069,7 @@
     },
     {
         "title": "The Dog Stars",
-        "rating": 6.624,
+        "rating": 6.614,
         "genre": "Aventure / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/w7c49Qgp3TAUC4hlo0mtgRpLOGG.jpg",
         "trailer": "https://www.youtube.com/watch?v=-xSxaE1ClEE",
@@ -1141,7 +1153,7 @@
     },
     {
         "title": "La Fin d'Oak Street",
-        "rating": 6.3,
+        "rating": 6.345,
         "genre": "Science-fiction / Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg",
         "trailer": "https://www.youtube.com/watch?v=u4tgctWuHc0",
@@ -1189,7 +1201,7 @@
     },
     {
         "title": "Mutiny",
-        "rating": 6.436,
+        "rating": 6.426,
         "genre": "Action / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg",
         "trailer": "https://www.youtube.com/watch?v=2Iqvbe98Gb4",
@@ -1201,7 +1213,7 @@
     },
     {
         "title": "Insidious : L'Invasion du Lointain",
-        "rating": 6.5,
+        "rating": 6.448,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/bW8uJOLrtdBnQcQbG9BUQjDgUaT.jpg",
         "trailer": "https://www.youtube.com/watch?v=gXjurDkYnEM",
@@ -1237,7 +1249,7 @@
     },
     {
         "title": "Tombé du ciel",
-        "rating": 6.212,
+        "rating": 6.241,
         "genre": "Comédie / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/gOnDCEcVrLGXZQPmJGZvCPDHPc0.jpg",
         "trailer": null,
@@ -1273,7 +1285,7 @@
     },
     {
         "title": "Toi, Moi et la Toscane",
-        "rating": 7.4,
+        "rating": 7.375,
         "genre": "Romance / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/bhtutm5FfZNB8opuO9ttF7ueekn.jpg",
         "trailer": "https://www.youtube.com/watch?v=uYTMroh8pjI",
@@ -1309,7 +1321,7 @@
     },
     {
         "title": "Une aube nouvelle",
-        "rating": 7.05,
+        "rating": 7,
         "genre": "Animation / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/37ZnI0Yj52PYwtjDkKbeFJxlT1D.jpg",
         "trailer": "https://www.youtube.com/watch?v=MD-yGCPsTpc",
@@ -1321,7 +1333,7 @@
     },
     {
         "title": "Juste pour une Nuit",
-        "rating": 6.706,
+        "rating": 6.694,
         "genre": "Comédie / Romance / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/ynL7Ng0bLYJ3RZuxAqkE95QBVOL.jpg",
         "trailer": "https://www.youtube.com/watch?v=lDsAVq9lo9g",
@@ -1357,7 +1369,7 @@
     },
     {
         "title": "La Pat’ Patrouille : Le film mission Dino",
-        "rating": 7,
+        "rating": 7.008,
         "genre": "Aventure / Animation / Comédie / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg",
         "trailer": "https://www.youtube.com/watch?v=xgI5iYmOf5Q",
