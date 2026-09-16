@@ -1,5 +1,65 @@
 [
     {
+        "title": "Little House",
+        "rating": 0,
+        "genre": "Mystère / Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/u200RA8gx9inAkUoWOxheKkF40p.jpg",
+        "trailer": null,
+        "release_date": "2026-09-15",
+        "overview": "",
+        "tagline": "",
+        "runtime": 15,
+        "backdrop": null
+    },
+    {
+        "title": "Justin le Juste",
+        "rating": 0,
+        "genre": "Comédie / Histoire / Guerre",
+        "poster": "https://image.tmdb.org/t/p/w500/anpBUboYU7ENnWjpDEoDl6Y0Swm.jpg",
+        "trailer": "https://www.youtube.com/watch?v=oWiOGl4wkJE",
+        "release_date": "2026-09-23",
+        "overview": "Pendant la Première Guerre mondiale, l’histoire d’un paysan naïf enrôlé de force dans l’armée française.",
+        "tagline": "Inspiré de Justin-le-Juste ou La charrette de Jean Pompougnac.",
+        "runtime": 0,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/oqC4PRYBqnxNrF1pGZpnN0XOp84.jpg"
+    },
+    {
+        "title": "Où vont les âmes?",
+        "rating": 4.5,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/h3W7XAPzoaqtR6Ei6tRljkKp8lm.jpg",
+        "trailer": "https://www.youtube.com/watch?v=BRu2i8dPuHw",
+        "release_date": "2026-09-23",
+        "overview": "Anna, 18 ans, demande l’aide médicale à mourir. Elle décide de se laisser quinze jours pour accomplir son souhait de revoir ses demi-sœurs avant de s’éteindre. Séparées par le procès de leur père quatre ans auparavant, les trois sœurs révèlent leurs forces individuelles et collectives à travers ces ultimes moments de sororité où leurs vies s'entremêlent.",
+        "tagline": "",
+        "runtime": 121,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/kFHrIVKVhIp0xPlpnkCiPRxonRh.jpg"
+    },
+    {
+        "title": "FINI DE RIRE ! L'humour politique au garde-à-vous ?",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/6olUdG4swS1DhXlRQDETIeIaImT.jpg",
+        "trailer": null,
+        "release_date": "2026-09-23",
+        "overview": "En France, rire des puissants est devenu un sport à risque. En trente ans, les humoristes les plus libres de la télévision et de la radio ont été méthodiquement neutralisés, marginalisés, censurés, voire virés. Dans l'audiovisuel public comme dans les médias privés, le même mécanisme se répète : on tolère la satire tant qu'elle ne mord pas. Dès qu'elle touche au pouvoir, on coupe le micro. Des plateaux de Canal+ aux studios de France Inter en passant par les couloirs de France Télévisions, du règne de Nicolas Sarkozy à celui d'Emmanuel Macron, ce documentaire retrace la mécanique d'une mise au silence qui en dit long sur l'état réel de la liberté d'expression dans l'audiovisuel français.",
+        "tagline": "FINI DE RIRE ►https://finiderire.fr",
+        "runtime": 97,
+        "backdrop": null
+    },
+    {
+        "title": "Prison On Fire",
+        "rating": 7,
+        "genre": "Crime / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/ywFyD2t6QylShE8ARjVuftS9iD4.jpg",
+        "trailer": "https://www.youtube.com/watch?v=ITHfxjHb8rQ",
+        "release_date": "2026-09-01",
+        "overview": "Deux amis enfermés en prison vont devenir des frères ennemis, et se lancer dans un combat sans limites...",
+        "tagline": "",
+        "runtime": 101,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/znCviSD3g65irVaIQjxmavpiiZE.jpg"
+    },
+    {
         "title": "Amour(s)",
         "rating": 0,
         "genre": "Drame",
@@ -10,18 +70,6 @@
         "tagline": "",
         "runtime": 99,
         "backdrop": null
-    },
-    {
-        "title": "Prison on Fire II",
-        "rating": 6.8,
-        "genre": "Crime / Drame / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/ybMjmFC1oY51i2MZ3XD3o9HaOfg.jpg",
-        "trailer": "https://www.youtube.com/watch?v=8KpdS8O-a4s",
-        "release_date": "2026-09-02",
-        "overview": "En Chine, Ching, un prisonnier s'échappe pour voir son jeune fils, abandonné dans un orphelinat. Mais le chef de la prison est au courant : il s'arrange pour que ching devienne à son insu un agent infiltré dans un terrible clan, dirigé par le noble Dragon...",
-        "tagline": "",
-        "runtime": 113,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/fUm9IwC7aBOEiAqbOYZZipBH5kO.jpg"
     },
     {
         "title": "Déluge mineur",
@@ -84,18 +132,6 @@
         "backdrop": null
     },
     {
-        "title": "Des feux extrêmes en France : sommes-nous prêts ?",
-        "rating": 0,
-        "genre": "Documentaire / Famille",
-        "poster": "https://image.tmdb.org/t/p/w500/k3A5nLLYqumfmT8lAlk7MkCe3R6.jpg",
-        "trailer": null,
-        "release_date": "2026-09-15",
-        "overview": "Un an après, retour sur l'incendie géant qui a ravagé le département de l'Aude en août 2025. Surnommé \"l'ogre des Corbières\", il a atteint une puissance et une vitesse jamais vues en France. Comment ce feu a-t-il pu détruire l'équivalent de la surface de Paris en huit jours ? Des incendies extrêmes comme celui-ci risquent-ils se multiplier avec le réchauffement climatique ? Sommes-nous bien armés pour faire face à cette nouvelle menace ? Jamy Gourmaud rencontre des pompiers et des pilotes qui ont combattu ce brasier hors-norme et des scientifiques qui tentent de mieux anticiper le comportement du feu. Des habitants de l'Aude sinistrés racontent également ces journées noires.",
-        "tagline": "",
-        "runtime": 52,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/sZpP2OKwvOLSjG1OO2YFAPeXtqJ.jpg"
-    },
-    {
         "title": "A Grey Day in June",
         "rating": 0,
         "genre": "Animation / Drame",
@@ -132,42 +168,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/fyU4pbaUYYrynnPo3vfDC06K6VU.jpg"
     },
     {
-        "title": "Le Cygne et l'enfant",
-        "rating": 0,
-        "genre": "Animation",
-        "poster": "https://image.tmdb.org/t/p/w500/tuemhKAm7ssRaSe1hVz6KXyNPfi.jpg",
-        "trailer": null,
-        "release_date": "2026-09-16",
-        "overview": "Ce programme de trois courts métrages de la réalisatrice sud-coréenne Miyoung Baek nous invite à plonger dans son univers poétique et onirique. Les objets du quotidien emportent-ils une part de nous-mêmes ? Peut-on remonter le temps pour écrire une autre histoire ? Et où peut bien se cacher la Lune perdue ? Tels sont les enjeux de ces films qui nous enveloppent dans la douceur et la sensibilité d'un merveilleux voyage imaginaire.",
-        "tagline": "",
-        "runtime": 39,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/w0i2MkQ4NxXC146mTPVOFJaWxFG.jpg"
-    },
-    {
-        "title": "La Ligne bleue",
-        "rating": 0,
-        "genre": "Documentaire",
-        "poster": "https://image.tmdb.org/t/p/w500/z3yZKwgtYVwz7kz6vaX3gpckGAs.jpg",
-        "trailer": null,
-        "release_date": "2026-09-16",
-        "overview": "Là-haut, à huit-cents mètres d’altitude, dans la vallée de la Bruche, à Natzwiller, des hommes et des femmes vivaient du tissage, de la culture de l’orge et du seigle, jusqu’à ce que les nazis viennent y construire le camp de concentration du Struthof. Aujourd’hui encore, les hommes et la montagne portent les traces de ces blessures, les strates de cette mémoire meurtrie. Dans chaque maison, dort une histoire. Là-haut, à travers les fenêtres des derniers témoins, le film explore une topographie des lieux, une cartographie des mémoires, autant qu’il raconte une humanité.",
-        "tagline": "",
-        "runtime": 124,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/534sht2xwskoOgnMfIi7ESDTfWm.jpg"
-    },
-    {
-        "title": "Jacques Henri Lartigue – La vie en relief",
-        "rating": 0,
-        "genre": "Documentaire",
-        "poster": "https://image.tmdb.org/t/p/w500/mP2p8fSKZwlDOK2mzRDYAyuXngM.jpg",
-        "trailer": null,
-        "release_date": "2026-09-16",
-        "overview": "Paris, 1903. A l’âge de 9 ans, Jacques commence à emprunter l’appareil photo stéréoscopique de son père, qui photographie le relief. Dès lors et pendant 25 ans, il capture tout ce qu’il aime, en trois dimensions et en amateur, uniquement pour son plaisir et celui de ses proches. Une plongée inédite en 3D relief dans la jeunesse du photographe Jacques Henri Lartigue, témoin de la Belle Époque, la Première guerre mondiale, les Années folles, l’invention de l’aviation et de l’automobile.",
-        "tagline": "",
-        "runtime": 81,
-        "backdrop": null
-    },
-    {
         "title": "Schwesterherz",
         "rating": 6.25,
         "genre": "Drame",
@@ -193,7 +193,7 @@
     },
     {
         "title": "Ma famille de samouraïs",
-        "rating": 8.3,
+        "rating": 7.625,
         "genre": "Animation / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/7cq5qFzHHcHqXtefK7oQf6sxpTG.jpg",
         "trailer": "https://www.youtube.com/watch?v=OH-C1hMnGlA",
@@ -217,7 +217,7 @@
     },
     {
         "title": "Fjord",
-        "rating": 7.209,
+        "rating": 7.2,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/3btHoXx6lJtDJEybsCLhkqhNCb9.jpg",
         "trailer": "https://www.youtube.com/watch?v=frg59VOungA",
@@ -241,7 +241,7 @@
     },
     {
         "title": "L'Invitation",
-        "rating": 7.254,
+        "rating": 7.273,
         "genre": "Comédie / Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/vpMsWT25ITYeYLiUb2HFU9rfzy4.jpg",
         "trailer": "https://www.youtube.com/watch?v=nelkiuezJxg",
@@ -253,7 +253,7 @@
     },
     {
         "title": "Resident Evil",
-        "rating": 9.2,
+        "rating": 8.4,
         "genre": "Horreur / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
         "trailer": "https://www.youtube.com/watch?v=mNd1gb19A-c",
@@ -397,7 +397,7 @@
     },
     {
         "title": "Undertone",
-        "rating": 6.022,
+        "rating": 6.021,
         "genre": "Horreur / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/yEuZLk7pJF2H17YawE2ILOg9HB3.jpg",
         "trailer": "https://www.youtube.com/watch?v=1fCZhJMkBaY",
@@ -418,18 +418,6 @@
         "tagline": "",
         "runtime": 143,
         "backdrop": "https://image.tmdb.org/t/p/w1280/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg"
-    },
-    {
-        "title": "For Those Who Love, Leave, and Love Again",
-        "rating": 0,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/qw81UwSaPJtbHHC0PxiP0cDeczh.jpg",
-        "trailer": null,
-        "release_date": "2026-08-30",
-        "overview": "",
-        "tagline": "",
-        "runtime": 18,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/aqo8tNePaYaZpVXNgwj6PzOH3No.jpg"
     },
     {
         "title": "Une musique à vivre",
@@ -468,18 +456,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/l43i6Exp5wa6OvrN4IgPWkZuBSx.jpg"
     },
     {
-        "title": "Dans les cordes",
-        "rating": 0,
-        "genre": "",
-        "poster": "https://image.tmdb.org/t/p/w500None",
-        "trailer": null,
-        "release_date": "2026-09-05",
-        "overview": "Amine, un adolescent solitaire, fréquente à contrecœur la salle de boxe du coin. Pour échapper à ces heures pénibles, il se fixe sur Rayan, un jeune boxeur qui éveille en lui des désirs inconnus. Le soir, après l’école, Amine utilise des photos de sa cousine Sihem pour devenir « Amina » et discuter en secret avec Rayan sur les réseaux sociaux.",
-        "tagline": "",
-        "runtime": 19,
-        "backdrop": null
-    },
-    {
         "title": "הים البحر",
         "rating": 8.25,
         "genre": "Drame",
@@ -492,20 +468,8 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/gELNpht3Xdo6oKM5lsV1INvvupt.jpg"
     },
     {
-        "title": "On s'était promis",
-        "rating": 0,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/80HMGgqAUzN8N1yNWp3wzyLygPX.jpg",
-        "trailer": null,
-        "release_date": "2026-09-06",
-        "overview": "À la veille d'un nouveau départ, un jeune homme retrouve dans un parc un étrange inconnu qui semble le connaître mieux que personne. Au fil de leur conversation, des souvenirs enfouis, des rêves oubliés et des promesses d'enfance ressurgissent.",
-        "tagline": "",
-        "runtime": 8,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/jyzGTR1KRGcLozVBO15pF01aGoW.jpg"
-    },
-    {
         "title": "La vie d'une femme",
-        "rating": 5.824,
+        "rating": 6.056,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/hakvR1eAbMI4xGFfElR6LZQyq8P.jpg",
         "trailer": null,
@@ -517,7 +481,7 @@
     },
     {
         "title": "Les Héros du Louvre",
-        "rating": 6.167,
+        "rating": 6.071,
         "genre": "Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/lGi41Nho5Gz7dVo3jIEODGqdnZG.jpg",
         "trailer": null,
@@ -613,7 +577,7 @@
     },
     {
         "title": "Rose",
-        "rating": 7.7,
+        "rating": 7.8,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/tMf5ZBUibksefIjoPmxvHliBgYI.jpg",
         "trailer": "https://www.youtube.com/watch?v=80xR3G5eowo",
@@ -649,7 +613,7 @@
     },
     {
         "title": "Les Ensorceleuses 2",
-        "rating": 6.1,
+        "rating": 6.073,
         "genre": "Romance / Fantastique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/1fnNv1AOzbUG4gvL4AbenUfIlJp.jpg",
         "trailer": "https://www.youtube.com/watch?v=Ho10_4IX1jE",
@@ -661,7 +625,7 @@
     },
     {
         "title": "Pressure",
-        "rating": 7.708,
+        "rating": 7.719,
         "genre": "Thriller / Histoire / Guerre",
         "poster": "https://image.tmdb.org/t/p/w500/3Dp1V6QHzrlSYlTlGZwHx7uPrR7.jpg",
         "trailer": "https://www.youtube.com/watch?v=jjdOSchcobk",
@@ -673,7 +637,7 @@
     },
     {
         "title": "Buddy",
-        "rating": 8,
+        "rating": 7.947,
         "genre": "Horreur / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/6Lh4ZlsAISFQFVfLZ90sE9ycVnN.jpg",
         "trailer": "https://www.youtube.com/watch?v=O1fNEHX9tSM",
@@ -756,18 +720,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/oYt5yh672jmnynpMxgpLxwoQXfD.jpg"
     },
     {
-        "title": "Kyma, l'onde mystérieuse",
-        "rating": 5,
-        "genre": "Fantastique / Aventure",
-        "poster": "https://image.tmdb.org/t/p/w500/zivl8VZfE8rNthfAsrrc03pspkb.jpg",
-        "trailer": null,
-        "release_date": "2026-08-05",
-        "overview": "Tony, adolescent solitaire passionné par les animaux, voit son existence bouleversée lorsqu’il rencontre dans son petit village une créature mystérieuse : la Kyma, onde sonore vivante capable de briser la matière. Tony l’apprivoise, sans réaliser le danger qu’elle représente.",
-        "tagline": "",
-        "runtime": 89,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/A029t0epfDDxSX6Tmls7Svn2Z4V.jpg"
-    },
-    {
         "title": "Katy Perry : The Lifetimes Tour",
         "rating": 0,
         "genre": "Documentaire / Musique",
@@ -778,18 +730,6 @@
         "tagline": "",
         "runtime": 119,
         "backdrop": "https://image.tmdb.org/t/p/w1280/1BfOqbDhvtmAv7SwyobM5eTjQMm.jpg"
-    },
-    {
-        "title": "Les Silences de Riyad",
-        "rating": 7.6,
-        "genre": "Crime / Mystère",
-        "poster": "https://image.tmdb.org/t/p/w500/i3PjFqaU0s2dwOeVioGiyxqAb7V.jpg",
-        "trailer": "https://www.youtube.com/watch?v=53f9ciNWxFA",
-        "release_date": "2026-08-05",
-        "overview": "Une adolescente est retrouvée morte dans le désert. Sa mère Noelle Al Saffan cherche des réponses car l'enquête piétine.",
-        "tagline": "",
-        "runtime": 99,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/aj86ACcXFsx6cMvxNruNJzi2j3U.jpg"
     },
     {
         "title": "Paradise",
@@ -814,18 +754,6 @@
         "tagline": "",
         "runtime": 120,
         "backdrop": "https://image.tmdb.org/t/p/w1280/AjnySWm7IlujGTwnjfOa9vwuki3.jpg"
-    },
-    {
-        "title": "ErrBSOD",
-        "rating": 0,
-        "genre": "Action / Horreur",
-        "poster": "https://image.tmdb.org/t/p/w500/6hRrA5zBBj3AKw3nR76XAgJXeV4.jpg",
-        "trailer": null,
-        "release_date": "2026-08-05",
-        "overview": "Le passé et le présent d’un homme (¿ seul ¿) se mélangent.",
-        "tagline": "",
-        "runtime": 10,
-        "backdrop": null
     },
     {
         "title": "Sovereign",
@@ -856,7 +784,7 @@
         "rating": 7.5,
         "genre": "Action / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/kaMEYF6bMuOO3z504EIm7P1zprT.jpg",
-        "trailer": "https://www.youtube.com/watch?v=TJ5bCaaGIx4",
+        "trailer": "https://www.youtube.com/watch?v=eqcTr34Y1Zw",
         "release_date": "2026-08-28",
         "overview": "Dans un futur apocalyptique, une ville a été décimée. Des grandes batailles ont été menées et des héros ont été blâmés, dépouillés de leurs titres et chassés.",
         "tagline": "",
@@ -877,7 +805,7 @@
     },
     {
         "title": "Lettres d’amour de ma grand-mère",
-        "rating": 8.865,
+        "rating": 8.854,
         "genre": "Drame / Famille / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/A1sistnRovhZ4nBiph2X5sr7Y9N.jpg",
         "trailer": "https://www.youtube.com/watch?v=abeSQSbNXSk",
@@ -1032,18 +960,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/knhbKdKeJcDH6SegNC57si0UuGk.jpg"
     },
     {
-        "title": "The Unelected Statesman",
-        "rating": 0,
-        "genre": "Documentaire / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/fYwF7caBVxNZHX97EgrEV1alA1U.jpg",
-        "trailer": null,
-        "release_date": "2026-08-07",
-        "overview": "",
-        "tagline": "",
-        "runtime": 157,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/wTiZjTJX4Lt6u4kZLbQ1PJ0G32s.jpg"
-    },
-    {
         "title": "Bombonera",
         "rating": 7.5,
         "genre": "Drame",
@@ -1081,7 +997,7 @@
     },
     {
         "title": "Face à la mer",
-        "rating": 7.1,
+        "rating": 7.182,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/ereGHWuFWiQgT6TLLntdVOGuHtn.jpg",
         "trailer": "https://www.youtube.com/watch?v=od_S8t86F0M",
@@ -1093,7 +1009,7 @@
     },
     {
         "title": "The Dog Stars",
-        "rating": 6.613,
+        "rating": 6.644,
         "genre": "Aventure / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/w7c49Qgp3TAUC4hlo0mtgRpLOGG.jpg",
         "trailer": "https://www.youtube.com/watch?v=-xSxaE1ClEE",
@@ -1177,7 +1093,7 @@
     },
     {
         "title": "La Fin d'Oak Street",
-        "rating": 6.335,
+        "rating": 6.6,
         "genre": "Science-fiction / Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/1flRy4qysdwjhlqw2BZ1Wm1zcpM.jpg",
         "trailer": "https://www.youtube.com/watch?v=u4tgctWuHc0",
@@ -1201,7 +1117,7 @@
     },
     {
         "title": "Oklahoma Honey",
-        "rating": 6.595,
+        "rating": 6.744,
         "genre": "Crime / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/6YCH9yUVO9Fh23WIOORl6JmCpOo.jpg",
         "trailer": "https://www.youtube.com/watch?v=GwSvAyaMGMo",
@@ -1225,7 +1141,7 @@
     },
     {
         "title": "Mutiny",
-        "rating": 6.438,
+        "rating": 6.447,
         "genre": "Action / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg",
         "trailer": "https://www.youtube.com/watch?v=2Iqvbe98Gb4",
@@ -1237,7 +1153,7 @@
     },
     {
         "title": "Insidious : L'Invasion du Lointain",
-        "rating": 6.48,
+        "rating": 6.5,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/bW8uJOLrtdBnQcQbG9BUQjDgUaT.jpg",
         "trailer": "https://www.youtube.com/watch?v=gXjurDkYnEM",
@@ -1246,18 +1162,6 @@
         "tagline": "Le mal s'est échappé.",
         "runtime": 106,
         "backdrop": "https://image.tmdb.org/t/p/w1280/hD8y787ciNWQ2bn396YrSsOIzdN.jpg"
-    },
-    {
-        "title": "The Odyssey of N",
-        "rating": 0,
-        "genre": "Documentaire",
-        "poster": "https://image.tmdb.org/t/p/w500/sDnyCvbJsfeXb7ye0FB10613P5b.jpg",
-        "trailer": null,
-        "release_date": "2026-08-05",
-        "overview": "",
-        "tagline": "",
-        "runtime": 17,
-        "backdrop": null
     },
     {
         "title": "Lydia et le vaisseau des tempêtes",
@@ -1273,7 +1177,7 @@
     },
     {
         "title": "Tombé du ciel",
-        "rating": 6.304,
+        "rating": 6.3,
         "genre": "Comédie / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/gOnDCEcVrLGXZQPmJGZvCPDHPc0.jpg",
         "trailer": null,
@@ -1285,7 +1189,7 @@
     },
     {
         "title": "Soudain",
-        "rating": 7.94,
+        "rating": 7.9,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/6g9mHfhUm3D47Z5F1qTw1q13H98.jpg",
         "trailer": "https://www.youtube.com/watch?v=2AxtdPvDojA",
@@ -1320,18 +1224,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/2TWIlmhE06ghspeQLEX1VmnEBiE.jpg"
     },
     {
-        "title": "Such a Wonderful Life (long version)",
-        "rating": 0,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/wAa6gGNPBPthURLcyNGwddAawdd.jpg",
-        "trailer": null,
-        "release_date": "2026-08-05",
-        "overview": "Un patient d'asile psychiatrique embellit la réalité et son interprétation du monde réel, jusqu'à ce que cela devienne dangereux pour lui et son entourage.",
-        "tagline": "",
-        "runtime": 7,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/viCGKHHJL4VBcvakh6iGxqv4aCQ.jpg"
-    },
-    {
         "title": "Un grand raccourci",
         "rating": 6.818,
         "genre": "Comédie / Drame",
@@ -1357,7 +1249,7 @@
     },
     {
         "title": "Juste pour une Nuit",
-        "rating": 6.613,
+        "rating": 6.6,
         "genre": "Comédie / Romance / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/ynL7Ng0bLYJ3RZuxAqkE95QBVOL.jpg",
         "trailer": "https://www.youtube.com/watch?v=lDsAVq9lo9g",
@@ -1366,65 +1258,5 @@
         "tagline": "12 heures peuvent tout changer.",
         "runtime": 102,
         "backdrop": "https://image.tmdb.org/t/p/w1280/ccoEJ4Rxk9rb5cIrrkpPQDn39MP.jpg"
-    },
-    {
-        "title": "Les Gendarmes",
-        "rating": 5.333,
-        "genre": "Comédie",
-        "poster": "https://image.tmdb.org/t/p/w500/gBGCIaAwTdHUsTN3MkkwBiv9I5t.jpg",
-        "trailer": null,
-        "release_date": "2026-08-05",
-        "overview": "Toute la brigade de gendarmerie de Charnay-Lès-Mâcon (71) se prépare à l’annuelle Grande Fête des Jardins.  Mais l’arrivée d’un jeune stagiaire désinvolte débarqué tout droit de la capitale et de deux voleurs de nains de jardin va venir bouleverser leur organisation bien huilée…",
-        "tagline": "",
-        "runtime": 86,
-        "backdrop": null
-    },
-    {
-        "title": "Girl",
-        "rating": 7.1,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/aCWrAItRlUxvwNfaELkrhG9LHZ9.jpg",
-        "trailer": "https://www.youtube.com/watch?v=FpgbgEK_62U",
-        "release_date": "2026-08-05",
-        "overview": "Taïwan, 1988. Hsiao-lee, une jeune adolescente timide, peine à trouver sa place au sein de sa famille dysfonctionnelle. Elle voit sa vie bouleversée par sa rencontre avec Li-li, une jeune fille vive et insouciante qui lui permet de s’évader de son quotidien. Mais lorsque le passé douloureux de sa mère ressurgit, d’anciennes blessures refont surface. Partagée entre un lourd héritage familial et son ardent désir de liberté, Hsiao-lee doit trouver sa propre voie.",
-        "tagline": "",
-        "runtime": 124,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/3r2CNASRlOvK2QqqpqVUsixN4aq.jpg"
-    },
-    {
-        "title": "La Pat’ Patrouille : Le film mission Dino",
-        "rating": 7.474,
-        "genre": "Aventure / Animation / Comédie / Famille",
-        "poster": "https://image.tmdb.org/t/p/w500/iprKhXVhUuGo3LbPurtB7Zcq6ph.jpg",
-        "trailer": "https://www.youtube.com/watch?v=xgI5iYmOf5Q",
-        "release_date": "2026-08-05",
-        "overview": "Lorsqu’une mystérieuse tempête surprend leur navire, la Pat’ Patrouille s’échoue sur une île tropicale encore inexplorée… et peuplée de dinosaures ! Ils y rencontrent Rex, un chiot courageux installé sur l’île depuis des années et devenu un véritable expert des dinosaures. Mais leur ennemi de toujours, M. Hellinger, arrive lui aussi sur l’île avec un projet dangereux : exploiter ses richesses naturelles en creusant des mines. Ses actions imprudentes déclenchent bientôt l’éruption d’un gigantesque volcan endormi. La Pat’ Patrouille se retrouve alors entraînée dans une série de missions de sauvetage spectaculaires, plus impressionnantes que tout ce qu’elle a connu jusqu’ici. Elle devra arrêter M. Hellinger et sauver l’île avant qu’il ne soit trop tard.",
-        "tagline": "L'aventure atteint de nouveaux sommets.",
-        "runtime": 88,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/rlREba6gEHwcIyxvZLrUebJjxsI.jpg"
-    },
-    {
-        "title": "Jour de chasse",
-        "rating": 5.4,
-        "genre": "Mystère / Thriller / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/onLqMOSzyfwoTfPTqpg8tfsafBZ.jpg",
-        "trailer": "https://www.youtube.com/watch?v=st0HQoy9t2s",
-        "release_date": "2026-08-05",
-        "overview": "Nina, une jeune femme au caractère imprévisible, est recueillie par une bande de chasseurs dans un chalet éloigné. Au sein de cette microsociété masculine cinglante et attachante, elle sent qu’elle fait enfin partie d’une meute. Cet équilibre fragile est bousculé lorsqu’un mystérieux étranger se joint à son tour au groupe. À la fois cru et onirique, Jour de chasse propose un univers singulier qui entremêle mystère, tension, humour noir et une touche d’horreur.",
-        "tagline": "",
-        "runtime": 79,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/we9yP1Nm7c8CGf8oyhdrRy9Feu4.jpg"
-    },
-    {
-        "title": "Des Fleurs pour Tokyo",
-        "rating": 4.4,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/AmoabFFNXcQmlKIN83Y9Z4byowQ.jpg",
-        "trailer": null,
-        "release_date": "2026-08-05",
-        "overview": "Dans le paysage en perpétuelle transformation de Shibuya, à Tokyo, Ren travaille comme livreur d’orchidées papillon. Hanté par la disparition lorsqu’il était enfant de sa mère, Yumiko, il est depuis longtemps en froid avec son père, Hajime, un architecte-paysagiste. Jusqu’au jour où, lors d’une livraison ordinaire, père et fils se retrouvent face à face…",
-        "tagline": "",
-        "runtime": 115,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/lIq0JaqCyjsl643hoT8yZWSDXJt.jpg"
     }
 ]
