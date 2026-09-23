@@ -1,27 +1,135 @@
 [
     {
-        "title": "Prison On Fire",
-        "rating": 7,
-        "genre": "Crime / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/ywFyD2t6QylShE8ARjVuftS9iD4.jpg",
-        "trailer": "https://www.youtube.com/watch?v=ITHfxjHb8rQ",
-        "release_date": "2026-09-01",
-        "overview": "Deux amis enfermés en prison vont devenir des frères ennemis, et se lancer dans un combat sans limites...",
+        "title": "Vestiaire Garçons",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/9iIf68TL8tyhpupytKVH7GMcmJ7.jpg",
+        "trailer": null,
+        "release_date": "2026-09-25",
+        "overview": "",
         "tagline": "",
-        "runtime": 98,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/znCviSD3g65irVaIQjxmavpiiZE.jpg"
+        "runtime": 15,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/4CfrlWZHqgSFf8nARCHn2MdatUE.jpg"
     },
     {
-        "title": "La Fin d'Oak Street",
-        "rating": 7.014,
-        "genre": "Science-fiction / Mystère / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/yZINaQysj32K2DS2EW4Iy1bK4Bm.jpg",
-        "trailer": "https://www.youtube.com/watch?v=u4tgctWuHc0",
-        "release_date": "2026-08-12",
-        "overview": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra rester unis pour survivre.",
+        "title": "Délivre-Nous du Mal",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/9EeiLJoP00zXT0ztU6K2Z0vZSrr.jpg",
+        "trailer": null,
+        "release_date": "2026-09-30",
+        "overview": "Un documentaire captivant qui explore les racines du mal, les mécanismes de la possession et la réalité des exorcismes. À travers des cas concrets et le témoignage de grands exorcistes modernes, Délivre-nous du Mal lève le voile sur un rite méconnu. Seule œuvre cinématographique officiellement approuvée par l'Association internationale des exorcistes, ce film s’affranchit du sensationnalisme pour offrir une approche lumineuse et incarnée.",
+        "tagline": "Le combat des exorcistes.",
+        "runtime": 105,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/37kM6PZ1PMMg6xQvtbExgkK3HtZ.jpg"
+    },
+    {
+        "title": "Le Monde à l'endroit",
+        "rating": 0,
+        "genre": "Documentaire / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/bse4J5F4wMOUuawSS85RbWvaUhs.jpg",
+        "trailer": null,
+        "release_date": "2026-09-30",
+        "overview": "Les blessures de l’enfance ne s’effacent pas, elles se réparent. Muriel Salmona, psychiatre de renom et spécialiste des violences sexuelles, consacre sa vie à soigner celles et ceux que l’enfance a brisés. Incarnée à l’écran par Sandrine Bonnaire, Marianne Denicourt et Isild Le Besco, elle accompagne des patients qui affrontent leur passé et ouvrent, pas à pas, le chemin de la réparation.",
         "tagline": "",
-        "runtime": 100,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg"
+        "runtime": 88,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zLRci1gyeYDo2xwxHsJnuqMxkFw.jpg"
+    },
+    {
+        "title": "Mémoire de fille",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/vmSnGjmeu5Ql42ZRo1RYU2HbB3C.jpg",
+        "trailer": null,
+        "release_date": "2026-09-30",
+        "overview": "Annie Ernaux est sollicitée pour une signature de son dernier ouvrage dans la ville de son enfance, Rouen. Alors qu'elle s'y rend, elle est prise d'un vertige et replonge dans le souvenir de l'été 1958, celui de sa première nuit avec un homme. Nuit dont l'onde de choc s'est propagée violemment dans son corps et sur le reste de son existence.",
+        "tagline": "",
+        "runtime": 117,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/50w3VUxBQge2pUp8COyuGqg6Gqc.jpg"
+    },
+    {
+        "title": "L'idée Qu'on S'en Faisait",
+        "rating": 0,
+        "genre": "Comédie / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/aNKv0uHSLY7l94vBRZIHDIu8crl.jpg",
+        "trailer": null,
+        "release_date": "2026-09-30",
+        "overview": "Ambre, Lilou, Magali et Laure, amies depuis l'adolescence se réunissent à l’initiative d'Ambre dans une villa provençale pour quelques jours. Chacune confronte ses faiblesses, regrets, échecs, et réfléchit sur sa vie deux décennies plus tard, tout en ignorant réellement la raison cette invitation.",
+        "tagline": "",
+        "runtime": 105,
+        "backdrop": null
+    },
+    {
+        "title": "Notre salut",
+        "rating": 0,
+        "genre": "Histoire / Comédie / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/tFzSSetNzvdaxms6RLfr2pyu9sM.jpg",
+        "trailer": null,
+        "release_date": "2026-09-30",
+        "overview": "Septembre 1940, le régime de Pétain se met en place. Henri Marre, 49 ans, débarque à Vichy sans le sou, sans contact, loin de sa femme et ses enfants. Il voit dans la nouvelle administration l’opportunité de trouver enfin la place qu’il mérite. Dans sa valise, son traité politique édité à compte d’auteur, Notre Salut, où il défend ses convictions patriotiques et ses méthodes d'ingénieur. Son credo: « gagner en efficacité » pour relever la France de la débâcle. Mais peut-être qu’Henri cherche avant tout à fuir sa propre débâcle…",
+        "tagline": "",
+        "runtime": 153,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/iQMFLm9Te2IuJTr08RdBLKTGw8n.jpg"
+    },
+    {
+        "title": "Melpomène",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/sVBqWULBJhIlM0eKwFfOwLQSHdZ.jpg",
+        "trailer": null,
+        "release_date": "2026-09-30",
+        "overview": "Trente ans après la mort mystérieuse de sa mère, Marthe revient dans le sud de la France pour faire éclater la vérité. Mais plus elle s’approche de son passé, plus le réel semble lui échapper.",
+        "tagline": "",
+        "runtime": 96,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/1AU08FsqEYMTtOvgPZWOTwrkUED.jpg"
+    },
+    {
+        "title": "Un hiver russe",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/6ABcfAIkwMTdi4NLnDaFPID3Olq.jpg",
+        "trailer": null,
+        "release_date": "2026-09-30",
+        "overview": "Entre Paris et Istanbul, Margarita, Yuri et leurs amis, un groupe de jeunes exilés russes, cherchent leur place dans un monde qui ne semble plus être le leur.",
+        "tagline": "",
+        "runtime": 86,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/pfoqzyrGgVSOyvQ3mprKXv7HWic.jpg"
+    },
+    {
+        "title": "Kraken",
+        "rating": 0,
+        "genre": "Horreur",
+        "poster": "https://image.tmdb.org/t/p/w500/hlNRCWGoFFvmRZERUgNUbntO5EU.jpg",
+        "trailer": null,
+        "release_date": "2026-09-25",
+        "overview": "Dans une cité, une tour abandonnée alimente les rumeurs. Alors que des disparitions étranges s'enchaînent, 5 jeunes n’ont plus le choix : y entrer à nouveau. Pris dans un piège mortel, ils vont bientôt comprendre que s'échapper leur sera impossible…",
+        "tagline": "",
+        "runtime": 95,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/jKlt1kxBAbCpPv8qOBXOdE1UAPy.jpg"
+    },
+    {
+        "title": "Le Chant des Oliviers",
+        "rating": 10,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/msP2KaJIJTCnotlo4pf0WewXWE3.jpg",
+        "trailer": "https://www.youtube.com/watch?v=kecI0mbi_cw",
+        "release_date": "2026-09-30",
+        "overview": "Sur le point de quitter Malte, Mar hérite de terrains après la mort de sa mère. En parcourant l’île pour récupérer ses terres, elle rencontre Nenu, gardien d’un chant ancestral qui l’entraîne dans des duels musicaux improvisés et met à l’épreuve son désir de fuir. Peu à peu, la jeune femme se réconcilie avec le pays auquel elle voulait tourner le dos.",
+        "tagline": "",
+        "runtime": 108,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/rA1r1uxD6bTtd7IbvBe5DoOvM2g.jpg"
+    },
+    {
+        "title": "Prison on Fire II",
+        "rating": 6.8,
+        "genre": "Crime / Drame / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/ybMjmFC1oY51i2MZ3XD3o9HaOfg.jpg",
+        "trailer": "https://www.youtube.com/watch?v=8KpdS8O-a4s",
+        "release_date": "2026-09-02",
+        "overview": "En Chine, Ching, un prisonnier s'échappe pour voir son jeune fils, abandonné dans un orphelinat. Mais le chef de la prison est au courant : il s'arrange pour que ching devienne à son insu un agent infiltré dans un terrible clan, dirigé par le noble Dragon...",
+        "tagline": "",
+        "runtime": 113,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/fUm9IwC7aBOEiAqbOYZZipBH5kO.jpg"
     },
     {
         "title": "Dreamland",
@@ -289,7 +397,7 @@
     },
     {
         "title": "Teenage Sex and Death at Camp Miasma",
-        "rating": 6.448,
+        "rating": 6.456,
         "genre": "Comédie / Horreur / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/a5JvHUONtF8RyLL6M5nTlqqMJVE.jpg",
         "trailer": "https://www.youtube.com/watch?v=j9TsiTgYZGw",
@@ -337,7 +445,7 @@
     },
     {
         "title": "Heart of the Beast",
-        "rating": 7.9,
+        "rating": 7.8,
         "genre": "Aventure / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg",
         "trailer": "https://www.youtube.com/watch?v=UkMuGKqAux4",
@@ -349,7 +457,7 @@
     },
     {
         "title": "Leviticus",
-        "rating": 6.764,
+        "rating": 6.77,
         "genre": "Horreur / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/l4wKajF6yWUcCiZaZ7qzMPlBmU2.jpg",
         "trailer": "https://www.youtube.com/watch?v=WXuK0vlFxII",
@@ -429,18 +537,6 @@
         "overview": "",
         "tagline": "",
         "runtime": 17,
-        "backdrop": null
-    },
-    {
-        "title": "Heritage",
-        "rating": 0,
-        "genre": "Horreur",
-        "poster": "https://image.tmdb.org/t/p/w500/lQffWdvzRNoQjhD7WcoBukuFmG1.jpg",
-        "trailer": "https://www.youtube.com/watch?v=0Ij2AmK6UXs",
-        "release_date": "2026-08-20",
-        "overview": "Quinze ans après leur départ, Marie et Daniel reviennent en Corse voir leur grand-père. Ce qui s’annonçait comme des vacances ennuyeuses filmées avec le camescope familial vire rapidement au cauchemar.",
-        "tagline": "THEY ARE STILL HERE",
-        "runtime": 70,
         "backdrop": null
     },
     {
@@ -577,7 +673,7 @@
     },
     {
         "title": "Les Contrebandiers",
-        "rating": 6.6,
+        "rating": 6.594,
         "genre": "Drame / Thriller / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/hjM3hITDk5XvWu4cMn7dj7IpwY8.jpg",
         "trailer": "https://www.youtube.com/watch?v=7YpuMymmiJ8",
@@ -589,7 +685,7 @@
     },
     {
         "title": "L'Invitation",
-        "rating": 7.267,
+        "rating": 7.254,
         "genre": "Comédie / Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/vpMsWT25ITYeYLiUb2HFU9rfzy4.jpg",
         "trailer": "https://www.youtube.com/watch?v=nelkiuezJxg",
@@ -601,7 +697,7 @@
     },
     {
         "title": "Resident Evil",
-        "rating": 7.34,
+        "rating": 7.341,
         "genre": "Horreur / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
         "trailer": "https://www.youtube.com/watch?v=mNd1gb19A-c",
@@ -625,7 +721,7 @@
     },
     {
         "title": "Si tu penses bien",
-        "rating": 7.2,
+        "rating": 7.25,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/5ta2QFexeUsZ9AncKkgiWwpJDq.jpg",
         "trailer": null,
@@ -637,7 +733,7 @@
     },
     {
         "title": "Histoires de la nuit",
-        "rating": 5.929,
+        "rating": 6.45,
         "genre": "Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/7prAuNDsQPUlHKyXiYNkuofyi0G.jpg",
         "trailer": null,
@@ -720,18 +816,6 @@
         "backdrop": null
     },
     {
-        "title": "Katseye: Wild Hearts",
-        "rating": 1,
-        "genre": "Documentaire / Musique",
-        "poster": "https://image.tmdb.org/t/p/w500/2iMiErHxi3prW3J2ZjFiChfhptt.jpg",
-        "trailer": "https://www.youtube.com/watch?v=md5rZb2nEaM",
-        "release_date": "2026-08-12",
-        "overview": "",
-        "tagline": "",
-        "runtime": 85,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/q6Iq6wutoM7AqekJ831ycBOqCxp.jpg"
-    },
-    {
         "title": "School on Fire",
         "rating": 7.3,
         "genre": "Drame / Crime / Thriller",
@@ -742,18 +826,6 @@
         "tagline": "",
         "runtime": 110,
         "backdrop": "https://image.tmdb.org/t/p/w1280/hhFz6ESazmE1viBqObcVAFYRWe6.jpg"
-    },
-    {
-        "title": "Undertone",
-        "rating": 6,
-        "genre": "Horreur / Mystère",
-        "poster": "https://image.tmdb.org/t/p/w500/yEuZLk7pJF2H17YawE2ILOg9HB3.jpg",
-        "trailer": "https://www.youtube.com/watch?v=1fCZhJMkBaY",
-        "release_date": "2026-08-12",
-        "overview": "Animatrice d’un podcast consacré aux phénomènes paranormaux, Evy retourne dans la maison de son enfance pour veiller sa mère mourante. Un jour, elle reçoit d’étranges enregistrements. En les diffusant dans son émission, Evy réalise que les événements décrits semblent déteindre sur la réalité. Les sons deviennent de plus en plus troublants, comme si quelque chose cherchait à lui parler. Et plus elle écoute, plus la menace se rapproche.",
-        "tagline": "Vous regretterez de l'avoir entendu",
-        "runtime": 93,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/4BSJVRQ3EsHMIVZSiKz1l58jDhg.jpg"
     },
     {
         "title": "Une musique à vivre",
@@ -793,7 +865,7 @@
     },
     {
         "title": "La vie d'une femme",
-        "rating": 6.46,
+        "rating": 6.5,
         "genre": "Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/hakvR1eAbMI4xGFfElR6LZQyq8P.jpg",
         "trailer": null,
@@ -913,7 +985,7 @@
     },
     {
         "title": "Nimrods : A Green Day Comedy",
-        "rating": 6.923,
+        "rating": 6.9,
         "genre": "Comédie / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/aebmSpFu1lUV78PtOpqMUn4d82B.jpg",
         "trailer": "https://www.youtube.com/watch?v=5mtbOhpqroo",
@@ -937,7 +1009,7 @@
     },
     {
         "title": "Les Ensorceleuses 2",
-        "rating": 6.2,
+        "rating": 6.158,
         "genre": "Romance / Fantastique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/1fnNv1AOzbUG4gvL4AbenUfIlJp.jpg",
         "trailer": "https://www.youtube.com/watch?v=Ho10_4IX1jE",
@@ -949,7 +1021,7 @@
     },
     {
         "title": "Pressure",
-        "rating": 7.691,
+        "rating": 7.7,
         "genre": "Thriller / Histoire / Guerre",
         "poster": "https://image.tmdb.org/t/p/w500/3Dp1V6QHzrlSYlTlGZwHx7uPrR7.jpg",
         "trailer": "https://www.youtube.com/watch?v=jjdOSchcobk",
@@ -994,18 +1066,6 @@
         "tagline": "",
         "runtime": 26,
         "backdrop": "https://image.tmdb.org/t/p/w1280/sQAura94WsOqegADTdG4zLoaInK.jpg"
-    },
-    {
-        "title": "The Way We Move - Chansigne : quand le corps devient musique",
-        "rating": 0,
-        "genre": "Documentaire / Musique",
-        "poster": "https://image.tmdb.org/t/p/w500/oPsUQVjj82M2MypGk9zXpapSeCC.jpg",
-        "trailer": null,
-        "release_date": "2026-08-16",
-        "overview": "Pionnière de l’interprétation musicale en langue des signes, Amber Galloway révèle le lien profond et méconnu entre le monde sourd et la musique. Le film la suit alors qu’elle transmet sa méthode de chansigne à de nouveaux interprètes, jusqu’à un objectif : les conduire, aux côtés de stars internationales, sur les scènes du mythique festival ACL à Austin (Texas, USA).",
-        "tagline": "",
-        "runtime": 95,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/ei8lhIyI8WamLDY7YetXRVCERqK.jpg"
     },
     {
         "title": "Mone n'djon, une route du grand sud",
@@ -1056,20 +1116,8 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/b8p6WOiGWGIFYhoi7akznASHtfr.jpg"
     },
     {
-        "title": "Trois Adieux",
-        "rating": 7.069,
-        "genre": "Drame / Romance",
-        "poster": "https://image.tmdb.org/t/p/w500/cmzdSk5oOPU4ORoOTQ7cr3P7Oqi.jpg",
-        "trailer": "https://www.youtube.com/watch?v=u_dMDb43-Ts",
-        "release_date": "2026-09-02",
-        "overview": "Après une dispute sans importance, Marta et Antonio se séparent.  Lui, chef en pleine ascension, se réfugie derrière ses fourneaux.  Elle, dans son silence, commence à ressentir quelque chose de plus que de la tristesse : elle a perdu l’appétit.  Quand elle découvre ce que son corps lui dit vraiment, tout prend un tour inattendu : la nourriture a meilleur goût, la musique la touche comme jamais, et le désir réveille en elle l’envie de vivre sans peur.",
-        "tagline": "",
-        "runtime": 120,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/AjnySWm7IlujGTwnjfOa9vwuki3.jpg"
-    },
-    {
         "title": "Sovereign",
-        "rating": 6.626,
+        "rating": 6.628,
         "genre": "Crime / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/cWXUMfnMj4ioReprwsDZgt8sghK.jpg",
         "trailer": "https://www.youtube.com/watch?v=7Zqxvn4a0v0",
@@ -1080,20 +1128,8 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/ml9WFOTF3liDw3gfbCJ9c1c4DW9.jpg"
     },
     {
-        "title": "Decorado",
-        "rating": 6.6,
-        "genre": "Animation / Comédie / Fantastique / Horreur",
-        "poster": "https://image.tmdb.org/t/p/w500/sovYYZk4mWl5KkapkrozU6l85ze.jpg",
-        "trailer": "https://www.youtube.com/watch?v=HYUvmbjRmWk",
-        "release_date": "2026-08-26",
-        "overview": "Arnold, une souris de la classe moyenne au chômage, traverse une crise existentielle profonde. Il vit dans une ville ou l'entreprise ultralibérale A.L.M.A. dirige tout ; abrutissant la population pour mieux imposer sa loi. Contrairement à sa femme María, Arnold a depuis longtemps l'impression que ce monde est irréel et faux. Décidant de se rebeller contre la société, quitte à devoir affronter ses soi-disant amis, ses voisins, ses médecins, Arnold élabore un plan astucieux pour s'échapper de la ville afin de commencer une nouvelle vie.",
-        "tagline": "Vous êtes-vous déjà senti observé ?",
-        "runtime": 95,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/zycRusha7tRe4s3N9ZTAr53Tfn2.jpg"
-    },
-    {
         "title": "Legend of the White Dragon",
-        "rating": 8.333,
+        "rating": 7.25,
         "genre": "Action / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/kaMEYF6bMuOO3z504EIm7P1zprT.jpg",
         "trailer": "https://www.youtube.com/watch?v=eqcTr34Y1Zw",
@@ -1213,7 +1249,7 @@
     },
     {
         "title": "Toxic",
-        "rating": 8.027,
+        "rating": 8,
         "genre": "Action / Crime / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/bhpSB2g6yCKyxRgvgZ27KUgBHg6.jpg",
         "trailer": "https://www.youtube.com/watch?v=EfluEyQ5QIA",
@@ -1245,18 +1281,6 @@
         "overview": "",
         "tagline": "",
         "runtime": 62,
-        "backdrop": null
-    },
-    {
-        "title": "Arcobaleno",
-        "rating": 6,
-        "genre": "Documentaire",
-        "poster": "https://image.tmdb.org/t/p/w500None",
-        "trailer": null,
-        "release_date": "2026-08-12",
-        "overview": "Depuis 50 ans, Iolanda est la reine de l’Arcobaleno, un dancing mythique au sud de Rome que tous les jours ses deux fils maintiennent tant bien que mal en vie. Face à un avenir fragile, Elisa, la petite-fille rêve d'une deuxième vie pour l'Arcobaleno, mais convaincre le reste de la famille s'avère plus compliqué qu'il n'y paraît.",
-        "tagline": "",
-        "runtime": 81,
         "backdrop": null
     },
     {
@@ -1309,7 +1333,7 @@
     },
     {
         "title": "The Dog Stars",
-        "rating": 6.603,
+        "rating": 6.592,
         "genre": "Aventure / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/w7c49Qgp3TAUC4hlo0mtgRpLOGG.jpg",
         "trailer": "https://www.youtube.com/watch?v=-xSxaE1ClEE",
@@ -1405,7 +1429,7 @@
     },
     {
         "title": "Oklahoma Honey",
-        "rating": 6.801,
+        "rating": 6.784,
         "genre": "Crime / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/6YCH9yUVO9Fh23WIOORl6JmCpOo.jpg",
         "trailer": "https://www.youtube.com/watch?v=GwSvAyaMGMo",
@@ -1429,7 +1453,7 @@
     },
     {
         "title": "Mutiny",
-        "rating": 6.4,
+        "rating": 6.427,
         "genre": "Action / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg",
         "trailer": "https://www.youtube.com/watch?v=2Iqvbe98Gb4",
@@ -1450,101 +1474,5 @@
         "tagline": "Le mal s'est échappé.",
         "runtime": 106,
         "backdrop": "https://image.tmdb.org/t/p/w1280/hD8y787ciNWQ2bn396YrSsOIzdN.jpg"
-    },
-    {
-        "title": "Lydia et le vaisseau des tempêtes",
-        "rating": 4.75,
-        "genre": "Animation / Famille",
-        "poster": "https://image.tmdb.org/t/p/w500/ksPA0a3IhJDWKoErCXQPbgF114o.jpg",
-        "trailer": "https://www.youtube.com/watch?v=htWSJHym6q8",
-        "release_date": "2026-08-12",
-        "overview": "Lorsque son frère aîné Thaddeus est mystérieusement enlevé par l’Envoûteur, Lydia, 11 ans, part à sa recherche dans la Mer de Brume. Recueillie par l’équipage du Dauphin, un navire volant, elle devient l’apprentie de l’astromagicienne Ambrosia. Celle-ci cherche d’autres enfants disparus, dont son propre fils. Bien décidée à résoudre ce mystère, Lydia devra apprendre l’astromagie et ainsi affronter l’Envoûteur.",
-        "tagline": "",
-        "runtime": 85,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/9UJDSMHKN1ENK9sOYf1iDghCgxo.jpg"
-    },
-    {
-        "title": "Tombé du ciel",
-        "rating": 6.3,
-        "genre": "Comédie / Famille",
-        "poster": "https://image.tmdb.org/t/p/w500/gOnDCEcVrLGXZQPmJGZvCPDHPc0.jpg",
-        "trailer": null,
-        "release_date": "2026-08-12",
-        "overview": "Ilyès mène une vie joyeuse dans la banlieue de Roubaix. Seul problème : le bac. Après avoir échoué deux fois, c’est sa dernière chance de l’avoir et de rendre enfin fier ses parents. Mais un incendie survient pendant le bac blanc, et on l’accuse d’en être à l’origine… Exclu de son lycée, il doit quitter son quartier et aller dans le seul établissement qui l’accepte : le pensionnat catholique de Saint-Albert-le-Grand, en Bourgogne. Entre choc des cultures et quête de rédemption, Ilyès va devoir surmonter ses préjugés… Et ceux des autres.",
-        "tagline": "",
-        "runtime": 0,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/41i8pni06WdVZrnTeSRBixpNSfS.jpg"
-    },
-    {
-        "title": "Soudain",
-        "rating": 8,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/6g9mHfhUm3D47Z5F1qTw1q13H98.jpg",
-        "trailer": "https://www.youtube.com/watch?v=2AxtdPvDojA",
-        "release_date": "2026-08-12",
-        "overview": "Directrice d'un établissement pour personnes âgées, Marie-Lou tente d'y instaurer une philosophie de soins innovante basée sur l'écoute et la dignité des résidents, malgré la réticence d’une partie de ses équipes. Sa rencontre avec Mari, une metteuse en scène japonaise qui se bat contre un cancer, va bouleverser sa trajectoire. En nouant une amitié profonde, les deux femmes engagent ensemble un combat pour “rendre possible l’impossible”.",
-        "tagline": "",
-        "runtime": 196,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/o4O8Izy2fkJdVKPW3yPe81yTeAh.jpg"
-    },
-    {
-        "title": "Chicas tristes",
-        "rating": 7.4,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/tBmuURPrzxck9wAe6sRbuGe7kPn.jpg",
-        "trailer": "https://www.youtube.com/watch?v=zg4wQcC6nU0",
-        "release_date": "2026-08-12",
-        "overview": "La Maestra et Paula, deux amies inséparables, sont les meilleures nageuses de leur équipe. Jusqu’à ce qu’un évènement traumatique, survenu au cours d’une soirée, les oblige à choisir entre garder le silence et prendre la parole, quitte à mettre leur amitié à rude épreuve…",
-        "tagline": "",
-        "runtime": 90,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/57cJShfnln2CkL4tBNpYGtxFDn4.jpg"
-    },
-    {
-        "title": "Toi, Moi et la Toscane",
-        "rating": 7.3,
-        "genre": "Romance / Comédie",
-        "poster": "https://image.tmdb.org/t/p/w500/bhtutm5FfZNB8opuO9ttF7ueekn.jpg",
-        "trailer": "https://www.youtube.com/watch?v=uYTMroh8pjI",
-        "release_date": "2026-08-12",
-        "overview": "L'histoire se déroule en Italie et raconte l'aventure d'une jeune cuisinière qui se retrouve prise dans une histoire enflammée après avoir décidé sur un coup de tête de dormir dans la villa toscane d'un homme qu'elle vient de rencontrer pour une nuit.",
-        "tagline": "",
-        "runtime": 105,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/2TWIlmhE06ghspeQLEX1VmnEBiE.jpg"
-    },
-    {
-        "title": "Un grand raccourci",
-        "rating": 6.917,
-        "genre": "Comédie / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/xh0ahWLy5tEUdrI4sdI4FCJ8sKH.jpg",
-        "trailer": null,
-        "release_date": "2026-08-12",
-        "overview": "Quand le restaurant familial menace de fermer, deux cousins bretons relâchent des rats pour s’improviser dératiseurs. Le même été, deux jeunes femmes trafiquent le concours de beauté local pour promouvoir leurs bijoux. Embarqués dans leurs stratagèmes chaotiques, ces quatre débrouillards en quête d’avenir finissent par se percuter.",
-        "tagline": "",
-        "runtime": 81,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/bqYbkspA3B8A5DPyvbiOnKpiXMG.jpg"
-    },
-    {
-        "title": "Une aube nouvelle",
-        "rating": 7,
-        "genre": "Animation / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/37ZnI0Yj52PYwtjDkKbeFJxlT1D.jpg",
-        "trailer": "https://www.youtube.com/watch?v=MD-yGCPsTpc",
-        "release_date": "2026-08-12",
-        "overview": "Demain, la fabrique Obinata de feux d'artifice, fondée il y a 330 ans, risque d'être administrativement saisie pour être détruite. Keitarō, fils de l'ancien patron aujourd'hui disparu, continue d'habiter seul dans la maison et poursuit la vision de son père en travaillant sur le Shuhari, un feu d'artifice mythique représentant l'univers tout entier. Il est rejoint par son frère Chicchi et de son amie d'enfance Kaoru, hantés par les souvenirs du passé, pour peut-être faire naître une nouvelle aube…",
-        "tagline": "",
-        "runtime": 75,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/uuVLGMIIGwz9QbBlvDvGlfU5HkI.jpg"
-    },
-    {
-        "title": "Juste pour une Nuit",
-        "rating": 6.5,
-        "genre": "Comédie / Romance / Science-fiction",
-        "poster": "https://image.tmdb.org/t/p/w500/ynL7Ng0bLYJ3RZuxAqkE95QBVOL.jpg",
-        "trailer": "https://www.youtube.com/watch?v=lDsAVq9lo9g",
-        "release_date": "2026-08-12",
-        "overview": "Un homme et une femme se démènent pour trouver quelqu'un avec qui coucher la seule nuit de l'année où les relations sexuelles avant le mariage sont légales dans leur société.",
-        "tagline": "12 heures peuvent tout changer.",
-        "runtime": 102,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/ccoEJ4Rxk9rb5cIrrkpPQDn39MP.jpg"
     }
 ]
