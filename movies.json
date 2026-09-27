@@ -1,5 +1,17 @@
 [
     {
+        "title": "Prison on Fire II",
+        "rating": 6.9,
+        "genre": "Crime / Drame / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/ybMjmFC1oY51i2MZ3XD3o9HaOfg.jpg",
+        "trailer": "https://www.youtube.com/watch?v=8KpdS8O-a4s",
+        "release_date": "2026-09-02",
+        "overview": "En Chine, Ching, un prisonnier s'échappe pour voir son jeune fils, abandonné dans un orphelinat. Mais le chef de la prison est au courant : il s'arrange pour que ching devienne à son insu un agent infiltré dans un terrible clan, dirigé par le noble Dragon...",
+        "tagline": "",
+        "runtime": 113,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/fUm9IwC7aBOEiAqbOYZZipBH5kO.jpg"
+    },
+    {
         "title": "Artus – Le Show XXL au Cinéma",
         "rating": 0,
         "genre": "Comédie",
@@ -22,18 +34,6 @@
         "tagline": "",
         "runtime": 13,
         "backdrop": "https://image.tmdb.org/t/p/w1280/cAHglSorAh1e8XwaSkhWe4Qm3rX.jpg"
-    },
-    {
-        "title": "Prison On Fire",
-        "rating": 7,
-        "genre": "Crime / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/ywFyD2t6QylShE8ARjVuftS9iD4.jpg",
-        "trailer": "https://www.youtube.com/watch?v=ITHfxjHb8rQ",
-        "release_date": "2026-09-01",
-        "overview": "Deux amis enfermés en prison vont devenir des frères ennemis, et se lancer dans un combat sans limites...",
-        "tagline": "",
-        "runtime": 98,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/znCviSD3g65irVaIQjxmavpiiZE.jpg"
     },
     {
         "title": "Ouroboros",
@@ -241,7 +241,7 @@
     },
     {
         "title": "ది ప్యారడైస్",
-        "rating": 6.2,
+        "rating": 5.6,
         "genre": "Action / Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/9k5F5Lk2bUP7ODifk1KP5Vw8yGm.jpg",
         "trailer": null,
@@ -265,7 +265,7 @@
     },
     {
         "title": "Digger",
-        "rating": 8.6,
+        "rating": 7.8,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/9BzF32t0U7mOnpzmQ0dyFKv4uZT.jpg",
         "trailer": "https://www.youtube.com/watch?v=job8V254NAE",
@@ -565,7 +565,7 @@
     },
     {
         "title": "Jacques Henri Lartigue – La vie en relief",
-        "rating": 0,
+        "rating": 4,
         "genre": "Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/mP2p8fSKZwlDOK2mzRDYAyuXngM.jpg",
         "trailer": null,
@@ -613,7 +613,7 @@
     },
     {
         "title": "Les Éléphants dans la brume",
-        "rating": 7.2,
+        "rating": 7.167,
         "genre": "Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/fp3zTVnbK8jFbXYYUQdkRKty2ns.jpg",
         "trailer": "https://www.youtube.com/watch?v=bEQlNa5C05M",
@@ -637,7 +637,7 @@
     },
     {
         "title": "Garance",
-        "rating": 7.4,
+        "rating": 7.375,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/opOcBqvFchGd8PWdLGyY2435k1v.jpg",
         "trailer": "https://www.youtube.com/watch?v=JFW2N_EJJf8",
@@ -661,7 +661,7 @@
     },
     {
         "title": "Teenage Sex and Death at Camp Miasma",
-        "rating": 6.3,
+        "rating": 6.325,
         "genre": "Comédie / Horreur / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/a5JvHUONtF8RyLL6M5nTlqqMJVE.jpg",
         "trailer": "https://www.youtube.com/watch?v=j9TsiTgYZGw",
@@ -673,7 +673,7 @@
     },
     {
         "title": "Her Private Hell",
-        "rating": 5.1,
+        "rating": 5.144,
         "genre": "Science-fiction / Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/p9kCdvV9rePQR7QImAiRXJcFeq4.jpg",
         "trailer": "https://www.youtube.com/watch?v=C7E-0t1TfzM",
@@ -685,7 +685,7 @@
     },
     {
         "title": "Primetime",
-        "rating": 7.2,
+        "rating": 7.048,
         "genre": "Crime / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/rhF8JALH8wrxKtXSCAB7a09tWsc.jpg",
         "trailer": "https://www.youtube.com/watch?v=C0NZa01qTRU",
@@ -697,7 +697,7 @@
     },
     {
         "title": "Heart of the Beast",
-        "rating": 7.7,
+        "rating": 7.6,
         "genre": "Aventure / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg",
         "trailer": "https://www.youtube.com/watch?v=UkMuGKqAux4",
@@ -733,7 +733,7 @@
     },
     {
         "title": "Justin le Juste",
-        "rating": 0,
+        "rating": 6,
         "genre": "Comédie / Histoire / Guerre",
         "poster": "https://image.tmdb.org/t/p/w500/anpBUboYU7ENnWjpDEoDl6Y0Swm.jpg",
         "trailer": "https://www.youtube.com/watch?v=oWiOGl4wkJE",
@@ -925,7 +925,7 @@
     },
     {
         "title": "Les Contrebandiers",
-        "rating": 6.786,
+        "rating": 6.833,
         "genre": "Drame / Thriller / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/hjM3hITDk5XvWu4cMn7dj7IpwY8.jpg",
         "trailer": "https://www.youtube.com/watch?v=7YpuMymmiJ8",
@@ -937,7 +937,7 @@
     },
     {
         "title": "L'Invitation",
-        "rating": 7.264,
+        "rating": 7.243,
         "genre": "Comédie / Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/vpMsWT25ITYeYLiUb2HFU9rfzy4.jpg",
         "trailer": "https://www.youtube.com/watch?v=nelkiuezJxg",
@@ -973,7 +973,7 @@
     },
     {
         "title": "Si tu penses bien",
-        "rating": 7.154,
+        "rating": 7.2,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/5ta2QFexeUsZ9AncKkgiWwpJDq.jpg",
         "trailer": null,
@@ -985,7 +985,7 @@
     },
     {
         "title": "Histoires de la nuit",
-        "rating": 6.393,
+        "rating": 6.367,
         "genre": "Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/7prAuNDsQPUlHKyXiYNkuofyi0G.jpg",
         "trailer": null,
@@ -997,7 +997,7 @@
     },
     {
         "title": "Sham",
-        "rating": 7.091,
+        "rating": 7.1,
         "genre": "Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/8DX3LZbXvkvwKsfD2ooEEuRoepQ.jpg",
         "trailer": "https://www.youtube.com/watch?v=eII6zvMC474",
@@ -1189,7 +1189,7 @@
     },
     {
         "title": "Kurtuluş",
-        "rating": 6.6,
+        "rating": 6.182,
         "genre": "Drame / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/mrJNYPnCLOcvOlMUnSdWcQ4Vz8i.jpg",
         "trailer": "https://www.youtube.com/watch?v=PZc7uApZS_M",
@@ -1201,7 +1201,7 @@
     },
     {
         "title": "Rose",
-        "rating": 7.684,
+        "rating": 7.667,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/tMf5ZBUibksefIjoPmxvHliBgYI.jpg",
         "trailer": "https://www.youtube.com/watch?v=80xR3G5eowo",
@@ -1237,7 +1237,7 @@
     },
     {
         "title": "Les Ensorceleuses 2",
-        "rating": 6.3,
+        "rating": 6.247,
         "genre": "Romance / Fantastique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/1fnNv1AOzbUG4gvL4AbenUfIlJp.jpg",
         "trailer": "https://www.youtube.com/watch?v=Ho10_4IX1jE",
@@ -1249,7 +1249,7 @@
     },
     {
         "title": "Pressure",
-        "rating": 7.692,
+        "rating": 7.695,
         "genre": "Thriller / Histoire / Guerre",
         "poster": "https://image.tmdb.org/t/p/w500/3Dp1V6QHzrlSYlTlGZwHx7uPrR7.jpg",
         "trailer": "https://www.youtube.com/watch?v=jjdOSchcobk",
@@ -1333,7 +1333,7 @@
     },
     {
         "title": "Legend of the White Dragon",
-        "rating": 7.056,
+        "rating": 7,
         "genre": "Action / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/kaMEYF6bMuOO3z504EIm7P1zprT.jpg",
         "trailer": "https://www.youtube.com/watch?v=eqcTr34Y1Zw",
@@ -1357,7 +1357,7 @@
     },
     {
         "title": "Lettres d’amour de ma grand-mère",
-        "rating": 8.836,
+        "rating": 8.838,
         "genre": "Drame / Famille / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/A1sistnRovhZ4nBiph2X5sr7Y9N.jpg",
         "trailer": "https://www.youtube.com/watch?v=abeSQSbNXSk",
@@ -1525,7 +1525,7 @@
     },
     {
         "title": "Face à la mer",
-        "rating": 6.8,
+        "rating": 6.781,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/ereGHWuFWiQgT6TLLntdVOGuHtn.jpg",
         "trailer": "https://www.youtube.com/watch?v=od_S8t86F0M",
@@ -1537,7 +1537,7 @@
     },
     {
         "title": "The Dog Stars",
-        "rating": 6.598,
+        "rating": 6.596,
         "genre": "Aventure / Science-fiction / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/w7c49Qgp3TAUC4hlo0mtgRpLOGG.jpg",
         "trailer": "https://www.youtube.com/watch?v=-xSxaE1ClEE",
@@ -1621,7 +1621,7 @@
     },
     {
         "title": "Oklahoma Honey",
-        "rating": 6.818,
+        "rating": 6.8,
         "genre": "Crime / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/6YCH9yUVO9Fh23WIOORl6JmCpOo.jpg",
         "trailer": "https://www.youtube.com/watch?v=GwSvAyaMGMo",
@@ -1633,7 +1633,7 @@
     },
     {
         "title": "Mutiny",
-        "rating": 6.78,
+        "rating": 6.982,
         "genre": "Action / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/rfRLWbxLZPq2eboKPsBvh1NgNwM.jpg",
         "trailer": "https://www.youtube.com/watch?v=2Iqvbe98Gb4",
@@ -1645,7 +1645,7 @@
     },
     {
         "title": "Insidious : L'Invasion du Lointain",
-        "rating": 6.509,
+        "rating": 6.5,
         "genre": "Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/bW8uJOLrtdBnQcQbG9BUQjDgUaT.jpg",
         "trailer": "https://www.youtube.com/watch?v=gXjurDkYnEM",
