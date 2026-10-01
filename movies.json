@@ -1,5 +1,257 @@
 [
     {
+        "title": "Ton Ombre Heureuse",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/f1Gz1y4slZ71Ckc9Nm4Hl6AlLKI.jpg",
+        "trailer": null,
+        "release_date": "2026-10-01",
+        "overview": "Victor et Naël passent une chaude journée de juillet comme ils l’ont toujours fait : rivière, scooter, fête de village, souvenirs d’enfance. Tout semble normal. Pourtant, quelque chose cloche. Certains détails se répètent, certaines réactions paraissent étranges, et Victor semble tenir à cette journée plus que de raison. Alors que le soleil disparaît, une sensation étrange s’installe : et si cette journée n’était pas tout à fait ce qu’elle semble être ?",
+        "tagline": "",
+        "runtime": 23,
+        "backdrop": null
+    },
+    {
+        "title": "Algo en la casa",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500/yElhKw3MIhI13CWvLayUsalAQqU.jpg",
+        "trailer": null,
+        "release_date": "2026-10-02",
+        "overview": "",
+        "tagline": "",
+        "runtime": 12,
+        "backdrop": null
+    },
+    {
+        "title": "Aïe Aïe A.I.",
+        "rating": 0,
+        "genre": "Comédie / Action",
+        "poster": "https://image.tmdb.org/t/p/w500/vC3zWJ0aMvtAhyPOUrdEgM2QJ2X.jpg",
+        "trailer": null,
+        "release_date": "2026-09-03",
+        "overview": "",
+        "tagline": "",
+        "runtime": 7,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3bp610BxBoNziOKDiFAbKVK3xNX.jpg"
+    },
+    {
+        "title": "La guerre des sens",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": null,
+        "release_date": "2026-10-02",
+        "overview": "",
+        "tagline": "",
+        "runtime": 11,
+        "backdrop": null
+    },
+    {
+        "title": "À nos nuits punk",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": null,
+        "release_date": "2026-10-02",
+        "overview": "Nous sommes parties à la rencontre du punk aujourd'hui, à Strasbourg. Un road-movie documentaire fait de nuits libres, queer et féministes. Pour nous, le punk c'était des caveaux, de la bière, de la musique trop forte et des mecs à crêtes. Il était comme figé dans les années 80 avec plein de clichés. Mais le punk ça n'est plus vraiment ça. Aujourd'hui, il s'invente dans la nuit, entre folk, rap et électro. Il déborde, lutte et s'affranchit. Il est queer, féministe et écologiste. Et comme un secret, on nous a confié : \"le punk, c'est faire autrement et sans demander la permission\". Alors c'est ce que l'on a fait. On a pris notre caméra et on a plongé dans la nuit strasbourgeoise. Comme dans un road movie documentaire, et avec une question en tête : c'est quoi le punk aujourd'hui ?",
+        "tagline": "",
+        "runtime": 52,
+        "backdrop": null
+    },
+    {
+        "title": "Commis d'office",
+        "rating": 0,
+        "genre": "Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/m0D6fuMgLkNbq9ATDBsHQH3HBkh.jpg",
+        "trailer": null,
+        "release_date": "2026-09-09",
+        "overview": "Daniel Wang , cuisinier asiatique , se fait agresser par Lila, une jeune femme désœuvrée qui tente de lui dérober sa recette. Blessé gravement aux mains pendant l'altercation, Daniel se trouve dans l'incapacité de cuisiner et par la même dans une situation financière inextricable. Une députée travaillant sur un projet de loi où les accusés pourraient être mis à disposition des victimes, propose alors au juge d'application des peines de faire un test sur ce cas précis : alors que tout les oppose, Lila devient par obligation la commis du chef, le temps de sa convalescence.",
+        "tagline": "",
+        "runtime": 81,
+        "backdrop": null
+    },
+    {
+        "title": "Accueil du grand âge, la méthode Montessori",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/wWxqwOkh97pAo0BMKx2jE8WCDLL.jpg",
+        "trailer": null,
+        "release_date": "2026-09-14",
+        "overview": "A l’heure où la population occidentale vieillit, où les troubles cognitifs comme Alzheimer augmentent, comment repenser l’accueil du grand âge ? Plus généralement, comment appréhender notre rapport à la vieillesse ? La méthode Montessori, initialement reconnue pour favoriser l’épanouissement des enfants à l’école, se révèle particulièrement adaptée aux personnes âgées. Plus qu’un simple outil, c’est un véritable changement de perspective sur le vieillissement provoquant aussi une révolution des pratiques de soin.",
+        "tagline": "",
+        "runtime": 52,
+        "backdrop": null
+    },
+    {
+        "title": "Georges Aperghis, un mot après l’autre",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": null,
+        "release_date": "2026-09-30",
+        "overview": "Le réalisateur Éric Darmon dresse un portrait de Georges Aperghis, au plus près de son processus de création. Tourné au cours des dernières années, au fil des répétitions, des échanges avec les interprètes et de moments de travail, le film capte une pensée en acte, attentive aux inflexions de la langue, au rythme du souffle et à la dimension ludique du geste musical. Des fragments d’archives viennent ponctuer cette immersion, éclairant la continuité d’un parcours où théâtre et musique n’ont cessé de se nourrir mutuellement. Plus qu’un documentaire biographique, le film donne accès à un espace de travail en mouvement, où la composition se construit dans l’expérimentation, le dialogue et l’écoute. On y découvre un artiste pour qui chaque mot engage le corps, chaque son ouvre une situation, et dont l’écriture se déploie comme une pratique vivante du langage.",
+        "tagline": "",
+        "runtime": 53,
+        "backdrop": null
+    },
+    {
+        "title": "Turquoise",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/sQcdqrZ2M1He4aw1BmXBaIbDpFa.jpg",
+        "trailer": null,
+        "release_date": "2026-09-25",
+        "overview": "Léa et Basile, frère et sœur, partent passer quelques jours d’été chez leur grand-mère, dans un petit village pittoresque du sud-ouest de la France.  Ce qui devait être de simples vacances familiales prend une autre tournure lorsqu’ils découvrent, dans le grenier de la maison, des objets et des lettres oubliées qui ravivent les échos d’un passé longtemps enfoui.  Au fil de leurs trouvailles, les deux jeunes adultes plongent dans l’histoire silencieuse de leur grand-mère et mettent au jour les secrets, les blessures et les silences qui traversent les générations, où les souvenirs deviennent des révélations et où la transmission familiale se tisse autant dans les mots que dans les silences.",
+        "tagline": "",
+        "runtime": 15,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ikY0HTSbLIoJlg97BVmLvZNcRra.jpg"
+    },
+    {
+        "title": "Fausse note",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/2xYwKUCmnO6Z7EJ6cS2oxTQzJfi.jpg",
+        "trailer": null,
+        "release_date": "2026-10-07",
+        "overview": "Lors de son ultime concert à Paris, un chef d’orchestre de renom est confronté à un admirateur insistant. Sous ses apparences de « Monsieur tout le monde », le « Fan » s’infiltre dans l’Opéra, perturbe la soirée et force un face à face inattendu avec le chef d’orchestre. Surgit alors un passé commun enfoui, où la musique devient le révélateur d’une vérité bouleversante. Une nuit de tension et de vérité où la mémoire, la culpabilité et la justice s’affrontent en sourdine.",
+        "tagline": "Se taire est impossible.",
+        "runtime": 0,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/11jU44xHgFgPgvTnKFB0pMgd67Q.jpg"
+    },
+    {
+        "title": "Le Monde à l'envers",
+        "rating": 0,
+        "genre": "Animation",
+        "poster": "https://image.tmdb.org/t/p/w500/zRmRwAZV7AGcnzxFM92ENUK2yvA.jpg",
+        "trailer": null,
+        "release_date": "2026-10-07",
+        "overview": "Un souriceau qui vit la tête à l’envers, un tout petit poisson explorateur et des enfants à l’imagination débordante : ces personnages nous invitent à nous mettre à la place de celles et ceux qui perçoivent le monde différemment pour mieux les comprendre.",
+        "tagline": "",
+        "runtime": 45,
+        "backdrop": null
+    },
+    {
+        "title": "s-m-i-l-s",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": null,
+        "release_date": "2026-10-01",
+        "overview": "Émile cherche sa place dans la communauté Sourde. Au cœur de la nuit, la fête prend toute sa dimension politique et collective.",
+        "tagline": "",
+        "runtime": 0,
+        "backdrop": null
+    },
+    {
+        "title": "No Wifi",
+        "rating": 0,
+        "genre": "Drame / Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/4ztRtYDSQa7zgtY63oAfbTNJKpx.jpg",
+        "trailer": null,
+        "release_date": "2026-10-07",
+        "overview": "Une femme, un homme, une nuit, un hôtel... Une rencontre pas comme les autres.",
+        "tagline": "",
+        "runtime": 0,
+        "backdrop": null
+    },
+    {
+        "title": "Steaks et testament",
+        "rating": 0,
+        "genre": "Comédie / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500None",
+        "trailer": null,
+        "release_date": "2026-10-01",
+        "overview": "Quelque part, près de Lens,  Justin : « C’est peut être mon père qu’essaye de nous dire un truc »  Bernard : « Avec des steaks ? »",
+        "tagline": "",
+        "runtime": 20,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/b0qhcxkgwE4bUJJlyGEZlowg53s.jpg"
+    },
+    {
+        "title": "L'Espèce explosive",
+        "rating": 0,
+        "genre": "Crime / Comédie / Mystère",
+        "poster": "https://image.tmdb.org/t/p/w500/vKn8iEridbzuPBtTp8ZX4yKmRmS.jpg",
+        "trailer": null,
+        "release_date": "2026-10-07",
+        "overview": "Dans la campagne du Nord-Est de la France. Les sangliers qui ravagent les cultures provoquent une guerre ouverte entre chasseurs et agriculteurs. Brun, céréalier en faillite, lutte pour maintenir sa ferme à flot. Quand un notable du coin le pousse à bout, il déraille et disparaît. Un an plus tard, Fulda, un gendarme corse muté dans la région pour raisons disciplinaires, mène l’enquête. Entre intuitions fulgurantes et ratés spectaculaires, ses méthodes approximatives le mènent sur la piste des Attilas, des sangliers aux dimensions hors normes. Mais sa récente rupture amoureuse et la vodka dans laquelle flotte son cerveau n’aident pas. Heureusement, il y a Stéphane, la nouvelle psy de la gendarmerie : elle est là pour mettre un peu d’ordre dans son chaos — à moins que ce ne soit l’inverse ?",
+        "tagline": "",
+        "runtime": 95,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7PZCUc6xYm4kHlqnKzwgtHRjm8K.jpg"
+    },
+    {
+        "title": "Ton animal maternel",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/9wtNC4lEC3hFlr2Sk7dqNibthiG.jpg",
+        "trailer": "https://www.youtube.com/watch?v=wPudW56cC5g",
+        "release_date": "2026-10-07",
+        "overview": "De retour au Costa Rica après des études en Europe, Elsa retrouve sa petite sœur Amalia, seule dans la maison familiale. De plus en plus insaisissable, celle-ci semble enfermée dans des croyances ésotériques. Elsa essaie d’alerter leurs parents, mais ni le père, trop occupé par ses nouvelles conquêtes, ni la mère, absorbée par la réédition des poèmes érotiques de sa jeunesse, ne semblent prendre la mesure de la situation. Le retour d’Elsa engage les trois femmes à interroger leur lien indéfectible.",
+        "tagline": "",
+        "runtime": 100,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/jP6InPLvItifr1NCR4x3FG9xdhb.jpg"
+    },
+    {
+        "title": "Prison on Fire II",
+        "rating": 6.9,
+        "genre": "Crime / Drame / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/ybMjmFC1oY51i2MZ3XD3o9HaOfg.jpg",
+        "trailer": "https://www.youtube.com/watch?v=8KpdS8O-a4s",
+        "release_date": "2026-09-02",
+        "overview": "En Chine, Ching, un prisonnier s'échappe pour voir son jeune fils, abandonné dans un orphelinat. Mais le chef de la prison est au courant : il s'arrange pour que ching devienne à son insu un agent infiltré dans un terrible clan, dirigé par le noble Dragon...",
+        "tagline": "",
+        "runtime": 113,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/fUm9IwC7aBOEiAqbOYZZipBH5kO.jpg"
+    },
+    {
+        "title": "Si tu penses bien",
+        "rating": 7.206,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/5ta2QFexeUsZ9AncKkgiWwpJDq.jpg",
+        "trailer": null,
+        "release_date": "2026-09-16",
+        "overview": "A Dubaï, Gil rencontre Jacques. Leur coup de foudre débouche sur un mariage précipité qui révèle vite une fracture profonde : Gil ne partage pas la foi dévorante de son mari. Jacques tente de la soumettre à sa vision du monde avec un mantra aux allures de menace.",
+        "tagline": "",
+        "runtime": 94,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/8VjONCVHYgS3PPDuIuzXZBDhFov.jpg"
+    },
+    {
+        "title": "Linkin Park Unshatter",
+        "rating": 9.2,
+        "genre": "Musique / Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/kHNrz7DBVPrtyMhJxmBm2poS2l9.jpg",
+        "trailer": "https://www.youtube.com/watch?v=K9Lpxc7bVTM",
+        "release_date": "2026-10-01",
+        "overview": "Après une pause de sept ans, marquée par la perte tragique de leur cher compagnon de groupe, les membres restants de LINKIN PARK cherchent à retrouver leur chemin. Leur histoire commune, leur amitié indéfectible, ainsi que l’arrivée de deux nouveaux membres insufflent une nouvelle énergie créative qui les entraîne dans un voyage de réinvention artistique. Suivant le groupe depuis ses sessions studio intimistes de 2022 jusqu’à la sortie explosive de leur album le 15 novembre 2024 et leur concert à São Paulo, le film mêle images d’archives inédites, performances électrisantes issues de concerts à guichets fermés et témoignages sincères des membres du groupe et de leurs fans. Un récit brut et authentique sur ce que signifie recommencer, se réinventer et avancer.",
+        "tagline": "Le plus difficile quand quelque chose se termine, c'est de recommencer.",
+        "runtime": 107,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/uL1HCc4wmcFcSr1zS3kXX3CNUeE.jpg"
+    },
+    {
+        "title": "Doraemon et le château sous-marin",
+        "rating": 7.1,
+        "genre": "Animation / Aventure / Fantastique / Famille",
+        "poster": "https://image.tmdb.org/t/p/w500/ncJWnLIT2Lb1Hb4WETX3l5TfuO8.jpg",
+        "trailer": null,
+        "release_date": "2026-10-07",
+        "overview": "Doraemon est un robot-chat bleu qui vient du futur. Il vit avec Nobita, un petit garçon maladroit, et ses parents. Grâce à ses gadgets secrets, Doraemon aide souvent Nobita à s'amuser ou à résoudre ses problèmes.  Un été d'ennui, Doraemon propose à Nobita et leurs amis d'aller faire du camping sous la mer. En explorant les fonds marins, la bande découvre une épave et fait la rencontre des Thalassiens.  C'est alors qu'une annonce très inquiétante survient : « Le Château sous-marin s'est réveillé ! ». Nobita et ses amis doivent se lancer dans une bataille qui décidera du sort de la Terre !",
+        "tagline": "",
+        "runtime": 102,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/pxd9rc03EMMln3tVFdfd427Fpsi.jpg"
+    },
+    {
+        "title": "The Social Reckoning",
+        "rating": 0,
+        "genre": "Drame / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/6B5gNoTM9PCC7jXTFd7tJGFfeFa.jpg",
+        "trailer": "https://www.youtube.com/watch?v=R8ANzYpaZaY",
+        "release_date": "2026-10-07",
+        "overview": "Frances Haugen, une jeune ingénieure de Facebook, sollicite l'aide de Jeff Horwitz, un journaliste du Wall Street Journal, pour entreprendre un voyage dangereux qui finira par révéler les secrets les mieux gardés du réseau social.",
+        "tagline": "Toute révolution commence par une prise de conscience.",
+        "runtime": 112,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ycqTwRV7jUxjMospXxKTVS74nft.jpg"
+    },
+    {
         "title": "le coquillage que tu m'as laissé.",
         "rating": 0,
         "genre": "",
@@ -132,18 +384,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/a6O9MMak7mHDdxwApf2nGlvIs0g.jpg"
     },
     {
-        "title": "Prison On Fire",
-        "rating": 7,
-        "genre": "Crime / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/ywFyD2t6QylShE8ARjVuftS9iD4.jpg",
-        "trailer": "https://www.youtube.com/watch?v=ITHfxjHb8rQ",
-        "release_date": "2026-09-01",
-        "overview": "Deux amis enfermés en prison vont devenir des frères ennemis, et se lancer dans un combat sans limites...",
-        "tagline": "",
-        "runtime": 98,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/znCviSD3g65irVaIQjxmavpiiZE.jpg"
-    },
-    {
         "title": "Continue!",
         "rating": 0,
         "genre": "Drame",
@@ -252,18 +492,6 @@
         "backdrop": null
     },
     {
-        "title": "Des gens face à la mer",
-        "rating": 0,
-        "genre": "Documentaire / Comédie",
-        "poster": "https://image.tmdb.org/t/p/w500/2OLmKQ7s37SXLJaGMEdGlMJJ4z3.jpg",
-        "trailer": null,
-        "release_date": "2026-09-30",
-        "overview": "Un film fait pour garder l'image des gens que l'on quitte à la fin de l'été, face à la mer.",
-        "tagline": "",
-        "runtime": 84,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/uw7EbK9WjRtDzPGAY8FhENNKKGd.jpg"
-    },
-    {
         "title": "Seppuku : l’honneur d’un samouraï",
         "rating": 0,
         "genre": "Drame / Histoire",
@@ -324,18 +552,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/AjnySWm7IlujGTwnjfOa9vwuki3.jpg"
     },
     {
-        "title": "Heritage",
-        "rating": 0,
-        "genre": "Horreur",
-        "poster": "https://image.tmdb.org/t/p/w500/lQffWdvzRNoQjhD7WcoBukuFmG1.jpg",
-        "trailer": "https://www.youtube.com/watch?v=0Ij2AmK6UXs",
-        "release_date": "2026-08-20",
-        "overview": "Quinze ans après leur départ, Marie et Daniel reviennent en Corse voir leur grand-père. Ce qui s’annonçait comme des vacances ennuyeuses filmées avec le camescope familial vire rapidement au cauchemar.",
-        "tagline": "THEY ARE STILL HERE",
-        "runtime": 70,
-        "backdrop": null
-    },
-    {
         "title": "Decorado",
         "rating": 6.6,
         "genre": "Animation / Comédie / Fantastique / Horreur",
@@ -373,7 +589,7 @@
     },
     {
         "title": "Verity",
-        "rating": 7.7,
+        "rating": 6.955,
         "genre": "Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zLCjFOyjvKqYdkQYYAyTtfJ5mpk.jpg",
         "trailer": "https://www.youtube.com/watch?v=xdPMKhjMSFs",
@@ -385,7 +601,7 @@
     },
     {
         "title": "Digger",
-        "rating": 7.5,
+        "rating": 7.3,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/9BzF32t0U7mOnpzmQ0dyFKv4uZT.jpg",
         "trailer": "https://www.youtube.com/watch?v=job8V254NAE",
@@ -420,18 +636,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/37kM6PZ1PMMg6xQvtbExgkK3HtZ.jpg"
     },
     {
-        "title": "Le Monde à l'endroit",
-        "rating": 0,
-        "genre": "Documentaire / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/bse4J5F4wMOUuawSS85RbWvaUhs.jpg",
-        "trailer": null,
-        "release_date": "2026-09-30",
-        "overview": "Les blessures de l’enfance ne s’effacent pas, elles se réparent. Muriel Salmona, psychiatre de renom et spécialiste des violences sexuelles, consacre sa vie à soigner celles et ceux que l’enfance a brisés. Incarnée à l’écran par Sandrine Bonnaire, Marianne Denicourt et Isild Le Besco, elle accompagne des patients qui affrontent leur passé et ouvrent, pas à pas, le chemin de la réparation.",
-        "tagline": "",
-        "runtime": 88,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/zLRci1gyeYDo2xwxHsJnuqMxkFw.jpg"
-    },
-    {
         "title": "Mémoire de fille",
         "rating": 8,
         "genre": "Drame",
@@ -454,18 +658,6 @@
         "tagline": "",
         "runtime": 105,
         "backdrop": null
-    },
-    {
-        "title": "Notre salut",
-        "rating": 0,
-        "genre": "Histoire / Comédie / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/tFzSSetNzvdaxms6RLfr2pyu9sM.jpg",
-        "trailer": null,
-        "release_date": "2026-09-30",
-        "overview": "Septembre 1940, le régime de Pétain se met en place. Henri Marre, 49 ans, débarque à Vichy sans le sou, sans contact, loin de sa femme et ses enfants. Il voit dans la nouvelle administration l’opportunité de trouver enfin la place qu’il mérite. Dans sa valise, son traité politique édité à compte d’auteur, Notre Salut, où il défend ses convictions patriotiques et ses méthodes d'ingénieur. Son credo: « gagner en efficacité » pour relever la France de la débâcle. Mais peut-être qu’Henri cherche avant tout à fuir sa propre débâcle…",
-        "tagline": "",
-        "runtime": 153,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/iQMFLm9Te2IuJTr08RdBLKTGw8n.jpg"
     },
     {
         "title": "Melpomène",
@@ -562,18 +754,6 @@
         "tagline": "",
         "runtime": 13,
         "backdrop": null
-    },
-    {
-        "title": "Enquête du jour",
-        "rating": 10,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/6bC54Uz9Gc5foFoONieIKDUDHJP.jpg",
-        "trailer": null,
-        "release_date": "2026-08-24",
-        "overview": "",
-        "tagline": "",
-        "runtime": 8,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/m0cUzfjdFKXx4fJ8AiDYRpK3LZR.jpg"
     },
     {
         "title": "Permafrost",
@@ -769,7 +949,7 @@
     },
     {
         "title": "Raison et Sentiments",
-        "rating": 7.708,
+        "rating": 7.7,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/9XNEI2AYgQIIqXper5kOdGTnyf5.jpg",
         "trailer": "https://www.youtube.com/watch?v=mcrwcvad84U",
@@ -781,7 +961,7 @@
     },
     {
         "title": "Teenage Sex and Death at Camp Miasma",
-        "rating": 6.353,
+        "rating": 6.3,
         "genre": "Comédie / Horreur / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/a5JvHUONtF8RyLL6M5nTlqqMJVE.jpg",
         "trailer": "https://www.youtube.com/watch?v=j9TsiTgYZGw",
@@ -793,7 +973,7 @@
     },
     {
         "title": "Her Private Hell",
-        "rating": 5.253,
+        "rating": 5.264,
         "genre": "Science-fiction / Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/p9kCdvV9rePQR7QImAiRXJcFeq4.jpg",
         "trailer": "https://www.youtube.com/watch?v=C7E-0t1TfzM",
@@ -805,7 +985,7 @@
     },
     {
         "title": "Primetime",
-        "rating": 7.142,
+        "rating": 7.075,
         "genre": "Crime / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/rhF8JALH8wrxKtXSCAB7a09tWsc.jpg",
         "trailer": "https://www.youtube.com/watch?v=C0NZa01qTRU",
@@ -817,7 +997,7 @@
     },
     {
         "title": "Heart of the Beast",
-        "rating": 7.682,
+        "rating": 7.602,
         "genre": "Aventure / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg",
         "trailer": "https://www.youtube.com/watch?v=UkMuGKqAux4",
@@ -910,18 +1090,6 @@
         "tagline": "",
         "runtime": 17,
         "backdrop": null
-    },
-    {
-        "title": "فوق التل",
-        "rating": 0,
-        "genre": "Documentaire",
-        "poster": "https://image.tmdb.org/t/p/w500/ygbDLHbLv3QBJNptp0TthUGzMys.jpg",
-        "trailer": null,
-        "release_date": "2026-08-21",
-        "overview": "",
-        "tagline": "",
-        "runtime": 77,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/fpjI0cpSqpN1zT0ZCjbTT5O8sI3.jpg"
     },
     {
         "title": "Le Voyage de Canaan, portrait d’un Palestinien de Syrie",
@@ -1021,7 +1189,7 @@
     },
     {
         "title": "Les Contrebandiers",
-        "rating": 6.882,
+        "rating": 6.9,
         "genre": "Drame / Thriller / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/hjM3hITDk5XvWu4cMn7dj7IpwY8.jpg",
         "trailer": "https://www.youtube.com/watch?v=7YpuMymmiJ8",
@@ -1033,7 +1201,7 @@
     },
     {
         "title": "L'Invitation",
-        "rating": 7.216,
+        "rating": 7.22,
         "genre": "Comédie / Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/vpMsWT25ITYeYLiUb2HFU9rfzy4.jpg",
         "trailer": "https://www.youtube.com/watch?v=nelkiuezJxg",
@@ -1045,7 +1213,7 @@
     },
     {
         "title": "Resident Evil",
-        "rating": 7.342,
+        "rating": 7.315,
         "genre": "Horreur / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
         "trailer": "https://www.youtube.com/watch?v=mNd1gb19A-c",
@@ -1069,7 +1237,7 @@
     },
     {
         "title": "Histoires de la nuit",
-        "rating": 6.278,
+        "rating": 6.3,
         "genre": "Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/7prAuNDsQPUlHKyXiYNkuofyi0G.jpg",
         "trailer": null,
@@ -1201,7 +1369,7 @@
     },
     {
         "title": "Les Héros du Louvre",
-        "rating": 5.9,
+        "rating": 6,
         "genre": "Drame / Histoire",
         "poster": "https://image.tmdb.org/t/p/w500/lGi41Nho5Gz7dVo3jIEODGqdnZG.jpg",
         "trailer": null,
@@ -1261,7 +1429,7 @@
     },
     {
         "title": "Rose",
-        "rating": 7.714,
+        "rating": 7.7,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/tMf5ZBUibksefIjoPmxvHliBgYI.jpg",
         "trailer": "https://www.youtube.com/watch?v=KrmkNoxS6t4",
@@ -1285,7 +1453,7 @@
     },
     {
         "title": "Oasis: Don't Look Back in Anger",
-        "rating": 7.45,
+        "rating": 7.5,
         "genre": "Documentaire / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
         "trailer": "https://www.youtube.com/watch?v=X9sIYLtgc_s",
@@ -1297,7 +1465,7 @@
     },
     {
         "title": "Les Ensorceleuses 2",
-        "rating": 6.184,
+        "rating": 6.18,
         "genre": "Romance / Fantastique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/1fnNv1AOzbUG4gvL4AbenUfIlJp.jpg",
         "trailer": "https://www.youtube.com/watch?v=Ho10_4IX1jE",
@@ -1309,7 +1477,7 @@
     },
     {
         "title": "Pressure",
-        "rating": 7.699,
+        "rating": 7.691,
         "genre": "Thriller / Histoire / Guerre",
         "poster": "https://image.tmdb.org/t/p/w500/3Dp1V6QHzrlSYlTlGZwHx7uPrR7.jpg",
         "trailer": "https://www.youtube.com/watch?v=jjdOSchcobk",
@@ -1369,7 +1537,7 @@
     },
     {
         "title": "The Holy Boy",
-        "rating": 6.771,
+        "rating": 6.8,
         "genre": "Horreur / Thriller / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/3DPNUeV91RaYjqNdczt4zNk5Ks1.jpg",
         "trailer": "https://www.youtube.com/watch?v=I1efDwrKCh8",
@@ -1488,18 +1656,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg"
     },
     {
-        "title": "A Trip Towards the Temenos",
-        "rating": 0,
-        "genre": "Documentaire",
-        "poster": "https://image.tmdb.org/t/p/w500/bURKKdEvl2Jcgt4oJszGp3U8d34.jpg",
-        "trailer": null,
-        "release_date": "2026-08-21",
-        "overview": "",
-        "tagline": "",
-        "runtime": 62,
-        "backdrop": null
-    },
-    {
         "title": "Memory of Princess Mumbi",
         "rating": 7,
         "genre": "Science-fiction / Romance",
@@ -1537,7 +1693,7 @@
     },
     {
         "title": "Face à la mer",
-        "rating": 6.9,
+        "rating": 6.972,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/ereGHWuFWiQgT6TLLntdVOGuHtn.jpg",
         "trailer": "https://www.youtube.com/watch?v=od_S8t86F0M",
@@ -1594,17 +1750,5 @@
         "tagline": "",
         "runtime": 82,
         "backdrop": "https://image.tmdb.org/t/p/w1280/t8twfnytLPitdJzNVU1yjP4gjD7.jpg"
-    },
-    {
-        "title": "ఇరుముడి",
-        "rating": 6.583,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/dVFtTKMWW1aq7aWq30wjwOP6W3J.jpg",
-        "trailer": "https://www.youtube.com/watch?v=lqlYx4MdsAY",
-        "release_date": "2026-08-21",
-        "overview": "Un père alcoolique au passé violent mène une vie paisible avec sa fille près d’une cascade. À la demande de celle-ci, il entreprend l’Ayyappa Deeksha, un voyage spirituel qui le confrontera à ses démons et mettra à l’épreuve sa volonté de changer.",
-        "tagline": "",
-        "runtime": 160,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg"
     }
 ]
