@@ -1,5 +1,53 @@
 [
     {
+        "title": "HERRATA",
+        "rating": 0,
+        "genre": "Horreur / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/dDGG51xT4aizWplUxr4ZfyMghwh.jpg",
+        "trailer": null,
+        "release_date": "2026-10-02",
+        "overview": "",
+        "tagline": "",
+        "runtime": 22,
+        "backdrop": null
+    },
+    {
+        "title": "Le Chemin des Maures",
+        "rating": 0,
+        "genre": "Documentaire / Histoire",
+        "poster": "https://image.tmdb.org/t/p/w500/9WhTFQyp6c3rI0RBgAgiLN5lszj.jpg",
+        "trailer": null,
+        "release_date": "2026-08-28",
+        "overview": "Nous avons tous appris à l’école quelques dates fatidiques comme, par exemple, 732, celle de la bataille de Poitiers où Charles Martel bouta hors de France les Arabes. Que reste-t-il de ces chiffres 7.3.2 dans nos mémoires d’écoliers ? Nous a-t-on dit que ces Arabes venaient de la Perse, d’Irak ou de la Syrie, et qu’ils faisaient partie de la tribu des Omeyades ? A-t-on su qu’ils avaient conquis l’Égypte et l’Afrique du Nord jusqu’au Maroc, où les armées berbères les rejoignirent. Nous a-t-on appris qu’ensemble et sous le commandement du général Tarik Ibn Ziad, ils débarquèrent à Gibraltar pour conquérir la péninsule ibérique en 711 ? Se rappelle-t-on qu’en 714, la force combinée arabo-berbère franchit les Pyrénées ? Non. La seule chose que nous savons, c’est qu’en 732, Charles Martel les attendait à Poitiers. Pas tout à fait vrai, la bataille eut lieu à Verneuil sur Vienne ! Et si moi, 1294 années après, je refaisais le chemin des Maures de Gibraltar jusqu’à Poitiers",
+        "tagline": "",
+        "runtime": 52,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zY7xzc97cq2bcEuOgrDhdnIuMZU.jpg"
+    },
+    {
+        "title": "Le Monde à l'envers",
+        "rating": 0,
+        "genre": "Animation",
+        "poster": "https://image.tmdb.org/t/p/w500/zRmRwAZV7AGcnzxFM92ENUK2yvA.jpg",
+        "trailer": null,
+        "release_date": "2026-10-07",
+        "overview": "Un souriceau qui vit la tête à l’envers, un tout petit poisson explorateur et des enfants à l’imagination débordante : ces personnages nous invitent à nous mettre à la place de celles et ceux qui perçoivent le monde différemment pour mieux les comprendre.",
+        "tagline": "",
+        "runtime": 45,
+        "backdrop": null
+    },
+    {
+        "title": "Prison on Fire II",
+        "rating": 6.9,
+        "genre": "Crime / Drame / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/ybMjmFC1oY51i2MZ3XD3o9HaOfg.jpg",
+        "trailer": "https://www.youtube.com/watch?v=8KpdS8O-a4s",
+        "release_date": "2026-09-02",
+        "overview": "En Chine, Ching, un prisonnier s'échappe pour voir son jeune fils, abandonné dans un orphelinat. Mais le chef de la prison est au courant : il s'arrange pour que ching devienne à son insu un agent infiltré dans un terrible clan, dirigé par le noble Dragon...",
+        "tagline": "",
+        "runtime": 113,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/fUm9IwC7aBOEiAqbOYZZipBH5kO.jpg"
+    },
+    {
         "title": "Gérontose",
         "rating": 0,
         "genre": "Horreur / Thriller",
@@ -12,18 +60,6 @@
         "backdrop": null
     },
     {
-        "title": "Le Monde à l'endroit",
-        "rating": 7,
-        "genre": "Documentaire / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/bse4J5F4wMOUuawSS85RbWvaUhs.jpg",
-        "trailer": null,
-        "release_date": "2026-09-30",
-        "overview": "Les blessures de l’enfance ne s’effacent pas, elles se réparent. Muriel Salmona, psychiatre de renom et spécialiste des violences sexuelles, consacre sa vie à soigner celles et ceux que l’enfance a brisés. Incarnée à l’écran par Sandrine Bonnaire, Marianne Denicourt et Isild Le Besco, elle accompagne des patients qui affrontent leur passé et ouvrent, pas à pas, le chemin de la réparation.",
-        "tagline": "",
-        "runtime": 88,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/zLRci1gyeYDo2xwxHsJnuqMxkFw.jpg"
-    },
-    {
         "title": "Notre salut",
         "rating": 7.167,
         "genre": "Histoire / Comédie / Drame",
@@ -34,18 +70,6 @@
         "tagline": "",
         "runtime": 153,
         "backdrop": "https://image.tmdb.org/t/p/w1280/iQMFLm9Te2IuJTr08RdBLKTGw8n.jpg"
-    },
-    {
-        "title": "Prison On Fire",
-        "rating": 7,
-        "genre": "Crime / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/ywFyD2t6QylShE8ARjVuftS9iD4.jpg",
-        "trailer": "https://www.youtube.com/watch?v=ITHfxjHb8rQ",
-        "release_date": "2026-09-01",
-        "overview": "Deux amis enfermés en prison vont devenir des frères ennemis, et se lancer dans un combat sans limites...",
-        "tagline": "",
-        "runtime": 98,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/znCviSD3g65irVaIQjxmavpiiZE.jpg"
     },
     {
         "title": "Ton Ombre Heureuse",
@@ -229,7 +253,7 @@
     },
     {
         "title": "Si tu penses bien",
-        "rating": 7.206,
+        "rating": 7.25,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/5ta2QFexeUsZ9AncKkgiWwpJDq.jpg",
         "trailer": null,
@@ -241,7 +265,7 @@
     },
     {
         "title": "Linkin Park Unshatter",
-        "rating": 9.188,
+        "rating": 9.278,
         "genre": "Musique / Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/kHNrz7DBVPrtyMhJxmBm2poS2l9.jpg",
         "trailer": "https://www.youtube.com/watch?v=K9Lpxc7bVTM",
@@ -613,7 +637,7 @@
     },
     {
         "title": "Verity",
-        "rating": 6.9,
+        "rating": 6.6,
         "genre": "Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zLCjFOyjvKqYdkQYYAyTtfJ5mpk.jpg",
         "trailer": "https://www.youtube.com/watch?v=xdPMKhjMSFs",
@@ -625,7 +649,7 @@
     },
     {
         "title": "Digger",
-        "rating": 7.5,
+        "rating": 7.694,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/9BzF32t0U7mOnpzmQ0dyFKv4uZT.jpg",
         "trailer": "https://www.youtube.com/watch?v=job8V254NAE",
@@ -661,7 +685,7 @@
     },
     {
         "title": "Mémoire de fille",
-        "rating": 8,
+        "rating": 7,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/vmSnGjmeu5Ql42ZRo1RYU2HbB3C.jpg",
         "trailer": null,
@@ -709,7 +733,7 @@
     },
     {
         "title": "Kraken",
-        "rating": 5.75,
+        "rating": 6.375,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/hlNRCWGoFFvmRZERUgNUbntO5EU.jpg",
         "trailer": null,
@@ -937,7 +961,7 @@
     },
     {
         "title": "Les Éléphants dans la brume",
-        "rating": 7.125,
+        "rating": 7.3,
         "genre": "Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/fp3zTVnbK8jFbXYYUQdkRKty2ns.jpg",
         "trailer": "https://www.youtube.com/watch?v=bEQlNa5C05M",
@@ -961,7 +985,7 @@
     },
     {
         "title": "Garance",
-        "rating": 7.478,
+        "rating": 7.214,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/opOcBqvFchGd8PWdLGyY2435k1v.jpg",
         "trailer": "https://www.youtube.com/watch?v=JFW2N_EJJf8",
@@ -973,7 +997,7 @@
     },
     {
         "title": "Raison et Sentiments",
-        "rating": 7.767,
+        "rating": 7.7,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/9XNEI2AYgQIIqXper5kOdGTnyf5.jpg",
         "trailer": "https://www.youtube.com/watch?v=mcrwcvad84U",
@@ -985,7 +1009,7 @@
     },
     {
         "title": "Teenage Sex and Death at Camp Miasma",
-        "rating": 6.3,
+        "rating": 6.328,
         "genre": "Comédie / Horreur / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/a5JvHUONtF8RyLL6M5nTlqqMJVE.jpg",
         "trailer": "https://www.youtube.com/watch?v=j9TsiTgYZGw",
@@ -997,7 +1021,7 @@
     },
     {
         "title": "Her Private Hell",
-        "rating": 5.288,
+        "rating": 5.302,
         "genre": "Science-fiction / Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/p9kCdvV9rePQR7QImAiRXJcFeq4.jpg",
         "trailer": "https://www.youtube.com/watch?v=C7E-0t1TfzM",
@@ -1021,7 +1045,7 @@
     },
     {
         "title": "Heart of the Beast",
-        "rating": 7.587,
+        "rating": 7.604,
         "genre": "Aventure / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg",
         "trailer": "https://www.youtube.com/watch?v=UkMuGKqAux4",
@@ -1033,7 +1057,7 @@
     },
     {
         "title": "Leviticus",
-        "rating": 6.789,
+        "rating": 6.794,
         "genre": "Horreur / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/l4wKajF6yWUcCiZaZ7qzMPlBmU2.jpg",
         "trailer": "https://www.youtube.com/watch?v=WXuK0vlFxII",
@@ -1057,7 +1081,7 @@
     },
     {
         "title": "Justin le Juste",
-        "rating": 7,
+        "rating": 7.25,
         "genre": "Comédie / Histoire / Guerre",
         "poster": "https://image.tmdb.org/t/p/w500/anpBUboYU7ENnWjpDEoDl6Y0Swm.jpg",
         "trailer": "https://www.youtube.com/watch?v=oWiOGl4wkJE",
@@ -1225,7 +1249,7 @@
     },
     {
         "title": "L'Invitation",
-        "rating": 7.216,
+        "rating": 7.218,
         "genre": "Comédie / Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/vpMsWT25ITYeYLiUb2HFU9rfzy4.jpg",
         "trailer": "https://www.youtube.com/watch?v=nelkiuezJxg",
@@ -1237,7 +1261,7 @@
     },
     {
         "title": "Resident Evil",
-        "rating": 7.3,
+        "rating": 7.315,
         "genre": "Horreur / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
         "trailer": "https://www.youtube.com/watch?v=mNd1gb19A-c",
@@ -1453,7 +1477,7 @@
     },
     {
         "title": "Rose",
-        "rating": 7.7,
+        "rating": 7.711,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/tMf5ZBUibksefIjoPmxvHliBgYI.jpg",
         "trailer": "https://www.youtube.com/watch?v=KrmkNoxS6t4",
@@ -1477,7 +1501,7 @@
     },
     {
         "title": "Oasis: Don't Look Back in Anger",
-        "rating": 7.5,
+        "rating": 7.476,
         "genre": "Documentaire / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
         "trailer": "https://www.youtube.com/watch?v=X9sIYLtgc_s",
@@ -1489,7 +1513,7 @@
     },
     {
         "title": "Les Ensorceleuses 2",
-        "rating": 6.157,
+        "rating": 6.145,
         "genre": "Romance / Fantastique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/1fnNv1AOzbUG4gvL4AbenUfIlJp.jpg",
         "trailer": "https://www.youtube.com/watch?v=Ho10_4IX1jE",
@@ -1537,7 +1561,7 @@
     },
     {
         "title": "Sovereign",
-        "rating": 6.6,
+        "rating": 6.638,
         "genre": "Crime / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/cWXUMfnMj4ioReprwsDZgt8sghK.jpg",
         "trailer": "https://www.youtube.com/watch?v=7Zqxvn4a0v0",
@@ -1549,7 +1573,7 @@
     },
     {
         "title": "Legend of the White Dragon",
-        "rating": 5.618,
+        "rating": 5.722,
         "genre": "Action / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/kaMEYF6bMuOO3z504EIm7P1zprT.jpg",
         "trailer": "https://www.youtube.com/watch?v=eqcTr34Y1Zw",
@@ -1573,7 +1597,7 @@
     },
     {
         "title": "Lettres d’amour de ma grand-mère",
-        "rating": 8.825,
+        "rating": 8.815,
         "genre": "Drame / Famille / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/A1sistnRovhZ4nBiph2X5sr7Y9N.jpg",
         "trailer": "https://www.youtube.com/watch?v=abeSQSbNXSk",
