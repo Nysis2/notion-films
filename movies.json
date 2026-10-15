@@ -1,5 +1,281 @@
 [
     {
+        "title": "À t'attendre",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/qwNsQrgGRaOFsTYXXA4mFaEnhfq.jpg",
+        "trailer": null,
+        "release_date": "2026-10-18",
+        "overview": "Yelda tente en vain de communiquer avec Achille.",
+        "tagline": "",
+        "runtime": 7,
+        "backdrop": null
+    },
+    {
+        "title": "Je veux bien",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/iXYiQiZFMoiquiAZfbDZlmGTMSB.jpg",
+        "trailer": null,
+        "release_date": "2026-10-14",
+        "overview": "Votée en décembre 2023, la loi Plein Emploi conditionne l'allocation du RSA au fait d'exercer 15 heures d'activités hebdomadaires. Fortement troublés par cette idée que puissent être imposées des \"activités obligatoires\" à des millions de personnes, les auteurs du film se lancent dans une enquête et partent à la rencontre de personnes concernées à différents titres par les conséquences humaines de cette loi.",
+        "tagline": "",
+        "runtime": 71,
+        "backdrop": null
+    },
+    {
+        "title": "NieR:Orchestra Concert 12026 [YoRHa]",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500/sQTGndv0V85nJ10aVBsIGKi5bAy.jpg",
+        "trailer": null,
+        "release_date": "2026-10-17",
+        "overview": "",
+        "tagline": "",
+        "runtime": 0,
+        "backdrop": null
+    },
+    {
+        "title": "Une femme aujourd’hui",
+        "rating": 0,
+        "genre": "Comédie / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/vBNsvbJsb9fnSre8TakYNJbU1ey.jpg",
+        "trailer": null,
+        "release_date": "2026-10-21",
+        "overview": "Juliette, 30 ans, semble avoir tout pour elle : un poste prestigieux dans la finance, une belle maison, une vie rythmée par les voyages et les amours de passage. Lorsqu’elle est agressée par un collègue, son monde s’effondre. Juliette s'engage alors sur un nouveau chemin pour redonner un sens à sa vie.",
+        "tagline": "",
+        "runtime": 123,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/oFsQkBqmxKa9fMHWf24jymZnXf8.jpg"
+    },
+    {
+        "title": "Le Monde à l'envers",
+        "rating": 0,
+        "genre": "Animation",
+        "poster": "https://image.tmdb.org/t/p/w500/zRmRwAZV7AGcnzxFM92ENUK2yvA.jpg",
+        "trailer": null,
+        "release_date": "2026-10-07",
+        "overview": "Un souriceau qui vit la tête à l’envers, un tout petit poisson explorateur et des enfants à l’imagination débordante : ces personnages nous invitent à nous mettre à la place de celles et ceux qui perçoivent le monde différemment pour mieux les comprendre.",
+        "tagline": "",
+        "runtime": 45,
+        "backdrop": null
+    },
+    {
+        "title": "Il n'y aura jamais assez d'images",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/mKDHJ41vydW1Ik5LV2EalI5VAcR.jpg",
+        "trailer": null,
+        "release_date": "2026-09-25",
+        "overview": "Un voyage entre Paris et Monçao, au nord du Portugal. L’occasion de revenir sur les morts de sa vie, le manque d’images, l’émigration et la dimension tragique de ce voyage. Les fantômes et les mémoires se mélangent. Et au bout de la route, peut-être réussir un adieu.",
+        "tagline": "Un essai émouvant et intime sur le deuil, l’émigration et l’identité.",
+        "runtime": 45,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/r8SjbfjPEdmUFEgoWrhwm1dwanl.jpg"
+    },
+    {
+        "title": "Voilà, c’est fini",
+        "rating": 0,
+        "genre": "Comédie / Drame / Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/8vEDL68CXgILQOkMdmY7Fhb4rMz.jpg",
+        "trailer": null,
+        "release_date": "2026-10-12",
+        "overview": "Île Maurice. Une histoire d’amour nait entre Pierre, employé d’hôtel, et Louise, touriste française souffrant d’anorexie. Il lui montre une autre facette de son pays : plages sauvages, vie nocturne, rues populaires... Chacun à sa manière rêve d’ailleurs et d’émancipation. Mais le départ de Louise approche et Pierre se tend à l’idée de rester sur cette île qu’il veut quitter à tout prix. Il jouera le tout pour le tout pour tenter d’échapper à un futur programmé d’avance.",
+        "tagline": "",
+        "runtime": 101,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3NbvW3mgD9hYd77j231gdBrtwSx.jpg"
+    },
+    {
+        "title": "CHRYSALIDE 451",
+        "rating": 0,
+        "genre": "Science-fiction",
+        "poster": "https://image.tmdb.org/t/p/w500/E4FRIWbovX9E3V0VkPnuGHW8Qo.jpg",
+        "trailer": null,
+        "release_date": "2026-10-16",
+        "overview": "Dans un monde en crise, l'Etat construit des cerveaux artificiels comme nouvelles sources d'énergie renouvelable.  Des activistes parviennent à imposer la nouvelle loi Chrysalide, instaurant une pause obligatoire dans les simulations qui surstimulent les cerveaux, considérés comme des êtres sentients.  Grâce à ce nouveau programme, certaines unités se regroupent dans un lieu atypique.",
+        "tagline": "",
+        "runtime": 8,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6t1YAztAPkTJrvxS2LSAcN9XqOF.jpg"
+    },
+    {
+        "title": "Pastis",
+        "rating": 0,
+        "genre": "Drame / Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/8ti1qfnYpF1vYPLO0OXGhhVmoVd.jpg",
+        "trailer": null,
+        "release_date": "2026-10-03",
+        "overview": "Sasha, 20 ans, part en vacances avec son groupe d’amis dans sa maison familiale du Sud de la France. De retour pour la première fois depuis un événement tragique, ce qui devait être un été idyllique devient rapidement étouffant pour elle.",
+        "tagline": "",
+        "runtime": 16,
+        "backdrop": null
+    },
+    {
+        "title": "Si tu penses bien",
+        "rating": 7.333,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/5ta2QFexeUsZ9AncKkgiWwpJDq.jpg",
+        "trailer": null,
+        "release_date": "2026-09-16",
+        "overview": "A Dubaï, Gil rencontre Jacques. Leur coup de foudre débouche sur un mariage précipité qui révèle vite une fracture profonde : Gil ne partage pas la foi dévorante de son mari. Jacques tente de la soumettre à sa vision du monde avec un mantra aux allures de menace.",
+        "tagline": "",
+        "runtime": 94,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/8VjONCVHYgS3PPDuIuzXZBDhFov.jpg"
+    },
+    {
+        "title": "Les Roches Rouges",
+        "rating": 4.7,
+        "genre": "Drame / Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/6q3zCTkbrHw0AhdfWtK0mTQW9tP.jpg",
+        "trailer": "https://www.youtube.com/watch?v=lvW8JtqjqYc",
+        "release_date": "2026-09-23",
+        "overview": "Sur la Côte d’Azur, deux bandes d’enfants s’affrontent à leur jeu favori : sauter des rochers rouges de la Méditerranée. Géo, 5 ans à peine, découvre le temps d’un été un monde où l’amitié se mêle à la rivalité, et où les premiers élans du cœur deviennent source de tensions.",
+        "tagline": "",
+        "runtime": 91,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/wVJPuSrEsSWWTMzYH1xLClAWSkb.jpg"
+    },
+    {
+        "title": "A jamais les premières",
+        "rating": 7.25,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/iCl5UqLHTrJ40ld6dt4QNNoy0gy.jpg",
+        "trailer": null,
+        "release_date": "2026-10-21",
+        "overview": "1970, le tout premier match de football féminin espagnol organisé par un jeune entraîneur, stupéfait par le talent et la passion d’un groupe de jeunes filles.",
+        "tagline": "",
+        "runtime": 106,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/vJryAefq6Ec6NiYdKTvXbFMRalB.jpg"
+    },
+    {
+        "title": "La vie d'une femme",
+        "rating": 6.4,
+        "genre": "Drame / Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/9xAYLvWZGASDKJZjt5XgvD7ugsn.jpg",
+        "trailer": null,
+        "release_date": "2026-09-09",
+        "overview": "Gabrielle, 55 ans, se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
+        "tagline": "",
+        "runtime": 98,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/rFST4zAaG20VSIxSvYO57nhkkV4.jpg"
+    },
+    {
+        "title": "La Gradiva",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/aFrhFiIhdf2klvXq8VFcB06b5pS.jpg",
+        "trailer": "https://www.youtube.com/watch?v=5yY6V9MbEoE",
+        "release_date": "2026-10-21",
+        "overview": "Un groupe de lycéens français part en voyage scolaire à Naples pour découvrir les ruines de Pompéi et ses corps pétrifiés par le Vésuve. C’est là que le vertige les saisit brutalement. L’un après l’autre, ils se laissent submerger par le désir et la colère jusqu’à s’y abandonner complètement.",
+        "tagline": "",
+        "runtime": 145,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/aFO0i3bl4d6o0odPix8xgiVsIYT.jpg"
+    },
+    {
+        "title": "Peking Opera Blues",
+        "rating": 7.2,
+        "genre": "Action / Comédie / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/tQL90q6ttHGwJQCZpwezRFmtd0n.jpg",
+        "trailer": "https://www.youtube.com/watch?v=7BeNzmpB0ZM",
+        "release_date": "2026-10-21",
+        "overview": "Peu de temps après l’instauration de la République de Chine, le pays est soumis à un contrôle militaire, et disputé par différents groupes. Tsao Wan est la fille d’un seigneur de guerre, mais elle appartient secrètement à un groupe de révolutionnaires. Dans un grand jeu de travestissements, de masques et de hasards, elle va participer au renversement du régime. C’est dans le théâtre Peking Opera qu’elle rencontre deux autres femmes, qui vont malgré elles faire partie de la rébellion.",
+        "tagline": "",
+        "runtime": 105,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/kUUPHesQLQePqobQNjW7UD6WOdA.jpg"
+    },
+    {
+        "title": "Klara et le Soleil",
+        "rating": 0,
+        "genre": "Science-fiction / Drame / Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/zJZ1ii7XPAJkdBWKIQN2fyyz5cQ.jpg",
+        "trailer": "https://www.youtube.com/watch?v=wixzainceAE",
+        "release_date": "2026-10-21",
+        "overview": "Lorsque Klara rencontre Josie, chacune perçoit immédiatement chez l'autre une âme soeur. Josie entretient une relation compliquée avec sa mère et toutes deux ont traversé de lourdes épreuves. Mais l'émerveillement sincère de Klara et sa loyauté sans faille commencent peu à peu à apaiser les blessures de cette famille et à apporter de la lumière dans l'univers complexe de Josie.",
+        "tagline": "Découvrez le futur de l'amitié",
+        "runtime": 116,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/s4E7NDJCOG3wqc5psv2RLr9QfUm.jpg"
+    },
+    {
+        "title": "Shaun le Mouton : La Bêêête d'Halloween",
+        "rating": 7.1,
+        "genre": "Animation / Comédie / Famille / Aventure / Horreur",
+        "poster": "https://image.tmdb.org/t/p/w500/poG8LaprHjz2Ka0c6zCvDrVjEUq.jpg",
+        "trailer": "https://www.youtube.com/watch?v=daZMq0AyOMc",
+        "release_date": "2026-10-21",
+        "overview": "À Halloween, les habitants de la ferme de Mossy Bottom se réjouissent des festivités, jusqu’à ce que le Fermier maladroit saccage les citrouilles bien-aimées du troupeau. Lorsque Shaun se transforme en scientifique fou pour résoudre le problème, les choses dérapent : le Fermier disparaît et une bête sauvage rôde dans les bois.",
+        "tagline": "Qu’est-ce qui s’avance là-haut sur la colline ?",
+        "runtime": 81,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg"
+    },
+    {
+        "title": "Wicker",
+        "rating": 0,
+        "genre": "Romance / Fantastique / Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg",
+        "trailer": "https://www.youtube.com/watch?v=UVAki9SGrlg",
+        "release_date": "2026-10-21",
+        "overview": "Mise au ban de son village, une pêcheuse solitaire commande au vannier local un mari en osier. Cet époux improbable se révèle doté d’une sensibilité et de talents qui dépassent toutes ses attentes. À son contact, elle découvre un désir insoupçonné et, peu à peu, s’éprend véritablement de lui. Mais bientôt, son étrange mari attise les convoitises, la jalousie et les fantasmes des villageois, faisant vaciller les certitudes d’une communauté jusque-là bien ordonnée.",
+        "tagline": "",
+        "runtime": 105,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg"
+    },
+    {
+        "title": "Your Mother Your Mother Your Mother",
+        "rating": 7.2,
+        "genre": "Action / Crime / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+        "trailer": "https://www.youtube.com/watch?v=uEcoV-ngH38",
+        "release_date": "2026-10-17",
+        "overview": "Latif, un tueur à gages profondément religieux, a du mal à équilibrer travail, foi et paternité. Lorsque sa femme décède, il se lance dans un voyage désespéré à travers Houston pour protéger ses enfants, affrontant les forces qui se rapprochent de lui – et les croyances qui menacent de s'effondrer à l'intérieur.",
+        "tagline": "",
+        "runtime": 112,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/jiFLiatBtBALlAzV5R72gzspBad.jpg"
+    },
+    {
+        "title": "ஜெயிலர் 2",
+        "rating": 0,
+        "genre": "Action / Comédie / Crime / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
+        "trailer": null,
+        "release_date": "2026-10-15",
+        "overview": "",
+        "tagline": "",
+        "runtime": 163,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg"
+    },
+    {
+        "title": "The Good Boy",
+        "rating": 7.246,
+        "genre": "Thriller / Drame / Mystère / Horreur",
+        "poster": "https://image.tmdb.org/t/p/w500/e5qRxuVJNfgZHfFAxts0wK2Fubb.jpg",
+        "trailer": "https://www.youtube.com/watch?v=qWkPjI-Brkc",
+        "release_date": "2026-10-21",
+        "overview": "Tommy, jeune délinquant insouciant et impulsif naviguant entre fêtes alcoolisées et violences incontrôlables, se réveille un matin enchaîné dans la cave d’une maison. Il est à la merci de ses occupants, une étrange famille qui s’est donnée pour mission de le remettre dans le droit chemin. Quelqu’en soit le prix.",
+        "tagline": "",
+        "runtime": 110,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6AYl4PU29o2WXUPZzAo56GVQs5r.jpg"
+    },
+    {
+        "title": "Clayface",
+        "rating": 8.3,
+        "genre": "Horreur / Thriller / Science-fiction",
+        "poster": "https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg",
+        "trailer": "https://www.youtube.com/watch?v=KCR-rz0YfD4",
+        "release_date": "2026-10-21",
+        "overview": "L'ascension fulgurante de Matt Hagen, de gamin des rues de Gotham à star hollywoodienne, est brutalement interrompue lorsqu'un baron du crime le laisse atrocement défiguré. Abandonné de tous et n'ayant plus rien à perdre, Matt se tourne vers un traitement expérimental qui lui rend miraculeusement son apparence... mais altère profondément sa perception de la réalité. Il sombre alors dans une spirale destructrice, consumé par un irrépressible désir de vengeance.",
+        "tagline": "",
+        "runtime": 108,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/kVtOcoUJ68chBD2tmERkdWz7lK5.jpg"
+    },
+    {
+        "title": "L'Île des Souvenirs",
+        "rating": 8.1,
+        "genre": "Animation / Aventure / Fantastique / Comédie / Famille",
+        "poster": "https://image.tmdb.org/t/p/w500/A12dkvb10IgoQxHxU5TXOc6WR4k.jpg",
+        "trailer": "https://www.youtube.com/watch?v=PhgY8cOJiQA",
+        "release_date": "2026-10-21",
+        "overview": "Jo et Raissa se retrouvent échouées sur le monde fantastique de l'île oubliée de Nakali. Elles découvrent que le seul moyen de rentrer chez elles pourrait bien leur coûter toute une vie de souvenirs et d'émotions.",
+        "tagline": "Votre meilleure amitié mérite qu'on se batte pour elle.",
+        "runtime": 109,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/cNICUho5uiAGkfCAQq1ihyaMla4.jpg"
+    },
+    {
         "title": "We Were Never Friends",
         "rating": 0,
         "genre": "Comédie / Drame",
@@ -22,18 +298,6 @@
         "tagline": "",
         "runtime": 13,
         "backdrop": "https://image.tmdb.org/t/p/w1280/a4b8dKVzvN9UXATu980ZYL1hEUw.jpg"
-    },
-    {
-        "title": "Le Monde à l'endroit",
-        "rating": 7,
-        "genre": "Documentaire / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/bse4J5F4wMOUuawSS85RbWvaUhs.jpg",
-        "trailer": null,
-        "release_date": "2026-09-30",
-        "overview": "Les blessures de l’enfance ne s’effacent pas, elles se réparent. Muriel Salmona, psychiatre de renom et spécialiste des violences sexuelles, consacre sa vie à soigner celles et ceux que l’enfance a brisés. Incarnée à l’écran par Sandrine Bonnaire, Marianne Denicourt et Isild Le Besco, elle accompagne des patients qui affrontent leur passé et ouvrent, pas à pas, le chemin de la réparation.",
-        "tagline": "",
-        "runtime": 88,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/zLRci1gyeYDo2xwxHsJnuqMxkFw.jpg"
     },
     {
         "title": "Le Roi du Game",
@@ -70,18 +334,6 @@
         "tagline": "",
         "runtime": 104,
         "backdrop": "https://image.tmdb.org/t/p/w1280/jJO3MPRW0uaksOdX8YaotkyB4w7.jpg"
-    },
-    {
-        "title": "PASTIS",
-        "rating": 0,
-        "genre": "Comédie / Drame / Romance",
-        "poster": "https://image.tmdb.org/t/p/w500/kxWg8lGMrO6zCRPeBLSoe97zm2Q.jpg",
-        "trailer": null,
-        "release_date": "2026-10-03",
-        "overview": "Sasha, 20 ans, part en vacances avec son groupe d’amis dans sa maison d'enfance dans le Sud de la France. De retour pour la première fois depuis la mort de sa soeur, ce qui devait être un été idyllique devient rapidement étouffant pour elle.",
-        "tagline": "",
-        "runtime": 16,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/xbmG5BwSny9b95dilIeQ5cW20dJ.jpg"
     },
     {
         "title": "Beaux Seigneurs",
@@ -229,7 +481,7 @@
     },
     {
         "title": "Le corset",
-        "rating": 8.7,
+        "rating": 7.667,
         "genre": "Animation / Drame / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/h4YDklaLjbgdu9yUr6vNybnrnzX.jpg",
         "trailer": null,
@@ -325,7 +577,7 @@
     },
     {
         "title": "Le Jour de son retour",
-        "rating": 5.917,
+        "rating": 5.9,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/7AhrVx0nmck1sYNObRxOQDaxdGt.jpg",
         "trailer": "https://www.youtube.com/watch?v=-o39M6N24Dk",
@@ -349,7 +601,7 @@
     },
     {
         "title": "Les Misérables",
-        "rating": 8.5,
+        "rating": 8.375,
         "genre": "Histoire / Romance / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/tY3CoBNTCpvJayVRLqIIGDa4Ep8.jpg",
         "trailer": "https://www.youtube.com/watch?v=PyBTjrK43Hg",
@@ -481,7 +733,7 @@
     },
     {
         "title": "NAZA",
-        "rating": 8.116,
+        "rating": 8.163,
         "genre": "Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
         "trailer": "https://www.youtube.com/watch?v=40KW6knYMo4",
@@ -493,7 +745,7 @@
     },
     {
         "title": "Englouti",
-        "rating": 10,
+        "rating": 8.6,
         "genre": "Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/qLt9F35AdGKDXPSJtqH5DERoigI.jpg",
         "trailer": "https://www.youtube.com/watch?v=Dw-5ZGapGTQ",
@@ -505,7 +757,7 @@
     },
     {
         "title": "Street Fighter",
-        "rating": 8,
+        "rating": 6.818,
         "genre": "Action / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg",
         "trailer": "https://www.youtube.com/watch?v=U6sbm1OaJb8",
@@ -517,7 +769,7 @@
     },
     {
         "title": "Malfaisante",
-        "rating": 6.005,
+        "rating": 5.98,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg",
         "trailer": "https://www.youtube.com/watch?v=-mnTITqqiT0",
@@ -622,18 +874,6 @@
         "tagline": "",
         "runtime": 12,
         "backdrop": null
-    },
-    {
-        "title": "Aïe Aïe A.I.",
-        "rating": 0,
-        "genre": "Comédie / Action",
-        "poster": "https://image.tmdb.org/t/p/w500/vC3zWJ0aMvtAhyPOUrdEgM2QJ2X.jpg",
-        "trailer": null,
-        "release_date": "2026-09-03",
-        "overview": "",
-        "tagline": "",
-        "runtime": 7,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/3bp610BxBoNziOKDiFAbKVK3xNX.jpg"
     },
     {
         "title": "La guerre des sens",
@@ -781,7 +1021,7 @@
     },
     {
         "title": "Doraemon et le château sous-marin",
-        "rating": 6.917,
+        "rating": 6.846,
         "genre": "Animation / Aventure / Fantastique / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/ncJWnLIT2Lb1Hb4WETX3l5TfuO8.jpg",
         "trailer": null,
@@ -793,7 +1033,7 @@
     },
     {
         "title": "The Social Reckoning",
-        "rating": 7.114,
+        "rating": 6.969,
         "genre": "Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/6B5gNoTM9PCC7jXTFd7tJGFfeFa.jpg",
         "trailer": "https://www.youtube.com/watch?v=R8ANzYpaZaY",
@@ -877,7 +1117,7 @@
     },
     {
         "title": "Ducobu et le fantôme de Saint-Potache",
-        "rating": 0,
+        "rating": 4,
         "genre": "Comédie / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/cajEgiVkKPuayykvcLlXeaSRdyp.jpg",
         "trailer": null,
@@ -901,7 +1141,7 @@
     },
     {
         "title": "La Maison de nos rêves",
-        "rating": 6,
+        "rating": 5,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/f6qgo7R1teVQAPn8lQnHbr3HnRd.jpg",
         "trailer": null,
@@ -997,7 +1237,7 @@
     },
     {
         "title": "Haute solitude",
-        "rating": 0,
+        "rating": 7,
         "genre": "Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500None",
         "trailer": null,
@@ -1069,7 +1309,7 @@
     },
     {
         "title": "Verity",
-        "rating": 6.337,
+        "rating": 6.404,
         "genre": "Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zLCjFOyjvKqYdkQYYAyTtfJ5mpk.jpg",
         "trailer": "https://www.youtube.com/watch?v=xdPMKhjMSFs",
@@ -1117,7 +1357,7 @@
     },
     {
         "title": "Mémoire de fille",
-        "rating": 8.571,
+        "rating": 8.6,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/vmSnGjmeu5Ql42ZRo1RYU2HbB3C.jpg",
         "trailer": null,
@@ -1357,7 +1597,7 @@
     },
     {
         "title": "Garance",
-        "rating": 6.972,
+        "rating": 6.991,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/opOcBqvFchGd8PWdLGyY2435k1v.jpg",
         "trailer": "https://www.youtube.com/watch?v=JFW2N_EJJf8",
@@ -1369,7 +1609,7 @@
     },
     {
         "title": "Teenage Sex and Death at Camp Miasma",
-        "rating": 6.2,
+        "rating": 6.165,
         "genre": "Comédie / Horreur / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/a5JvHUONtF8RyLL6M5nTlqqMJVE.jpg",
         "trailer": "https://www.youtube.com/watch?v=j9TsiTgYZGw",
@@ -1381,7 +1621,7 @@
     },
     {
         "title": "Her Private Hell",
-        "rating": 5.4,
+        "rating": 5.444,
         "genre": "Science-fiction / Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/p9kCdvV9rePQR7QImAiRXJcFeq4.jpg",
         "trailer": "https://www.youtube.com/watch?v=C7E-0t1TfzM",
@@ -1393,7 +1633,7 @@
     },
     {
         "title": "Primetime",
-        "rating": 6.878,
+        "rating": 6.9,
         "genre": "Crime / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/rhF8JALH8wrxKtXSCAB7a09tWsc.jpg",
         "trailer": "https://www.youtube.com/watch?v=C0NZa01qTRU",
@@ -1405,7 +1645,7 @@
     },
     {
         "title": "Heart of the Beast",
-        "rating": 7.421,
+        "rating": 7.384,
         "genre": "Aventure / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg",
         "trailer": "https://www.youtube.com/watch?v=UkMuGKqAux4",
@@ -1417,7 +1657,7 @@
     },
     {
         "title": "Leviticus",
-        "rating": 6.761,
+        "rating": 6.773,
         "genre": "Horreur / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/l4wKajF6yWUcCiZaZ7qzMPlBmU2.jpg",
         "trailer": "https://www.youtube.com/watch?v=WXuK0vlFxII",
@@ -1537,7 +1777,7 @@
     },
     {
         "title": "Les Contrebandiers",
-        "rating": 6.854,
+        "rating": 6.9,
         "genre": "Drame / Thriller / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/hjM3hITDk5XvWu4cMn7dj7IpwY8.jpg",
         "trailer": "https://www.youtube.com/watch?v=7YpuMymmiJ8",
@@ -1549,7 +1789,7 @@
     },
     {
         "title": "L'Invitation",
-        "rating": 7.213,
+        "rating": 7.206,
         "genre": "Comédie / Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/vpMsWT25ITYeYLiUb2HFU9rfzy4.jpg",
         "trailer": "https://www.youtube.com/watch?v=nelkiuezJxg",
@@ -1561,7 +1801,7 @@
     },
     {
         "title": "Resident Evil",
-        "rating": 7.311,
+        "rating": 7.309,
         "genre": "Horreur / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
         "trailer": "https://www.youtube.com/watch?v=mNd1gb19A-c",
@@ -1620,30 +1860,6 @@
         "backdrop": null
     },
     {
-        "title": "L'Oiseau bariolé",
-        "rating": 7.1,
-        "genre": "Guerre / Drame / Horreur / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/dR42jl6diIiXgoBbCOzUIgF4pH4.jpg",
-        "trailer": "https://www.youtube.com/watch?v=bRDuc3IdOn8",
-        "release_date": "2026-09-07",
-        "overview": "À l’aube de la Seconde Guerre mondiale, un jeune garçon abandonné erre dans une Europe de l’Est dévastée. Témoin des pires atrocités ou subissant lui-même de terribles persécutions, il devra se battre pour survivre et espérer.",
-        "tagline": "Aucune guerre n'est juste",
-        "runtime": 169,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/v4buFsMejWGCrEsLE9wy4SCNv5W.jpg"
-    },
-    {
-        "title": "La Palestine est là... où elle a toujours été",
-        "rating": 0,
-        "genre": "Histoire",
-        "poster": "https://image.tmdb.org/t/p/w500/2L2G2SoTb9EN19pkoIPeoshryXO.jpg",
-        "trailer": null,
-        "release_date": "2026-09-05",
-        "overview": "À travers des photos d'archives israéliennes de la Nakba, Ariella Aïsha Azoulay propose de revenir aux débuts de la colonisation en Palestine.",
-        "tagline": "",
-        "runtime": 46,
-        "backdrop": null
-    },
-    {
         "title": "Billie Melody",
         "rating": 6,
         "genre": "Drame",
@@ -1657,7 +1873,7 @@
     },
     {
         "title": "Adieu Monde Cruel",
-        "rating": 5.786,
+        "rating": 5.8,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/xH1qX01mmzkuS3kkRrV7zRHanbU.jpg",
         "trailer": "https://www.youtube.com/watch?v=AOHqEjTnzbI",
@@ -1705,7 +1921,7 @@
     },
     {
         "title": "Rose",
-        "rating": 7.7,
+        "rating": 7.67,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/tMf5ZBUibksefIjoPmxvHliBgYI.jpg",
         "trailer": "https://www.youtube.com/watch?v=KrmkNoxS6t4",
@@ -1714,18 +1930,6 @@
         "tagline": "",
         "runtime": 94,
         "backdrop": "https://image.tmdb.org/t/p/w1280/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg"
-    },
-    {
-        "title": "Nimrods : A Green Day Comedy",
-        "rating": 6.8,
-        "genre": "Comédie / Musique",
-        "poster": "https://image.tmdb.org/t/p/w500/aebmSpFu1lUV78PtOpqMUn4d82B.jpg",
-        "trailer": "https://www.youtube.com/watch?v=5mtbOhpqroo",
-        "release_date": "2026-09-04",
-        "overview": "Tommy, un lycéen qui reçoit un appel l'invitant, avec son groupe, à assurer la première partie de Green Day lors du concert du Nouvel An. Ce qu'il ignore, c'est qu'il s'agit d'un canular minutieusement orchestré par son grand frère, Wayne. Convaincu que sa vie est sur le point de basculer, Tommy dérobe la voiture de Wayne et embarque son groupe dans un périple de Kansas City à Los Angeles, déterminé à arriver à temps en seulement trois jours.",
-        "tagline": "",
-        "runtime": 116,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/nwkfCcHIqzo5H4rsG4ug5AVdGZM.jpg"
     },
     {
         "title": "Oasis: Don't Look Back in Anger",
@@ -1741,7 +1945,7 @@
     },
     {
         "title": "Les Ensorceleuses 2",
-        "rating": 6.336,
+        "rating": 6.363,
         "genre": "Romance / Fantastique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/1fnNv1AOzbUG4gvL4AbenUfIlJp.jpg",
         "trailer": "https://www.youtube.com/watch?v=Ho10_4IX1jE",
@@ -1753,7 +1957,7 @@
     },
     {
         "title": "Pressure",
-        "rating": 7.7,
+        "rating": 7.708,
         "genre": "Thriller / Histoire / Guerre",
         "poster": "https://image.tmdb.org/t/p/w500/3Dp1V6QHzrlSYlTlGZwHx7uPrR7.jpg",
         "trailer": "https://www.youtube.com/watch?v=jjdOSchcobk",
