@@ -1,15 +1,111 @@
 [
     {
-        "title": "Le Monde à l'endroit",
-        "rating": 7.25,
-        "genre": "Documentaire / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/bse4J5F4wMOUuawSS85RbWvaUhs.jpg",
-        "trailer": null,
-        "release_date": "2026-09-30",
-        "overview": "Les blessures de l’enfance ne s’effacent pas, elles se réparent. Muriel Salmona, psychiatre de renom et spécialiste des violences sexuelles, consacre sa vie à soigner celles et ceux que l’enfance a brisés. Incarnée à l’écran par Sandrine Bonnaire, Marianne Denicourt et Isild Le Besco, elle accompagne des patients qui affrontent leur passé et ouvrent, pas à pas, le chemin de la réparation.",
+        "title": "세븐틴 월드 투어 '뉴_'",
+        "rating": 0,
+        "genre": "Musique / Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/p3SW5xiKdUJ0zIY3hMyyCQ6tcru.jpg",
+        "trailer": "https://www.youtube.com/watch?v=q0XKUFGn_M4",
+        "release_date": "2026-10-24",
+        "overview": "",
         "tagline": "",
-        "runtime": 88,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/zLRci1gyeYDo2xwxHsJnuqMxkFw.jpg"
+        "runtime": 103,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7aIA1FYNwowpAhYEBTxDlbjZqUa.jpg"
+    },
+    {
+        "title": "Une vie manifeste",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/qO2Kir2yyz2sr8j4UxXXhrsuLS.jpg",
+        "trailer": null,
+        "release_date": "2026-10-17",
+        "overview": "\"Chers camarades, ne permettez pas que l’on fasse de moi autre chose que ce que je suis et veux être : une combattante révolutionnaire.\" De la Seconde Guerre mondiale à la Guerre d’Algérie, des bancs de l’IDHEC aux guérillas des FAR du Guatemala, en passant par le Cuba des années Castro-Guevara, Une vie manifeste retrace le destin hors du commun de Michele Firk une femme éprise de cinéma, de révolution, amoureuse libre, totalement affranchie des règles de l’époque.",
+        "tagline": "",
+        "runtime": 86,
+        "backdrop": null
+    },
+    {
+        "title": "Ma Nudité Ne Sert à Rien",
+        "rating": 2,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/bF0SMcOgpY4LJikvbmJ4VpLBMO0.jpg",
+        "trailer": null,
+        "release_date": "2026-10-28",
+        "overview": "Paris, de nos jours. Marina de Van bataille avec ses relations sentimentales, sa propre image et sa nudité à une époque où les applis de rencontres et les échanges en ligne sont légion. Dans cet autoportrait cru d’une femme approchant la cinquantaine et ce qu’on appelle « l’ère de la transparence des femmes qu’on ne désire plus », la réalisatrice s’affranchit des limites, avec humour et sincérité.",
+        "tagline": "",
+        "runtime": 85,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/ajSgxep9phrR9SQuou6dWdI3TB2.jpg"
+    },
+    {
+        "title": "Le Monde à l'envers",
+        "rating": 0,
+        "genre": "Animation",
+        "poster": "https://image.tmdb.org/t/p/w500/zRmRwAZV7AGcnzxFM92ENUK2yvA.jpg",
+        "trailer": null,
+        "release_date": "2026-10-07",
+        "overview": "Un souriceau qui vit la tête à l’envers, un tout petit poisson explorateur et des enfants à l’imagination débordante : ces personnages nous invitent à nous mettre à la place de celles et ceux qui perçoivent le monde différemment pour mieux les comprendre.",
+        "tagline": "",
+        "runtime": 45,
+        "backdrop": null
+    },
+    {
+        "title": "Mylène Farmer : Égrégore - L'Avant-Première",
+        "rating": 0,
+        "genre": "Musique",
+        "poster": "https://image.tmdb.org/t/p/w500/q97uch86HTkTKrnxJ9HymMey2Wj.jpg",
+        "trailer": null,
+        "release_date": "2026-10-27",
+        "overview": "Soyez les premiers à vous immerger dans le nouvel album événement de Mylène Farmer, mis en images.",
+        "tagline": "Le nouvel album événement de Mylène Farmer, mis en images.",
+        "runtime": 65,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/xNZlOc0zqPcwMgRwS6Os4zf519c.jpg"
+    },
+    {
+        "title": "Le Mystère Lucy Lost",
+        "rating": 0,
+        "genre": "Aventure / Animation / Famille / Fantastique / Guerre",
+        "poster": "https://image.tmdb.org/t/p/w500/ucEnLbYQDdzE0bjGPhnVEbdu7kd.jpg",
+        "trailer": null,
+        "release_date": "2026-10-28",
+        "overview": "Lucy vit avec sa famille dans un village sur une petite île isolée. Ses dons extraordinaires suscitent le rejet des habitants. Lorsqu'elle rencontre Milly - une petite fille qu'elle seule peut voir - Lucy embarque dans une grande aventure pour percer le secret de ses mystérieux pouvoirs.",
+        "tagline": "",
+        "runtime": 85,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/lhb1NoiKScRaApfn9rqaG9uS4MY.jpg"
+    },
+    {
+        "title": "Agnès de Dieu",
+        "rating": 6.3,
+        "genre": "Drame / Mystère",
+        "poster": "https://image.tmdb.org/t/p/w500/wfaP3a6Il9MJkoB4jroBDRaBl1p.jpg",
+        "trailer": "https://www.youtube.com/watch?v=JAc0C_1G0B8",
+        "release_date": "2026-10-11",
+        "overview": "Par une froide nuit d'hiver dans un couvent canadien. La jeune novice Sœur Agnès baigne dans son sang. Dans une corbeille a papier, la mère supérieure Mère Mariam découvre un nouveau-né étranglé… Le Dr. Martha Livingston est alors mandaté en tant que psychiatre, par le tribunal pour statuer sur la santé mentale de Sœur Agnès.",
+        "tagline": "",
+        "runtime": 98,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/jtpnnGqe8tiDPsFsW91kB8wHKfa.jpg"
+    },
+    {
+        "title": "Moulin",
+        "rating": 0,
+        "genre": "Histoire / Drame / Guerre",
+        "poster": "https://image.tmdb.org/t/p/w500/niEnEAPjqc2Mey6IiVPtBun45ZV.jpg",
+        "trailer": "https://www.youtube.com/watch?v=nBpFEz3rj_0",
+        "release_date": "2026-10-28",
+        "overview": "Jean Moulin est parachuté en France occupée pour unifier les réseaux de la Résistance, sous l’égide du général de Gaulle. Malgré ses efforts pour rester dans l’ombre, Moulin est trahi puis livré à la Gestapo à Lyon, dirigée par l’impitoyable Klaus Barbie. Torturé sans relâche, il ne cède jamais. Sa détermination silencieuse contribuera à galvaniser les forces de la Résistance et à faire naître un nouvel esprit de combat et de liberté en France…",
+        "tagline": "",
+        "runtime": 130,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/bcH6CmYcHuPnAQXUhW0Rr5hFuvc.jpg"
+    },
+    {
+        "title": "ది ప్యారడైజ్",
+        "rating": 4.4,
+        "genre": "Action / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
+        "trailer": null,
+        "release_date": "2026-09-24",
+        "overview": "",
+        "tagline": "",
+        "runtime": 174,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/7AcH5TFppoMusNkCBLaQP6UOODp.jpg"
     },
     {
         "title": "Fiammetta's 30",
@@ -61,7 +157,7 @@
     },
     {
         "title": "Les Roches Rouges",
-        "rating": 4.7,
+        "rating": 4.667,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/6q3zCTkbrHw0AhdfWtK0mTQW9tP.jpg",
         "trailer": "https://www.youtube.com/watch?v=lvW8JtqjqYc",
@@ -228,18 +324,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/vJryAefq6Ec6NiYdKTvXbFMRalB.jpg"
     },
     {
-        "title": "La vie d'une femme",
-        "rating": 6.4,
-        "genre": "Drame / Comédie",
-        "poster": "https://image.tmdb.org/t/p/w500/9xAYLvWZGASDKJZjt5XgvD7ugsn.jpg",
-        "trailer": null,
-        "release_date": "2026-09-09",
-        "overview": "Gabrielle, 55 ans, se consacre corps et âme à son métier. Chirurgienne et cheffe de service dans un hôpital public, elle court et se démultiplie, assaillie de responsabilités. Il lui reste peu de temps pour sa vie privée — un mari qui l’aime et une mère dont elle doit s’occuper. Lorsqu'une romancière vient passer quelques semaines dans son service pour les besoins d’un livre, son équilibre vacille. Dans le quotidien que Gabrielle s’est construit, y a-t-il de la place pour l’inattendu ?",
-        "tagline": "",
-        "runtime": 98,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/rFST4zAaG20VSIxSvYO57nhkkV4.jpg"
-    },
-    {
         "title": "Peking Opera Blues",
         "rating": 7.2,
         "genre": "Action / Comédie / Drame",
@@ -265,7 +349,7 @@
     },
     {
         "title": "Shaun le Mouton : La Bêêête d'Halloween",
-        "rating": 7.22,
+        "rating": 7.327,
         "genre": "Animation / Comédie / Famille / Aventure / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/poG8LaprHjz2Ka0c6zCvDrVjEUq.jpg",
         "trailer": "https://www.youtube.com/watch?v=daZMq0AyOMc",
@@ -277,7 +361,7 @@
     },
     {
         "title": "Wicker",
-        "rating": 0,
+        "rating": 1,
         "genre": "Romance / Fantastique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg",
         "trailer": "https://www.youtube.com/watch?v=UVAki9SGrlg",
@@ -289,7 +373,7 @@
     },
     {
         "title": "Your Mother Your Mother Your Mother",
-        "rating": 7.8,
+        "rating": 7.444,
         "genre": "Action / Crime / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
         "trailer": "https://www.youtube.com/watch?v=uEcoV-ngH38",
@@ -313,7 +397,7 @@
     },
     {
         "title": "The Good Boy",
-        "rating": 7.255,
+        "rating": 7.249,
         "genre": "Thriller / Drame / Mystère / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/e5qRxuVJNfgZHfFAxts0wK2Fubb.jpg",
         "trailer": "https://www.youtube.com/watch?v=qWkPjI-Brkc",
@@ -325,7 +409,7 @@
     },
     {
         "title": "Clayface",
-        "rating": 7.9,
+        "rating": 8.2,
         "genre": "Horreur / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg",
         "trailer": "https://www.youtube.com/watch?v=f7jlCqdtwdM",
@@ -337,7 +421,7 @@
     },
     {
         "title": "L'Île des Souvenirs",
-        "rating": 7.91,
+        "rating": 7.86,
         "genre": "Animation / Aventure / Fantastique / Comédie / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/A12dkvb10IgoQxHxU5TXOc6WR4k.jpg",
         "trailer": "https://www.youtube.com/watch?v=PhgY8cOJiQA",
@@ -361,7 +445,7 @@
     },
     {
         "title": "Le Roi du Game",
-        "rating": 0,
+        "rating": 6,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/14ZOv50ohE08thcA1uIdecIddqE.jpg",
         "trailer": null,
@@ -600,20 +684,8 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/ddhLCe1gje0mUXTQjrxZkHPlBv1.jpg"
     },
     {
-        "title": "Alice Appears",
-        "rating": 0,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/5d1bhs1we9oa4E6O52BI6zOkWPk.jpg",
-        "trailer": null,
-        "release_date": "2026-09-11",
-        "overview": "Alice s’ennuie dans sa vie monotone. Dans un désir de se reconnecter avec le flux de la vie, elle prend conscience d'une réalité onirique plus accessible qu’elle ne le pense.",
-        "tagline": "alice is bored.",
-        "runtime": 30,
-        "backdrop": null
-    },
-    {
         "title": "Solo Mamma",
-        "rating": 7.2,
+        "rating": 7.667,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/l57DviQNrx9p23vGwDmpAkUZKIo.jpg",
         "trailer": "https://www.youtube.com/watch?v=5C5Ydvv2qIY",
@@ -649,7 +721,7 @@
     },
     {
         "title": "Les Misérables",
-        "rating": 6.958,
+        "rating": 6.923,
         "genre": "Histoire / Romance / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/tY3CoBNTCpvJayVRLqIIGDa4Ep8.jpg",
         "trailer": "https://www.youtube.com/watch?v=PyBTjrK43Hg",
@@ -661,7 +733,7 @@
     },
     {
         "title": "Minotaure",
-        "rating": 7.921,
+        "rating": 7.9,
         "genre": "Drame / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/7XH2vaVsishBS0GuCgO3bOXfCaB.jpg",
         "trailer": "https://www.youtube.com/watch?v=wdFIMrC4oW8",
@@ -673,7 +745,7 @@
     },
     {
         "title": "Raison et Sentiments",
-        "rating": 7.354,
+        "rating": 7.3,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/9XNEI2AYgQIIqXper5kOdGTnyf5.jpg",
         "trailer": "https://www.youtube.com/watch?v=OFLyW0lxFU0",
@@ -781,7 +853,7 @@
     },
     {
         "title": "NAZA",
-        "rating": 8.074,
+        "rating": 8.13,
         "genre": "Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
         "trailer": "https://www.youtube.com/watch?v=40KW6knYMo4",
@@ -793,7 +865,7 @@
     },
     {
         "title": "Englouti",
-        "rating": 6.679,
+        "rating": 6.619,
         "genre": "Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/qLt9F35AdGKDXPSJtqH5DERoigI.jpg",
         "trailer": "https://www.youtube.com/watch?v=Dw-5ZGapGTQ",
@@ -805,7 +877,7 @@
     },
     {
         "title": "Street Fighter",
-        "rating": 6.3,
+        "rating": 6.283,
         "genre": "Action / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg",
         "trailer": "https://www.youtube.com/watch?v=U6sbm1OaJb8",
@@ -817,7 +889,7 @@
     },
     {
         "title": "Malfaisante",
-        "rating": 6,
+        "rating": 5.942,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg",
         "trailer": "https://www.youtube.com/watch?v=-mnTITqqiT0",
@@ -889,7 +961,7 @@
     },
     {
         "title": "Notre salut",
-        "rating": 6.7,
+        "rating": 6.635,
         "genre": "Histoire / Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/tFzSSetNzvdaxms6RLfr2pyu9sM.jpg",
         "trailer": null,
@@ -945,18 +1017,6 @@
         "overview": "Nous sommes parties à la rencontre du punk aujourd'hui, à Strasbourg. Un road-movie documentaire fait de nuits libres, queer et féministes. Pour nous, le punk c'était des caveaux, de la bière, de la musique trop forte et des mecs à crêtes. Il était comme figé dans les années 80 avec plein de clichés. Mais le punk ça n'est plus vraiment ça. Aujourd'hui, il s'invente dans la nuit, entre folk, rap et électro. Il déborde, lutte et s'affranchit. Il est queer, féministe et écologiste. Et comme un secret, on nous a confié : \"le punk, c'est faire autrement et sans demander la permission\". Alors c'est ce que l'on a fait. On a pris notre caméra et on a plongé dans la nuit strasbourgeoise. Comme dans un road movie documentaire, et avec une question en tête : c'est quoi le punk aujourd'hui ?",
         "tagline": "",
         "runtime": 52,
-        "backdrop": null
-    },
-    {
-        "title": "Commis d'office",
-        "rating": 0,
-        "genre": "Comédie",
-        "poster": "https://image.tmdb.org/t/p/w500/m0D6fuMgLkNbq9ATDBsHQH3HBkh.jpg",
-        "trailer": null,
-        "release_date": "2026-09-09",
-        "overview": "Daniel Wang , cuisinier asiatique , se fait agresser par Lila, une jeune femme désœuvrée qui tente de lui dérober sa recette. Blessé gravement aux mains pendant l'altercation, Daniel se trouve dans l'incapacité de cuisiner et par la même dans une situation financière inextricable. Une députée travaillant sur un projet de loi où les accusés pourraient être mis à disposition des victimes, propose alors au juge d'application des peines de faire un test sur ce cas précis : alors que tout les oppose, Lila devient par obligation la commis du chef, le temps de sa convalescence.",
-        "tagline": "",
-        "runtime": 81,
         "backdrop": null
     },
     {
@@ -1081,7 +1141,7 @@
     },
     {
         "title": "The Social Reckoning",
-        "rating": 6.956,
+        "rating": 6.933,
         "genre": "Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/6B5gNoTM9PCC7jXTFd7tJGFfeFa.jpg",
         "trailer": "https://www.youtube.com/watch?v=R8ANzYpaZaY",
@@ -1201,7 +1261,7 @@
     },
     {
         "title": "Ni vue, ni connue",
-        "rating": 5.536,
+        "rating": 5.833,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/sXqiQw6cwZlp4B8OnT3LRGC6wgR.jpg",
         "trailer": "https://www.youtube.com/watch?v=j-FTg6rNWgk",
@@ -1246,18 +1306,6 @@
         "tagline": "",
         "runtime": 11,
         "backdrop": "https://image.tmdb.org/t/p/w1280/4fOvZCwxJbi1Nm4qX5leVpluTmx.jpg"
-    },
-    {
-        "title": "Rework*",
-        "rating": 10,
-        "genre": "",
-        "poster": "https://image.tmdb.org/t/p/w500/ld5jBhumL3sbk70VstpjPwc33mR.jpg",
-        "trailer": null,
-        "release_date": "2026-09-14",
-        "overview": "",
-        "tagline": "",
-        "runtime": 37,
-        "backdrop": null
     },
     {
         "title": "Détective Conan : L'Ange Déchu de l'Asphalte",
@@ -1344,20 +1392,8 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/ickUXG5jIuBmjgiLIjseX8nlm6M.jpg"
     },
     {
-        "title": "ది ప్యారడైస్",
-        "rating": 4.4,
-        "genre": "Action / Thriller / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/9k5F5Lk2bUP7ODifk1KP5Vw8yGm.jpg",
-        "trailer": null,
-        "release_date": "2026-09-24",
-        "overview": "",
-        "tagline": "",
-        "runtime": 174,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/7AcH5TFppoMusNkCBLaQP6UOODp.jpg"
-    },
-    {
         "title": "Verity",
-        "rating": 6.37,
+        "rating": 6.4,
         "genre": "Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zLCjFOyjvKqYdkQYYAyTtfJ5mpk.jpg",
         "trailer": "https://www.youtube.com/watch?v=xdPMKhjMSFs",
@@ -1369,7 +1405,7 @@
     },
     {
         "title": "Digger",
-        "rating": 7.5,
+        "rating": 7.483,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/9BzF32t0U7mOnpzmQ0dyFKv4uZT.jpg",
         "trailer": "https://www.youtube.com/watch?v=job8V254NAE",
@@ -1405,7 +1441,7 @@
     },
     {
         "title": "Mémoire de fille",
-        "rating": 8.75,
+        "rating": 8.8,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/vmSnGjmeu5Ql42ZRo1RYU2HbB3C.jpg",
         "trailer": null,
@@ -1500,18 +1536,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/jZfHYpeyCfGPLfTfIBy8uxPcJ8D.jpg"
     },
     {
-        "title": "The Sea",
-        "rating": 8.2,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/yuTnJPKjJ65LGQHsKEmOvTM5BZz.jpg",
-        "trailer": null,
-        "release_date": "2026-09-09",
-        "overview": "Khaled (12 ans), un garçon palestinien de Ramallah, est en route pour voir la mer pour la première fois de sa vie. Au point de contrôle, les autorités israéliennes lui refusent l’entrée. Déterminé, il franchit la frontière clandestinement et poursuit seul sa route vers la mer, traversant un territoire où son regard d’enfant se confronte aux tensions du conflit israélo-palestinien. Pendant ce temps, son père, Ribhi, part à sa recherche…",
-        "tagline": "",
-        "runtime": 93,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/gELNpht3Xdo6oKM5lsV1INvvupt.jpg"
-    },
-    {
         "title": "Nature Cruelle",
         "rating": 10,
         "genre": "Aventure",
@@ -1521,18 +1545,6 @@
         "overview": "Le court-métrage parle d'un homme essayant de fuir des problèmes qui finiront quoi qu'il arrive par le rattraper.",
         "tagline": "",
         "runtime": 13,
-        "backdrop": null
-    },
-    {
-        "title": "Permafrost",
-        "rating": 0,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/nwADc4si7VsDGEDEhDb1DVmReqH.jpg",
-        "trailer": null,
-        "release_date": "2026-09-10",
-        "overview": "",
-        "tagline": "",
-        "runtime": 0,
         "backdrop": null
     },
     {
@@ -1546,18 +1558,6 @@
         "tagline": "",
         "runtime": 39,
         "backdrop": "https://image.tmdb.org/t/p/w1280/w0i2MkQ4NxXC146mTPVOFJaWxFG.jpg"
-    },
-    {
-        "title": "Des feux extrêmes en France : sommes-nous prêts ?",
-        "rating": 0,
-        "genre": "Documentaire / Famille",
-        "poster": "https://image.tmdb.org/t/p/w500/k3A5nLLYqumfmT8lAlk7MkCe3R6.jpg",
-        "trailer": null,
-        "release_date": "2026-09-15",
-        "overview": "Un an après, retour sur l'incendie géant qui a ravagé le département de l'Aude en août 2025. Surnommé \"l'ogre des Corbières\", il a atteint une puissance et une vitesse jamais vues en France. Comment ce feu a-t-il pu détruire l'équivalent de la surface de Paris en huit jours ? Des incendies extrêmes comme celui-ci risquent-ils se multiplier avec le réchauffement climatique ? Sommes-nous bien armés pour faire face à cette nouvelle menace ? Jamy Gourmaud rencontre des pompiers et des pilotes qui ont combattu ce brasier hors-norme et des scientifiques qui tentent de mieux anticiper le comportement du feu. Des habitants de l'Aude sinistrés racontent également ces journées noires.",
-        "tagline": "",
-        "runtime": 52,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/sZpP2OKwvOLSjG1OO2YFAPeXtqJ.jpg"
     },
     {
         "title": "Retour au collège",
@@ -1645,7 +1645,7 @@
     },
     {
         "title": "Garance",
-        "rating": 6.967,
+        "rating": 7.048,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/opOcBqvFchGd8PWdLGyY2435k1v.jpg",
         "trailer": "https://www.youtube.com/watch?v=JFW2N_EJJf8",
@@ -1656,20 +1656,8 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/yLZCngaex5380FB6sEy6o10L9wN.jpg"
     },
     {
-        "title": "Teenage Sex and Death at Camp Miasma",
-        "rating": 6.2,
-        "genre": "Comédie / Horreur / Romance",
-        "poster": "https://image.tmdb.org/t/p/w500/a5JvHUONtF8RyLL6M5nTlqqMJVE.jpg",
-        "trailer": "https://www.youtube.com/watch?v=j9TsiTgYZGw",
-        "release_date": "2026-09-17",
-        "overview": "Un cinéaste queer est embauché pour diriger un nouvel épisode d'une franchise Slasher de longue date. Le réalisateur se fixe sur la perspective de lancer la «dernière fille» du film original, et les deux femmes entrent dans une frénésie de manie psychosexuelle.",
-        "tagline": "",
-        "runtime": 112,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/d1n2ySWSanU34eEsluRjfrjRq52.jpg"
-    },
-    {
         "title": "Her Private Hell",
-        "rating": 5.4,
+        "rating": 5.417,
         "genre": "Science-fiction / Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/p9kCdvV9rePQR7QImAiRXJcFeq4.jpg",
         "trailer": "https://www.youtube.com/watch?v=C7E-0t1TfzM",
@@ -1681,7 +1669,7 @@
     },
     {
         "title": "Primetime",
-        "rating": 6.789,
+        "rating": 6.827,
         "genre": "Crime / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/rhF8JALH8wrxKtXSCAB7a09tWsc.jpg",
         "trailer": "https://www.youtube.com/watch?v=C0NZa01qTRU",
@@ -1693,7 +1681,7 @@
     },
     {
         "title": "Heart of the Beast",
-        "rating": 7.397,
+        "rating": 7.387,
         "genre": "Aventure / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg",
         "trailer": "https://www.youtube.com/watch?v=UkMuGKqAux4",
@@ -1705,7 +1693,7 @@
     },
     {
         "title": "Leviticus",
-        "rating": 6.781,
+        "rating": 6.779,
         "genre": "Horreur / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/l4wKajF6yWUcCiZaZ7qzMPlBmU2.jpg",
         "trailer": "https://www.youtube.com/watch?v=WXuK0vlFxII",
@@ -1788,30 +1776,6 @@
         "backdrop": null
     },
     {
-        "title": "Mr. Setback",
-        "rating": 10,
-        "genre": "Romance / Comédie / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/hqaDQAalWmcRB4sLOdcZULjopK7.jpg",
-        "trailer": null,
-        "release_date": "2026-09-11",
-        "overview": "",
-        "tagline": "",
-        "runtime": 9,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/fyU4pbaUYYrynnPo3vfDC06K6VU.jpg"
-    },
-    {
-        "title": "Les Survivants du Che",
-        "rating": 7.357,
-        "genre": "Documentaire / Animation",
-        "poster": "https://image.tmdb.org/t/p/w500/qTiIhMhbE9i9LN4R9E1fCquW9c1.jpg",
-        "trailer": null,
-        "release_date": "2026-09-09",
-        "overview": "Depuis la victoire de la Révolution cubaine en 1959, trois guérilleros ont juré allégeance à Che Guevara et le suivent dans son combat pour exporter la révolution. En 1967, après leur ultime combat en Bolivie et l’exécution de leur leader, ces hommes de l’ombre vont réussir une incroyable échappée de 2.400 km en cinq mois. Pourchassés par plus de quatre mille soldats de l’armée bolivienne, ils parviendront finalement à rejoindre le Chili. À travers leurs témoignages inédits, Les Survivants du Che nous plonge au coeur de cette chasse à l’homme, où se croisent destins personnels et enjeux de la Guerre Froide.",
-        "tagline": "",
-        "runtime": 94,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/pSzrfthqus4P0lKU7o0ZimPTR8L.jpg"
-    },
-    {
         "title": "Maoussi",
         "rating": 5,
         "genre": "Comédie / Drame",
@@ -1825,7 +1789,7 @@
     },
     {
         "title": "Les Contrebandiers",
-        "rating": 6.909,
+        "rating": 7,
         "genre": "Drame / Thriller / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/hjM3hITDk5XvWu4cMn7dj7IpwY8.jpg",
         "trailer": "https://www.youtube.com/watch?v=7YpuMymmiJ8",
@@ -1837,7 +1801,7 @@
     },
     {
         "title": "L'Invitation",
-        "rating": 7.183,
+        "rating": 7.193,
         "genre": "Comédie / Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/vpMsWT25ITYeYLiUb2HFU9rfzy4.jpg",
         "trailer": "https://www.youtube.com/watch?v=nelkiuezJxg",
@@ -1849,7 +1813,7 @@
     },
     {
         "title": "Resident Evil",
-        "rating": 7.307,
+        "rating": 7.293,
         "genre": "Horreur / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
         "trailer": "https://www.youtube.com/watch?v=mNd1gb19A-c",
@@ -1873,7 +1837,7 @@
     },
     {
         "title": "Histoires de la nuit",
-        "rating": 6.1,
+        "rating": 6.143,
         "genre": "Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/7prAuNDsQPUlHKyXiYNkuofyi0G.jpg",
         "trailer": null,
@@ -1894,125 +1858,5 @@
         "tagline": "La vérité n'est qu'une version parmi d'autres…",
         "runtime": 129,
         "backdrop": "https://image.tmdb.org/t/p/w1280/qnmevogDW12SP7VT656wRXOdxf6.jpg"
-    },
-    {
-        "title": "La Catastrophe",
-        "rating": 0,
-        "genre": "Drame / Mystère",
-        "poster": "https://image.tmdb.org/t/p/w500/yh2pt2QEHjlheTChmKYtz3uUGlp.jpg",
-        "trailer": null,
-        "release_date": "2026-09-15",
-        "overview": "",
-        "tagline": "",
-        "runtime": 0,
-        "backdrop": null
-    },
-    {
-        "title": "Billie Melody",
-        "rating": 6,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/d5wzSNuXcYqmnukQrIFpl77ayN6.jpg",
-        "trailer": null,
-        "release_date": "2026-09-09",
-        "overview": "Suite à la perte de son père dans un accident aux circonstances troubles, Billie, 14 ans, déménage dans une nouvelle ville avec sa mère et son frère. Alors que ces bouleversements accentuent les tensions familiales, elle fait de nouvelles rencontres et se raccroche à la musique qui la relie encore à son père. Billie se lance alors dans une quête qui pourrait aussi bien la sauver que faire voler sa famille en éclats.",
-        "tagline": "",
-        "runtime": 100,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/gP28hZDlrs6nweeu6YHZkcJF3RF.jpg"
-    },
-    {
-        "title": "Adieu Monde Cruel",
-        "rating": 5.8,
-        "genre": "Drame / Romance",
-        "poster": "https://image.tmdb.org/t/p/w500/xH1qX01mmzkuS3kkRrV7zRHanbU.jpg",
-        "trailer": "https://www.youtube.com/watch?v=AOHqEjTnzbI",
-        "release_date": "2026-09-09",
-        "overview": "Otto Vidal, 14 ans, a disparu après avoir adressé une lettre d’adieu aux élèves de sa classe. Alors que tout le monde le croit mort, Léna, une fille de son lycée, le reconnaît une nuit en train d’errer dans les rues de la ville.",
-        "tagline": "",
-        "runtime": 93,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/l43i6Exp5wa6OvrN4IgPWkZuBSx.jpg"
-    },
-    {
-        "title": "Les Héros du Louvre",
-        "rating": 6.063,
-        "genre": "Drame / Histoire",
-        "poster": "https://image.tmdb.org/t/p/w500/lGi41Nho5Gz7dVo3jIEODGqdnZG.jpg",
-        "trailer": null,
-        "release_date": "2026-09-09",
-        "overview": "Paris 1939. Amoureux des arts, Babi Maklouf Benhamou exerce le plus beau métier du monde : il est gardien de nuit au musée du Louvre. Mais alors que la Seconde Guerre Mondiale éclate et que l’invasion allemande est imminente, Jacques Jaujard, le conservateur du musée, organise le sauvetage secret des œuvres d’art afin qu’elles ne tombent pas aux mains des nazis. Il confie alors à Babi l’un des camions chargés de transporter les chefs-d’œuvre hors de Paris. Babi accepte, à une condition : que toute sa famille l’accompagne… C’est le début d’une aventure familiale épique et dangereuse à travers la France occupée, qui va lier à jamais le destin des trésors du Louvre à celui de la famille de Babi Maklouf…",
-        "tagline": "",
-        "runtime": 0,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/9gxqVafITYqeQ7jnZwG32Ky5TDf.jpg"
-    },
-    {
-        "title": "Flush",
-        "rating": 6.7,
-        "genre": "Comédie / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/xDaQZEgnTVHjjUuY9YTZ81qaEgk.jpg",
-        "trailer": "https://www.youtube.com/watch?v=qz2bw3Br2u4",
-        "release_date": "2026-09-09",
-        "overview": "Quand on essaie de sortir la tête du trou, il y a toujours quelqu’un pour vous y replonger. Prenez Luc, un junkie à la dérive. Sa femme l’a quitté. Sa fille a été confiée aux services sociaux. Alors qu’il tente de reconquérir son ex devenue serveuse dans un bar, il se retrouve mêlé à un trafic de drogue. Une bagarre éclate. Laissé pour mort, le crâne coincé dans le trou d’une toilette à la turque, il aura la nuit pour se sortir de là et recomposer sa famille perdue.",
-        "tagline": "",
-        "runtime": 70,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/rx5BlsUw8LBZFf1YPJkv2yuo4H0.jpg"
-    },
-    {
-        "title": "Hair, Paper, Water...",
-        "rating": 0,
-        "genre": "Drame / Documentaire",
-        "poster": "https://image.tmdb.org/t/p/w500/An8yeXt9EdQWDYtvFJgN1lVi5Eo.jpg",
-        "trailer": "https://www.youtube.com/watch?v=eIVfhZ5MA0Y",
-        "release_date": "2026-09-09",
-        "overview": "Dans une grotte, il y a plus de soixante ans, elle est née. Aujourd’hui, elle vit dans un village, entourée de ses enfants et petits-enfants. Parfois, dans ses rêves, sa mère défunte l’appelle – là-bas, dans la grotte.",
-        "tagline": "",
-        "runtime": 71,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/lfotZe0AoS8i6kEo27JXlwVAFPh.jpg"
-    },
-    {
-        "title": "Rose",
-        "rating": 7.676,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/tMf5ZBUibksefIjoPmxvHliBgYI.jpg",
-        "trailer": "https://www.youtube.com/watch?v=KrmkNoxS6t4",
-        "release_date": "2026-09-09",
-        "overview": "Au lendemain de la guerre de Trente Ans, un mystérieux soldat balafré s’installe dans un village isolé d’Allemagne. À force de labeur et de services rendus, il gagne la confiance des habitants et croit enterrer son secret. Alors que les villageois commencent à le considérer comme l’un des leurs, tout bascule lorsqu’ils se mettent à douter de sa véritable identité.",
-        "tagline": "",
-        "runtime": 94,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/1KUzZMCBOtInUFoGUEJJsQyQKVi.jpg"
-    },
-    {
-        "title": "Oasis: Don't Look Back in Anger",
-        "rating": 7.257,
-        "genre": "Documentaire / Musique",
-        "poster": "https://image.tmdb.org/t/p/w500/nuNfPuFZKtkrglYnz2F9weQm3Ng.jpg",
-        "trailer": "https://www.youtube.com/watch?v=X9sIYLtgc_s",
-        "release_date": "2026-09-09",
-        "overview": "DON’T LOOK BACK IN ANGER retrace les retrouvailles des frères Liam et Noel Gallagher et la tournée triomphale à guichets fermés qui s’en est suivie. Oasis Live '25 a marqué l'un des retours rock les plus attendus de notre époque. Le film documentaire offre un regard intimiste sur le plus grand événement musical de 2025, capturant tout autant l'expérience et les émotions du groupe que celles de ses fans partout à travers le monde.",
-        "tagline": "Préparez-vous à vivre l'un des retours rock 'n' roll les plus attendus de notre époque.",
-        "runtime": 119,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/7Ud7QIJo21odjCaev6V4md9sK16.jpg"
-    },
-    {
-        "title": "Les Ensorceleuses 2",
-        "rating": 6.99,
-        "genre": "Romance / Fantastique / Comédie",
-        "poster": "https://image.tmdb.org/t/p/w500/1fnNv1AOzbUG4gvL4AbenUfIlJp.jpg",
-        "trailer": "https://www.youtube.com/watch?v=Ho10_4IX1jE",
-        "release_date": "2026-09-09",
-        "overview": "Une famille de sorcières multigénérationnelle, maudite à être sans amour pendant des siècles, tente de briser le sort en affrontant de sombres secrets et en se sacrifiant les uns pour les autres.",
-        "tagline": "",
-        "runtime": 130,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg"
-    },
-    {
-        "title": "Pressure",
-        "rating": 7.704,
-        "genre": "Thriller / Histoire / Guerre",
-        "poster": "https://image.tmdb.org/t/p/w500/3Dp1V6QHzrlSYlTlGZwHx7uPrR7.jpg",
-        "trailer": "https://www.youtube.com/watch?v=jjdOSchcobk",
-        "release_date": "2026-09-09",
-        "overview": "Dans les 72 heures précédant le jour J, alors que le destin du monde libre est en jeu, le général Dwight D. Eisenhower et le capitaine James Stagg sont confrontés à un choix impossible : lancer la plus vaste et la plus périlleuse invasion maritime de l'histoire, ou risquer de perdre la guerre.",
-        "tagline": "Dans les heures précédant le Jour J, une décision a changé le monde.",
-        "runtime": 101,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg"
     }
 ]
