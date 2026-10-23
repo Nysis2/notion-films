@@ -1,5 +1,41 @@
 [
     {
+        "title": "Des oursins et un flingue dans les poches",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500/AgQdSdD79AQ2IsXQtNRG8InVHs6.jpg",
+        "trailer": null,
+        "release_date": "2026-10-22",
+        "overview": "Un homme charismatique accumule les dettes et décide de prendre une décision radicale",
+        "tagline": "Sachez que je vous rembourserai pas",
+        "runtime": 22,
+        "backdrop": null
+    },
+    {
+        "title": "Le Monde à l'envers",
+        "rating": 0,
+        "genre": "Animation",
+        "poster": "https://image.tmdb.org/t/p/w500/zRmRwAZV7AGcnzxFM92ENUK2yvA.jpg",
+        "trailer": null,
+        "release_date": "2026-10-07",
+        "overview": "Un souriceau qui vit la tête à l’envers, un tout petit poisson explorateur et des enfants à l’imagination débordante : ces personnages nous invitent à nous mettre à la place de celles et ceux qui perçoivent le monde différemment pour mieux les comprendre.",
+        "tagline": "",
+        "runtime": 45,
+        "backdrop": null
+    },
+    {
+        "title": "Fini de rire !",
+        "rating": 7.8,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/6olUdG4swS1DhXlRQDETIeIaImT.jpg",
+        "trailer": null,
+        "release_date": "2026-09-23",
+        "overview": "En France, rire des puissants est devenu un sport à risque. En trente ans, les humoristes les plus libres de la télévision et de la radio ont été méthodiquement neutralisés, marginalisés, censurés, voire virés. Dans l'audiovisuel public comme dans les médias privés, le même mécanisme se répète : on tolère la satire tant qu'elle ne mord pas. Dès qu'elle touche au pouvoir, on coupe le micro. Des plateaux de Canal+ aux studios de France Inter en passant par les couloirs de France Télévisions, du règne de Nicolas Sarkozy à celui d'Emmanuel Macron, ce documentaire retrace la mécanique d'une mise au silence qui en dit long sur l'état réel de la liberté d'expression dans l'audiovisuel français.",
+        "tagline": "L'humour politique au garde-à-vous ?",
+        "runtime": 97,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/vSN8CZ9r8NLsDHQPWkpwyWzQTtC.jpg"
+    },
+    {
         "title": "Bénabar à l'Olympia",
         "rating": 0,
         "genre": "Musique",
@@ -58,18 +94,6 @@
         "tagline": "",
         "runtime": 114,
         "backdrop": "https://image.tmdb.org/t/p/w1280/rTcx9BGhNzudikxQI0NdrUSEahL.jpg"
-    },
-    {
-        "title": "Le Monde à l'endroit",
-        "rating": 7.25,
-        "genre": "Documentaire / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/bse4J5F4wMOUuawSS85RbWvaUhs.jpg",
-        "trailer": null,
-        "release_date": "2026-09-30",
-        "overview": "Les blessures de l’enfance ne s’effacent pas, elles se réparent. Muriel Salmona, psychiatre de renom et spécialiste des violences sexuelles, consacre sa vie à soigner celles et ceux que l’enfance a brisés. Incarnée à l’écran par Sandrine Bonnaire, Marianne Denicourt et Isild Le Besco, elle accompagne des patients qui affrontent leur passé et ouvrent, pas à pas, le chemin de la réparation.",
-        "tagline": "",
-        "runtime": 88,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/zLRci1gyeYDo2xwxHsJnuqMxkFw.jpg"
     },
     {
         "title": "Le fantôme de l'opéra",
@@ -157,7 +181,7 @@
     },
     {
         "title": "Teenage Sex and Death at Camp Miasma",
-        "rating": 6.194,
+        "rating": 6.2,
         "genre": "Comédie / Horreur / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/a5JvHUONtF8RyLL6M5nTlqqMJVE.jpg",
         "trailer": "https://www.youtube.com/watch?v=j9TsiTgYZGw",
@@ -169,7 +193,7 @@
     },
     {
         "title": "Hope",
-        "rating": 6.9,
+        "rating": 6.867,
         "genre": "Science-fiction / Mystère / Action",
         "poster": "https://image.tmdb.org/t/p/w500/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg",
         "trailer": "https://www.youtube.com/watch?v=OFaJzL83y0Q",
@@ -289,7 +313,7 @@
     },
     {
         "title": "La Gradiva",
-        "rating": 4.7,
+        "rating": 5.5,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/aFrhFiIhdf2klvXq8VFcB06b5pS.jpg",
         "trailer": "https://www.youtube.com/watch?v=5yY6V9MbEoE",
@@ -505,7 +529,7 @@
     },
     {
         "title": "Klara et le Soleil",
-        "rating": 8.5,
+        "rating": 6.2,
         "genre": "Science-fiction / Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/zJZ1ii7XPAJkdBWKIQN2fyyz5cQ.jpg",
         "trailer": "https://www.youtube.com/watch?v=wixzainceAE",
@@ -517,7 +541,7 @@
     },
     {
         "title": "Shaun le Mouton : La Bêêête d'Halloween",
-        "rating": 7.327,
+        "rating": 7.38,
         "genre": "Animation / Comédie / Famille / Aventure / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/poG8LaprHjz2Ka0c6zCvDrVjEUq.jpg",
         "trailer": "https://www.youtube.com/watch?v=daZMq0AyOMc",
@@ -529,7 +553,7 @@
     },
     {
         "title": "Wicker",
-        "rating": 6.25,
+        "rating": 6.3,
         "genre": "Romance / Fantastique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg",
         "trailer": "https://www.youtube.com/watch?v=kA9NfV4pM_Q",
@@ -565,7 +589,7 @@
     },
     {
         "title": "The Good Boy",
-        "rating": 7.244,
+        "rating": 7.252,
         "genre": "Thriller / Drame / Mystère / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/e5qRxuVJNfgZHfFAxts0wK2Fubb.jpg",
         "trailer": "https://www.youtube.com/watch?v=qWkPjI-Brkc",
@@ -577,7 +601,7 @@
     },
     {
         "title": "Clayface",
-        "rating": 7.484,
+        "rating": 7.441,
         "genre": "Horreur / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg",
         "trailer": "https://www.youtube.com/watch?v=f7jlCqdtwdM",
@@ -589,7 +613,7 @@
     },
     {
         "title": "L'Île des Souvenirs",
-        "rating": 7.813,
+        "rating": 7.753,
         "genre": "Animation / Aventure / Fantastique / Comédie / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/A12dkvb10IgoQxHxU5TXOc6WR4k.jpg",
         "trailer": "https://www.youtube.com/watch?v=PhgY8cOJiQA",
@@ -613,7 +637,7 @@
     },
     {
         "title": "Le Roi du Game",
-        "rating": 6,
+        "rating": 6.667,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/14ZOv50ohE08thcA1uIdecIddqE.jpg",
         "trailer": null,
@@ -625,7 +649,7 @@
     },
     {
         "title": "Karma",
-        "rating": 6.667,
+        "rating": 6.944,
         "genre": "Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/hwEZ6fOtXX9mIZHSZPoOJW7AvmP.jpg",
         "trailer": "https://www.youtube.com/watch?v=Zd6ylgh9qk4",
@@ -637,7 +661,7 @@
     },
     {
         "title": "Marie Madeleine",
-        "rating": 0,
+        "rating": 6,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/z2Vn2nWRah6KiJLWHKleKV2pJn2.jpg",
         "trailer": null,
@@ -744,18 +768,6 @@
         "backdrop": null
     },
     {
-        "title": "Le Faux Soir",
-        "rating": 0,
-        "genre": "Drame / Histoire",
-        "poster": "https://image.tmdb.org/t/p/w500/4ENeE5HxabyaTLc6ZlQkzBScr2u.jpg",
-        "trailer": null,
-        "release_date": "2026-10-11",
-        "overview": "1943. Les Nazis occupent la Belgique et font du quotidien national Le Soir leur outil de propagande. Alors qu’il est interdit de commémorer le 11 novembre, un groupe de résistants a une idée folle : et si, pour remonter le moral des Belges, ils parvenaient à imprimer une fausse édition du Soir ? Le même papier, le même titre, le même format, mais truffé d'articles ridiculisant l'occupant. Ceci est la folle aventure et l'histoire vraie du faux numéro d'un vrai journal…",
-        "tagline": "",
-        "runtime": 132,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/rgJiKdbS4WUnq6NkJEIBitrhSa9.jpg"
-    },
-    {
         "title": "Ce qui nous mène à toi",
         "rating": 0,
         "genre": "Drame",
@@ -769,7 +781,7 @@
     },
     {
         "title": "Le corset",
-        "rating": 8.357,
+        "rating": 8.4,
         "genre": "Animation / Drame / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/h4YDklaLjbgdu9yUr6vNybnrnzX.jpg",
         "trailer": null,
@@ -877,7 +889,7 @@
     },
     {
         "title": "Les Misérables",
-        "rating": 6.9,
+        "rating": 6.952,
         "genre": "Histoire / Romance / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/tY3CoBNTCpvJayVRLqIIGDa4Ep8.jpg",
         "trailer": "https://www.youtube.com/watch?v=PyBTjrK43Hg",
@@ -889,7 +901,7 @@
     },
     {
         "title": "Minotaure",
-        "rating": 7.9,
+        "rating": 7.929,
         "genre": "Drame / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/7XH2vaVsishBS0GuCgO3bOXfCaB.jpg",
         "trailer": "https://www.youtube.com/watch?v=wdFIMrC4oW8",
@@ -901,7 +913,7 @@
     },
     {
         "title": "Raison et Sentiments",
-        "rating": 7.4,
+        "rating": 7.348,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/9XNEI2AYgQIIqXper5kOdGTnyf5.jpg",
         "trailer": "https://www.youtube.com/watch?v=OFLyW0lxFU0",
@@ -1009,7 +1021,7 @@
     },
     {
         "title": "NAZA",
-        "rating": 8.136,
+        "rating": 8.14,
         "genre": "Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
         "trailer": "https://www.youtube.com/watch?v=40KW6knYMo4",
@@ -1021,7 +1033,7 @@
     },
     {
         "title": "Englouti",
-        "rating": 6.507,
+        "rating": 6.6,
         "genre": "Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/qLt9F35AdGKDXPSJtqH5DERoigI.jpg",
         "trailer": "https://www.youtube.com/watch?v=Dw-5ZGapGTQ",
@@ -1033,7 +1045,7 @@
     },
     {
         "title": "Street Fighter",
-        "rating": 6.209,
+        "rating": 6.287,
         "genre": "Action / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg",
         "trailer": "https://www.youtube.com/watch?v=U6sbm1OaJb8",
@@ -1045,7 +1057,7 @@
     },
     {
         "title": "Malfaisante",
-        "rating": 5.889,
+        "rating": 5.9,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg",
         "trailer": "https://www.youtube.com/watch?v=-mnTITqqiT0",
@@ -1285,7 +1297,7 @@
     },
     {
         "title": "The Social Reckoning",
-        "rating": 6.968,
+        "rating": 6.976,
         "genre": "Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/6B5gNoTM9PCC7jXTFd7tJGFfeFa.jpg",
         "trailer": "https://www.youtube.com/watch?v=R8ANzYpaZaY",
@@ -1393,7 +1405,7 @@
     },
     {
         "title": "Ni vue, ni connue",
-        "rating": 5.833,
+        "rating": 5.8,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/sXqiQw6cwZlp4B8OnT3LRGC6wgR.jpg",
         "trailer": "https://www.youtube.com/watch?v=j-FTg6rNWgk",
@@ -1441,7 +1453,7 @@
     },
     {
         "title": "Détective Conan : L'Ange Déchu de l'Asphalte",
-        "rating": 7.4,
+        "rating": 7.364,
         "genre": "Action / Animation / Mystère / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/abvf8TrIT5ibJLpc7rya4nQapvX.jpg",
         "trailer": "https://www.youtube.com/watch?v=-OmZGxr23hY",
@@ -1537,7 +1549,7 @@
     },
     {
         "title": "Digger",
-        "rating": 7.5,
+        "rating": 7.475,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/9BzF32t0U7mOnpzmQ0dyFKv4uZT.jpg",
         "trailer": "https://www.youtube.com/watch?v=job8V254NAE",
@@ -1789,7 +1801,7 @@
     },
     {
         "title": "Her Private Hell",
-        "rating": 5.455,
+        "rating": 5.5,
         "genre": "Science-fiction / Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/p9kCdvV9rePQR7QImAiRXJcFeq4.jpg",
         "trailer": "https://www.youtube.com/watch?v=C7E-0t1TfzM",
@@ -1801,7 +1813,7 @@
     },
     {
         "title": "Primetime",
-        "rating": 6.854,
+        "rating": 6.851,
         "genre": "Crime / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/rhF8JALH8wrxKtXSCAB7a09tWsc.jpg",
         "trailer": "https://www.youtube.com/watch?v=C0NZa01qTRU",
@@ -1813,7 +1825,7 @@
     },
     {
         "title": "Heart of the Beast",
-        "rating": 7.382,
+        "rating": 7.376,
         "genre": "Aventure / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg",
         "trailer": "https://www.youtube.com/watch?v=UkMuGKqAux4",
@@ -1825,7 +1837,7 @@
     },
     {
         "title": "Leviticus",
-        "rating": 6.8,
+        "rating": 6.78,
         "genre": "Horreur / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/l4wKajF6yWUcCiZaZ7qzMPlBmU2.jpg",
         "trailer": "https://www.youtube.com/watch?v=WXuK0vlFxII",
@@ -1860,18 +1872,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/kFHrIVKVhIp0xPlpnkCiPRxonRh.jpg"
     },
     {
-        "title": "FINI DE RIRE ! L'humour politique au garde-à-vous ?",
-        "rating": 7.8,
-        "genre": "Documentaire",
-        "poster": "https://image.tmdb.org/t/p/w500/6olUdG4swS1DhXlRQDETIeIaImT.jpg",
-        "trailer": null,
-        "release_date": "2026-09-23",
-        "overview": "En France, rire des puissants est devenu un sport à risque. En trente ans, les humoristes les plus libres de la télévision et de la radio ont été méthodiquement neutralisés, marginalisés, censurés, voire virés. Dans l'audiovisuel public comme dans les médias privés, le même mécanisme se répète : on tolère la satire tant qu'elle ne mord pas. Dès qu'elle touche au pouvoir, on coupe le micro. Des plateaux de Canal+ aux studios de France Inter en passant par les couloirs de France Télévisions, du règne de Nicolas Sarkozy à celui d'Emmanuel Macron, ce documentaire retrace la mécanique d'une mise au silence qui en dit long sur l'état réel de la liberté d'expression dans l'audiovisuel français.",
-        "tagline": "FINI DE RIRE ►https://finiderire.fr",
-        "runtime": 97,
-        "backdrop": null
-    },
-    {
         "title": "Maoussi",
         "rating": 5,
         "genre": "Comédie / Drame",
@@ -1885,7 +1885,7 @@
     },
     {
         "title": "Les Contrebandiers",
-        "rating": 6.773,
+        "rating": 6.678,
         "genre": "Drame / Thriller / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/hjM3hITDk5XvWu4cMn7dj7IpwY8.jpg",
         "trailer": "https://www.youtube.com/watch?v=7YpuMymmiJ8",
@@ -1897,7 +1897,7 @@
     },
     {
         "title": "L'Invitation",
-        "rating": 7.2,
+        "rating": 7.208,
         "genre": "Comédie / Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/vpMsWT25ITYeYLiUb2HFU9rfzy4.jpg",
         "trailer": "https://www.youtube.com/watch?v=nelkiuezJxg",
@@ -1909,7 +1909,7 @@
     },
     {
         "title": "Resident Evil",
-        "rating": 7.295,
+        "rating": 7.297,
         "genre": "Horreur / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/qku2uWSoJ9amQV5MWo1Eek29iji.jpg",
         "trailer": "https://www.youtube.com/watch?v=mNd1gb19A-c",
