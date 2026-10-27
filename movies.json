@@ -1,15 +1,39 @@
 [
     {
-        "title": "Le Monde à l'endroit",
-        "rating": 6.833,
-        "genre": "Documentaire / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/bse4J5F4wMOUuawSS85RbWvaUhs.jpg",
+        "title": "D.H.P.D.D.J.P.A.C.S.E.H",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/cf59pXJ0XwqJysxyBOben9gagPk.jpg",
         "trailer": null,
-        "release_date": "2026-09-30",
-        "overview": "Les blessures de l’enfance ne s’effacent pas, elles se réparent. Muriel Salmona, psychiatre de renom et spécialiste des violences sexuelles, consacre sa vie à soigner celles et ceux que l’enfance a brisés. Incarnée à l’écran par Sandrine Bonnaire, Marianne Denicourt et Isild Le Besco, elle accompagne des patients qui affrontent leur passé et ouvrent, pas à pas, le chemin de la réparation.",
+        "release_date": "2026-10-06",
+        "overview": "Discussion humblement philosophiques de deux jeunes penseurs aux caractères sobres et honnêtes",
         "tagline": "",
-        "runtime": 88,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/zLRci1gyeYDo2xwxHsJnuqMxkFw.jpg"
+        "runtime": 1,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/fERoGdF6fCyjrZVge1qe6YxcJgC.jpg"
+    },
+    {
+        "title": "Le Monde à l'envers",
+        "rating": 0,
+        "genre": "Animation",
+        "poster": "https://image.tmdb.org/t/p/w500/zRmRwAZV7AGcnzxFM92ENUK2yvA.jpg",
+        "trailer": null,
+        "release_date": "2026-10-07",
+        "overview": "Un souriceau qui vit la tête à l’envers, un tout petit poisson explorateur et des enfants à l’imagination débordante : ces personnages nous invitent à nous mettre à la place de celles et ceux qui perçoivent le monde différemment pour mieux les comprendre.",
+        "tagline": "",
+        "runtime": 45,
+        "backdrop": null
+    },
+    {
+        "title": "Le Corset",
+        "rating": 8.231,
+        "genre": "Animation / Drame / Famille",
+        "poster": "https://image.tmdb.org/t/p/w500/7RN7uox5vLnMY3GAXKjjGHTkeXR.jpg",
+        "trailer": null,
+        "release_date": "2026-10-14",
+        "overview": "Dans une ferme au cœur de la Beauce, Christophe, 11 ans, règle ses pas sur ceux de son père. Mais à l’école, à la maison, sur le tracteur, Christophe penche… et tombe. Il est obligé de porter un corset pour filer droit. Tandis que la ferme traverse des moments difficiles, Christophe grandit comme il peut. Il découvre la musique et fait la rencontre de Clara, avec qui tout semble devenir possible.",
+        "tagline": "",
+        "runtime": 90,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/3e0Lzs4vDSHjRULFw6vPI4jyHd6.jpg"
     },
     {
         "title": "FOREVER CHEMICALS",
@@ -97,7 +121,7 @@
     },
     {
         "title": "La Tentazione",
-        "rating": 6.81,
+        "rating": 6.8,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/pl4FUfIyXu6rWsLPkeEGKo1ZCMy.jpg",
         "trailer": null,
@@ -109,7 +133,7 @@
     },
     {
         "title": "Le fantôme de l'opéra",
-        "rating": 0,
+        "rating": 6.5,
         "genre": "Thriller / Romance / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/2aU9dLDES0IdxB4sGYeeoJ7DOjA.jpg",
         "trailer": null,
@@ -133,7 +157,7 @@
     },
     {
         "title": "Papa où t'es ?",
-        "rating": 0,
+        "rating": 8,
         "genre": "Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/3HqZ26kFQnyJKVgtzu8MnrzKBLX.jpg",
         "trailer": null,
@@ -181,7 +205,7 @@
     },
     {
         "title": "La Ballade de Buster Scruggs",
-        "rating": 7.132,
+        "rating": 7.1,
         "genre": "Western / Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/wvHf7dX9gziLXIpXHgNMMdZMImG.jpg",
         "trailer": "https://www.youtube.com/watch?v=_2PyxzSH1HM",
@@ -193,7 +217,7 @@
     },
     {
         "title": "Teenage Sex and Death at Camp Miasma",
-        "rating": 6.127,
+        "rating": 6.1,
         "genre": "Comédie / Horreur / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/a5JvHUONtF8RyLL6M5nTlqqMJVE.jpg",
         "trailer": "https://www.youtube.com/watch?v=j9TsiTgYZGw",
@@ -205,7 +229,7 @@
     },
     {
         "title": "Hope",
-        "rating": 6.791,
+        "rating": 6.786,
         "genre": "Science-fiction / Mystère / Action",
         "poster": "https://image.tmdb.org/t/p/w500/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg",
         "trailer": "https://www.youtube.com/watch?v=OFaJzL83y0Q",
@@ -301,7 +325,7 @@
     },
     {
         "title": "ది ప్యారడైజ్",
-        "rating": 4.222,
+        "rating": 4.2,
         "genre": "Action / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
         "trailer": null,
@@ -325,7 +349,7 @@
     },
     {
         "title": "La Gradiva",
-        "rating": 6.722,
+        "rating": 6.65,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/aFrhFiIhdf2klvXq8VFcB06b5pS.jpg",
         "trailer": "https://www.youtube.com/watch?v=5yY6V9MbEoE",
@@ -361,7 +385,7 @@
     },
     {
         "title": "Les Roches Rouges",
-        "rating": 4.75,
+        "rating": 4.8,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/6q3zCTkbrHw0AhdfWtK0mTQW9tP.jpg",
         "trailer": "https://www.youtube.com/watch?v=lvW8JtqjqYc",
@@ -457,7 +481,7 @@
     },
     {
         "title": "Une femme aujourd’hui",
-        "rating": 6.5,
+        "rating": 6.9,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/vBNsvbJsb9fnSre8TakYNJbU1ey.jpg",
         "trailer": null,
@@ -505,7 +529,7 @@
     },
     {
         "title": "Si tu penses bien",
-        "rating": 7.121,
+        "rating": 7.1,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/5ta2QFexeUsZ9AncKkgiWwpJDq.jpg",
         "trailer": null,
@@ -517,7 +541,7 @@
     },
     {
         "title": "A jamais les premières",
-        "rating": 7.182,
+        "rating": 7.083,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/iCl5UqLHTrJ40ld6dt4QNNoy0gy.jpg",
         "trailer": null,
@@ -541,7 +565,7 @@
     },
     {
         "title": "Klara et le Soleil",
-        "rating": 5.464,
+        "rating": 5.694,
         "genre": "Science-fiction / Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/zJZ1ii7XPAJkdBWKIQN2fyyz5cQ.jpg",
         "trailer": "https://www.youtube.com/watch?v=wixzainceAE",
@@ -553,7 +577,7 @@
     },
     {
         "title": "Shaun le Mouton : La Bêêête d'Halloween",
-        "rating": 7.347,
+        "rating": 7.311,
         "genre": "Animation / Comédie / Famille / Aventure / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/poG8LaprHjz2Ka0c6zCvDrVjEUq.jpg",
         "trailer": "https://www.youtube.com/watch?v=daZMq0AyOMc",
@@ -565,7 +589,7 @@
     },
     {
         "title": "Wicker",
-        "rating": 7.25,
+        "rating": 7.917,
         "genre": "Romance / Fantastique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg",
         "trailer": "https://www.youtube.com/watch?v=kA9NfV4pM_Q",
@@ -589,7 +613,7 @@
     },
     {
         "title": "ஜெயிலர் 2",
-        "rating": 8,
+        "rating": 8.105,
         "genre": "Action / Comédie / Crime / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
         "trailer": null,
@@ -601,7 +625,7 @@
     },
     {
         "title": "The Good Boy",
-        "rating": 7.256,
+        "rating": 7.251,
         "genre": "Thriller / Drame / Mystère / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/e5qRxuVJNfgZHfFAxts0wK2Fubb.jpg",
         "trailer": "https://www.youtube.com/watch?v=qWkPjI-Brkc",
@@ -613,7 +637,7 @@
     },
     {
         "title": "Clayface",
-        "rating": 7.538,
+        "rating": 7.498,
         "genre": "Horreur / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg",
         "trailer": "https://www.youtube.com/watch?v=f7jlCqdtwdM",
@@ -625,7 +649,7 @@
     },
     {
         "title": "L'Île des Souvenirs",
-        "rating": 7.661,
+        "rating": 7.644,
         "genre": "Animation / Aventure / Fantastique / Comédie / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/A12dkvb10IgoQxHxU5TXOc6WR4k.jpg",
         "trailer": "https://www.youtube.com/watch?v=PhgY8cOJiQA",
@@ -661,7 +685,7 @@
     },
     {
         "title": "Karma",
-        "rating": 7.167,
+        "rating": 7.265,
         "genre": "Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/hwEZ6fOtXX9mIZHSZPoOJW7AvmP.jpg",
         "trailer": "https://www.youtube.com/watch?v=Zd6ylgh9qk4",
@@ -673,7 +697,7 @@
     },
     {
         "title": "Marie Madeleine",
-        "rating": 6,
+        "rating": 5.833,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/z2Vn2nWRah6KiJLWHKleKV2pJn2.jpg",
         "trailer": null,
@@ -792,18 +816,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/sp5vkGrl9IZFcA8vdIgReA8A5eJ.jpg"
     },
     {
-        "title": "Le corset",
-        "rating": 8.208,
-        "genre": "Animation / Drame / Famille",
-        "poster": "https://image.tmdb.org/t/p/w500/h4YDklaLjbgdu9yUr6vNybnrnzX.jpg",
-        "trailer": null,
-        "release_date": "2026-10-14",
-        "overview": "Dans une ferme au cœur de la Beauce, Christophe, 11 ans, règle ses pas sur ceux de son père. Mais à l’école, à la maison, sur le tracteur, Christophe penche… et tombe. Il est obligé de porter un corset pour filer droit. Tandis que la ferme traverse des moments difficiles, Christophe grandit comme il peut. Il découvre la musique et fait la rencontre de Clara, avec qui tout semble devenir possible.",
-        "tagline": "",
-        "runtime": 90,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/3e0Lzs4vDSHjRULFw6vPI4jyHd6.jpg"
-    },
-    {
         "title": "À propos d’Alma",
         "rating": 0,
         "genre": "Drame",
@@ -853,7 +865,7 @@
     },
     {
         "title": "Low Expectations",
-        "rating": 7.25,
+        "rating": 7.2,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/55DnolhHHDSRpdasrEUfH6gU82u.jpg",
         "trailer": null,
@@ -865,7 +877,7 @@
     },
     {
         "title": "Solo Mamma",
-        "rating": 7.667,
+        "rating": 7.7,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/l57DviQNrx9p23vGwDmpAkUZKIo.jpg",
         "trailer": "https://www.youtube.com/watch?v=5C5Ydvv2qIY",
@@ -901,7 +913,7 @@
     },
     {
         "title": "Les Misérables",
-        "rating": 7.179,
+        "rating": 7.256,
         "genre": "Histoire / Romance / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/tY3CoBNTCpvJayVRLqIIGDa4Ep8.jpg",
         "trailer": "https://www.youtube.com/watch?v=PyBTjrK43Hg",
@@ -913,7 +925,7 @@
     },
     {
         "title": "Minotaure",
-        "rating": 7.8,
+        "rating": 7.712,
         "genre": "Drame / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/7XH2vaVsishBS0GuCgO3bOXfCaB.jpg",
         "trailer": "https://www.youtube.com/watch?v=wdFIMrC4oW8",
@@ -925,7 +937,7 @@
     },
     {
         "title": "Raison et Sentiments",
-        "rating": 7.185,
+        "rating": 7.183,
         "genre": "Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/9XNEI2AYgQIIqXper5kOdGTnyf5.jpg",
         "trailer": "https://www.youtube.com/watch?v=OFLyW0lxFU0",
@@ -1033,7 +1045,7 @@
     },
     {
         "title": "NAZA",
-        "rating": 8.122,
+        "rating": 8.085,
         "genre": "Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/b4Gyj8VRoJAeU13jfKPuOTMr5GL.jpg",
         "trailer": "https://www.youtube.com/watch?v=40KW6knYMo4",
@@ -1045,7 +1057,7 @@
     },
     {
         "title": "Englouti",
-        "rating": 6.606,
+        "rating": 6.616,
         "genre": "Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/qLt9F35AdGKDXPSJtqH5DERoigI.jpg",
         "trailer": "https://www.youtube.com/watch?v=Dw-5ZGapGTQ",
@@ -1057,7 +1069,7 @@
     },
     {
         "title": "Street Fighter",
-        "rating": 6.4,
+        "rating": 6.426,
         "genre": "Action / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg",
         "trailer": "https://www.youtube.com/watch?v=U6sbm1OaJb8",
@@ -1069,7 +1081,7 @@
     },
     {
         "title": "Malfaisante",
-        "rating": 5.8,
+        "rating": 5.835,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg",
         "trailer": "https://www.youtube.com/watch?v=-mnTITqqiT0",
@@ -1089,18 +1101,6 @@
         "overview": "Profitant de la confusion générée par l’organisation désastreuse d’un anniversaire surprise, Ava, une jeune femme malicieuse introduit le chaos dans la demeure familiale alors qu’elle part à la recherche d’un cadeau spécial.",
         "tagline": "",
         "runtime": 20,
-        "backdrop": null
-    },
-    {
-        "title": "Mathilde est députée",
-        "rating": 0,
-        "genre": "Documentaire",
-        "poster": "https://image.tmdb.org/t/p/w500/yoHcK2xZtjvtmGPuCMjAMnBX4rB.jpg",
-        "trailer": null,
-        "release_date": "2026-10-02",
-        "overview": "Ce film raconte le parcours singulier d'une ouvrière agricole bretonne, Mathilde Hignet, devenue députée à 29 ans pour représenter et défendre les droits des siens à l'Assemblée nationale : les paysannes et les paysans, grands oubliés de la classe politique.",
-        "tagline": "",
-        "runtime": 65,
         "backdrop": null
     },
     {
@@ -1141,7 +1141,7 @@
     },
     {
         "title": "Notre salut",
-        "rating": 6.661,
+        "rating": 6.693,
         "genre": "Histoire / Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/tFzSSetNzvdaxms6RLfr2pyu9sM.jpg",
         "trailer": null,
@@ -1210,18 +1210,6 @@
         "tagline": "",
         "runtime": 53,
         "backdrop": null
-    },
-    {
-        "title": "Fausse note",
-        "rating": 6.7,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/2xYwKUCmnO6Z7EJ6cS2oxTQzJfi.jpg",
-        "trailer": null,
-        "release_date": "2026-10-07",
-        "overview": "Lors de son ultime concert à Paris, un chef d’orchestre de renom est confronté à un admirateur insistant. Sous ses apparences de « Monsieur tout le monde », le « Fan » s’infiltre dans l’Opéra, perturbe la soirée et force un face à face inattendu avec le chef d’orchestre. Surgit alors un passé commun enfoui, où la musique devient le révélateur d’une vérité bouleversante. Une nuit de tension et de vérité où la mémoire, la culpabilité et la justice s’affrontent en sourdine.",
-        "tagline": "Se taire est impossible.",
-        "runtime": 0,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/11jU44xHgFgPgvTnKFB0pMgd67Q.jpg"
     },
     {
         "title": "s-m-i-l-s",
@@ -1297,7 +1285,7 @@
     },
     {
         "title": "Doraemon et le château sous-marin",
-        "rating": 6.933,
+        "rating": 6.9,
         "genre": "Animation / Aventure / Fantastique / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/ncJWnLIT2Lb1Hb4WETX3l5TfuO8.jpg",
         "trailer": null,
@@ -1381,7 +1369,7 @@
     },
     {
         "title": "Ducobu et le fantôme de Saint-Potache",
-        "rating": 5.125,
+        "rating": 5.1,
         "genre": "Comédie / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/cajEgiVkKPuayykvcLlXeaSRdyp.jpg",
         "trailer": null,
@@ -1549,7 +1537,7 @@
     },
     {
         "title": "Verity",
-        "rating": 6.38,
+        "rating": 6.386,
         "genre": "Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zLCjFOyjvKqYdkQYYAyTtfJ5mpk.jpg",
         "trailer": "https://www.youtube.com/watch?v=xdPMKhjMSFs",
@@ -1597,7 +1585,7 @@
     },
     {
         "title": "Mémoire de fille",
-        "rating": 8.556,
+        "rating": 8.4,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/vmSnGjmeu5Ql42ZRo1RYU2HbB3C.jpg",
         "trailer": null,
@@ -1801,7 +1789,7 @@
     },
     {
         "title": "Garance",
-        "rating": 7,
+        "rating": 6.993,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/opOcBqvFchGd8PWdLGyY2435k1v.jpg",
         "trailer": "https://www.youtube.com/watch?v=JFW2N_EJJf8",
@@ -1813,7 +1801,7 @@
     },
     {
         "title": "Her Private Hell",
-        "rating": 5.434,
+        "rating": 5.4,
         "genre": "Science-fiction / Horreur / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/p9kCdvV9rePQR7QImAiRXJcFeq4.jpg",
         "trailer": "https://www.youtube.com/watch?v=C7E-0t1TfzM",
@@ -1825,7 +1813,7 @@
     },
     {
         "title": "Primetime",
-        "rating": 6.857,
+        "rating": 6.846,
         "genre": "Crime / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/rhF8JALH8wrxKtXSCAB7a09tWsc.jpg",
         "trailer": "https://www.youtube.com/watch?v=C0NZa01qTRU",
@@ -1837,7 +1825,7 @@
     },
     {
         "title": "Heart of the Beast",
-        "rating": 7.3,
+        "rating": 7.336,
         "genre": "Aventure / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg",
         "trailer": "https://www.youtube.com/watch?v=UkMuGKqAux4",
@@ -1849,7 +1837,7 @@
     },
     {
         "title": "Leviticus",
-        "rating": 6.779,
+        "rating": 6.793,
         "genre": "Horreur / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/l4wKajF6yWUcCiZaZ7qzMPlBmU2.jpg",
         "trailer": "https://www.youtube.com/watch?v=WXuK0vlFxII",
@@ -1861,7 +1849,7 @@
     },
     {
         "title": "Justin le Juste",
-        "rating": 7.857,
+        "rating": 7.9,
         "genre": "Comédie / Histoire / Guerre",
         "poster": "https://image.tmdb.org/t/p/w500/anpBUboYU7ENnWjpDEoDl6Y0Swm.jpg",
         "trailer": "https://www.youtube.com/watch?v=oWiOGl4wkJE",
@@ -1897,7 +1885,7 @@
     },
     {
         "title": "Les Contrebandiers",
-        "rating": 6.739,
+        "rating": 6.733,
         "genre": "Drame / Thriller / Crime",
         "poster": "https://image.tmdb.org/t/p/w500/hjM3hITDk5XvWu4cMn7dj7IpwY8.jpg",
         "trailer": "https://www.youtube.com/watch?v=7YpuMymmiJ8",
@@ -1909,7 +1897,7 @@
     },
     {
         "title": "L'Invitation",
-        "rating": 7.205,
+        "rating": 7.203,
         "genre": "Comédie / Drame / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/vpMsWT25ITYeYLiUb2HFU9rfzy4.jpg",
         "trailer": "https://www.youtube.com/watch?v=nelkiuezJxg",
@@ -1945,7 +1933,7 @@
     },
     {
         "title": "Histoires de la nuit",
-        "rating": 6.143,
+        "rating": 6.1,
         "genre": "Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/7prAuNDsQPUlHKyXiYNkuofyi0G.jpg",
         "trailer": null,
