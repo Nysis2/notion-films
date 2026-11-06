@@ -1,5 +1,77 @@
 [
     {
+        "title": "Grâce à toi",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/rDn0xX4tF8deNDLWAcIUxmJJzac.jpg",
+        "trailer": null,
+        "release_date": "2026-11-06",
+        "overview": "Une expérience intérieure où l’amour devient un moteur de métamorphose.",
+        "tagline": "",
+        "runtime": 18,
+        "backdrop": null
+    },
+    {
+        "title": "ジブリ実験劇場",
+        "rating": 0,
+        "genre": "Animation / Science-fiction",
+        "poster": "https://image.tmdb.org/t/p/w500/3CkLszSC5Y7bX6yisnkqng8IZWf.jpg",
+        "trailer": null,
+        "release_date": "2026-11-05",
+        "overview": "Dans le futur : deux hommes apprennent qu'une mystérieuse fille ailée a été faite prisonnière, puis décident de la libérer à tout prix.",
+        "tagline": "",
+        "runtime": 7,
+        "backdrop": null
+    },
+    {
+        "title": "Plastic Odyssey : Nouveaux Horizons",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/pwBYVSfDPgjer53K4Ht9m9uWckb.jpg",
+        "trailer": null,
+        "release_date": "2026-10-29",
+        "overview": "De l'Indonésie à la France, en passant par l'Inde, le Mozambique et le Cap-Vert, le navire Plastic Odyssey et son équipage achèvent leur incroyable épopée. Trois ans de lutte contre la pollution plastique, et de partage de solutions de recyclage, et une volonté d'inspirer les générations actuelles et futures.",
+        "tagline": "",
+        "runtime": 80,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/x3rqFrtDyLTixuTnA9ydmKZNZlJ.jpg"
+    },
+    {
+        "title": "Face à face",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/hNzqNuu2M0HnBDog87hDH3gsZYh.jpg",
+        "trailer": null,
+        "release_date": "2026-11-11",
+        "overview": "Fabienne Langlois, conseillère d'insertion et de probation au Centre National d’Évaluation, doit déterminer si Antoine Martineau, détenu pour le meurtre de sa femme, peut obtenir une libération conditionnelle. Entre mutisme, paranoïa et zones d’ombre, elle plonge dans l’esprit d’un homme insaisissable pour démêler le vrai du faux. Un face-à-face où chaque mot peut révéler… ou dissimuler la vérité.",
+        "tagline": "",
+        "runtime": 84,
+        "backdrop": null
+    },
+    {
+        "title": "Le Monde à l'envers",
+        "rating": 0,
+        "genre": "Animation",
+        "poster": "https://image.tmdb.org/t/p/w500/zRmRwAZV7AGcnzxFM92ENUK2yvA.jpg",
+        "trailer": null,
+        "release_date": "2026-10-07",
+        "overview": "Un souriceau qui vit la tête à l’envers, un tout petit poisson explorateur et des enfants à l’imagination débordante : ces personnages nous invitent à nous mettre à la place de celles et ceux qui perçoivent le monde différemment pour mieux les comprendre.",
+        "tagline": "",
+        "runtime": 45,
+        "backdrop": null
+    },
+    {
+        "title": "சீன்",
+        "rating": 8,
+        "genre": "Action / Comédie / Crime",
+        "poster": "https://image.tmdb.org/t/p/w500/kfc4w3OX8QsFm8f9MPUdmGheNl3.jpg",
+        "trailer": null,
+        "release_date": "2026-11-06",
+        "overview": "",
+        "tagline": "",
+        "runtime": 149,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zYiUafcGC7JqK01GYbkimBYNaUR.jpg"
+    },
+    {
         "title": "Terre à l'horizon",
         "rating": 10,
         "genre": "Documentaire",
@@ -21,18 +93,6 @@
         "overview": "",
         "tagline": "",
         "runtime": 16,
-        "backdrop": null
-    },
-    {
-        "title": "face à face",
-        "rating": 0,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/alMjAbIgHTj4sDru4iriIrlOKXV.jpg",
-        "trailer": null,
-        "release_date": "2026-11-11",
-        "overview": "Fabienne Langlois, conseillère d'insertion et de probation au Centre National d’Évaluation, doit déterminer si Antoine Martineau, détenu pour le meurtre de sa femme, peut obtenir une libération conditionnelle. Entre mutisme, paranoïa et zones d’ombre, elle plonge dans l’esprit d’un homme insaisissable pour démêler le vrai du faux. Un face-à-face où chaque mot peut révéler… ou dissimuler la vérité.",
-        "tagline": "",
-        "runtime": 84,
         "backdrop": null
     },
     {
@@ -94,18 +154,6 @@
         "tagline": "",
         "runtime": 104,
         "backdrop": "https://image.tmdb.org/t/p/w1280/GWr6kRbEGppdbGH1huSl0HfV83.jpg"
-    },
-    {
-        "title": "Le Monde à l'endroit",
-        "rating": 6.8,
-        "genre": "Documentaire / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/bse4J5F4wMOUuawSS85RbWvaUhs.jpg",
-        "trailer": null,
-        "release_date": "2026-09-30",
-        "overview": "Les blessures de l’enfance ne s’effacent pas, elles se réparent. Muriel Salmona, psychiatre de renom et spécialiste des violences sexuelles, consacre sa vie à soigner celles et ceux que l’enfance a brisés. Incarnée à l’écran par Sandrine Bonnaire, Marianne Denicourt et Isild Le Besco, elle accompagne des patients qui affrontent leur passé et ouvrent, pas à pas, le chemin de la réparation.",
-        "tagline": "",
-        "runtime": 88,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/zLRci1gyeYDo2xwxHsJnuqMxkFw.jpg"
     },
     {
         "title": "Irish Travellers",
@@ -253,7 +301,7 @@
     },
     {
         "title": "The Irregular at Magic High School le film - La Succession des Yotsuba",
-        "rating": 8,
+        "rating": 7,
         "genre": "Animation / Fantastique / Science-fiction / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/4EeIYCgcbbnJcPmeJ8I64fUEvOn.jpg",
         "trailer": "https://www.youtube.com/watch?v=a_9GBimvx9Y",
@@ -313,7 +361,7 @@
     },
     {
         "title": "Ramayana : L'avènement d'une légende",
-        "rating": 5.7,
+        "rating": 6.6,
         "genre": "Fantastique / Action / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg",
         "trailer": "https://www.youtube.com/watch?v=AYkPRN874m8",
@@ -457,7 +505,7 @@
     },
     {
         "title": "Un Bon Patron",
-        "rating": 0,
+        "rating": 6,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/phbtqKQQN3MxUPeciqNqcdht936.jpg",
         "trailer": null,
@@ -649,7 +697,7 @@
     },
     {
         "title": "Club Kid",
-        "rating": 8,
+        "rating": 7.5,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/lfznSwfaXWLxW5TR09IoNV9OwhM.jpg",
         "trailer": "https://www.youtube.com/watch?v=guKEdb_iRXw",
@@ -660,20 +708,8 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/AjrgF2JZb8WAeIFTvUjJK6VA2CG.jpg"
     },
     {
-        "title": "Si tu tends l'oreille",
-        "rating": 7.939,
-        "genre": "Animation / Drame / Famille",
-        "poster": "https://image.tmdb.org/t/p/w500/y0MAMtcsKSCTq1WJbdsiBa5fckY.jpg",
-        "trailer": "https://www.youtube.com/watch?v=J4lXUZTPAXg",
-        "release_date": "2026-11-04",
-        "overview": "Shizuku est une jeune collégienne de quatorze ans comme toutes les autres, mais elle est passionnée de littérature et elle écrit des chansons. C’est l’été à Tokyo, et elle a décidé de lire, pendant les vacances, une vingtaine de livres. Elle découvre qu’à chacun des romans qu’elle a choisis, le nom de Seiji Amasawa apparaît sur la liste des personnes les ayant empruntés. Shizuku rencontre enfin ce Seiji.",
-        "tagline": "",
-        "runtime": 110,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/rphor0XQcYO4CQoQ6auaQm3UPap.jpg"
-    },
-    {
         "title": "Wild Horse Nine",
-        "rating": 8.81,
+        "rating": 8.648,
         "genre": "Comédie / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
         "trailer": "https://www.youtube.com/watch?v=kqxuamKxRTo",
@@ -685,10 +721,10 @@
     },
     {
         "title": "Godzilla Minus Zero",
-        "rating": 8.46,
+        "rating": 8.3,
         "genre": "Science-fiction / Horreur / Action",
         "poster": "https://image.tmdb.org/t/p/w500/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg",
-        "trailer": "https://www.youtube.com/watch?v=pWJjYoqVSjQ",
+        "trailer": "https://www.youtube.com/watch?v=E-Q2tEgJ1ZI",
         "release_date": "2026-11-04",
         "overview": "Japon après la Seconde Guerre mondiale, Shikishima Koichi, un ancien pilote kamikaze survit à une rencontre avec Godzilla et souffre de symptômes de stress post-traumatique. Lorsque la créature réapparaît des années plus tard, un groupe de soldats et de vétérans doit s'unir pour vaincre le monstre avant qu'il ne puisse détruire le Japon.",
         "tagline": "",
@@ -697,7 +733,7 @@
     },
     {
         "title": "Ghost in the Cell",
-        "rating": 6.863,
+        "rating": 6.8,
         "genre": "Horreur / Comédie / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg",
         "trailer": "https://www.youtube.com/watch?v=otL78_pk_A0",
@@ -709,7 +745,7 @@
     },
     {
         "title": "Soldat fantôme",
-        "rating": 8.5,
+        "rating": 9,
         "genre": "Action / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
         "trailer": "https://www.youtube.com/watch?v=UKaWzMf9Ybc",
@@ -721,7 +757,7 @@
     },
     {
         "title": "L'île des souvenirs",
-        "rating": 8.007,
+        "rating": 7.988,
         "genre": "Animation / Aventure / Fantastique / Comédie / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/cmFiQHKjEmnbQIuMcKaW8Eu6swh.jpg",
         "trailer": "https://www.youtube.com/watch?v=PhgY8cOJiQA",
@@ -793,7 +829,7 @@
     },
     {
         "title": "L’Affaire Marie-Claire",
-        "rating": 0,
+        "rating": 10,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/kOyLOWiSytdRBbED4mj9ooC0Qgp.jpg",
         "trailer": "https://www.youtube.com/watch?v=CGAyM8h1xdI",
@@ -817,7 +853,7 @@
     },
     {
         "title": "Le Corset",
-        "rating": 8,
+        "rating": 8.012,
         "genre": "Animation / Drame / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/7RN7uox5vLnMY3GAXKjjGHTkeXR.jpg",
         "trailer": null,
@@ -925,7 +961,7 @@
     },
     {
         "title": "Sanguine",
-        "rating": 3.667,
+        "rating": 3.25,
         "genre": "Science-fiction / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/fDvZvNmLIwUcKKQ4Cfb6TmQJM7M.jpg",
         "trailer": null,
@@ -961,7 +997,7 @@
     },
     {
         "title": "Hope",
-        "rating": 6.764,
+        "rating": 6.768,
         "genre": "Science-fiction / Mystère / Action",
         "poster": "https://image.tmdb.org/t/p/w500/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg",
         "trailer": "https://www.youtube.com/watch?v=OFaJzL83y0Q",
@@ -1105,7 +1141,7 @@
     },
     {
         "title": "Les nouvelles stars du classique : Anna Lapwood, Hayato Sumino et Marcin",
-        "rating": 7,
+        "rating": 6.5,
         "genre": "Documentaire / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/wrswPGkLOpeI1WEqi4X3Zj948xj.jpg",
         "trailer": null,
@@ -1225,7 +1261,7 @@
     },
     {
         "title": "Klara et le Soleil",
-        "rating": 5.9,
+        "rating": 6,
         "genre": "Science-fiction / Drame / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/zJZ1ii7XPAJkdBWKIQN2fyyz5cQ.jpg",
         "trailer": "https://www.youtube.com/watch?v=wixzainceAE",
@@ -1237,7 +1273,7 @@
     },
     {
         "title": "Shaun le Mouton : La Bêêête d'Halloween",
-        "rating": 7.415,
+        "rating": 7.4,
         "genre": "Animation / Comédie / Famille / Aventure / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/poG8LaprHjz2Ka0c6zCvDrVjEUq.jpg",
         "trailer": "https://www.youtube.com/watch?v=daZMq0AyOMc",
@@ -1249,7 +1285,7 @@
     },
     {
         "title": "Wicker",
-        "rating": 7.518,
+        "rating": 7.7,
         "genre": "Romance / Fantastique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg",
         "trailer": "https://www.youtube.com/watch?v=kA9NfV4pM_Q",
@@ -1261,7 +1297,7 @@
     },
     {
         "title": "Your Mother Your Mother Your Mother",
-        "rating": 7.4,
+        "rating": 7.3,
         "genre": "Action / Crime / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
         "trailer": "https://www.youtube.com/watch?v=uEcoV-ngH38",
@@ -1273,7 +1309,7 @@
     },
     {
         "title": "ஜெயிலர் 2",
-        "rating": 8,
+        "rating": 8.2,
         "genre": "Action / Comédie / Crime / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
         "trailer": null,
@@ -1297,7 +1333,7 @@
     },
     {
         "title": "Clayface",
-        "rating": 7.421,
+        "rating": 7.432,
         "genre": "Horreur / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg",
         "trailer": "https://www.youtube.com/watch?v=f7jlCqdtwdM",
@@ -1537,7 +1573,7 @@
     },
     {
         "title": "Les Misérables",
-        "rating": 7.2,
+        "rating": 7.205,
         "genre": "Histoire / Romance / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/tY3CoBNTCpvJayVRLqIIGDa4Ep8.jpg",
         "trailer": "https://www.youtube.com/watch?v=PyBTjrK43Hg",
@@ -1549,7 +1585,7 @@
     },
     {
         "title": "Minotaure",
-        "rating": 7.645,
+        "rating": 7.6,
         "genre": "Drame / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/7XH2vaVsishBS0GuCgO3bOXfCaB.jpg",
         "trailer": "https://www.youtube.com/watch?v=wdFIMrC4oW8",
@@ -1741,7 +1777,7 @@
     },
     {
         "title": "Notre salut",
-        "rating": 6.535,
+        "rating": 6.6,
         "genre": "Histoire / Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/tFzSSetNzvdaxms6RLfr2pyu9sM.jpg",
         "trailer": null,
@@ -2041,7 +2077,7 @@
     },
     {
         "title": "Verity",
-        "rating": 6.987,
+        "rating": 6.971,
         "genre": "Mystère / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/zLCjFOyjvKqYdkQYYAyTtfJ5mpk.jpg",
         "trailer": "https://www.youtube.com/watch?v=xdPMKhjMSFs",
@@ -2053,7 +2089,7 @@
     },
     {
         "title": "Digger",
-        "rating": 7.493,
+        "rating": 7.492,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/9BzF32t0U7mOnpzmQ0dyFKv4uZT.jpg",
         "trailer": "https://www.youtube.com/watch?v=job8V254NAE",
@@ -2122,18 +2158,6 @@
         "tagline": "",
         "runtime": 86,
         "backdrop": "https://image.tmdb.org/t/p/w1280/pfoqzyrGgVSOyvQ3mprKXv7HWic.jpg"
-    },
-    {
-        "title": "Kraken",
-        "rating": 4.875,
-        "genre": "Horreur",
-        "poster": "https://image.tmdb.org/t/p/w500/hlNRCWGoFFvmRZERUgNUbntO5EU.jpg",
-        "trailer": null,
-        "release_date": "2026-09-25",
-        "overview": "Dans une cité, une tour abandonnée alimente les rumeurs. Alors que des disparitions étranges s'enchaînent, 5 jeunes n’ont plus le choix : y entrer à nouveau. Pris dans un piège mortel, ils vont bientôt comprendre que s'échapper leur sera impossible…",
-        "tagline": "",
-        "runtime": 95,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/jKlt1kxBAbCpPv8qOBXOdE1UAPy.jpg"
     },
     {
         "title": "Le Chant des Oliviers",
