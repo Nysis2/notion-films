@@ -1,5 +1,41 @@
 [
     {
+        "title": "Zvuci zrikavca",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/xWGCjLfvT9uJk0dHb0MOEjb8s4p.jpg",
+        "trailer": "https://www.youtube.com/watch?v=ChSPfIGqdtM",
+        "release_date": "2026-11-11",
+        "overview": "",
+        "tagline": "",
+        "runtime": 16,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/kQF1KPoN2bVapfM8wrQScKL4tIk.jpg"
+    },
+    {
+        "title": "Astérix : Le Royaume de Nubie",
+        "rating": 4.75,
+        "genre": "Animation / Aventure / Comédie / Famille / Fantastique",
+        "poster": "https://image.tmdb.org/t/p/w500/p6PFYB8TSFrVcF2eFTIt39cL4eK.jpg",
+        "trailer": "https://www.youtube.com/watch?v=JaRX_L9nlaQ",
+        "release_date": "2026-11-22",
+        "overview": "Quand un élixir de jouvence tombe par erreur dans leur potion magique, les irréductibles gaulois sont transformés en enfants et Astérix et Obélix doivent rejoindre le lointain royaume de Nubie pour trouver l'antidote et sauver le village.",
+        "tagline": "En 2026, ils vont voyager loin, très loin loin !",
+        "runtime": 86,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/gFbCOBwB9qEptHJY230sNCsyZfX.jpg"
+    },
+    {
+        "title": "O.M: Operation Mole",
+        "rating": 9,
+        "genre": "Crime / Action / Thriller",
+        "poster": "https://image.tmdb.org/t/p/w500/i37Znz2HYiXCNGfQ8rsU15PUpZl.jpg",
+        "trailer": null,
+        "release_date": "2026-11-20",
+        "overview": "Inspiré de faits réels, ce thriller haletant suit le combat d’un homme prêt à tout pour sauver 20 bûcherons tamouls injustement arrêtés en Inde. Face à un système impitoyable, il risque sa vie pour faire éclater la vérité.",
+        "tagline": "",
+        "runtime": 178,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/gJqVeWZF537IUfjHlA7apBAJBBR.jpg"
+    },
+    {
         "title": "RWOAAAR",
         "rating": 0,
         "genre": "",
@@ -61,7 +97,7 @@
     },
     {
         "title": "Mon beau-père, ma belle-fille et moi",
-        "rating": 7,
+        "rating": 7.3,
         "genre": "Comédie / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/j66QF4oquvSMe9rb7A7x1JayG1a.jpg",
         "trailer": "https://www.youtube.com/watch?v=9CKu3WoMYCg",
@@ -192,18 +228,6 @@
         "backdrop": "https://image.tmdb.org/t/p/w1280/7jPnBTbEB18yOoQcZm3ubPhn8Fd.jpg"
     },
     {
-        "title": "OM Chapter 1 : Udhiram - The Blood Wood",
-        "rating": 8.5,
-        "genre": "Crime / Action / Thriller",
-        "poster": "https://image.tmdb.org/t/p/w500/vFnFLqXjf7RQfkNxrrys43BZKxJ.jpg",
-        "trailer": null,
-        "release_date": "2026-11-20",
-        "overview": "Inspiré de faits réels, ce thriller haletant suit le combat d’un homme prêt à tout pour sauver 20 bûcherons tamouls injustement arrêtés en Inde. Face à un système impitoyable, il risque sa vie pour faire éclater la vérité.",
-        "tagline": "",
-        "runtime": 178,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/r0CliRoVddOLJ5zVT2Zd8ldbLuu.jpg"
-    },
-    {
         "title": "Paper Tiger",
         "rating": 8,
         "genre": "Crime / Drame / Thriller",
@@ -229,7 +253,7 @@
     },
     {
         "title": "Billie, à la croisée des mondes",
-        "rating": 5,
+        "rating": 7.7,
         "genre": "Aventure / Animation / Famille / Fantastique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/oifSgkd0jb7ycHUld3IKRVCvmyZ.jpg",
         "trailer": "https://www.youtube.com/watch?v=IuosV-TRxDU",
@@ -528,18 +552,6 @@
         "backdrop": null
     },
     {
-        "title": "Unboxing",
-        "rating": 0,
-        "genre": "Science-fiction / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/lesxQ2hxODgq8IMZbFzWgZvP2nb.jpg",
-        "trailer": null,
-        "release_date": "2026-11-08",
-        "overview": "Morgane et Cédric perdent au fur et à mesure pied face au silence du monde extérieur.",
-        "tagline": "",
-        "runtime": 7,
-        "backdrop": null
-    },
-    {
         "title": "FOREVER CHEMICALS",
         "rating": 0,
         "genre": "Mystère / Drame",
@@ -589,7 +601,7 @@
     },
     {
         "title": "3670",
-        "rating": 7.375,
+        "rating": 7.4,
         "genre": "Romance / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/uUoafeNRGfdVuJarhBuGOJH2PAc.jpg",
         "trailer": null,
@@ -649,7 +661,7 @@
     },
     {
         "title": "Camembert",
-        "rating": 6.909,
+        "rating": 6.778,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/jJECyLZIHUZxQbC1VowuURFs2Kl.jpg",
         "trailer": null,
@@ -697,7 +709,7 @@
     },
     {
         "title": "Hunger Games : Lever de soleil sur la moisson",
-        "rating": 7.6,
+        "rating": 7.8,
         "genre": "Science-fiction / Action / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/7w6v7FHdTbxuKqAPiMqKxEq8hro.jpg",
         "trailer": "https://www.youtube.com/watch?v=Dr060OLTodE",
@@ -793,7 +805,7 @@
     },
     {
         "title": "Les Braves (Coward)",
-        "rating": 7.326,
+        "rating": 7.4,
         "genre": "Drame / Romance / Guerre",
         "poster": "https://image.tmdb.org/t/p/w500/qy5ytiCeyR9uW5HsLDOFaOQ8yEr.jpg",
         "trailer": "https://www.youtube.com/watch?v=T1SAZTIZnrQ",
@@ -937,7 +949,7 @@
     },
     {
         "title": "L'Âge d'Or",
-        "rating": 7.333,
+        "rating": 7,
         "genre": "Histoire / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/sHy6hsrdvBH5wnLVjo6JyJhTgXQ.jpg",
         "trailer": null,
@@ -1009,7 +1021,7 @@
     },
     {
         "title": "Il faut brûler maman",
-        "rating": 5.136,
+        "rating": 5.125,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/3KDbl3m07R9hsFgM04JetRSJWeR.jpg",
         "trailer": null,
@@ -1045,7 +1057,7 @@
     },
     {
         "title": "Comment braquer une banque",
-        "rating": 6.19,
+        "rating": 6.4,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/uvTMQzEU3b4GJLVv2HD318rb1sB.jpg",
         "trailer": "https://www.youtube.com/watch?v=MVvWKh336m4",
@@ -1069,7 +1081,7 @@
     },
     {
         "title": "Scrooge",
-        "rating": 7.479,
+        "rating": 7.494,
         "genre": "Fantastique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/9RCnWkVOevfAVuSkYkQOg1k8QvO.jpg",
         "trailer": "https://www.youtube.com/watch?v=D-n-lqKVr78",
@@ -1081,7 +1093,7 @@
     },
     {
         "title": "Ramayana : L'avènement d'une légende",
-        "rating": 7.414,
+        "rating": 7.396,
         "genre": "Fantastique / Action / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg",
         "trailer": "https://www.youtube.com/watch?v=AYkPRN874m8",
@@ -1369,7 +1381,7 @@
     },
     {
         "title": "Le fantôme de l'opéra",
-        "rating": 6,
+        "rating": 6.182,
         "genre": "Thriller / Romance / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/2aU9dLDES0IdxB4sGYeeoJ7DOjA.jpg",
         "trailer": null,
@@ -1393,7 +1405,7 @@
     },
     {
         "title": "Club Kid",
-        "rating": 7.925,
+        "rating": 7.927,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/lfznSwfaXWLxW5TR09IoNV9OwhM.jpg",
         "trailer": "https://www.youtube.com/watch?v=guKEdb_iRXw",
@@ -1405,7 +1417,7 @@
     },
     {
         "title": "Wild Horse Nine",
-        "rating": 7.9,
+        "rating": 7.928,
         "genre": "Comédie / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
         "trailer": "https://www.youtube.com/watch?v=kqxuamKxRTo",
@@ -1417,7 +1429,7 @@
     },
     {
         "title": "Godzilla Minus Zero",
-        "rating": 7.697,
+        "rating": 7.7,
         "genre": "Science-fiction / Horreur / Action",
         "poster": "https://image.tmdb.org/t/p/w500/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg",
         "trailer": "https://www.youtube.com/watch?v=Pu0pH5BuCPM",
@@ -1441,7 +1453,7 @@
     },
     {
         "title": "L'île des souvenirs",
-        "rating": 8.1,
+        "rating": 8.054,
         "genre": "Animation / Aventure / Fantastique / Comédie / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/cmFiQHKjEmnbQIuMcKaW8Eu6swh.jpg",
         "trailer": "https://www.youtube.com/watch?v=PhgY8cOJiQA",
@@ -1501,7 +1513,7 @@
     },
     {
         "title": "Le Corset",
-        "rating": 8.1,
+        "rating": 8.109,
         "genre": "Animation / Drame / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/7RN7uox5vLnMY3GAXKjjGHTkeXR.jpg",
         "trailer": "https://www.youtube.com/watch?v=o8C3_DgvKPw",
@@ -1597,7 +1609,7 @@
     },
     {
         "title": "Quelques mots d'amour",
-        "rating": 7.333,
+        "rating": 7.316,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/lUSCFTt9YWRbDG6kkUQBIUZ0IFc.jpg",
         "trailer": null,
@@ -1633,7 +1645,7 @@
     },
     {
         "title": "Hope",
-        "rating": 6.846,
+        "rating": 6.864,
         "genre": "Science-fiction / Mystère / Action",
         "poster": "https://image.tmdb.org/t/p/w500/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg",
         "trailer": "https://www.youtube.com/watch?v=OFaJzL83y0Q",
@@ -1705,7 +1717,7 @@
     },
     {
         "title": "La Gradiva",
-        "rating": 7.161,
+        "rating": 7.194,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/aFrhFiIhdf2klvXq8VFcB06b5pS.jpg",
         "trailer": "https://www.youtube.com/watch?v=5yY6V9MbEoE",
@@ -1837,7 +1849,7 @@
     },
     {
         "title": "Wicker",
-        "rating": 7.388,
+        "rating": 7.4,
         "genre": "Romance / Fantastique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg",
         "trailer": "https://www.youtube.com/watch?v=kA9NfV4pM_Q",
@@ -1849,7 +1861,7 @@
     },
     {
         "title": "Your Mother Your Mother Your Mother",
-        "rating": 6.606,
+        "rating": 6.545,
         "genre": "Action / Crime / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
         "trailer": "https://www.youtube.com/watch?v=uEcoV-ngH38",
@@ -1861,7 +1873,7 @@
     },
     {
         "title": "ஜெயிலர் 2",
-        "rating": 8,
+        "rating": 7.95,
         "genre": "Action / Comédie / Crime / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
         "trailer": "https://www.youtube.com/watch?v=3vkHWYL2JmA",
@@ -1873,7 +1885,7 @@
     },
     {
         "title": "The Good Boy",
-        "rating": 7.205,
+        "rating": 7.207,
         "genre": "Thriller / Drame / Mystère / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/e5qRxuVJNfgZHfFAxts0wK2Fubb.jpg",
         "trailer": "https://www.youtube.com/watch?v=qWkPjI-Brkc",
@@ -1885,7 +1897,7 @@
     },
     {
         "title": "Clayface",
-        "rating": 7.398,
+        "rating": 7.399,
         "genre": "Horreur / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg",
         "trailer": "https://www.youtube.com/watch?v=f7jlCqdtwdM",
@@ -1921,7 +1933,7 @@
     },
     {
         "title": "Karma",
-        "rating": 7.406,
+        "rating": 7.4,
         "genre": "Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/hwEZ6fOtXX9mIZHSZPoOJW7AvmP.jpg",
         "trailer": "https://www.youtube.com/watch?v=Zd6ylgh9qk4",
@@ -1981,7 +1993,7 @@
     },
     {
         "title": "Mochy",
-        "rating": 5.5,
+        "rating": 5.2,
         "genre": "Aventure / Animation / Comédie / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/vlO9hdpZDbpoZcdXgUBiNpxL6Nn.jpg",
         "trailer": "https://www.youtube.com/watch?v=g7Pu1eEmqAw",
@@ -2005,7 +2017,7 @@
     },
     {
         "title": "Minotaure",
-        "rating": 7.482,
+        "rating": 7.4,
         "genre": "Drame / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/7XH2vaVsishBS0GuCgO3bOXfCaB.jpg",
         "trailer": "https://www.youtube.com/watch?v=wdFIMrC4oW8",
@@ -2089,7 +2101,7 @@
     },
     {
         "title": "Street Fighter",
-        "rating": 6.24,
+        "rating": 6.239,
         "genre": "Action / Fantastique",
         "poster": "https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg",
         "trailer": "https://www.youtube.com/watch?v=U6sbm1OaJb8",
@@ -2101,7 +2113,7 @@
     },
     {
         "title": "Malfaisante",
-        "rating": 6.443,
+        "rating": 6.487,
         "genre": "Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/wAofwsldMDNAIzGSEfMJMoUn1KB.jpg",
         "trailer": "https://www.youtube.com/watch?v=-mnTITqqiT0",
