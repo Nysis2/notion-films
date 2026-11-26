@@ -1,5 +1,221 @@
 [
     {
+        "title": "Butternut",
+        "rating": 0,
+        "genre": "Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/oM9LErtCniSlhoDCnAHsVLQR3JB.jpg",
+        "trailer": null,
+        "release_date": "2026-11-24",
+        "overview": "Un food film sur Noah le fashion victim qui espère lancer sa chaine YouTube de cuisine",
+        "tagline": "N’est pas fashion qui veut l’être",
+        "runtime": 7,
+        "backdrop": null
+    },
+    {
+        "title": "The Influencer",
+        "rating": 0,
+        "genre": "Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/xk61olfT72XAroMEXufUdMBvxQL.jpg",
+        "trailer": null,
+        "release_date": "2026-11-26",
+        "overview": "Chaque année, le Festival de Cannes accueille des milliers de passionnés et de professionnels du cinéma venus des quatre coins du globe. Parmi eux, un jeune étudiant décidé à réaliser un documentaire sur l'effervescence du festival, en suivant un influenceur prêt à tout pour devenir une star de cinéma..",
+        "tagline": "",
+        "runtime": 64,
+        "backdrop": null
+    },
+    {
+        "title": "Gabrielle Apter",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/ixIaJnAFXnc1DbFR8PZE8UC6scc.jpg",
+        "trailer": null,
+        "release_date": "2026-12-01",
+        "overview": "Une actrice a porté plainte pour harcèlement moral contre le réalisateur avec qui elle vient de travailler. En attendant l'audience, elle se prépare et fait le point sur sa situation.",
+        "tagline": "",
+        "runtime": 15,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/aRgSt1CYxEM3MMovdCABCOStdiA.jpg"
+    },
+    {
+        "title": "la lutte armée n'est pas un jeu d'enfant",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/71DbeNinUCey5bWbKG7uEK0ivoB.jpg",
+        "trailer": null,
+        "release_date": "2026-12-02",
+        "overview": "C’est l’histoire d’un gamin qui grandit à la fin du XXème siècle avec la certitude qu’un jour il reprendra le flambeau de la lutte armée. Il fera la révolution pour que se dessine un monde meilleur. Mais les choses ne se passent pas comme prévues… Aujourd’hui il regarde l’état de la planète avec sa fille et pense lui devoir des explications.",
+        "tagline": "",
+        "runtime": 65,
+        "backdrop": null
+    },
+    {
+        "title": "Bonjour au revoir",
+        "rating": 0,
+        "genre": "",
+        "poster": "https://image.tmdb.org/t/p/w500/tiApWJdHFPhbIMHd0avBZ6vaaw7.jpg",
+        "trailer": null,
+        "release_date": "2026-12-02",
+        "overview": "C'est la rentrée des classes et Oona, trois ans, n'a vraiment, vraiment, aucune envie d'aller à l'école.",
+        "tagline": "",
+        "runtime": 4,
+        "backdrop": null
+    },
+    {
+        "title": "Reeves",
+        "rating": 0,
+        "genre": "Romance / Western / Aventure",
+        "poster": "https://image.tmdb.org/t/p/w500/9vnE0HZ29cckTrx4Narcp1sZmk8.jpg",
+        "trailer": null,
+        "release_date": "2026-12-01",
+        "overview": "Après la mort de leur père, les frères Reeves, accablés par les dettes du ranch familial, décident de tenter leur chance à la ville. Guidés par le plan rocambolesque de l’aîné, Cole, ils s’embarquent dans une aventure qui promet plus de surprises que prévu, surtout lorsque Charlie, le cadet rêveur, croise la route de Louise, une fille de saloon en quête de liberté.",
+        "tagline": "",
+        "runtime": 45,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/plS0kdFr9DTVXfyVzr4gyAl8twp.jpg"
+    },
+    {
+        "title": "A Woman from the other side of the Window",
+        "rating": 0,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/cOiB7tuE35gva5HO3GzGoCxo3uC.jpg",
+        "trailer": null,
+        "release_date": "2026-11-27",
+        "overview": "",
+        "tagline": "",
+        "runtime": 9,
+        "backdrop": null
+    },
+    {
+        "title": "The Education of Jane Cumming",
+        "rating": 0,
+        "genre": "Drame / Histoire / Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/WXvo64J78OGrqZko0t0DWWgavY.jpg",
+        "trailer": null,
+        "release_date": "2026-12-02",
+        "overview": "Édimbourg, 1810. Deux enseignantes voient leur vie basculer lorsqu'une de leurs élèves les accuse d'entretenir une liaison amoureuse.",
+        "tagline": "",
+        "runtime": 114,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/oEUKetllZMCOXB9oLzisi0s3ZaV.jpg"
+    },
+    {
+        "title": "A jamais les premières",
+        "rating": 7.067,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/iCl5UqLHTrJ40ld6dt4QNNoy0gy.jpg",
+        "trailer": null,
+        "release_date": "2026-11-11",
+        "overview": "1970, le tout premier match de football féminin espagnol organisé par un jeune entraîneur, stupéfait par le talent et la passion d’un groupe de jeunes filles.",
+        "tagline": "",
+        "runtime": 106,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/vJryAefq6Ec6NiYdKTvXbFMRalB.jpg"
+    },
+    {
+        "title": "Un peu avant minuit",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/9f6C9iUTpPOiRm00wJgigTPXd6.jpg",
+        "trailer": null,
+        "release_date": "2026-12-02",
+        "overview": "Sur le point de se séparer de sa compagne avec qui il vit à Nancy, Léo, 49 ans, apprend la mort de son père biologique qu’il n’a jamais connu. Dans l’attente d’un rendez-vous avec un notaire en Italie, il passe quelques jours à Paris où il a vécu plus jeune. De discussions avec sa fille activiste en retrouvailles avec des fantômes de son passé, il interroge son rapport au monde et surtout sa relation aux femmes. A-t-il été droit, respectueux, aimant ?",
+        "tagline": "",
+        "runtime": 107,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/focIzK3CnbgAe6SmpQxH0Gj68Nn.jpg"
+    },
+    {
+        "title": "Le Roi du Game",
+        "rating": 5.864,
+        "genre": "Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/ccSbyrJUvw6JEOL3Cn9nZva4u5P.jpg",
+        "trailer": null,
+        "release_date": "2026-10-21",
+        "overview": "Alexandre est prêt à tout pour renouer avec sa fille. Quitte à infiltrer une équipe de bras cassés dans un univers de jeu médiéval-fantastique. Cette quête improbable pourrait bien le ramener à ses propres rêves oubliés...",
+        "tagline": "Mi-elfe, mi-pas elfe",
+        "runtime": 88,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/wSg1Rxe4MF6LlVWmlsz8babRSs7.jpg"
+    },
+    {
+        "title": "Aisha ne peut plus s'envoler",
+        "rating": 5.6,
+        "genre": "Horreur / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/HcfN1vNrz9FIQU64QQhslSLACo.jpg",
+        "trailer": "https://www.youtube.com/watch?v=nMeMeK17j5Q",
+        "release_date": "2026-12-02",
+        "overview": "Aisha, jeune somalienne de 26 ans, vit et travaille à Ain-shams, un quartier du Caire où vit une importante communauté de migrants africains. Les tensions violentes entre les Égyptiens et les différents groupes africains indiffèrent totalement les autorités, qui laissent le contrôle du quartier aux mains des gangs. Un jour, l’un d'eux propose à Aisha d’assurer sa sécurité en échange de services à leur rendre. Mais la situation dégénère rapidement.",
+        "tagline": "",
+        "runtime": 132,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/kiyKsB203WpuuFVhGd7o9tU5Dak.jpg"
+    },
+    {
+        "title": "Du fioul dans les artères",
+        "rating": 0,
+        "genre": "Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/f2MApfmXnpDnWhLEA0k6bZo8kOl.jpg",
+        "trailer": null,
+        "release_date": "2026-12-02",
+        "overview": "Étienne est un chauffeur routier dévoué et passionné. Chevillé à la route chaque semaine, au détriment de sa vie affective, Étienne se contente de brèves entrevues sur des parkings avec des anonymes. Mais lorsqu'il rencontre Bartosz, un routier polonais, son cœur chavire. Malgré des itinéraires incompatibles, Étienne est prêt à tout pour donner à cette histoire le temps d'exister.",
+        "tagline": "",
+        "runtime": 91,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/c4uK9427aoTn8XWZ6kq16FQ7su9.jpg"
+    },
+    {
+        "title": "Behemoth!",
+        "rating": 0,
+        "genre": "Musique / Drame",
+        "poster": "https://image.tmdb.org/t/p/w500/lGh0RY9yRkSBm4H7xNmfUyQzpKe.jpg",
+        "trailer": "https://www.youtube.com/watch?v=I6tMFYT9s7E",
+        "release_date": "2026-12-02",
+        "overview": "Violoncelliste de talent, Alex Serian (Pedro Pascal) rentre chez lui à Los Angeles après vingt ans de tournée. La musique, fil conducteur et passion dévorante de son existence, entraîne alors Alex dans une aventure qui le transformera à jamais.",
+        "tagline": "",
+        "runtime": 127,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/b3YTMlknqSqJVV7I45kIQNVzErs.jpg"
+    },
+    {
+        "title": "Violent Night 2",
+        "rating": 6,
+        "genre": "Action / Comédie",
+        "poster": "https://image.tmdb.org/t/p/w500/ePEcLaU1Rqt3CTCOVhOBDyk9x4i.jpg",
+        "trailer": "https://www.youtube.com/watch?v=FmM2giDwLAE",
+        "release_date": "2026-12-02",
+        "overview": "Coupé du pôle Nord et coincé dans le centre commercial délabré de Silver Bell dans le New Jersey, un Père Noël toujours aussi blasé et bagarreur (David Harbour) doit défendre les commerçants terrorisés par un chef de gang (Jared Harris) et ses hommes. Privé de sa magie après avoir perdu l'esprit de Noël, il devra retrouver foi en la bonté humaine et appeler en renfort ultime la redoutable Mère Noël (Kristen Bell).",
+        "tagline": "Vous n'avez pas envie d'être sur sa liste 🎅🏼🎄",
+        "runtime": 110,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/78dChJs7doULSEhIiOvGUcXQRGU.jpg"
+    },
+    {
+        "title": "Fatherland",
+        "rating": 7.2,
+        "genre": "Drame / Histoire",
+        "poster": "https://image.tmdb.org/t/p/w500/z8qlHO94lYIsZ7EKS4FVe6TwsGo.jpg",
+        "trailer": "https://www.youtube.com/watch?v=52zHLYf25M0",
+        "release_date": "2026-12-02",
+        "overview": "En 1949, Thomas Mann, lauréat du prix Nobel de littérature, retourne pour la première fois en Allemagne depuis la fin de la guerre, accompagné de sa fille Erika, actrice, écrivain et pilote de rallye. Au volant d'une Buick noire, ils entreprennent un voyage éprouvant dans un pays qu’ils ont fui, seize ans plus tôt, lors de la prise de pouvoir du parti nazi. De Francfort, sous domination américaine, jusqu’à Weimar, contrôlée par les Soviétiques, père et fille traversent une Allemagne en ruines, coupée en deux par la guerre froide.",
+        "tagline": "",
+        "runtime": 82,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/zKoBjLggS4v22a9ZiCvmLaZrht7.jpg"
+    },
+    {
+        "title": "Mon beau-père, ma belle-fille et moi",
+        "rating": 7.286,
+        "genre": "Comédie / Romance",
+        "poster": "https://image.tmdb.org/t/p/w500/tAJeM7WTjgkvGeCH8zjIA7kFlHW.jpg",
+        "trailer": "https://www.youtube.com/watch?v=9CKu3WoMYCg",
+        "release_date": "2026-11-26",
+        "overview": "Henry Focker, fils de Greg et Pam, fait face au chaos familial lorsqu'il décide d'épouser une femme têtue qui semble totalement incompatible avec lui.",
+        "tagline": "",
+        "runtime": 105,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg"
+    },
+    {
+        "title": "You Can See Everything",
+        "rating": 8.703,
+        "genre": "Documentaire",
+        "poster": "https://image.tmdb.org/t/p/w500/hzRa2W9PIZkAwuijlsSMbte0bfq.jpg",
+        "trailer": "https://www.youtube.com/watch?v=IEx8D1Wb__U",
+        "release_date": "2026-12-01",
+        "overview": "Trente-quatre jours avant son incarcération, Elizabeth Holmes, ancienne figure de la Silicon Valley et fondatrice déchue de Theranos, condamnée à plus de onze ans de prison pour avoir escroqué ses investisseurs, invite une équipe à filmer son quotidien.Mais ce qui devait être le portrait intime d’une figure aussi énigmatique que controversée se transforme en une odyssée vertigineuse de trois ans, où les frontières entre vérité, illusion et manipulation se brouillent dangereusement. Avec YOU CAN SEE EVERYTHING, Nathan Fielder et Lance Oppenheim repoussent les frontières du cinéma et nous entraînent dans une expérience aussi troublante qu’imprévisible",
+        "tagline": "",
+        "runtime": 175,
+        "backdrop": "https://image.tmdb.org/t/p/w1280/rrbbzCyS45yooXpUGJatfptlHYI.jpg"
+    },
+    {
         "title": "Opération Tramway",
         "rating": 0,
         "genre": "Documentaire",
@@ -337,7 +553,7 @@
     },
     {
         "title": "Paper Tiger",
-        "rating": 8,
+        "rating": 8.2,
         "genre": "Crime / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/vlWqitWiT34gGVRNMyPnHmCA7q8.jpg",
         "trailer": "https://www.youtube.com/watch?v=dUxQ3ltEEwU",
@@ -349,7 +565,7 @@
     },
     {
         "title": "Le Sabre des gardiens",
-        "rating": 8.219,
+        "rating": 8.2,
         "genre": "Action / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/ki0ilBYgbOZKUuE1NN53FYWK9zQ.jpg",
         "trailer": "https://www.youtube.com/watch?v=7jkL4-uYriY",
@@ -361,7 +577,7 @@
     },
     {
         "title": "Billie, à la croisée des mondes",
-        "rating": 7.6,
+        "rating": 6.2,
         "genre": "Aventure / Animation / Famille / Fantastique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/oifSgkd0jb7ycHUld3IKRVCvmyZ.jpg",
         "trailer": "https://www.youtube.com/watch?v=9ke5KSOUl-U",
@@ -481,7 +697,7 @@
     },
     {
         "title": "Un bon petit soldat",
-        "rating": 0,
+        "rating": 8.5,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/8PbPm4pnl6uepMQHaJLQYP1d8tj.jpg",
         "trailer": "https://www.youtube.com/watch?v=hOFq7J4fmhY",
@@ -553,7 +769,7 @@
     },
     {
         "title": "Scene",
-        "rating": 8.022,
+        "rating": 8,
         "genre": "Comédie / Crime / Action",
         "poster": "https://image.tmdb.org/t/p/w500/1vjVJKpdT6gha7cpkmDJODpk8mU.jpg",
         "trailer": null,
@@ -709,7 +925,7 @@
     },
     {
         "title": "Fais-moi un signe",
-        "rating": 7.111,
+        "rating": 7.1,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/ald0qPxyD0s830OrDosisIdbdCh.jpg",
         "trailer": "https://www.youtube.com/watch?v=-j7g027F6W0",
@@ -757,7 +973,7 @@
     },
     {
         "title": "Camembert",
-        "rating": 6.724,
+        "rating": 6.7,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/jJECyLZIHUZxQbC1VowuURFs2Kl.jpg",
         "trailer": null,
@@ -781,7 +997,7 @@
     },
     {
         "title": "Jupiter",
-        "rating": 6.543,
+        "rating": 6.617,
         "genre": "Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/8ct7Pvh7Pw4jd8yvmEV282evmQ7.jpg",
         "trailer": null,
@@ -805,7 +1021,7 @@
     },
     {
         "title": "Hunger Games : Lever de soleil sur la moisson",
-        "rating": 7.817,
+        "rating": 7.8,
         "genre": "Science-fiction / Action / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/7w6v7FHdTbxuKqAPiMqKxEq8hro.jpg",
         "trailer": "https://www.youtube.com/watch?v=Dr060OLTodE",
@@ -936,18 +1152,6 @@
         "backdrop": null
     },
     {
-        "title": "Drawing Blind Drawing",
-        "rating": 0,
-        "genre": "",
-        "poster": "https://image.tmdb.org/t/p/w500/6JFqeOkqTqoO9JmnpfCnGgSjvPn.jpg",
-        "trailer": null,
-        "release_date": "2026-10-19",
-        "overview": "",
-        "tagline": "",
-        "runtime": 4,
-        "backdrop": null
-    },
-    {
         "title": "Biscarrosse au fil du temps",
         "rating": 0,
         "genre": "Histoire / Documentaire / Animation",
@@ -1033,7 +1237,7 @@
     },
     {
         "title": "Irish Travellers",
-        "rating": 7.125,
+        "rating": 7.1,
         "genre": "Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/f5wjPBFW7jZ33iV784gEY4JsRg0.jpg",
         "trailer": "https://www.youtube.com/watch?v=cKk9MD3d2b8",
@@ -1141,7 +1345,7 @@
     },
     {
         "title": "Everytime",
-        "rating": 7.3,
+        "rating": 7.25,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/AmlfEEXstjLLuwjQywfRKUd3IG5.jpg",
         "trailer": null,
@@ -1177,7 +1381,7 @@
     },
     {
         "title": "Scrooge",
-        "rating": 7.489,
+        "rating": 7.518,
         "genre": "Fantastique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/9RCnWkVOevfAVuSkYkQOg1k8QvO.jpg",
         "trailer": "https://www.youtube.com/watch?v=D-n-lqKVr78",
@@ -1189,7 +1393,7 @@
     },
     {
         "title": "Ramayana : L'avènement d'une légende",
-        "rating": 7.3,
+        "rating": 7.48,
         "genre": "Fantastique / Action / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg",
         "trailer": "https://www.youtube.com/watch?v=AYkPRN874m8",
@@ -1270,18 +1474,6 @@
         "tagline": "",
         "runtime": 7,
         "backdrop": null
-    },
-    {
-        "title": "Fiammetta's 30",
-        "rating": 0,
-        "genre": "Crime / Comédie / Action",
-        "poster": "https://image.tmdb.org/t/p/w500/A4Grda9ZNogkzoSQpheBO1pnioe.jpg",
-        "trailer": null,
-        "release_date": "2026-10-18",
-        "overview": "",
-        "tagline": "",
-        "runtime": 0,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/aFkJm7pXKmvQF9dGaIvPLbIf6bb.jpg"
     },
     {
         "title": "Un Bon Patron",
@@ -1465,7 +1657,7 @@
     },
     {
         "title": "Club Kid",
-        "rating": 7.886,
+        "rating": 7.8,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/lfznSwfaXWLxW5TR09IoNV9OwhM.jpg",
         "trailer": "https://www.youtube.com/watch?v=guKEdb_iRXw",
@@ -1477,7 +1669,7 @@
     },
     {
         "title": "Wild Horse Nine",
-        "rating": 7.9,
+        "rating": 7.924,
         "genre": "Comédie / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
         "trailer": "https://www.youtube.com/watch?v=kqxuamKxRTo",
@@ -1489,7 +1681,7 @@
     },
     {
         "title": "Godzilla Minus Zero",
-        "rating": 7.667,
+        "rating": 7.662,
         "genre": "Science-fiction / Horreur / Action",
         "poster": "https://image.tmdb.org/t/p/w500/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg",
         "trailer": "https://www.youtube.com/watch?v=Pu0pH5BuCPM",
@@ -1513,7 +1705,7 @@
     },
     {
         "title": "L'île des souvenirs",
-        "rating": 8,
+        "rating": 8.025,
         "genre": "Animation / Aventure / Fantastique / Comédie / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/cmFiQHKjEmnbQIuMcKaW8Eu6swh.jpg",
         "trailer": "https://www.youtube.com/watch?v=PhgY8cOJiQA",
@@ -1693,7 +1885,7 @@
     },
     {
         "title": "Hope",
-        "rating": 6.88,
+        "rating": 6.892,
         "genre": "Science-fiction / Mystère / Action",
         "poster": "https://image.tmdb.org/t/p/w500/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg",
         "trailer": "https://www.youtube.com/watch?v=OFaJzL83y0Q",
@@ -1714,18 +1906,6 @@
         "tagline": "",
         "runtime": 103,
         "backdrop": "https://image.tmdb.org/t/p/w1280/7aIA1FYNwowpAhYEBTxDlbjZqUa.jpg"
-    },
-    {
-        "title": "Une vie manifeste",
-        "rating": 9,
-        "genre": "Documentaire",
-        "poster": "https://image.tmdb.org/t/p/w500/qO2Kir2yyz2sr8j4UxXXhrsuLS.jpg",
-        "trailer": null,
-        "release_date": "2026-10-17",
-        "overview": "\"Chers camarades, ne permettez pas que l’on fasse de moi autre chose que ce que je suis et veux être : une combattante révolutionnaire.\" De la Seconde Guerre mondiale à la Guerre d’Algérie, des bancs de l’IDHEC aux guérillas des FAR du Guatemala, en passant par le Cuba des années Castro-Guevara, Une vie manifeste retrace le destin hors du commun de Michele Firk une femme éprise de cinéma, de révolution, amoureuse libre, totalement affranchie des règles de l’époque.",
-        "tagline": "",
-        "runtime": 86,
-        "backdrop": null
     },
     {
         "title": "Ma Nudité Ne Sert à Rien",
@@ -1800,30 +1980,6 @@
         "backdrop": null
     },
     {
-        "title": "À t'attendre",
-        "rating": 0,
-        "genre": "Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/qwNsQrgGRaOFsTYXXA4mFaEnhfq.jpg",
-        "trailer": null,
-        "release_date": "2026-10-18",
-        "overview": "Yelda tente en vain de communiquer avec Achille.",
-        "tagline": "",
-        "runtime": 7,
-        "backdrop": null
-    },
-    {
-        "title": "CHRYSALIDE 451",
-        "rating": 0,
-        "genre": "Science-fiction",
-        "poster": "https://image.tmdb.org/t/p/w500/E4FRIWbovX9E3V0VkPnuGHW8Qo.jpg",
-        "trailer": null,
-        "release_date": "2026-10-16",
-        "overview": "Dans un monde en crise, l'Etat construit des cerveaux artificiels comme nouvelles sources d'énergie renouvelable.  Des activistes parviennent à imposer la nouvelle loi Chrysalide, instaurant une pause obligatoire dans les simulations qui surstimulent les cerveaux, considérés comme des êtres sentients.  Grâce à ce nouveau programme, certaines unités se regroupent dans un lieu atypique.",
-        "tagline": "",
-        "runtime": 8,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/6t1YAztAPkTJrvxS2LSAcN9XqOF.jpg"
-    },
-    {
         "title": "Peking Opera Blues",
         "rating": 7.2,
         "genre": "Action / Comédie / Drame",
@@ -1849,7 +2005,7 @@
     },
     {
         "title": "Wicker",
-        "rating": 7.5,
+        "rating": 7.4,
         "genre": "Romance / Fantastique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg",
         "trailer": "https://www.youtube.com/watch?v=kA9NfV4pM_Q",
@@ -1858,30 +2014,6 @@
         "tagline": "",
         "runtime": 105,
         "backdrop": "https://image.tmdb.org/t/p/w1280/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg"
-    },
-    {
-        "title": "Your Mother Your Mother Your Mother",
-        "rating": 6.5,
-        "genre": "Action / Crime / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
-        "trailer": "https://www.youtube.com/watch?v=uEcoV-ngH38",
-        "release_date": "2026-10-17",
-        "overview": "Latif, un tueur à gages profondément religieux, a du mal à équilibrer travail, foi et paternité. Lorsque sa femme décède, il se lance dans un voyage désespéré à travers Houston pour protéger ses enfants, affrontant les forces qui se rapprochent de lui – et les croyances qui menacent de s'effondrer à l'intérieur.",
-        "tagline": "",
-        "runtime": 112,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/jiFLiatBtBALlAzV5R72gzspBad.jpg"
-    },
-    {
-        "title": "ஜெயிலர் 2",
-        "rating": 8,
-        "genre": "Action / Comédie / Crime / Drame",
-        "poster": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
-        "trailer": "https://www.youtube.com/watch?v=3vkHWYL2JmA",
-        "release_date": "2026-10-15",
-        "overview": "",
-        "tagline": "",
-        "runtime": 163,
-        "backdrop": "https://image.tmdb.org/t/p/w1280/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg"
     },
     {
         "title": "The Good Boy",
@@ -1897,7 +2029,7 @@
     },
     {
         "title": "Clayface",
-        "rating": 7.399,
+        "rating": 7.4,
         "genre": "Horreur / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg",
         "trailer": "https://www.youtube.com/watch?v=f7jlCqdtwdM",
@@ -1921,7 +2053,7 @@
     },
     {
         "title": "Karma",
-        "rating": 7.4,
+        "rating": 7.273,
         "genre": "Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/hwEZ6fOtXX9mIZHSZPoOJW7AvmP.jpg",
         "trailer": "https://www.youtube.com/watch?v=Zd6ylgh9qk4",
