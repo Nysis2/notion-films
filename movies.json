@@ -169,7 +169,7 @@
     },
     {
         "title": "Violent Night 2",
-        "rating": 6,
+        "rating": 0,
         "genre": "Action / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/ePEcLaU1Rqt3CTCOVhOBDyk9x4i.jpg",
         "trailer": "https://www.youtube.com/watch?v=FmM2giDwLAE",
@@ -193,7 +193,7 @@
     },
     {
         "title": "Mon beau-père, ma belle-fille et moi",
-        "rating": 7.286,
+        "rating": 7.111,
         "genre": "Comédie / Romance",
         "poster": "https://image.tmdb.org/t/p/w500/tAJeM7WTjgkvGeCH8zjIA7kFlHW.jpg",
         "trailer": "https://www.youtube.com/watch?v=9CKu3WoMYCg",
@@ -205,7 +205,7 @@
     },
     {
         "title": "You Can See Everything",
-        "rating": 8.703,
+        "rating": 8.6,
         "genre": "Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/hzRa2W9PIZkAwuijlsSMbte0bfq.jpg",
         "trailer": "https://www.youtube.com/watch?v=IEx8D1Wb__U",
@@ -505,7 +505,7 @@
     },
     {
         "title": "Demain, je tombe amoureux",
-        "rating": 0,
+        "rating": 7,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/pAXDKVr5qErSlyv9WB3lJ8cdPip.jpg",
         "trailer": null,
@@ -517,7 +517,7 @@
     },
     {
         "title": "La libertad doble",
-        "rating": 0,
+        "rating": 7,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/nlbf7ziIBKEOxLpf4ifbZyBuvfz.jpg",
         "trailer": "https://www.youtube.com/watch?v=6D3vF82OJi0",
@@ -529,7 +529,7 @@
     },
     {
         "title": "Congo Boy",
-        "rating": 0,
+        "rating": 6.7,
         "genre": "Drame / Musique",
         "poster": "https://image.tmdb.org/t/p/w500/sx7nDO5b4bj46u2BXbe34b5cph4.jpg",
         "trailer": "https://www.youtube.com/watch?v=MZIcLNFK4rU",
@@ -553,7 +553,7 @@
     },
     {
         "title": "Paper Tiger",
-        "rating": 8.2,
+        "rating": 8.125,
         "genre": "Crime / Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/vlWqitWiT34gGVRNMyPnHmCA7q8.jpg",
         "trailer": "https://www.youtube.com/watch?v=dUxQ3ltEEwU",
@@ -565,7 +565,7 @@
     },
     {
         "title": "Le Sabre des gardiens",
-        "rating": 8.2,
+        "rating": 8.219,
         "genre": "Action / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/ki0ilBYgbOZKUuE1NN53FYWK9zQ.jpg",
         "trailer": "https://www.youtube.com/watch?v=7jkL4-uYriY",
@@ -577,7 +577,7 @@
     },
     {
         "title": "Billie, à la croisée des mondes",
-        "rating": 6.2,
+        "rating": 5.761,
         "genre": "Aventure / Animation / Famille / Fantastique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/oifSgkd0jb7ycHUld3IKRVCvmyZ.jpg",
         "trailer": "https://www.youtube.com/watch?v=9ke5KSOUl-U",
@@ -973,7 +973,7 @@
     },
     {
         "title": "Camembert",
-        "rating": 6.7,
+        "rating": 6.766,
         "genre": "Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/jJECyLZIHUZxQbC1VowuURFs2Kl.jpg",
         "trailer": null,
@@ -997,7 +997,7 @@
     },
     {
         "title": "Jupiter",
-        "rating": 6.617,
+        "rating": 6.75,
         "genre": "Drame / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/8ct7Pvh7Pw4jd8yvmEV282evmQ7.jpg",
         "trailer": null,
@@ -1009,7 +1009,7 @@
     },
     {
         "title": "Shaun le Mouton : La Bêêête d'Halloween",
-        "rating": 7.317,
+        "rating": 7.328,
         "genre": "Animation / Science-fiction / Comédie / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/xErbSB79RgyH8xCkChItWx2UKdr.jpg",
         "trailer": "https://www.youtube.com/watch?v=daZMq0AyOMc",
@@ -1021,7 +1021,7 @@
     },
     {
         "title": "Hunger Games : Lever de soleil sur la moisson",
-        "rating": 7.8,
+        "rating": 7.795,
         "genre": "Science-fiction / Action / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/7w6v7FHdTbxuKqAPiMqKxEq8hro.jpg",
         "trailer": "https://www.youtube.com/watch?v=Dr060OLTodE",
@@ -1069,7 +1069,7 @@
     },
     {
         "title": "Gabin",
-        "rating": 7.5,
+        "rating": 7.2,
         "genre": "Documentaire",
         "poster": "https://image.tmdb.org/t/p/w500/cVEnzhnfFvfwAeqF7hHAj6hPG7t.jpg",
         "trailer": "https://www.youtube.com/watch?v=_4XmhCbavrs",
@@ -1225,7 +1225,7 @@
     },
     {
         "title": "15/18",
-        "rating": 6.091,
+        "rating": 6.25,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/nlqZ62tEobENzeLxNUXANgz8XJa.jpg",
         "trailer": null,
@@ -1321,7 +1321,7 @@
     },
     {
         "title": "Il faut brûler maman",
-        "rating": 5.37,
+        "rating": 5.429,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/3KDbl3m07R9hsFgM04JetRSJWeR.jpg",
         "trailer": null,
@@ -1345,7 +1345,7 @@
     },
     {
         "title": "Everytime",
-        "rating": 7.25,
+        "rating": 7.2,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/AmlfEEXstjLLuwjQywfRKUd3IG5.jpg",
         "trailer": null,
@@ -1357,7 +1357,7 @@
     },
     {
         "title": "Comment braquer une banque",
-        "rating": 6.5,
+        "rating": 6.507,
         "genre": "Action / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/uvTMQzEU3b4GJLVv2HD318rb1sB.jpg",
         "trailer": "https://www.youtube.com/watch?v=MVvWKh336m4",
@@ -1381,7 +1381,7 @@
     },
     {
         "title": "Scrooge",
-        "rating": 7.518,
+        "rating": 7.5,
         "genre": "Fantastique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/9RCnWkVOevfAVuSkYkQOg1k8QvO.jpg",
         "trailer": "https://www.youtube.com/watch?v=D-n-lqKVr78",
@@ -1393,7 +1393,7 @@
     },
     {
         "title": "Ramayana : L'avènement d'une légende",
-        "rating": 7.48,
+        "rating": 7.487,
         "genre": "Fantastique / Action / Aventure",
         "poster": "https://image.tmdb.org/t/p/w500/iCz9Wf8KCU8BXQ9Pws0pHctguiZ.jpg",
         "trailer": "https://www.youtube.com/watch?v=AYkPRN874m8",
@@ -1633,7 +1633,7 @@
     },
     {
         "title": "Le fantôme de l'opéra",
-        "rating": 6.182,
+        "rating": 6.2,
         "genre": "Thriller / Romance / Mystère",
         "poster": "https://image.tmdb.org/t/p/w500/2aU9dLDES0IdxB4sGYeeoJ7DOjA.jpg",
         "trailer": null,
@@ -1657,7 +1657,7 @@
     },
     {
         "title": "Club Kid",
-        "rating": 7.8,
+        "rating": 7.9,
         "genre": "Comédie / Drame",
         "poster": "https://image.tmdb.org/t/p/w500/lfznSwfaXWLxW5TR09IoNV9OwhM.jpg",
         "trailer": "https://www.youtube.com/watch?v=guKEdb_iRXw",
@@ -1669,7 +1669,7 @@
     },
     {
         "title": "Wild Horse Nine",
-        "rating": 7.924,
+        "rating": 7.9,
         "genre": "Comédie / Crime / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/dNJFRtVg3xLQ7dbNIQ55cmmIniD.jpg",
         "trailer": "https://www.youtube.com/watch?v=kqxuamKxRTo",
@@ -1681,7 +1681,7 @@
     },
     {
         "title": "Godzilla Minus Zero",
-        "rating": 7.662,
+        "rating": 7.7,
         "genre": "Science-fiction / Horreur / Action",
         "poster": "https://image.tmdb.org/t/p/w500/zpcoFlZwyLnBt7bb5wmvGDCdg06.jpg",
         "trailer": "https://www.youtube.com/watch?v=Pu0pH5BuCPM",
@@ -1693,7 +1693,7 @@
     },
     {
         "title": "Ghost in the Cell",
-        "rating": 6.837,
+        "rating": 6.813,
         "genre": "Horreur / Comédie / Thriller",
         "poster": "https://image.tmdb.org/t/p/w500/gF6Ijrq5bixh4qemCuroRwXtbBc.jpg",
         "trailer": "https://www.youtube.com/watch?v=otL78_pk_A0",
@@ -1705,7 +1705,7 @@
     },
     {
         "title": "L'île des souvenirs",
-        "rating": 8.025,
+        "rating": 8,
         "genre": "Animation / Aventure / Fantastique / Comédie / Famille",
         "poster": "https://image.tmdb.org/t/p/w500/cmFiQHKjEmnbQIuMcKaW8Eu6swh.jpg",
         "trailer": "https://www.youtube.com/watch?v=PhgY8cOJiQA",
@@ -1813,7 +1813,7 @@
     },
     {
         "title": "La Tentazione",
-        "rating": 6.81,
+        "rating": 6.8,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/pl4FUfIyXu6rWsLPkeEGKo1ZCMy.jpg",
         "trailer": null,
@@ -1885,7 +1885,7 @@
     },
     {
         "title": "Hope",
-        "rating": 6.892,
+        "rating": 6.9,
         "genre": "Science-fiction / Mystère / Action",
         "poster": "https://image.tmdb.org/t/p/w500/tGdFDoA9qyt0t6Qr9MFnOl8Z2Jz.jpg",
         "trailer": "https://www.youtube.com/watch?v=OFaJzL83y0Q",
@@ -1933,7 +1933,7 @@
     },
     {
         "title": "Moulin",
-        "rating": 6.3,
+        "rating": 6.327,
         "genre": "Histoire / Drame / Guerre",
         "poster": "https://image.tmdb.org/t/p/w500/niEnEAPjqc2Mey6IiVPtBun45ZV.jpg",
         "trailer": "https://www.youtube.com/watch?v=nBpFEz3rj_0",
@@ -1945,7 +1945,7 @@
     },
     {
         "title": "La Gradiva",
-        "rating": 7.2,
+        "rating": 7.182,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/aFrhFiIhdf2klvXq8VFcB06b5pS.jpg",
         "trailer": "https://www.youtube.com/watch?v=5yY6V9MbEoE",
@@ -2005,7 +2005,7 @@
     },
     {
         "title": "Wicker",
-        "rating": 7.4,
+        "rating": 7.632,
         "genre": "Romance / Fantastique / Comédie",
         "poster": "https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg",
         "trailer": "https://www.youtube.com/watch?v=kA9NfV4pM_Q",
@@ -2017,7 +2017,7 @@
     },
     {
         "title": "The Good Boy",
-        "rating": 7.207,
+        "rating": 7.206,
         "genre": "Thriller / Drame / Mystère / Horreur",
         "poster": "https://image.tmdb.org/t/p/w500/e5qRxuVJNfgZHfFAxts0wK2Fubb.jpg",
         "trailer": "https://www.youtube.com/watch?v=qWkPjI-Brkc",
@@ -2029,7 +2029,7 @@
     },
     {
         "title": "Clayface",
-        "rating": 7.4,
+        "rating": 7.408,
         "genre": "Horreur / Thriller / Science-fiction",
         "poster": "https://image.tmdb.org/t/p/w500/5RzUMLAYw2xHsd98UKcMC9s0ZQ.jpg",
         "trailer": "https://www.youtube.com/watch?v=f7jlCqdtwdM",
@@ -2068,7 +2068,7 @@
         "rating": 6.5,
         "genre": "Drame",
         "poster": "https://image.tmdb.org/t/p/w500/z2Vn2nWRah6KiJLWHKleKV2pJn2.jpg",
-        "trailer": null,
+        "trailer": "https://www.youtube.com/watch?v=BBWo6xlG4CM",
         "release_date": "2026-10-21",
         "overview": "À Jacmel, en Haïti, la mer, les églises et les esprits façonnent la vie. Marie Madeleine est une femme libre. Elle vit de la prostitution et traverse les nuits sans se soumettre aux règles de ceux qui sauvent les âmes. Sa route croise celle de Joseph, un jeune évangéliste. Une relation se noue entre ces deux êtres que tout oppose. Alors que Joseph vacille dans sa foi, Marie Madeleine l’entraîne vers un monde dans lequel désir et quête de liberté ouvrent un espace où tout peut être réinventé.",
         "tagline": "",
